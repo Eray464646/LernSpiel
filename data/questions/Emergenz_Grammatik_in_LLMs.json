@@ -1,0 +1,38 @@
+[
+  {
+    "id": "q_2680",
+    "question": "Was ist Fragestellung?",
+    "type": "single",
+    "options": [
+      "Lernen Transformer Wortarten und Syntax ohne Annotation?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fragestellung: Lernen Transformer Wortarten und Syntax ohne Annotation?",
+    "source_file": "Emergenz_Grammatik_in_LLMs.pdf",
+    "source_page": 2,
+    "tags": [
+      "Fragestellung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2681",
+    "question": "Richtig oder Falsch: Fragestellung Lernen Transformer Wortarten und Syntax ohne Annotation?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Fragestellung: Lernen Transformer Wortarten und Syntax ohne Annotation?",
+    "source_file": "Emergenz_Grammatik_in_LLMs.pdf",
+    "source_page": 2,
+    "tags": [
+      "Fragestellung"
+    ],
+    "difficulty": 1
+  }
+]

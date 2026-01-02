@@ -1,0 +1,2533 @@
+[
+  {
+    "id": "q_586",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS © FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH (FOM), Leimkugelstraße 6, 45141 Essen Dieses Werk ist urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS © FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH (FOM), Leimkugelstraße 6, 45141 Essen Dieses Werk ist urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 2,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_587",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Werk oder Teile daraus dürfen nicht ohne schriftliche Genehmigung der FOM reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Werk oder Teile daraus dürfen nicht ohne schriftliche Genehmigung der FOM reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 2,
+    "tags": [
+      "Das",
+      "Werk",
+      "Teile"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_588",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/ 25Naïve Bayes Classifier Grundidee, Formel und zentrale Eigenschaften Formel (Satz von Bayes): P(C|X) = [ P(X|C) · P(C) ] / P(X) oder P(Klasse|Merkmale) = [P(Merkmale|Klasse) · P(Klasse)] / P(Merkmale) Die Merkmale werden als unabhängig angenommen (naive Annahme): P(X|C) = ∏ P(xᵢ|C) Der Naïve- Bayes -Klassifikator ist ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/ 25Naïve Bayes Classifier Grundidee, Formel und zentrale Eigenschaften Formel (Satz von Bayes): P(C|X) = [ P(X|C) · P(C) ] / P(X) oder P(Klasse|Merkmale) = [P(Merkmale|Klasse) · P(Klasse)] / P(Merkmale) Die Merkmale werden als unabhängig angenommen (naive Annahme): P(X|C) = ∏ P(xᵢ|C) Der Naïve- Bayes -Klassifikator ist ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 4,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_589",
+    "question": "Welche Aussage über Vorteile ist korrekt?",
+    "type": "single",
+    "options": [
+      "Vorteile: Einfach und sehr schnell zu berechnen Funktioniert auch mit kleinen Trainingsmengen Gut interpretierbar (jede Komponente hat klare Bedeutung) Besonders geeignet für Textklassifikation oder Basisprognosen Nachteile: Unabhängigkeitsannahme oft unrealistisch Schätzungen instabil bei seltenen Kombinationen (→ Laplace-Glättung nötig) Modell kann Korrelationen zwischen Merkmalen nicht erfassenNaïve Bayes Classifier Vorteile und Nachteile",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vorteile: Einfach und sehr schnell zu berechnen Funktioniert auch mit kleinen Trainingsmengen Gut interpretierbar (jede Komponente hat klare Bedeutung) Besonders geeignet für Textklassifikation oder Basisprognosen Nachteile: Unabhängigkeitsannahme oft unrealistisch Schätzungen instabil bei seltenen Kombinationen (→ Laplace-Glättung nötig) Modell kann Korrelationen zwischen Merkmalen nicht erfassenNaïve Bayes Classifier Vorteile und Nachteile",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 5,
+    "tags": [
+      "Vorteile",
+      "Einfach",
+      "Funktioniert"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_590",
+    "question": "Welche Aussage über Klasse ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klasse gereist ist, männlich ist und 27 Jahre alt war",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klasse gereist ist, männlich ist und 27 Jahre alt war",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 6,
+    "tags": [
+      "Klasse",
+      "Jahre"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_591",
+    "question": "Welche Aussage über Dies ist korrekt?",
+    "type": "single",
+    "options": [
+      "Dies lässt sich als bedingte Wahrscheinlichkeit formulieren: Der Naive -Bayes -Ansatz geht davon aus, dass diese Wahrscheinlichkeit aus den bedingten Wahrscheinlichkeiten der einzelnen Merkmale berechnet werden kann:Naïve Bayes Classifier Titanic 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹,𝑀𝑀𝑀𝑀𝑀𝑀𝑌𝑌 ,𝐴𝐴𝐴𝐴𝑌𝑌=27 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹,𝑀𝑀𝑀𝑀𝑀𝑀𝑌𝑌,𝐴𝐴𝐴𝐴𝑌𝑌 =27 =𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹⋅𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝑀𝑀𝑀𝑀𝑀𝑀𝑌𝑌⋅𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐴𝐴𝐴𝐴𝑌𝑌 =27",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dies lässt sich als bedingte Wahrscheinlichkeit formulieren: Der Naive -Bayes -Ansatz geht davon aus, dass diese Wahrscheinlichkeit aus den bedingten Wahrscheinlichkeiten der einzelnen Merkmale berechnet werden kann:Naïve Bayes Classifier Titanic 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹,𝑀𝑀𝑀𝑀𝑀𝑀𝑌𝑌 ,𝐴𝐴𝐴𝐴𝑌𝑌=27 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹,𝑀𝑀𝑀𝑀𝑀𝑀𝑌𝑌,𝐴𝐴𝐴𝐴𝑌𝑌 =27 =𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹⋅𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝑀𝑀𝑀𝑀𝑀𝑀𝑌𝑌⋅𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐴𝐴𝐴𝐴𝑌𝑌 =27",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 6,
+    "tags": [
+      "Dies",
+      "Wahrscheinlichkeit",
+      "Der"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_592",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS Wir wiederholen diesen Vorgang für alle weiteren Merkmale, um die benötigten bedingten Wahrscheinlichkeiten zu berechnen: 𝑃𝑃Yes∣First ,𝑃𝑃Yes∣Male und 𝑃𝑃Yes∣Age =27 Unter der „naiven“ Annahme, dass alle Merkmale voneinander unabhängig sind, können wir die einzelnen Ergebnisse multiplizieren, um eine Vorhersage der Überlebenswahrscheinlichkeit zu erhalten: 𝑃𝑃Yes∣First, Male, Age= 27∝𝑃𝑃Yes∣First⋅𝑃𝑃Yes∣Male⋅𝑃𝑃Yes∣Age= 27 Da gilt 𝑃𝑃No =1−𝑃𝑃Yes , können wir die Klassifikation nach folgender Entscheidungsregel vornehmen: Wenn P(Yes | First, Male, Age= 27) > 0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS Wir wiederholen diesen Vorgang für alle weiteren Merkmale, um die benötigten bedingten Wahrscheinlichkeiten zu berechnen: 𝑃𝑃Yes∣First ,𝑃𝑃Yes∣Male und 𝑃𝑃Yes∣Age =27 Unter der „naiven“ Annahme, dass alle Merkmale voneinander unabhängig sind, können wir die einzelnen Ergebnisse multiplizieren, um eine Vorhersage der Überlebenswahrscheinlichkeit zu erhalten: 𝑃𝑃Yes∣First, Male, Age= 27∝𝑃𝑃Yes∣First⋅𝑃𝑃Yes∣Male⋅𝑃𝑃Yes∣Age= 27 Da gilt 𝑃𝑃No =1−𝑃𝑃Yes , können wir die Klassifikation nach folgender Entscheidungsregel vornehmen: Wenn P(Yes | First, Male, Age= 27) > 0",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 11,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_593",
+    "question": "Welche Aussage über Klasse ist korrekt?",
+    "type": "single",
+    "options": [
+      "„Klasse × Überleben“) mit allen Zellenwerten bekannt ist, kann man direkt jede bedingte Wahrscheinlichkeit berechnen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "„Klasse × Überleben“) mit allen Zellenwerten bekannt ist, kann man direkt jede bedingte Wahrscheinlichkeit berechnen",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Klasse",
+      "Überleben",
+      "Zellenwerten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_594",
+    "question": "Welche Aussage über Satz ist korrekt?",
+    "type": "single",
+    "options": [
+      "Satz von Bayes ist dann relevant, wenn Kreuztabelle oder die Daten nicht vollständig bekannt sind oder nur nur einzelne Wahrscheinlichkeiten oder Schätzungen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Satz von Bayes ist dann relevant, wenn Kreuztabelle oder die Daten nicht vollständig bekannt sind oder nur nur einzelne Wahrscheinlichkeiten oder Schätzungen",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Satz",
+      "Bayes",
+      "Kreuztabelle"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_595",
+    "question": "Welche Aussage über Bayes ist korrekt?",
+    "type": "single",
+    "options": [
+      "Bayes ist damit das Werkzeug, um rückwärtszuschließen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes ist damit das Werkzeug, um rückwärtszuschließen",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes",
+      "Werkzeug"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_596",
+    "question": "Welche Aussage über Testergebnis ist korrekt?",
+    "type": "single",
+    "options": [
+      "Testergebnis, Urlaubsland, Symptome) soll entschieden werden, zu welcher Klasse ein Objekt gehört (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Testergebnis, Urlaubsland, Symptome) soll entschieden werden, zu welcher Klasse ein Objekt gehört (z",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Testergebnis",
+      "Urlaubsland",
+      "Symptome"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_597",
+    "question": "Welche Aussage über Allgemeine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Allgemeine Formel P(Klasse|Merkmale ) = [P(Merkmale|Klasse ) · P(Klasse)] / P(Merkmale) Entscheidungsregel Da P(Merkmale) für alle Klassen gleich ist, wählt man: Klasse = argmax_c [P(Merkmale|c) · P(c)]Naive Bayes Nimmt an, dass die Merkmale unabhängig sind: P(Merkmale|Klasse ) = ∏ P(M i|Klasse )",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Allgemeine Formel P(Klasse|Merkmale ) = [P(Merkmale|Klasse ) · P(Klasse)] / P(Merkmale) Entscheidungsregel Da P(Merkmale) für alle Klassen gleich ist, wählt man: Klasse = argmax_c [P(Merkmale|c) · P(c)]Naive Bayes Nimmt an, dass die Merkmale unabhängig sind: P(Merkmale|Klasse ) = ∏ P(M i|Klasse )",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Allgemeine",
+      "Formel",
+      "Klasse"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_598",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/25Naïve Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/25Naïve Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 18,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_599",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/ 25Naïve Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/ 25Naïve Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 19,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_600",
+    "question": "Welche Aussage über Ihr ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ihr Hausarzt gibt Ihnen noch folgende Informationen: Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ihr Hausarzt gibt Ihnen noch folgende Informationen: Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 22,
+    "tags": [
+      "Ihr",
+      "Hausarzt",
+      "Ihnen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_601",
+    "question": "Welche Aussage über Von ist korrekt?",
+    "type": "single",
+    "options": [
+      "Von hundert Nichtinfizierten werden achtundneunzig als gesund erkannt, zwei fälschlicherweise als infiziert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Von hundert Nichtinfizierten werden achtundneunzig als gesund erkannt, zwei fälschlicherweise als infiziert",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 22,
+    "tags": [
+      "Von",
+      "Nichtinfizierten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_602",
+    "question": "Welche Aussage über Mit ist korrekt?",
+    "type": "single",
+    "options": [
+      "Mit welcher Wahrscheinlichkeit wird Ihre Frau/Mann in Kürze Witwe/Witwer sein",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mit welcher Wahrscheinlichkeit wird Ihre Frau/Mann in Kürze Witwe/Witwer sein",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 22,
+    "tags": [
+      "Mit",
+      "Wahrscheinlichkeit",
+      "Ihre"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_603",
+    "question": "Welche Aussage über Gegebene ist korrekt?",
+    "type": "single",
+    "options": [
+      "Gegebene Wahrscheinlichkeiten aus der Aufgabe: Sensitivität (P(Positiv|Krank)) = 99% (99 von 100) Spezifität (P(Negativ|Gesund)) = 98% (98 von 100) (P(Krank)) = 0,1% (1 von 1000) Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Test positiv ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Gegebene Wahrscheinlichkeiten aus der Aufgabe: Sensitivität (P(Positiv|Krank)) = 99% (99 von 100) Spezifität (P(Negativ|Gesund)) = 98% (98 von 100) (P(Krank)) = 0,1% (1 von 1000) Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Test positiv ist",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 23,
+    "tags": [
+      "Gegebene",
+      "Wahrscheinlichkeiten",
+      "Aufgabe"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_604",
+    "question": "Welche Aussage über Und ist korrekt?",
+    "type": "single",
+    "options": [
+      "Und damit mit welcher Wahrscheinlichkeit wird Ihre Frau/Mann in Kürze Witwe/Witwer sein",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Und damit mit welcher Wahrscheinlichkeit wird Ihre Frau/Mann in Kürze Witwe/Witwer sein",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 23,
+    "tags": [
+      "Und",
+      "Wahrscheinlichkeit",
+      "Ihre"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_605",
+    "question": "Welche Aussage über Krank ist korrekt?",
+    "type": "single",
+    "options": [
+      "P(Krank|Positiv): Wahrscheinlichkeit, krank zu sein, wenn der Test positiv ist (gesuchte a-posteriori -Wahrscheinlichkeit)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(Krank|Positiv): Wahrscheinlichkeit, krank zu sein, wenn der Test positiv ist (gesuchte a-posteriori -Wahrscheinlichkeit)",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Krank",
+      "Positiv",
+      "Wahrscheinlichkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_606",
+    "question": "Welche Aussage über Positiv ist korrekt?",
+    "type": "single",
+    "options": [
+      "P(Positiv|Krank): Wahrscheinlichkeit, dass der Test positiv ist, wenn man krank ist (Sensitivität)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(Positiv|Krank): Wahrscheinlichkeit, dass der Test positiv ist, wenn man krank ist (Sensitivität)",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Positiv",
+      "Krank",
+      "Wahrscheinlichkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_607",
+    "question": "Welche Aussage über Positiv ist korrekt?",
+    "type": "single",
+    "options": [
+      "P(Positiv|Gesund): Wahrscheinlichkeit, dass der Test positiv ist, obwohl man gesund ist (Falsch-Positiv -Rate = 1 − Spezifität)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(Positiv|Gesund): Wahrscheinlichkeit, dass der Test positiv ist, obwohl man gesund ist (Falsch-Positiv -Rate = 1 − Spezifität)",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Positiv",
+      "Gesund",
+      "Wahrscheinlichkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_608",
+    "question": "Welche Aussage über Bayes ist korrekt?",
+    "type": "single",
+    "options": [
+      "Naïve Bayes Classifier Reise in ein fremdes Land - Der Fall – Canine Ovorhoe Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Canine Ovorhoe Test positiv ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Naïve Bayes Classifier Reise in ein fremdes Land - Der Fall – Canine Ovorhoe Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Canine Ovorhoe Test positiv ist",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 25,
+    "tags": [
+      "Bayes",
+      "Classifier",
+      "Reise"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_609",
+    "question": "Welche Aussage über Krank ist korrekt?",
+    "type": "single",
+    "options": [
+      "P(Krank|Positiv) = [P(Positiv|Krank) · P(Krank)] / [P(Positiv|Krank) · P(Krank) + P(Positiv|Gesund) · P(Gesund)] Mit den Werten: P(Positiv|Krank) = 0,99 P(Positiv|Gesund) = 0,02 P(Krank) = 0,001 P(Gesund) = 0,999 ⇒ P(Krank|Positiv) = (0,99 × 0,001) / [(0,99 × 0,001) + (0,02 × 0,999)] ≈ 0,047 Nur etwa 4,7 % der positiv Getesteten sind tatsächlich krank",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(Krank|Positiv) = [P(Positiv|Krank) · P(Krank)] / [P(Positiv|Krank) · P(Krank) + P(Positiv|Gesund) · P(Gesund)] Mit den Werten: P(Positiv|Krank) = 0,99 P(Positiv|Gesund) = 0,02 P(Krank) = 0,001 P(Gesund) = 0,999 ⇒ P(Krank|Positiv) = (0,99 × 0,001) / [(0,99 × 0,001) + (0,02 × 0,999)] ≈ 0,047 Nur etwa 4,7 % der positiv Getesteten sind tatsächlich krank",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 25,
+    "tags": [
+      "Krank",
+      "Positiv",
+      "Positiv"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_610",
+    "question": "Welche Aussage über Der ist korrekt?",
+    "type": "single",
+    "options": [
+      "Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 27,
+    "tags": [
+      "Der",
+      "Test",
+      "Fälle"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_611",
+    "question": "Welche Aussage über Von ist korrekt?",
+    "type": "single",
+    "options": [
+      "Von hundert Nichtinfizierten werden neunundneunzig als gesund erkannt, eine fälschlicherweise als infiziert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Von hundert Nichtinfizierten werden neunundneunzig als gesund erkannt, eine fälschlicherweise als infiziert",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 27,
+    "tags": [
+      "Von",
+      "Nichtinfizierten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_612",
+    "question": "Welche Aussage über Der ist korrekt?",
+    "type": "single",
+    "options": [
+      "Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 29,
+    "tags": [
+      "Der",
+      "Test",
+      "Fälle"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_613",
+    "question": "Welche Aussage über Häufigkeitstabellen ist korrekt?",
+    "type": "single",
+    "options": [
+      "aus Häufigkeitstabellen je Land) : P(Krank∣Pos,L ) die Wahrscheinlichkeit, tatsächlich krank zu sein, wenn der Test positiv ist und der Kontext 𝐿𝐿 gilt (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "aus Häufigkeitstabellen je Land) : P(Krank∣Pos,L ) die Wahrscheinlichkeit, tatsächlich krank zu sein, wenn der Test positiv ist und der Kontext 𝐿𝐿 gilt (z",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 32,
+    "tags": [
+      "Häufigkeitstabellen",
+      "Land",
+      "Krank"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_614",
+    "question": "Welche Aussage über Pos ist korrekt?",
+    "type": "single",
+    "options": [
+      "P(Pos|Krank ,L) Wahrscheinlichkeit, dass der Test positiv ist, wenn die Person krank ist (→ Sensitivität) P(Krank∣L) Wahrscheinlichkeit, krank zu sein im Land/Umfeld 𝐿𝐿(→ Prävalenz) Das Produkt beschreibt, wie oft kranke Personen in diesem Kontext tatsächlich positiv getestet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(Pos|Krank ,L) Wahrscheinlichkeit, dass der Test positiv ist, wenn die Person krank ist (→ Sensitivität) P(Krank∣L) Wahrscheinlichkeit, krank zu sein im Land/Umfeld 𝐿𝐿(→ Prävalenz) Das Produkt beschreibt, wie oft kranke Personen in diesem Kontext tatsächlich positiv getestet werden",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 32,
+    "tags": [
+      "Pos",
+      "Krank",
+      "Wahrscheinlichkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_615",
+    "question": "Welche Aussage über Pos ist korrekt?",
+    "type": "single",
+    "options": [
+      "P(Pos|Gesund ,L) Wahrscheinlichkeit, dass der Test positiv ausfällt, obwohl die getestete Person gesund ist, unter Berücksichtigung des Kontexts 𝐿𝐿L (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(Pos|Gesund ,L) Wahrscheinlichkeit, dass der Test positiv ausfällt, obwohl die getestete Person gesund ist, unter Berücksichtigung des Kontexts 𝐿𝐿L (z",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 32,
+    "tags": [
+      "Pos",
+      "Gesund",
+      "Wahrscheinlichkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_616",
+    "question": "Welche Aussage über Gesund ist korrekt?",
+    "type": "single",
+    "options": [
+      "P(Gesund | L) Wahrscheinlichkeit, dass eine Person gesund ist, gegeben, dass sie sich im Kontext 𝐿𝐿befindet (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "P(Gesund | L) Wahrscheinlichkeit, dass eine Person gesund ist, gegeben, dass sie sich im Kontext 𝐿𝐿befindet (z",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 32,
+    "tags": [
+      "Gesund",
+      "Wahrscheinlichkeit",
+      "Person"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_617",
+    "question": "Welche Aussage über Personen ist korrekt?",
+    "type": "single",
+    "options": [
+      "000 Personen: Land A_Hoch → P(Krank|Pos) ≈ 50 % Land B_Mittel → P(Krank|Pos) ≈ 20 % Land C_Niedrig → P(Krank|Pos) ≈ 2 % Je höher die Grundprävalenz (Basisrate), desto höher auch die Wahrscheinlichkeit, dass ein positiver Test wirklich krank bedeutet",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "000 Personen: Land A_Hoch → P(Krank|Pos) ≈ 50 % Land B_Mittel → P(Krank|Pos) ≈ 20 % Land C_Niedrig → P(Krank|Pos) ≈ 2 % Je höher die Grundprävalenz (Basisrate), desto höher auch die Wahrscheinlichkeit, dass ein positiver Test wirklich krank bedeutet",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 33,
+    "tags": [
+      "Personen",
+      "Land",
+      "Krank"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_618",
+    "question": "Welche Aussage über Über ist korrekt?",
+    "type": "single",
+    "options": [
+      "Über alle Länder gilt: P(Krank|Pos) = Σ_L [ P(Krank|Pos, L)·P(L|Pos ) ] Dabei ist P(L|Pos ) der Anteil der Positiven aus Land L",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Über alle Länder gilt: P(Krank|Pos) = Σ_L [ P(Krank|Pos, L)·P(L|Pos ) ] Dabei ist P(L|Pos ) der Anteil der Positiven aus Land L",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 34,
+    "tags": [
+      "Über",
+      "Länder",
+      "Krank"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_619",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Merkmal 'Land' wird hier als zusätzlicher Faktor genutzt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Merkmal 'Land' wird hier als zusätzlicher Faktor genutzt",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 35,
+    "tags": [
+      "Das",
+      "Merkmal",
+      "Land"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_620",
+    "question": "Welche Aussage über Im ist korrekt?",
+    "type": "single",
+    "options": [
+      "Im Naive Bayes -Klassifikator werden alle Merkmale gemeinsam betrachtet : P(Klasse|Merkmale ) ∝ P(Klasse) ·∏P(Merkmal ᵢ|Klasse) Länder -, Alters- oder Verhaltensdaten sind nur verschiedene Merkmale, die probabilistisch verknüpft werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Im Naive Bayes -Klassifikator werden alle Merkmale gemeinsam betrachtet : P(Klasse|Merkmale ) ∝ P(Klasse) ·∏P(Merkmal ᵢ|Klasse) Länder -, Alters- oder Verhaltensdaten sind nur verschiedene Merkmale, die probabilistisch verknüpft werden",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 35,
+    "tags": [
+      "Im",
+      "Naive",
+      "Bayes"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_621",
+    "question": "Was ist Werk?",
+    "type": "single",
+    "options": [
+      "urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werk: urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 2,
+    "tags": [
+      "Werk"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_622",
+    "question": "Richtig oder Falsch: Werk urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werk: urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 2,
+    "tags": [
+      "Werk"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_623",
+    "question": "Was ist Bayes?",
+    "type": "single",
+    "options": [
+      "Klassifikator ist ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes: Klassifikator ist ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 4,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_624",
+    "question": "Richtig oder Falsch: Bayes Klassifikator ist ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes: Klassifikator ist ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 4,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_625",
+    "question": "Was ist Klassen?",
+    "type": "single",
+    "options": [
+      "„Spam“ oder „Nicht -Spam“ Merkmale: Wörter, Absender, Betreff usw Naiver Bayes -Klassifikator: Annahme unabhängiger Merkmale → P(Merkmale|Klasse ) = ∏ P(Mi|Klasse ) Symbol Bedeutung C Klasse (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klassen: „Spam“ oder „Nicht -Spam“ Merkmale: Wörter, Absender, Betreff usw Naiver Bayes -Klassifikator: Annahme unabhängiger Merkmale → P(Merkmale|Klasse ) = ∏ P(Mi|Klasse ) Symbol Bedeutung C Klasse (z.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 4,
+    "tags": [
+      "Klassen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_626",
+    "question": "Richtig oder Falsch: Klassen „Spam“ oder „Nicht -Spam“ Merkmale: Wörter, Absender, Betreff usw Naiver Bayes -Klassifikator: Annahme unabhängiger Merkmale → P(Merkmale|Klasse ) = ∏ P(Mi|Klasse ) Symbol Bedeutung C Klasse (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klassen: „Spam“ oder „Nicht -Spam“ Merkmale: Wörter, Absender, Betreff usw Naiver Bayes -Klassifikator: Annahme unabhängiger Merkmale → P(Merkmale|Klasse ) = ∏ P(Mi|Klasse ) Symbol Bedeutung C Klasse (z.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 4,
+    "tags": [
+      "Klassen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_627",
+    "question": "Was ist Klassifikator?",
+    "type": "single",
+    "options": [
+      "ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klassifikator: ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 4,
+    "tags": [
+      "Klassifikator"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_628",
+    "question": "Richtig oder Falsch: Klassifikator ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klassifikator: ein einfaches, aber wirkungsvolles Verfahren der überwachten Klassifikation.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 4,
+    "tags": [
+      "Klassifikator"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_629",
+    "question": "Was ist Titanic?",
+    "type": "single",
+    "options": [
+      "Passagiers berechnen, der in der 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Titanic: Passagiers berechnen, der in der 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 6,
+    "tags": [
+      "Titanic"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_630",
+    "question": "Richtig oder Falsch: Titanic Passagiers berechnen, der in der 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Titanic: Passagiers berechnen, der in der 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 6,
+    "tags": [
+      "Titanic"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_631",
+    "question": "Was ist Daten Geschlecht Überlebt?",
+    "type": "single",
+    "options": [
+      "1 Gestorben = 0 Zeilensumme männlich  = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Daten Geschlecht Überlebt: 1 Gestorben = 0 Zeilensumme männlich  = 0.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 8,
+    "tags": [
+      "Daten Geschlecht Überlebt"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_632",
+    "question": "Richtig oder Falsch: Daten Geschlecht Überlebt 1 Gestorben = 0 Zeilensumme männlich  = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Daten Geschlecht Überlebt: 1 Gestorben = 0 Zeilensumme männlich  = 0.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 8,
+    "tags": [
+      "Daten Geschlecht Überlebt"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_633",
+    "question": "Was ist Der Naive?",
+    "type": "single",
+    "options": [
+      "Bayes -Klassifikator erfordert, dass wir die Überlebenswahrscheinlichkeit für jedes einzelne Merkmal berechnen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der Naive: Bayes -Klassifikator erfordert, dass wir die Überlebenswahrscheinlichkeit für jedes einzelne Merkmal berechnen.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 9,
+    "tags": [
+      "Der Naive"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_634",
+    "question": "Richtig oder Falsch: Der Naive Bayes -Klassifikator erfordert, dass wir die Überlebenswahrscheinlichkeit für jedes einzelne Merkmal berechnen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Der Naive: Bayes -Klassifikator erfordert, dass wir die Überlebenswahrscheinlichkeit für jedes einzelne Merkmal berechnen.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 9,
+    "tags": [
+      "Der Naive"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_635",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "Die Wahrscheinlichkeit des Überlebens in Abhängigkeit von der Passagierklasse.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: Die Wahrscheinlichkeit des Überlebens in Abhängigkeit von der Passagierklasse.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 9,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_636",
+    "question": "Richtig oder Falsch: Beispiel Die Wahrscheinlichkeit des Überlebens in Abhängigkeit von der Passagierklasse.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: Die Wahrscheinlichkeit des Überlebens in Abhängigkeit von der Passagierklasse.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 9,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_637",
+    "question": "Was ist Survived?",
+    "type": "single",
+    "options": [
+      "First 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹=𝑃𝑃𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹𝑌𝑌𝑌𝑌𝑌𝑌𝑃𝑃(𝑌𝑌𝑌𝑌𝑌𝑌) 𝑃𝑃(𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹)=0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Survived: First 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹=𝑃𝑃𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹𝑌𝑌𝑌𝑌𝑌𝑌𝑃𝑃(𝑌𝑌𝑌𝑌𝑌𝑌) 𝑃𝑃(𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹)=0.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 10,
+    "tags": [
+      "Survived"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_638",
+    "question": "Richtig oder Falsch: Survived First 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹=𝑃𝑃𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹𝑌𝑌𝑌𝑌𝑌𝑌𝑃𝑃(𝑌𝑌𝑌𝑌𝑌𝑌) 𝑃𝑃(𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹)=0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Survived: First 𝑃𝑃𝑌𝑌𝑌𝑌𝑌𝑌𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹=𝑃𝑃𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹𝑌𝑌𝑌𝑌𝑌𝑌𝑃𝑃(𝑌𝑌𝑌𝑌𝑌𝑌) 𝑃𝑃(𝐹𝐹𝐹𝐹𝐹𝐹𝑌𝑌𝐹𝐹)=0.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 10,
+    "tags": [
+      "Survived"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_639",
+    "question": "Was ist Bayes?",
+    "type": "single",
+    "options": [
+      "„Ich weiß, 40 % der Überlebenden waren in der 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes: „Ich weiß, 40 % der Überlebenden waren in der 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_640",
+    "question": "Richtig oder Falsch: Bayes „Ich weiß, 40 % der Überlebenden waren in der 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes: „Ich weiß, 40 % der Überlebenden waren in der 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_641",
+    "question": "Was ist Klasse?",
+    "type": "single",
+    "options": [
+      "Passagiere auf ≈ 63 %.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klasse: Passagiere auf ≈ 63 %.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_642",
+    "question": "Richtig oder Falsch: Klasse Passagiere auf ≈ 63 %.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klasse: Passagiere auf ≈ 63 %.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_643",
+    "question": "Was ist Bayes Classifier Warum Bayes?",
+    "type": "single",
+    "options": [
+      "Formel wirklich notwendig?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes Classifier Warum Bayes: Formel wirklich notwendig?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes Classifier Warum Bayes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_644",
+    "question": "Richtig oder Falsch: Bayes Classifier Warum Bayes Formel wirklich notwendig?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes Classifier Warum Bayes: Formel wirklich notwendig?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes Classifier Warum Bayes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_645",
+    "question": "Was ist Bayes?",
+    "type": "single",
+    "options": [
+      "dann relevant, wenn Kreuztabelle oder die Daten nicht vollständig bekannt sind oder nur nur einzelne Wahrscheinlichkeiten oder Schätzungen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes: dann relevant, wenn Kreuztabelle oder die Daten nicht vollständig bekannt sind oder nur nur einzelne Wahrscheinlichkeiten oder Schätzungen.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_646",
+    "question": "Richtig oder Falsch: Bayes dann relevant, wenn Kreuztabelle oder die Daten nicht vollständig bekannt sind oder nur nur einzelne Wahrscheinlichkeiten oder Schätzungen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes: dann relevant, wenn Kreuztabelle oder die Daten nicht vollständig bekannt sind oder nur nur einzelne Wahrscheinlichkeiten oder Schätzungen.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_647",
+    "question": "Was ist Bayes?",
+    "type": "single",
+    "options": [
+      "damit das Werkzeug, um rückwärtszuschließen .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes: damit das Werkzeug, um rückwärtszuschließen .",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_648",
+    "question": "Richtig oder Falsch: Bayes damit das Werkzeug, um rückwärtszuschließen .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes: damit das Werkzeug, um rückwärtszuschließen .",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bayes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_649",
+    "question": "Was ist Vorwärtsrichtung?",
+    "type": "single",
+    "options": [
+      "Wahrscheinlichkeit zu überleben, wenn Person eine Frau in 1 .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vorwärtsrichtung: Wahrscheinlichkeit zu überleben, wenn Person eine Frau in 1 .",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 13,
+    "tags": [
+      "Vorwärtsrichtung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_650",
+    "question": "Richtig oder Falsch: Vorwärtsrichtung Wahrscheinlichkeit zu überleben, wenn Person eine Frau in 1 .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vorwärtsrichtung: Wahrscheinlichkeit zu überleben, wenn Person eine Frau in 1 .",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 13,
+    "tags": [
+      "Vorwärtsrichtung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_651",
+    "question": "Was ist Klassifikator?",
+    "type": "single",
+    "options": [
+      "Vorhersage (Ziel gegeben Merkmale).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klassifikator: Vorhersage (Ziel gegeben Merkmale).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 13,
+    "tags": [
+      "Klassifikator"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_652",
+    "question": "Richtig oder Falsch: Klassifikator Vorhersage (Ziel gegeben Merkmale).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klassifikator: Vorhersage (Ziel gegeben Merkmale).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 13,
+    "tags": [
+      "Klassifikator"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_653",
+    "question": "Was ist Rückwärtsrichtung?",
+    "type": "single",
+    "options": [
+      "Anteil der Frauen in 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Rückwärtsrichtung: Anteil der Frauen in 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 13,
+    "tags": [
+      "Rückwärtsrichtung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_654",
+    "question": "Richtig oder Falsch: Rückwärtsrichtung Anteil der Frauen in 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Rückwärtsrichtung: Anteil der Frauen in 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 13,
+    "tags": [
+      "Rückwärtsrichtung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_655",
+    "question": "Was ist Bayes Classifier Zusammenfassung?",
+    "type": "single",
+    "options": [
+      "Schritte vom Satz von Bayes zum Klassifikator Grundidee Aus beobachteten Merkmalen (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes Classifier Zusammenfassung: Schritte vom Satz von Bayes zum Klassifikator Grundidee Aus beobachteten Merkmalen (z.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Bayes Classifier Zusammenfassung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_656",
+    "question": "Richtig oder Falsch: Bayes Classifier Zusammenfassung Schritte vom Satz von Bayes zum Klassifikator Grundidee Aus beobachteten Merkmalen (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes Classifier Zusammenfassung: Schritte vom Satz von Bayes zum Klassifikator Grundidee Aus beobachteten Merkmalen (z.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Bayes Classifier Zusammenfassung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_657",
+    "question": "Was ist Klasse?",
+    "type": "single",
+    "options": [
+      "argmax_c [P(Merkmale|c) · P(c)]Naive Bayes Nimmt an, dass die Merkmale unabhängig sind: P(Merkmale|Klasse ) = ∏ P(M i|Klasse ).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klasse: argmax_c [P(Merkmale|c) · P(c)]Naive Bayes Nimmt an, dass die Merkmale unabhängig sind: P(Merkmale|Klasse ) = ∏ P(M i|Klasse ).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_658",
+    "question": "Richtig oder Falsch: Klasse argmax_c [P(Merkmale|c) · P(c)]Naive Bayes Nimmt an, dass die Merkmale unabhängig sind: P(Merkmale|Klasse ) = ∏ P(M i|Klasse ).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klasse: argmax_c [P(Merkmale|c) · P(c)]Naive Bayes Nimmt an, dass die Merkmale unabhängig sind: P(Merkmale|Klasse ) = ∏ P(M i|Klasse ).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_659",
+    "question": "Was ist Trainingsdaten?",
+    "type": "single",
+    "options": [
+      "P(Klasse) und P(Merkmal i|Klasse ).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Trainingsdaten: P(Klasse) und P(Merkmal i|Klasse ).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Trainingsdaten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_660",
+    "question": "Richtig oder Falsch: Trainingsdaten P(Klasse) und P(Merkmal i|Klasse ).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Trainingsdaten: P(Klasse) und P(Merkmal i|Klasse ).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 14,
+    "tags": [
+      "Trainingsdaten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_661",
+    "question": "Was ist Accuracy?",
+    "type": "single",
+    "options": [
+      "\", round( accuracy_score (y_test , y_pred), 4)) print(\"\\nConfusion matrix :\\n\", confusion_matrix (y_test , y_pred, labels =sorted( y.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Accuracy: \", round( accuracy_score (y_test , y_pred), 4)) print(\"\\nConfusion matrix :\\n\", confusion_matrix (y_test , y_pred, labels =sorted( y.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 15,
+    "tags": [
+      "Accuracy"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_662",
+    "question": "Richtig oder Falsch: Accuracy \", round( accuracy_score (y_test , y_pred), 4)) print(\"\\nConfusion matrix :\\n\", confusion_matrix (y_test , y_pred, labels =sorted( y.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Accuracy: \", round( accuracy_score (y_test , y_pred), 4)) print(\"\\nConfusion matrix :\\n\", confusion_matrix (y_test , y_pred, labels =sorted( y.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 15,
+    "tags": [
+      "Accuracy"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_663",
+    "question": "Was ist Format?",
+    "type": "single",
+    "options": [
+      "[ sepal_length, sepal_width , petal_length , petal_width ] tests = pd.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Format: [ sepal_length, sepal_width , petal_length , petal_width ] tests = pd.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 16,
+    "tags": [
+      "Format"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_664",
+    "question": "Richtig oder Falsch: Format [ sepal_length, sepal_width , petal_length , petal_width ] tests = pd.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Format: [ sepal_length, sepal_width , petal_length , petal_width ] tests = pd.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 16,
+    "tags": [
+      "Format"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_665",
+    "question": "Was ist Ausgabe?",
+    "type": "single",
+    "options": [
+      "== print(\"Testdaten:\") print(tests ) print(\"\\nVorhergesagte Klassen:\") for i, p in enumerate (pred): probs = {str (cls): round( float(prob), 3) for cls , prob in zip(clf.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ausgabe: == print(\"Testdaten:\") print(tests ) print(\"\\nVorhergesagte Klassen:\") for i, p in enumerate (pred): probs = {str (cls): round( float(prob), 3) for cls , prob in zip(clf.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 16,
+    "tags": [
+      "Ausgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_666",
+    "question": "Richtig oder Falsch: Ausgabe == print(\"Testdaten:\") print(tests ) print(\"\\nVorhergesagte Klassen:\") for i, p in enumerate (pred): probs = {str (cls): round( float(prob), 3) for cls , prob in zip(clf.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ausgabe: == print(\"Testdaten:\") print(tests ) print(\"\\nVorhergesagte Klassen:\") for i, p in enumerate (pred): probs = {str (cls): round( float(prob), 3) for cls , prob in zip(clf.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 16,
+    "tags": [
+      "Ausgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_667",
+    "question": "Was ist Testdaten?",
+    "type": "single",
+    "options": [
+      "sepal_length sepal_width petal_length petal_width 0 4.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Testdaten: sepal_length sepal_width petal_length petal_width 0 4.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 17,
+    "tags": [
+      "Testdaten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_668",
+    "question": "Richtig oder Falsch: Testdaten sepal_length sepal_width petal_length petal_width 0 4.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Testdaten: sepal_length sepal_width petal_length petal_width 0 4.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 17,
+    "tags": [
+      "Testdaten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_669",
+    "question": "Was ist Vorhergesagte Klassen?",
+    "type": "single",
+    "options": [
+      "Beispiel 1: iris -setosa → {'iris -setosa ': 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vorhergesagte Klassen: Beispiel 1: iris -setosa → {'iris -setosa ': 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 17,
+    "tags": [
+      "Vorhergesagte Klassen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_670",
+    "question": "Richtig oder Falsch: Vorhergesagte Klassen Beispiel 1: iris -setosa → {'iris -setosa ': 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vorhergesagte Klassen: Beispiel 1: iris -setosa → {'iris -setosa ': 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 17,
+    "tags": [
+      "Vorhergesagte Klassen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_671",
+    "question": "Was ist Bayes Classifier Aufgabe?",
+    "type": "single",
+    "options": [
+      "Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 18,
+    "tags": [
+      "Bayes Classifier Aufgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_672",
+    "question": "Richtig oder Falsch: Bayes Classifier Aufgabe Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 18,
+    "tags": [
+      "Bayes Classifier Aufgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_673",
+    "question": "Was ist Entscheidungs?",
+    "type": "single",
+    "options": [
+      "/Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entscheidungs: /Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 18,
+    "tags": [
+      "Entscheidungs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_674",
+    "question": "Richtig oder Falsch: Entscheidungs /Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Entscheidungs: /Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 18,
+    "tags": [
+      "Entscheidungs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_675",
+    "question": "Was ist Bayes Classifier Aufgabe?",
+    "type": "single",
+    "options": [
+      "Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 19,
+    "tags": [
+      "Bayes Classifier Aufgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_676",
+    "question": "Richtig oder Falsch: Bayes Classifier Aufgabe Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes Classifier Aufgabe: Titanic -Daten Aufgabe 1: Die Bayes -Formeln können auch über die Mengenlehre und Venn-Diagramme dargestellt werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 19,
+    "tags": [
+      "Bayes Classifier Aufgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_677",
+    "question": "Was ist Bayes Classifier Aufgabe?",
+    "type": "single",
+    "options": [
+      "Titanic -Daten Lösung Aufgabe 2: Ermittle die Entscheidungs -/Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bayes Classifier Aufgabe: Titanic -Daten Lösung Aufgabe 2: Ermittle die Entscheidungs -/Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 20,
+    "tags": [
+      "Bayes Classifier Aufgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_678",
+    "question": "Richtig oder Falsch: Bayes Classifier Aufgabe Titanic -Daten Lösung Aufgabe 2: Ermittle die Entscheidungs -/Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bayes Classifier Aufgabe: Titanic -Daten Lösung Aufgabe 2: Ermittle die Entscheidungs -/Klassifikationsregel für die Merkmalskombination Yes | First, Female, Age < 30 basierend auf den Titanic Daten.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 20,
+    "tags": [
+      "Bayes Classifier Aufgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_679",
+    "question": "Was ist Nach Normalisierung?",
+    "type": "single",
+    "options": [
+      "=pclass_n : pclass_n 3 4911 2162 184Name: count , dtype: int64 sex_n : sex_n 1 5770 314Name: count , dtype: int64 survived_n: survived_n 0 549 1 342 Name: count , dtype: int64 age_n nulls: 177 == Ergebnis ==Gesamtanzahl (First, Female, Age< 30): 30 Überlebt (Yes= 1): 28 P(Yes | First, Female, Age< 30) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nach Normalisierung: =pclass_n : pclass_n 3 4911 2162 184Name: count , dtype: int64 sex_n : sex_n 1 5770 314Name: count , dtype: int64 survived_n: survived_n 0 549 1 342 Name: count , dtype: int64 age_n nulls: 177 == Ergebnis ==Gesamtanzahl (First, Female, Age< 30): 30 Überlebt (Yes= 1): 28 P(Yes | First, Female, Age< 30) = 0.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 20,
+    "tags": [
+      "Nach Normalisierung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_680",
+    "question": "Richtig oder Falsch: Nach Normalisierung =pclass_n : pclass_n 3 4911 2162 184Name: count , dtype: int64 sex_n : sex_n 1 5770 314Name: count , dtype: int64 survived_n: survived_n 0 549 1 342 Name: count , dtype: int64 age_n nulls: 177 == Ergebnis ==Gesamtanzahl (First, Female, Age< 30): 30 Überlebt (Yes= 1): 28 P(Yes | First, Female, Age< 30) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Nach Normalisierung: =pclass_n : pclass_n 3 4911 2162 184Name: count , dtype: int64 sex_n : sex_n 1 5770 314Name: count , dtype: int64 survived_n: survived_n 0 549 1 342 Name: count , dtype: int64 age_n nulls: 177 == Ergebnis ==Gesamtanzahl (First, Female, Age< 30): 30 Überlebt (Yes= 1): 28 P(Yes | First, Female, Age< 30) = 0.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 20,
+    "tags": [
+      "Nach Normalisierung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_681",
+    "question": "Was ist Canine Ovorhoe?",
+    "type": "single",
+    "options": [
+      "Exkurs und Übungen 21 Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Canine Ovorhoe: Exkurs und Übungen 21 Prof.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 21,
+    "tags": [
+      "Canine Ovorhoe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_682",
+    "question": "Richtig oder Falsch: Canine Ovorhoe Exkurs und Übungen 21 Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Canine Ovorhoe: Exkurs und Übungen 21 Prof.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 21,
+    "tags": [
+      "Canine Ovorhoe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_683",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Sie machen eine Urlaubsreise in ein exotisches Land.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Sie machen eine Urlaubsreise in ein exotisches Land.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 22,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_684",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Sie machen eine Urlaubsreise in ein exotisches Land.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Sie machen eine Urlaubsreise in ein exotisches Land.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 22,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_685",
+    "question": "Was ist Informationen?",
+    "type": "single",
+    "options": [
+      "Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Informationen: Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 22,
+    "tags": [
+      "Informationen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_686",
+    "question": "Richtig oder Falsch: Informationen Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Informationen: Der Test erkennt in 99% der Fälle die Infektion, nur in einem von hundert Fällen wird die Krankheit fälschlich nicht diagnostiziert.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 22,
+    "tags": [
+      "Informationen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_687",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Urlaub… Sie kehren aus dem Urlaub zurück.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Urlaub… Sie kehren aus dem Urlaub zurück.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 23,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_688",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Urlaub… Sie kehren aus dem Urlaub zurück.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Urlaub… Sie kehren aus dem Urlaub zurück.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 23,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_689",
+    "question": "Was ist Aufgabe?",
+    "type": "single",
+    "options": [
+      "Sensitivität (P(Positiv|Krank)) = 99% (99 von 100) Spezifität (P(Negativ|Gesund)) = 98% (98 von 100) (P(Krank)) = 0,1% (1 von 1000) Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Test positiv ist?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aufgabe: Sensitivität (P(Positiv|Krank)) = 99% (99 von 100) Spezifität (P(Negativ|Gesund)) = 98% (98 von 100) (P(Krank)) = 0,1% (1 von 1000) Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Test positiv ist?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 23,
+    "tags": [
+      "Aufgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_690",
+    "question": "Richtig oder Falsch: Aufgabe Sensitivität (P(Positiv|Krank)) = 99% (99 von 100) Spezifität (P(Negativ|Gesund)) = 98% (98 von 100) (P(Krank)) = 0,1% (1 von 1000) Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Test positiv ist?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Aufgabe: Sensitivität (P(Positiv|Krank)) = 99% (99 von 100) Spezifität (P(Negativ|Gesund)) = 98% (98 von 100) (P(Krank)) = 0,1% (1 von 1000) Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Test positiv ist?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 23,
+    "tags": [
+      "Aufgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_691",
+    "question": "Was ist Falsch?",
+    "type": "single",
+    "options": [
+      "Positiv -Rate = 1 − Spezifität).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Falsch: Positiv -Rate = 1 − Spezifität).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Falsch"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_692",
+    "question": "Richtig oder Falsch: Falsch Positiv -Rate = 1 − Spezifität).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Falsch: Positiv -Rate = 1 − Spezifität).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Falsch"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_693",
+    "question": "Was ist Zähler?",
+    "type": "single",
+    "options": [
+      "[P( Positiv|Krank) · P(Krank)] = Anteil der richtig positiv Getesteten, gewichtet mit der Basisrate.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Zähler: [P( Positiv|Krank) · P(Krank)] = Anteil der richtig positiv Getesteten, gewichtet mit der Basisrate.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Zähler"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_694",
+    "question": "Richtig oder Falsch: Zähler [P( Positiv|Krank) · P(Krank)] = Anteil der richtig positiv Getesteten, gewichtet mit der Basisrate.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Zähler: [P( Positiv|Krank) · P(Krank)] = Anteil der richtig positiv Getesteten, gewichtet mit der Basisrate.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Zähler"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_695",
+    "question": "Was ist Nenner?",
+    "type": "single",
+    "options": [
+      "[P( Positiv|Krank) · P(Krank) + P(Positiv|Gesund) · P(Gesund)] = gesamte Wahrscheinlichkeit für ein positives Testergebnis (richtig +falsch positiv).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nenner: [P( Positiv|Krank) · P(Krank) + P(Positiv|Gesund) · P(Gesund)] = gesamte Wahrscheinlichkeit für ein positives Testergebnis (richtig +falsch positiv).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Nenner"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_696",
+    "question": "Richtig oder Falsch: Nenner [P( Positiv|Krank) · P(Krank) + P(Positiv|Gesund) · P(Gesund)] = gesamte Wahrscheinlichkeit für ein positives Testergebnis (richtig +falsch positiv).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Nenner: [P( Positiv|Krank) · P(Krank) + P(Positiv|Gesund) · P(Gesund)] = gesamte Wahrscheinlichkeit für ein positives Testergebnis (richtig +falsch positiv).",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 24,
+    "tags": [
+      "Nenner"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_697",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Canine Ovorhoe Test positiv ist?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Canine Ovorhoe Test positiv ist?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 25,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_698",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Canine Ovorhoe Test positiv ist?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Frage: Wie wahrscheinlich ist es, dass Sie wirklich krank sind, wenn der Canine Ovorhoe Test positiv ist?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 25,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_699",
+    "question": "Was ist Werten?",
+    "type": "single",
+    "options": [
+      "P(Positiv|Krank) = 0,99 P(Positiv|Gesund) = 0,02 P(Krank) = 0,001 P(Gesund) = 0,999 ⇒ P(Krank|Positiv) = (0,99 × 0,001) / [(0,99 × 0,001) + (0,02 × 0,999)] ≈ 0,047 Nur etwa 4,7 % der positiv Getesteten sind tatsächlich krank!",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werten: P(Positiv|Krank) = 0,99 P(Positiv|Gesund) = 0,02 P(Krank) = 0,001 P(Gesund) = 0,999 ⇒ P(Krank|Positiv) = (0,99 × 0,001) / [(0,99 × 0,001) + (0,02 × 0,999)] ≈ 0,047 Nur etwa 4,7 % der positiv Getesteten sind tatsächlich krank!",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 25,
+    "tags": [
+      "Werten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_700",
+    "question": "Richtig oder Falsch: Werten P(Positiv|Krank) = 0,99 P(Positiv|Gesund) = 0,02 P(Krank) = 0,001 P(Gesund) = 0,999 ⇒ P(Krank|Positiv) = (0,99 × 0,001) / [(0,99 × 0,001) + (0,02 × 0,999)] ≈ 0,047 Nur etwa 4,7 % der positiv Getesteten sind tatsächlich krank!",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werten: P(Positiv|Krank) = 0,99 P(Positiv|Gesund) = 0,02 P(Krank) = 0,001 P(Gesund) = 0,999 ⇒ P(Krank|Positiv) = (0,99 × 0,001) / [(0,99 × 0,001) + (0,02 × 0,999)] ≈ 0,047 Nur etwa 4,7 % der positiv Getesteten sind tatsächlich krank!",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 25,
+    "tags": [
+      "Werten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_701",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Andere Betrachtungsweise 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Andere Betrachtungsweise 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 26,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_702",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Andere Betrachtungsweise 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Andere Betrachtungsweise 1.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 26,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_703",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 27,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_704",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 27,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_705",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 28,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_706",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 28,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_707",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Was passiert bei einer noch besseren Erkennungsrate?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Was passiert bei einer noch besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 29,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_708",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Was passiert bei einer noch besseren Erkennungsrate?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Was passiert bei einer noch besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 29,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_709",
+    "question": "Was ist Land?",
+    "type": "single",
+    "options": [
+      "Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Land: Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 30,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_710",
+    "question": "Richtig oder Falsch: Land Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Land: Der Fall – Canine Ovorhoe Was passiert bei einer besseren Erkennungsrate?",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 30,
+    "tags": [
+      "Land"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_711",
+    "question": "Was ist Prävalenzen?",
+    "type": "single",
+    "options": [
+      "Land A_Hoch: P(Krank|Land) = 2 % Land B_Mittel : P(Krank|Land) = 0,5 % Land C_Niedrig : P(Krank|Land) = 0,05 % Der Test bleibt gleich gut: Sensitivität 99 %, Spezifität 98 %Naïve Bayes Classifier Bayes mit zusätzlicher Variable: Urlaubsland WS  Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Prävalenzen: Land A_Hoch: P(Krank|Land) = 2 % Land B_Mittel : P(Krank|Land) = 0,5 % Land C_Niedrig : P(Krank|Land) = 0,05 % Der Test bleibt gleich gut: Sensitivität 99 %, Spezifität 98 %Naïve Bayes Classifier Bayes mit zusätzlicher Variable: Urlaubsland WS  Prof.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 31,
+    "tags": [
+      "Prävalenzen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_712",
+    "question": "Richtig oder Falsch: Prävalenzen Land A_Hoch: P(Krank|Land) = 2 % Land B_Mittel : P(Krank|Land) = 0,5 % Land C_Niedrig : P(Krank|Land) = 0,05 % Der Test bleibt gleich gut: Sensitivität 99 %, Spezifität 98 %Naïve Bayes Classifier Bayes mit zusätzlicher Variable: Urlaubsland WS  Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Prävalenzen: Land A_Hoch: P(Krank|Land) = 2 % Land B_Mittel : P(Krank|Land) = 0,5 % Land C_Niedrig : P(Krank|Land) = 0,05 % Der Test bleibt gleich gut: Sensitivität 99 %, Spezifität 98 %Naïve Bayes Classifier Bayes mit zusätzlicher Variable: Urlaubsland WS  Prof.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 31,
+    "tags": [
+      "Prävalenzen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_713",
+    "question": "Was ist Personen?",
+    "type": "single",
+    "options": [
+      "Land A_Hoch → P(Krank|Pos) ≈ 50 % Land B_Mittel → P(Krank|Pos) ≈ 20 % Land C_Niedrig → P(Krank|Pos) ≈ 2 % Je höher die Grundprävalenz (Basisrate), desto höher auch die Wahrscheinlichkeit, dass ein positiver Test wirklich krank bedeutet.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Personen: Land A_Hoch → P(Krank|Pos) ≈ 50 % Land B_Mittel → P(Krank|Pos) ≈ 20 % Land C_Niedrig → P(Krank|Pos) ≈ 2 % Je höher die Grundprävalenz (Basisrate), desto höher auch die Wahrscheinlichkeit, dass ein positiver Test wirklich krank bedeutet.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 33,
+    "tags": [
+      "Personen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_714",
+    "question": "Richtig oder Falsch: Personen Land A_Hoch → P(Krank|Pos) ≈ 50 % Land B_Mittel → P(Krank|Pos) ≈ 20 % Land C_Niedrig → P(Krank|Pos) ≈ 2 % Je höher die Grundprävalenz (Basisrate), desto höher auch die Wahrscheinlichkeit, dass ein positiver Test wirklich krank bedeutet.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Personen: Land A_Hoch → P(Krank|Pos) ≈ 50 % Land B_Mittel → P(Krank|Pos) ≈ 20 % Land C_Niedrig → P(Krank|Pos) ≈ 2 % Je höher die Grundprävalenz (Basisrate), desto höher auch die Wahrscheinlichkeit, dass ein positiver Test wirklich krank bedeutet.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 33,
+    "tags": [
+      "Personen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_715",
+    "question": "Was ist Dabei?",
+    "type": "single",
+    "options": [
+      "P(L|Pos ) der Anteil der Positiven aus Land L.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dabei: P(L|Pos ) der Anteil der Positiven aus Land L.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 34,
+    "tags": [
+      "Dabei"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_716",
+    "question": "Richtig oder Falsch: Dabei P(L|Pos ) der Anteil der Positiven aus Land L.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Dabei: P(L|Pos ) der Anteil der Positiven aus Land L.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 34,
+    "tags": [
+      "Dabei"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_717",
+    "question": "Was ist Im Naive Bayes?",
+    "type": "single",
+    "options": [
+      "Klassifikator werden alle Merkmale gemeinsam betrachtet : P(Klasse|Merkmale ) ∝ P(Klasse) ·∏P(Merkmal ᵢ|Klasse) Länder -, Alters- oder Verhaltensdaten sind nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Im Naive Bayes: Klassifikator werden alle Merkmale gemeinsam betrachtet : P(Klasse|Merkmale ) ∝ P(Klasse) ·∏P(Merkmal ᵢ|Klasse) Länder -, Alters- oder Verhaltensdaten sind nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 35,
+    "tags": [
+      "Im Naive Bayes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_718",
+    "question": "Richtig oder Falsch: Im Naive Bayes Klassifikator werden alle Merkmale gemeinsam betrachtet : P(Klasse|Merkmale ) ∝ P(Klasse) ·∏P(Merkmal ᵢ|Klasse) Länder -, Alters- oder Verhaltensdaten sind nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Im Naive Bayes: Klassifikator werden alle Merkmale gemeinsam betrachtet : P(Klasse|Merkmale ) ∝ P(Klasse) ·∏P(Merkmal ᵢ|Klasse) Länder -, Alters- oder Verhaltensdaten sind nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 35,
+    "tags": [
+      "Im Naive Bayes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_719",
+    "question": "Was ist Verhaltensdaten?",
+    "type": "single",
+    "options": [
+      "nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verhaltensdaten: nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 35,
+    "tags": [
+      "Verhaltensdaten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_720",
+    "question": "Richtig oder Falsch: Verhaltensdaten nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Verhaltensdaten: nur verschiedene Merkmale, die probabilistisch verknüpft werden.",
+    "source_file": "08-bigdata_data_science_ML_bayes_v7_Lösung.pdf",
+    "source_page": 35,
+    "tags": [
+      "Verhaltensdaten"
+    ],
+    "difficulty": 1
+  }
+]

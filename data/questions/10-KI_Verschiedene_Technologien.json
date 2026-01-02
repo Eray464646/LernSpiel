@@ -1,0 +1,2587 @@
+[
+  {
+    "id": "q_1151",
+    "question": "Welche Aussage über Generierung ist korrekt?",
+    "type": "single",
+    "options": [
+      "(2014) Generierung von Bildern mit Hilfe zweier künstlicher neuronaler Netze Generator G und Diskriminator D Konzipiert als Zwei -Personen-Nullsummenspiel Generator G generieret künstliche Daten Diskriminator D lernt künstliche von gefälschten Bildern zu unterscheiden G lernt durch Feedback von D „bessere“ Bilder zu generieren  G versucht Daten (Bilder) zu generieren, die D nicht als gefälscht erkennt  D versucht zu erkennen ob Daten (Bilder) echt oder gefälscht sindGenerative Adversarial Networks Idee",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "(2014) Generierung von Bildern mit Hilfe zweier künstlicher neuronaler Netze Generator G und Diskriminator D Konzipiert als Zwei -Personen-Nullsummenspiel Generator G generieret künstliche Daten Diskriminator D lernt künstliche von gefälschten Bildern zu unterscheiden G lernt durch Feedback von D „bessere“ Bilder zu generieren  G versucht Daten (Bilder) zu generieren, die D nicht als gefälscht erkennt  D versucht zu erkennen ob Daten (Bilder) echt oder gefälscht sindGenerative Adversarial Networks Idee",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 4,
+    "tags": [
+      "Generierung",
+      "Bildern",
+      "Hilfe"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1152",
+    "question": "Welche Aussage über Quelle ist korrekt?",
+    "type": "single",
+    "options": [
+      "218524 Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "218524 Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 5,
+    "tags": [
+      "Quelle",
+      "Täuber",
+      "Generative"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1153",
+    "question": "Welche Aussage über Diskriminator ist korrekt?",
+    "type": "single",
+    "options": [
+      "Diskriminator wird trainiert eine aus einem Trainingsdatensatz stammende Probe x möglichst korrekt zu klassifizieren In 2",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Diskriminator wird trainiert eine aus einem Trainingsdatensatz stammende Probe x möglichst korrekt zu klassifizieren In 2",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 6,
+    "tags": [
+      "Diskriminator",
+      "Trainingsdatensatz",
+      "Probe"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1154",
+    "question": "Welche Aussage über Generator ist korrekt?",
+    "type": "single",
+    "options": [
+      "Generator erzeugt künstliche Proben aus Eingangsrauschwerten G aus z erzeugten Fälschungen werden nun D zur Klassifizierung vorgelegt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Generator erzeugt künstliche Proben aus Eingangsrauschwerten G aus z erzeugten Fälschungen werden nun D zur Klassifizierung vorgelegt",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 6,
+    "tags": [
+      "Generator",
+      "Proben",
+      "Eingangsrauschwerten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1155",
+    "question": "Welche Aussage über Quelle ist korrekt?",
+    "type": "single",
+    "options": [
+      "19 Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "19 Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 6,
+    "tags": [
+      "Quelle",
+      "Täuber",
+      "Generative"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1156",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Generative Adversarial Networks Applications Generate Examples for Image Datasets Generate Photographs of Human Faces Generate Realistic Photographs Generate Cartoon Characters Image-to -Image Translation Text-to-Image Translation Semantic -Image-to -Photo Translation Face Frontal View GenerationGenerate New Human Poses Photos to Emojis Photograph Editing Face Aging Photo Blending Super Resolution Photo Inpainting Clothing Translation Video Prediction 3D Object Generation",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Generative Adversarial Networks Applications Generate Examples for Image Datasets Generate Photographs of Human Faces Generate Realistic Photographs Generate Cartoon Characters Image-to -Image Translation Text-to-Image Translation Semantic -Image-to -Photo Translation Face Frontal View GenerationGenerate New Human Poses Photos to Emojis Photograph Editing Face Aging Photo Blending Super Resolution Photo Inpainting Clothing Translation Video Prediction 3D Object Generation",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 7,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Adversarial"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1157",
+    "question": "Welche Aussage über Quelle ist korrekt?",
+    "type": "single",
+    "options": [
+      "0m 57s 745ms Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "0m 57s 745ms Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 12,
+    "tags": [
+      "Quelle",
+      "Täuber",
+      "Generative"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1158",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Definition Software -Agent „Ein Software -Agent ist eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Definition Software -Agent „Ein Software -Agent ist eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Systeme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1159",
+    "question": "Welche Aussage über Verhalten ist korrekt?",
+    "type": "single",
+    "options": [
+      "autonomem Verhalten in der Lage ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "autonomem Verhalten in der Lage ist",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Verhalten",
+      "Lage"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1160",
+    "question": "Welche Aussage über Mensch ist korrekt?",
+    "type": "single",
+    "options": [
+      "dass kein Mensch mehr involviert sein muss, wenn das Programm einmal gestartet ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "dass kein Mensch mehr involviert sein muss, wenn das Programm einmal gestartet ist",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Mensch",
+      "Programm"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1161",
+    "question": "Welche Aussage über Ein ist korrekt?",
+    "type": "single",
+    "options": [
+      "“ 1 „Ein Agent ist ein Computersystem, das sich in einer bestimmten Umgebung befindet und welches fähig ist, eigenständige Aktionen in dieser Umgebung durchzuführen, um seine (vorgegebenen) Ziele zu erreichen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "“ 1 „Ein Agent ist ein Computersystem, das sich in einer bestimmten Umgebung befindet und welches fähig ist, eigenständige Aktionen in dieser Umgebung durchzuführen, um seine (vorgegebenen) Ziele zu erreichen",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Ein",
+      "Agent",
+      "Computersystem"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1162",
+    "question": "Welche Aussage über Agent ist korrekt?",
+    "type": "single",
+    "options": [
+      "“ 2Agent ist zu eigenständigem, autonomen Verhalten fähig Hat eigenen Zustand Kommunikationsfähigkeit Adaptions - und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "“ 2Agent ist zu eigenständigem, autonomen Verhalten fähig Hat eigenen Zustand Kommunikationsfähigkeit Adaptions - und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agent",
+      "Verhalten",
+      "Hat"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1163",
+    "question": "Welche Aussage über Autonomie ist korrekt?",
+    "type": "single",
+    "options": [
+      "Autonomie Eigenständige Entscheidungsmöglichkeiten Soziale Fähigkeiten Kommunikation mit Umwelt Reaktivität Beobachten und Reagieren auf Veränderungen in der UmweltProaktivität Versucht Zukunft vorherzusehen und reagiert entsprechend Lern- und Anpassungsfähigkeit Anpassung an Umweltveränderungen und Eingliedern in eigenes Wissenssystem Rationalität Aktionen basieren auf Umwelt, Wissensstand und Zielen und Annahmen Benutzermodell Wünsche, Ziele, Vorlieben des Benutzers werden in einem Benutzermodell repräsentiert („Digitaler Zwilling“)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Autonomie Eigenständige Entscheidungsmöglichkeiten Soziale Fähigkeiten Kommunikation mit Umwelt Reaktivität Beobachten und Reagieren auf Veränderungen in der UmweltProaktivität Versucht Zukunft vorherzusehen und reagiert entsprechend Lern- und Anpassungsfähigkeit Anpassung an Umweltveränderungen und Eingliedern in eigenes Wissenssystem Rationalität Aktionen basieren auf Umwelt, Wissensstand und Zielen und Annahmen Benutzermodell Wünsche, Ziele, Vorlieben des Benutzers werden in einem Benutzermodell repräsentiert („Digitaler Zwilling“)",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 19,
+    "tags": [
+      "Autonomie",
+      "Eigenständige",
+      "Entscheidungsmöglichkeiten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1164",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Probleme von und mitAgenten Datenschutz Wie wird verhindert, dass ein Agent unerlaubt Informationen einsetzt oder weitergibt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Probleme von und mitAgenten Datenschutz Wie wird verhindert, dass ein Agent unerlaubt Informationen einsetzt oder weitergibt",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 21,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Systeme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1165",
+    "question": "Welche Aussage über Abrechnung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Abrechnung Wie wird die Dienstleistung bezahlt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Abrechnung Wie wird die Dienstleistung bezahlt",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 21,
+    "tags": [
+      "Abrechnung",
+      "Wie",
+      "Dienstleistung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1166",
+    "question": "Welche Aussage über Ausfall ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ausfall Wer ist für den Schaden verantwortlich, der beim Ausfall von Agenten entstehen kann",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ausfall Wer ist für den Schaden verantwortlich, der beim Ausfall von Agenten entstehen kann",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 21,
+    "tags": [
+      "Ausfall",
+      "Wer",
+      "Schaden"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1167",
+    "question": "Welche Aussage über Wie ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wie kann erkannt werden, dass ein Agent „ehrlich“ handelt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wie kann erkannt werden, dass ein Agent „ehrlich“ handelt",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 21,
+    "tags": [
+      "Wie",
+      "Agent"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1168",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Multi -agent Planning - Multiagenten- Planung Jeder Agent plant für sich eine Vorgehensweise zur Durchführung der zentralen Aufgabe Koordination / Auflösung / Zuteilung Entweder zentral (\"centralised multi -agent planning\"): zentrale Instanz löst Inkonsistenzen und Konflikte oder Agenten sprechen sich untereinander (\"distributed multi -agent planning\") Größere Menge an Information und Kommunikation der Agenten untereinanderAgentenbasierte Systeme Koordination von Agenten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Multi -agent Planning - Multiagenten- Planung Jeder Agent plant für sich eine Vorgehensweise zur Durchführung der zentralen Aufgabe Koordination / Auflösung / Zuteilung Entweder zentral (\"centralised multi -agent planning\"): zentrale Instanz löst Inkonsistenzen und Konflikte oder Agenten sprechen sich untereinander (\"distributed multi -agent planning\") Größere Menge an Information und Kommunikation der Agenten untereinanderAgentenbasierte Systeme Koordination von Agenten",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 23,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Planning"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1169",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Agentenarten Fünf Klassen Einfache reaktive Agenten (simple reflex agents ) Beobachtende Agenten (model - based reflex agent ) Zielbasierte Agenten (goal -based agents ) Nutzenbasierte Agenten (utility - based agents ) Lernende Agenten ( learning agents )Weitere Klassifizierung Robustder Agent kompensiert (teilweise) äußere und innere Störungen Kognitivder Agent ist auf der Basis eigener Entscheidungen und Beobachtungen lernfähig Sozialder Agent kommuniziert mit anderen Agenten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Agentenarten Fünf Klassen Einfache reaktive Agenten (simple reflex agents ) Beobachtende Agenten (model - based reflex agent ) Zielbasierte Agenten (goal -based agents ) Nutzenbasierte Agenten (utility - based agents ) Lernende Agenten ( learning agents )Weitere Klassifizierung Robustder Agent kompensiert (teilweise) äußere und innere Störungen Kognitivder Agent ist auf der Basis eigener Entscheidungen und Beobachtungen lernfähig Sozialder Agent kommuniziert mit anderen Agenten",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 24,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Systeme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1170",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Reaktiver Agent Eigenschaften Sensoren (Hardware, virtuellen Umgebung, …) Aktoren zum Veranlassen von Aktionen (virtuell im Computer oder Teil eines realen Roboters) Einfacher gedächtnislosen Regelsatz (Condition-action rules ) Rein reaktives Verhalten - eine Aktion wird durch einen äußeren Reiz hervorgerufen Schema 1 Frochte , Jörg (2019): Maschinelles Lernen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Reaktiver Agent Eigenschaften Sensoren (Hardware, virtuellen Umgebung, …) Aktoren zum Veranlassen von Aktionen (virtuell im Computer oder Teil eines realen Roboters) Einfacher gedächtnislosen Regelsatz (Condition-action rules ) Rein reaktives Verhalten - eine Aktion wird durch einen äußeren Reiz hervorgerufen Schema 1 Frochte , Jörg (2019): Maschinelles Lernen",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 25,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Systeme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1171",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Beobachtender Agent Eigenschaften Gedächtnis, welches durch die Aspekte How the world evolves und Zustand sichtbar wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Agentenbasierte Systeme Beobachtender Agent Eigenschaften Gedächtnis, welches durch die Aspekte How the world evolves und Zustand sichtbar wird",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 26,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Systeme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1172",
+    "question": "Welche Aussage über Reinforcement ist korrekt?",
+    "type": "single",
+    "options": [
+      "Reinforcement Learning kommt zum Einsatz, wenn entwederkein optimaler Weg für die Lösung einer Aufgabe bekannt istoder keine oder wenige Trainingsdaten zur Verfügung stehen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reinforcement Learning kommt zum Einsatz, wenn entwederkein optimaler Weg für die Lösung einer Aufgabe bekannt istoder keine oder wenige Trainingsdaten zur Verfügung stehen",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 31,
+    "tags": [
+      "Reinforcement",
+      "Learning",
+      "Einsatz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1173",
+    "question": "Welche Aussage über Eingesetzt ist korrekt?",
+    "type": "single",
+    "options": [
+      "Eingesetzt, wenn eine Aufgabe durchgeführt werden soll, für die eine herkömmliche Programmierung zu komplex wäre",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Eingesetzt, wenn eine Aufgabe durchgeführt werden soll, für die eine herkömmliche Programmierung zu komplex wäre",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 31,
+    "tags": [
+      "Eingesetzt",
+      "Aufgabe",
+      "Programmierung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1174",
+    "question": "Welche Aussage über Beispiel ist korrekt?",
+    "type": "single",
+    "options": [
+      "Beispiel ist die Steuerung von Robotern Grundprinzip Trial-and-Error – Versuch / Irrtum Belohnung / Bestrafung Anwendung des Agentenbasierter SystemeReinforcement Learning Hintergrund",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel ist die Steuerung von Robotern Grundprinzip Trial-and-Error – Versuch / Irrtum Belohnung / Bestrafung Anwendung des Agentenbasierter SystemeReinforcement Learning Hintergrund",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 31,
+    "tags": [
+      "Beispiel",
+      "Steuerung",
+      "Robotern"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1175",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Es wird versucht, für einen bestimmten Zustand ( state ) anhand einer Strategie (policy ) die bestmögliche Aktion (action) zu bestimmen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Es wird versucht, für einen bestimmten Zustand ( state ) anhand einer Strategie (policy ) die bestmögliche Aktion (action) zu bestimmen",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 32,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Es"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1176",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Die beiden „ Größen“ im RL sind der Agent (agent ) und die Umgebung (environment )",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Die beiden „ Größen“ im RL sind der Agent (agent ) und die Umgebung (environment )",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 33,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Die"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1177",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das zentrale Ziel des Agenten besteht darin, die Summe der Belohnungen (cumulative reward) zu maximieren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das zentrale Ziel des Agenten besteht darin, die Summe der Belohnungen (cumulative reward) zu maximieren",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 33,
+    "tags": [
+      "Das",
+      "Ziel",
+      "Agenten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1178",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Reinforcement Learning Ansätze Kern Markov-Entscheidungsprozesse Model Based Ein Modell von der Umgebung wird erstellt, um Vorhersagen zu zukünftigen Zuständen oder Belohnungen treffen zu können",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Reinforcement Learning Ansätze Kern Markov-Entscheidungsprozesse Model Based Ein Modell von der Umgebung wird erstellt, um Vorhersagen zu zukünftigen Zuständen oder Belohnungen treffen zu können",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Learning"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1179",
+    "question": "Welche Aussage über Wird ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wird eine Regel als Aktion durchgeführt, wird ein neuer (realer) Zustand erreicht",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wird eine Regel als Aktion durchgeführt, wird ein neuer (realer) Zustand erreicht",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 37,
+    "tags": [
+      "Wird",
+      "Regel",
+      "Aktion"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1180",
+    "question": "Welche Aussage über Oft ist korrekt?",
+    "type": "single",
+    "options": [
+      "Oft können mehrere Regeln als Aktion verwendet werden, dh",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Oft können mehrere Regeln als Aktion verwendet werden, dh",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 37,
+    "tags": [
+      "Oft",
+      "Regeln",
+      "Aktion"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1181",
+    "question": "Welche Aussage über Zustand ist korrekt?",
+    "type": "single",
+    "options": [
+      "aus einem Zustand A sind mehrere Folgezustände B1",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "aus einem Zustand A sind mehrere Folgezustände B1",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 37,
+    "tags": [
+      "Zustand",
+      "Folgezustände"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1182",
+    "question": "Welche Aussage über Man ist korrekt?",
+    "type": "single",
+    "options": [
+      "Man sucht nun diejenige Abfolge von Aktionen, die einen Zustand A in einen Zustand B (Zielzustand) überführen, sodass bestimme Kriterien erfüllt sind, z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Man sucht nun diejenige Abfolge von Aktionen, die einen Zustand A in einen Zustand B (Zielzustand) überführen, sodass bestimme Kriterien erfüllt sind, z",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 37,
+    "tags": [
+      "Man",
+      "Abfolge",
+      "Aktionen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1183",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Suchproblem in Graphen Suchproblem kann als gerichteter Graph aufgefasst werden Graph: Abstrakter Struktur aus Knoten (Ecken) und Kanten (Bögen) 𝐺𝐺 =(𝑁𝑁,𝐸𝐸) mit N Knoten und E Kanten und 𝐸𝐸⊆𝑁𝑁×𝑁𝑁 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 : 𝑆𝑆(𝑁𝑁,𝐸𝐸), 𝑧𝑧1∈𝑁𝑁, 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧:𝑁𝑁→𝑊𝑊,𝐹𝐹 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧 prüft, ob der 𝑁𝑁 einem Zielzustand entspricht",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Suchproblem in Graphen Suchproblem kann als gerichteter Graph aufgefasst werden Graph: Abstrakter Struktur aus Knoten (Ecken) und Kanten (Bögen) 𝐺𝐺 =(𝑁𝑁,𝐸𝐸) mit N Knoten und E Kanten und 𝐸𝐸⊆𝑁𝑁×𝑁𝑁 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 : 𝑆𝑆(𝑁𝑁,𝐸𝐸), 𝑧𝑧1∈𝑁𝑁, 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧:𝑁𝑁→𝑊𝑊,𝐹𝐹 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧 prüft, ob der 𝑁𝑁 einem Zielzustand entspricht",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 39,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Graphen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1184",
+    "question": "Welche Aussage über Puzzle ist korrekt?",
+    "type": "single",
+    "options": [
+      "org/wiki/15-Puzzle In einer quadratischen Fläche mit NxN-1 durchnummerierten Kacheln ist eine Kachel leer",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "org/wiki/15-Puzzle In einer quadratischen Fläche mit NxN-1 durchnummerierten Kacheln ist eine Kachel leer",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 40,
+    "tags": [
+      "Puzzle",
+      "In",
+      "Fläche"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1185",
+    "question": "Welche Aussage über Bewegen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Bewegen einer Kachel in die Leerstelle erreicht werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bewegen einer Kachel in die Leerstelle erreicht werden",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 40,
+    "tags": [
+      "Bewegen",
+      "Kachel",
+      "Leerstelle"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1186",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Keine Zusatzinformation über zu lösendes Problem vorhanden Kand die Liste der Kandidaten von Wegen, die zu untersuchen sind z1 der Ausgangszustand z und s Zustände (Knoten des Graphen) p Wege durch den Zustandsraum Ein Weg ist eine Folge von durch Kanten verbundenen Knoten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Keine Zusatzinformation über zu lösendes Problem vorhanden Kand die Liste der Kandidaten von Wegen, die zu untersuchen sind z1 der Ausgangszustand z und s Zustände (Knoten des Graphen) p Wege durch den Zustandsraum Ein Weg ist eine Folge von durch Kanten verbundenen Knoten",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 41,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Keine"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1187",
+    "question": "Welche Aussage über Berechne ist korrekt?",
+    "type": "single",
+    "options": [
+      "zm aus ; Ziel_erreicht := ziel( zm) ; IF NOT Ziel_erreicht THEN Berechne alle Zustande, die von zm in einem Schritt erreicht werden können : [s1,",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "zm aus ; Ziel_erreicht := ziel( zm) ; IF NOT Ziel_erreicht THEN Berechne alle Zustande, die von zm in einem Schritt erreicht werden können : [s1,",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 41,
+    "tags": [
+      "Berechne",
+      "Zustande",
+      "Schritt"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1188",
+    "question": "Welche Aussage über Berechne ist korrekt?",
+    "type": "single",
+    "options": [
+      "zm ; Ziel_erreicht := ziel( zm) ; IF NOT Ziel_erreicht THEN Berechne alle Zustande, die von zm in einem Schritt erreicht werden können : [s1,",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "zm ; Ziel_erreicht := ziel( zm) ; IF NOT Ziel_erreicht THEN Berechne alle Zustande, die von zm in einem Schritt erreicht werden können : [s1,",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 43,
+    "tags": [
+      "Berechne",
+      "Zustande",
+      "Schritt"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1189",
+    "question": "Welche Aussage über Berechne ist korrekt?",
+    "type": "single",
+    "options": [
+      "zm ; Ziel_erreicht := ziel( zm) ; IF NOT Ziel_erreicht THEN Berechne alle Zustande, die von zm in einem Schritt erreicht werden können : [s1,",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "zm ; Ziel_erreicht := ziel( zm) ; IF NOT Ziel_erreicht THEN Berechne alle Zustande, die von zm in einem Schritt erreicht werden können : [s1,",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 43,
+    "tags": [
+      "Berechne",
+      "Zustande",
+      "Schritt"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1190",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Vollständigkeit : Suchverfahren ist vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Vollständigkeit : Suchverfahren ist vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Vollständigkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1191",
+    "question": "Welche Aussage über Suchverfahren ist korrekt?",
+    "type": "single",
+    "options": [
+      ") Suchverfahren sind korrekt, da Zielerreichung über ein Prädikat Wahr/Falsch geprüft werden kann",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": ") Suchverfahren sind korrekt, da Zielerreichung über ein Prädikat Wahr/Falsch geprüft werden kann",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Suchverfahren",
+      "Zielerreichung",
+      "Prädikat"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1192",
+    "question": "Welche Aussage über Als ist korrekt?",
+    "type": "single",
+    "options": [
+      "Als Konsequenz wird bei gegebenen Zeitlimit eine Lösung nicht gefunden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Als Konsequenz wird bei gegebenen Zeitlimit eine Lösung nicht gefunden",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Als",
+      "Konsequenz",
+      "Zeitlimit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1193",
+    "question": "Welche Aussage über Heuristiken ist korrekt?",
+    "type": "single",
+    "options": [
+      "Heuristiken sollen helfen, nur erfolgversprechende Pfade zu durchlaufen Etwa bei Schiebepuzzle keine Kreise Heuristiken strukturieren und / oder verkleinern den Suchraum Strukturieren -> Suchverfahren vollständig Verkleinern -> Vollständigkeit kann verloren gehen Oft existieren zusätzliche Anforderungen wie den kürzesten Weg zu finden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Heuristiken sollen helfen, nur erfolgversprechende Pfade zu durchlaufen Etwa bei Schiebepuzzle keine Kreise Heuristiken strukturieren und / oder verkleinern den Suchraum Strukturieren -> Suchverfahren vollständig Verkleinern -> Vollständigkeit kann verloren gehen Oft existieren zusätzliche Anforderungen wie den kürzesten Weg zu finden",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Heuristiken",
+      "Pfade",
+      "Etwa"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1194",
+    "question": "Welche Aussage über Verwendung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Verwendung von Zusatzinformationen wie Entfernungen, Preise, Materialverbrauch Schach: Figurenbewertung, Qualität der Stellung, Entfernung zum Schachmatt Diese Information kann dazu verwendet werden, den möglichen Lösungsraum zu beschneiden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verwendung von Zusatzinformationen wie Entfernungen, Preise, Materialverbrauch Schach: Figurenbewertung, Qualität der Stellung, Entfernung zum Schachmatt Diese Information kann dazu verwendet werden, den möglichen Lösungsraum zu beschneiden",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Verwendung",
+      "Zusatzinformationen",
+      "Entfernungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1195",
+    "question": "Welche Aussage über Problemlösen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Problemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Problemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Problemlösen",
+      "Suchverfahren",
+      "Heuristische"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1196",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Problemlösen mittels Suchverfahren Heuristische oder informierte Suche Welche Heuristiken könnten beim Schiebepuzzle verwendet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Problemlösen mittels Suchverfahren Heuristische oder informierte Suche Welche Heuristiken könnten beim Schiebepuzzle verwendet werden",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 48,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Suchverfahren"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1197",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Einsatz von Schätzfunktionen Man schätzt, wie weit man noch von der Lösung entfernt ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Einsatz von Schätzfunktionen Man schätzt, wie weit man noch von der Lösung entfernt ist",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 49,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Einsatz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1198",
+    "question": "Welche Aussage über Heuristiken ist korrekt?",
+    "type": "single",
+    "options": [
+      "Heuristiken Heuristische Funktion h Je besser die h- Bewertung eines Kandidaten ist, desto näher an der Lösung",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Heuristiken Heuristische Funktion h Je besser die h- Bewertung eines Kandidaten ist, desto näher an der Lösung",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 49,
+    "tags": [
+      "Heuristiken",
+      "Heuristische",
+      "Funktion"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1199",
+    "question": "Welche Aussage über Keine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Keine Garantie, dass Lösung gut ist, da nur Schätzung",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Keine Garantie, dass Lösung gut ist, da nur Schätzung",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 49,
+    "tags": [
+      "Keine",
+      "Garantie",
+      "Lösung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1200",
+    "question": "Welche Aussage über Heuristische ist korrekt?",
+    "type": "single",
+    "options": [
+      "Heuristische Funktion g Bisherigen Aufwand (mit)berücksichtigen, z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Heuristische Funktion g Bisherigen Aufwand (mit)berücksichtigen, z",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 49,
+    "tags": [
+      "Heuristische",
+      "Funktion",
+      "Bisherigen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1201",
+    "question": "Welche Aussage über Weglänge ist korrekt?",
+    "type": "single",
+    "options": [
+      "Weglänge, Anzahl der Züge, Schach: Qualität der StellungProblemlösen mittels Suchverfahren Heuristische oder informierte Suche Lämmel U, Cleve J (2012) Künstliche Intelligenz",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Weglänge, Anzahl der Züge, Schach: Qualität der StellungProblemlösen mittels Suchverfahren Heuristische oder informierte Suche Lämmel U, Cleve J (2012) Künstliche Intelligenz",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 49,
+    "tags": [
+      "Weglänge",
+      "Anzahl",
+      "Züge"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1202",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Nächster Nachbarheuristik/ strategie Existenz einer Funktion g zur Aufwandsabschätzung Wähle aus den Kandidaten denjenigen mit dem geringsten Abstand vom aktuellen Zustand aus",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Nächster Nachbarheuristik/ strategie Existenz einer Funktion g zur Aufwandsabschätzung Wähle aus den Kandidaten denjenigen mit dem geringsten Abstand vom aktuellen Zustand aus",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 50,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Nachbarheuristik"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1203",
+    "question": "Welche Aussage über Entfernung ist korrekt?",
+    "type": "single",
+    "options": [
+      "der Entfernung zwischen Städten Unvollständig, da kein Zurückgehen vorgesehen ist Bergsteigerstrategie Existenz einer Funktion h zur Zielentfernungsabschätzung Nur die Folgezustände gewählt, die näher am Ziel liegen Alle Zweige abschneiden, die schlechter als die Vorgänger sind Durchsuchen mehrere Kandidaten möglich Unvollständig, da Suchraum beschnitten wirdProblemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "der Entfernung zwischen Städten Unvollständig, da kein Zurückgehen vorgesehen ist Bergsteigerstrategie Existenz einer Funktion h zur Zielentfernungsabschätzung Nur die Folgezustände gewählt, die näher am Ziel liegen Alle Zweige abschneiden, die schlechter als die Vorgänger sind Durchsuchen mehrere Kandidaten möglich Unvollständig, da Suchraum beschnitten wirdProblemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 50,
+    "tags": [
+      "Entfernung",
+      "Städten",
+      "Unvollständig"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1204",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Bestensuche Variante der Breitensuche Existenz einer Funktion h zur Zielentfernungsabschätzung Wähle aus allen Kandidaten denjenigen mit der besten h Bewertung Strukturiert den Suchraum, daher vollständigProblemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Bestensuche Variante der Breitensuche Existenz einer Funktion h zur Zielentfernungsabschätzung Wähle aus allen Kandidaten denjenigen mit der besten h Bewertung Strukturiert den Suchraum, daher vollständigProblemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 51,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Variante"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1205",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26A* Suche Einsatz einer Funktion f bestehend aus der heuristischen Funktionen g und h Summe: f = g + h Vorgehen: Zwei Knotenmengen offen, bewertet, aber noch nicht expandiert OPEN geschlossen (bewertet und expandiert) CLOSE Zulässigkeit einer Schätzfunktion h Eine Funktion h zur Bewertung eines Knotens heißt zulässig, wenn sie die Kosten, um zum Ziel zu kommen, nicht überschätzt: Für jeden Knoten n und jeden Zielknoten z, der von n aus erreichbar ist, gilt:h(n) ≤ g(z) – g(n)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26A* Suche Einsatz einer Funktion f bestehend aus der heuristischen Funktionen g und h Summe: f = g + h Vorgehen: Zwei Knotenmengen offen, bewertet, aber noch nicht expandiert OPEN geschlossen (bewertet und expandiert) CLOSE Zulässigkeit einer Schätzfunktion h Eine Funktion h zur Bewertung eines Knotens heißt zulässig, wenn sie die Kosten, um zum Ziel zu kommen, nicht überschätzt: Für jeden Knoten n und jeden Zielknoten z, der von n aus erreichbar ist, gilt:h(n) ≤ g(z) – g(n)",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 52,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Suche"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1206",
+    "question": "Welche Aussage über Ist ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ist die Funktion h zulässig, so ist der A* -Algorithmus optimal",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ist die Funktion h zulässig, so ist der A* -Algorithmus optimal",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 52,
+    "tags": [
+      "Ist",
+      "Funktion",
+      "Algorithmus"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1207",
+    "question": "Welche Aussage über Problemlösen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Problemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Problemlösen mittels Suchverfahren Heuristische oder informierte Suche",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 52,
+    "tags": [
+      "Problemlösen",
+      "Suchverfahren",
+      "Heuristische"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1208",
+    "question": "Welche Aussage über Heuristic ist korrekt?",
+    "type": "single",
+    "options": [
+      "append (temp ) return puz def f(self,start,goal ) # Heuristic Function tocalculate hueristic value f(x) = h(x) + g(x) return self",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "append (temp ) return puz def f(self,start,goal ) # Heuristic Function tocalculate hueristic value f(x) = h(x) + g(x) return self",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 55,
+    "tags": [
+      "Heuristic",
+      "Function"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1209",
+    "question": "Welche Aussage über Put ist korrekt?",
+    "type": "single",
+    "options": [
+      "f (start,goal ) \"\"\" Put the start node in the open list\"\"\" self",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "f (start,goal ) \"\"\" Put the start node in the open list\"\"\" self",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 55,
+    "tags": [
+      "Put"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1210",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Problemlösen mittels Suchverfahren Heuristische oder informierte Suche Wie lautet die Lösung für",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Problemlösen mittels Suchverfahren Heuristische oder informierte Suche Wie lautet die Lösung für",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 58,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Suchverfahren"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1211",
+    "question": "Was ist Quelle?",
+    "type": "single",
+    "options": [
+      "Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 5,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1212",
+    "question": "Richtig oder Falsch: Quelle Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 5,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1213",
+    "question": "Was ist N- Minimax?",
+    "type": "single",
+    "options": [
+      "Spiel Eigene Übersetzung, in Anlehnung an Goodfellow, 2016a, S.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "N- Minimax: Spiel Eigene Übersetzung, in Anlehnung an Goodfellow, 2016a, S.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 6,
+    "tags": [
+      "N- Minimax"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1214",
+    "question": "Richtig oder Falsch: N- Minimax Spiel Eigene Übersetzung, in Anlehnung an Goodfellow, 2016a, S.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. N- Minimax: Spiel Eigene Übersetzung, in Anlehnung an Goodfellow, 2016a, S.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 6,
+    "tags": [
+      "N- Minimax"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1215",
+    "question": "Was ist Quelle?",
+    "type": "single",
+    "options": [
+      "Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 6,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1216",
+    "question": "Richtig oder Falsch: Quelle Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 6,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1217",
+    "question": "Was ist Artificial Intelligence?",
+    "type": "single",
+    "options": [
+      "Forecasting, Prevention, and Mitigation.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Artificial Intelligence: Forecasting, Prevention, and Mitigation.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 8,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1218",
+    "question": "Richtig oder Falsch: Artificial Intelligence Forecasting, Prevention, and Mitigation.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Artificial Intelligence: Forecasting, Prevention, and Mitigation.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 8,
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1219",
+    "question": "Was ist Quelle?",
+    "type": "single",
+    "options": [
+      "Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 12,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1220",
+    "question": "Richtig oder Falsch: Quelle Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quelle: Täuber JG (2021) Generative Adversarial Networks: Eine empirische Untersuchung der Potenziale und Grenzen etablierter GAN - Architekturen bei der Generierung fotorealistischer Bilder.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 12,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1221",
+    "question": "Was ist Agentenbasierte Systeme Agentenbasierte Modellierung?",
+    "type": "single",
+    "options": [
+      "Multiagentensysteme Kennzeichen Individuen basierte Modellbildung und Simulation Viele kleine mehr oder minder „intelligente“ Einheiten interagieren miteinander Systemverhalten entsteht durch das Verhalten der einzelnen Agenten Komplexes Verhalten entsteht aus einfachen Mustern/Verhaltensregeln Verteilte KIBeispiele Staus auf Autobahnen Ameisenstraßen Soziale Netzwerke Chatbots, Softbots Suchmaschinen Drohnenschwärme Roboterkoordination BargainFinder , NewsFinder Agent sucht basierend auf einmal festgelegten Benutzerangaben (Suchkriterien) Angebote oder News.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Agentenbasierte Systeme Agentenbasierte Modellierung: Multiagentensysteme Kennzeichen Individuen basierte Modellbildung und Simulation Viele kleine mehr oder minder „intelligente“ Einheiten interagieren miteinander Systemverhalten entsteht durch das Verhalten der einzelnen Agenten Komplexes Verhalten entsteht aus einfachen Mustern/Verhaltensregeln Verteilte KIBeispiele Staus auf Autobahnen Ameisenstraßen Soziale Netzwerke Chatbots, Softbots Suchmaschinen Drohnenschwärme Roboterkoordination BargainFinder , NewsFinder Agent sucht basierend auf einmal festgelegten Benutzerangaben (Suchkriterien) Angebote oder News.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 15,
+    "tags": [
+      "Agentenbasierte Systeme Agentenbasierte Modellierung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1222",
+    "question": "Richtig oder Falsch: Agentenbasierte Systeme Agentenbasierte Modellierung Multiagentensysteme Kennzeichen Individuen basierte Modellbildung und Simulation Viele kleine mehr oder minder „intelligente“ Einheiten interagieren miteinander Systemverhalten entsteht durch das Verhalten der einzelnen Agenten Komplexes Verhalten entsteht aus einfachen Mustern/Verhaltensregeln Verteilte KIBeispiele Staus auf Autobahnen Ameisenstraßen Soziale Netzwerke Chatbots, Softbots Suchmaschinen Drohnenschwärme Roboterkoordination BargainFinder , NewsFinder Agent sucht basierend auf einmal festgelegten Benutzerangaben (Suchkriterien) Angebote oder News.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Agentenbasierte Systeme Agentenbasierte Modellierung: Multiagentensysteme Kennzeichen Individuen basierte Modellbildung und Simulation Viele kleine mehr oder minder „intelligente“ Einheiten interagieren miteinander Systemverhalten entsteht durch das Verhalten der einzelnen Agenten Komplexes Verhalten entsteht aus einfachen Mustern/Verhaltensregeln Verteilte KIBeispiele Staus auf Autobahnen Ameisenstraßen Soziale Netzwerke Chatbots, Softbots Suchmaschinen Drohnenschwärme Roboterkoordination BargainFinder , NewsFinder Agent sucht basierend auf einmal festgelegten Benutzerangaben (Suchkriterien) Angebote oder News.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 15,
+    "tags": [
+      "Agentenbasierte Systeme Agentenbasierte Modellierung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1223",
+    "question": "Was ist Email?",
+    "type": "single",
+    "options": [
+      "Agent 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Email: Agent 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 15,
+    "tags": [
+      "Email"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1224",
+    "question": "Richtig oder Falsch: Email Agent 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Email: Agent 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 15,
+    "tags": [
+      "Email"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1225",
+    "question": "Was ist Mehrwert?",
+    "type": "single",
+    "options": [
+      "Kombination vieler Einzelagenten mehr als die reine Summe der Möglichkeiten von Einzelagenten Vermeiden des Ausfallrisikos eines zentralen Systems Vermeiden der Beschränkungen der Ressourcen eines zentralen Systems Integration: Bestehende Systeme (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mehrwert: Kombination vieler Einzelagenten mehr als die reine Summe der Möglichkeiten von Einzelagenten Vermeiden des Ausfallrisikos eines zentralen Systems Vermeiden der Beschränkungen der Ressourcen eines zentralen Systems Integration: Bestehende Systeme (z.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 16,
+    "tags": [
+      "Mehrwert"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1226",
+    "question": "Richtig oder Falsch: Mehrwert Kombination vieler Einzelagenten mehr als die reine Summe der Möglichkeiten von Einzelagenten Vermeiden des Ausfallrisikos eines zentralen Systems Vermeiden der Beschränkungen der Ressourcen eines zentralen Systems Integration: Bestehende Systeme (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mehrwert: Kombination vieler Einzelagenten mehr als die reine Summe der Möglichkeiten von Einzelagenten Vermeiden des Ausfallrisikos eines zentralen Systems Vermeiden der Beschränkungen der Ressourcen eines zentralen Systems Integration: Bestehende Systeme (z.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 16,
+    "tags": [
+      "Mehrwert"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1227",
+    "question": "Was ist Agentenbasierte Systeme Definition Software?",
+    "type": "single",
+    "options": [
+      "Agent „Ein Software -Agent ist eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Agentenbasierte Systeme Definition Software: Agent „Ein Software -Agent ist eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agentenbasierte Systeme Definition Software"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1228",
+    "question": "Richtig oder Falsch: Agentenbasierte Systeme Definition Software Agent „Ein Software -Agent ist eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Agentenbasierte Systeme Definition Software: Agent „Ein Software -Agent ist eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agentenbasierte Systeme Definition Software"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1229",
+    "question": "Was ist Adaptions?",
+    "type": "single",
+    "options": [
+      "und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Adaptions: und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Adaptions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1230",
+    "question": "Richtig oder Falsch: Adaptions und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Adaptions: und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Adaptions"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1231",
+    "question": "Was ist Wooldridge?",
+    "type": "single",
+    "options": [
+      "Intelligent Agents: The Key Concepts.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wooldridge: Intelligent Agents: The Key Concepts.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Wooldridge"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1232",
+    "question": "Richtig oder Falsch: Wooldridge Intelligent Agents: The Key Concepts.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wooldridge: Intelligent Agents: The Key Concepts.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Wooldridge"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1233",
+    "question": "Was ist North?",
+    "type": "single",
+    "options": [
+      "Hollan d Publishing Company, Amsterdam, NL (1977).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "North: Hollan d Publishing Company, Amsterdam, NL (1977).",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "North"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1234",
+    "question": "Richtig oder Falsch: North Hollan d Publishing Company, Amsterdam, NL (1977).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. North: Hollan d Publishing Company, Amsterdam, NL (1977).",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "North"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1235",
+    "question": "Was ist Agent?",
+    "type": "single",
+    "options": [
+      "eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Agent: eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agent"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1236",
+    "question": "Richtig oder Falsch: Agent eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Agent: eine Software, die – im Rahmen ihrer Fähigkeiten – zu eigenständigem bzw.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agent"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1237",
+    "question": "Was ist Agent?",
+    "type": "single",
+    "options": [
+      "ein Computersystem, das sich in einer bestimmten Umgebung befindet und welches fähig ist, eigenständige Aktionen in dieser Umgebung durchzuführen, um seine (vorgegebenen) Ziele zu erreichen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Agent: ein Computersystem, das sich in einer bestimmten Umgebung befindet und welches fähig ist, eigenständige Aktionen in dieser Umgebung durchzuführen, um seine (vorgegebenen) Ziele zu erreichen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agent"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1238",
+    "question": "Richtig oder Falsch: Agent ein Computersystem, das sich in einer bestimmten Umgebung befindet und welches fähig ist, eigenständige Aktionen in dieser Umgebung durchzuführen, um seine (vorgegebenen) Ziele zu erreichen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Agent: ein Computersystem, das sich in einer bestimmten Umgebung befindet und welches fähig ist, eigenständige Aktionen in dieser Umgebung durchzuführen, um seine (vorgegebenen) Ziele zu erreichen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agent"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1239",
+    "question": "Was ist Agent?",
+    "type": "single",
+    "options": [
+      "zu eigenständigem, autonomen Verhalten fähig Hat eigenen Zustand Kommunikationsfähigkeit Adaptions - und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Agent: zu eigenständigem, autonomen Verhalten fähig Hat eigenen Zustand Kommunikationsfähigkeit Adaptions - und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agent"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1240",
+    "question": "Richtig oder Falsch: Agent zu eigenständigem, autonomen Verhalten fähig Hat eigenen Zustand Kommunikationsfähigkeit Adaptions - und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Agent: zu eigenständigem, autonomen Verhalten fähig Hat eigenen Zustand Kommunikationsfähigkeit Adaptions - und Modifikationsfähigkeit Hewitt: Ein \"Actor“ \"is a computational agent which has a mail address and a behavior .",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 17,
+    "tags": [
+      "Agent"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1241",
+    "question": "Was ist Condition?",
+    "type": "single",
+    "options": [
+      "action rules ) Rein reaktives Verhalten - eine Aktion wird durch einen äußeren Reiz hervorgerufen Schema 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Condition: action rules ) Rein reaktives Verhalten - eine Aktion wird durch einen äußeren Reiz hervorgerufen Schema 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 25,
+    "tags": [
+      "Condition"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1242",
+    "question": "Richtig oder Falsch: Condition action rules ) Rein reaktives Verhalten - eine Aktion wird durch einen äußeren Reiz hervorgerufen Schema 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Condition: action rules ) Rein reaktives Verhalten - eine Aktion wird durch einen äußeren Reiz hervorgerufen Schema 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 25,
+    "tags": [
+      "Condition"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1243",
+    "question": "Was ist Performance Element?",
+    "type": "single",
+    "options": [
+      "beobachtender Agent Learning Element modifiziert das Performance Element Basierend auf dem Critic Modul Problem Generator – Lernen durch Durchführung nicht optimaler (bester) Aktionen 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Performance Element: beobachtender Agent Learning Element modifiziert das Performance Element Basierend auf dem Critic Modul Problem Generator – Lernen durch Durchführung nicht optimaler (bester) Aktionen 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 27,
+    "tags": [
+      "Performance Element"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1244",
+    "question": "Richtig oder Falsch: Performance Element beobachtender Agent Learning Element modifiziert das Performance Element Basierend auf dem Critic Modul Problem Generator – Lernen durch Durchführung nicht optimaler (bester) Aktionen 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Performance Element: beobachtender Agent Learning Element modifiziert das Performance Element Basierend auf dem Critic Modul Problem Generator – Lernen durch Durchführung nicht optimaler (bester) Aktionen 1 Frochte , Jörg (2019): Maschinelles Lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 27,
+    "tags": [
+      "Performance Element"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1245",
+    "question": "Was ist Software?",
+    "type": "single",
+    "options": [
+      "Agent in Ihrem Unternehmen übernehmen?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Software: Agent in Ihrem Unternehmen übernehmen?",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 29,
+    "tags": [
+      "Software"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1246",
+    "question": "Richtig oder Falsch: Software Agent in Ihrem Unternehmen übernehmen?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Software: Agent in Ihrem Unternehmen übernehmen?",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 29,
+    "tags": [
+      "Software"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1247",
+    "question": "Was ist Markov?",
+    "type": "single",
+    "options": [
+      "Entscheidungsprozesse Model Based Ein Modell von der Umgebung wird erstellt, um Vorhersagen zu zukünftigen Zuständen oder Belohnungen treffen zu können.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Markov: Entscheidungsprozesse Model Based Ein Modell von der Umgebung wird erstellt, um Vorhersagen zu zukünftigen Zuständen oder Belohnungen treffen zu können.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 34,
+    "tags": [
+      "Markov"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1248",
+    "question": "Richtig oder Falsch: Markov Entscheidungsprozesse Model Based Ein Modell von der Umgebung wird erstellt, um Vorhersagen zu zukünftigen Zuständen oder Belohnungen treffen zu können.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Markov: Entscheidungsprozesse Model Based Ein Modell von der Umgebung wird erstellt, um Vorhersagen zu zukünftigen Zuständen oder Belohnungen treffen zu können.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 34,
+    "tags": [
+      "Markov"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1249",
+    "question": "Was ist Value-based?",
+    "type": "single",
+    "options": [
+      "AnsatzVersuch die Wertefunktion kontinuierlich zu verbessern, um schließlich die optimale Wertefunktion zu lernen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Value-based: AnsatzVersuch die Wertefunktion kontinuierlich zu verbessern, um schließlich die optimale Wertefunktion zu lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 34,
+    "tags": [
+      "Value-based"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1250",
+    "question": "Richtig oder Falsch: Value-based AnsatzVersuch die Wertefunktion kontinuierlich zu verbessern, um schließlich die optimale Wertefunktion zu lernen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Value-based: AnsatzVersuch die Wertefunktion kontinuierlich zu verbessern, um schließlich die optimale Wertefunktion zu lernen.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 34,
+    "tags": [
+      "Value-based"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1251",
+    "question": "Was ist Computing Machinery?",
+    "type": "single",
+    "options": [
+      "Digital Library; ACM Special Interest Group on Hypertext, Hypermedia, and Web, Republic and Canton of Geneva.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Computing Machinery: Digital Library; ACM Special Interest Group on Hypertext, Hypermedia, and Web, Republic and Canton of Geneva.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 35,
+    "tags": [
+      "Computing Machinery"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1252",
+    "question": "Richtig oder Falsch: Computing Machinery Digital Library; ACM Special Interest Group on Hypertext, Hypermedia, and Web, Republic and Canton of Geneva.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Computing Machinery: Digital Library; ACM Special Interest Group on Hypertext, Hypermedia, and Web, Republic and Canton of Geneva.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 35,
+    "tags": [
+      "Computing Machinery"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1253",
+    "question": "Was ist Basis?",
+    "type": "single",
+    "options": [
+      "Zustände (Anfang, Ende, Zwischenzustände), Regeln und Aktionen Regeln geben vor, wie man einen (möglichen) Zustand A in einen nächsten (möglichen) Zustand B korrekt überführen kann.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Basis: Zustände (Anfang, Ende, Zwischenzustände), Regeln und Aktionen Regeln geben vor, wie man einen (möglichen) Zustand A in einen nächsten (möglichen) Zustand B korrekt überführen kann.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 37,
+    "tags": [
+      "Basis"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1254",
+    "question": "Richtig oder Falsch: Basis Zustände (Anfang, Ende, Zwischenzustände), Regeln und Aktionen Regeln geben vor, wie man einen (möglichen) Zustand A in einen nächsten (möglichen) Zustand B korrekt überführen kann.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Basis: Zustände (Anfang, Ende, Zwischenzustände), Regeln und Aktionen Regeln geben vor, wie man einen (möglichen) Zustand A in einen nächsten (möglichen) Zustand B korrekt überführen kann.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 37,
+    "tags": [
+      "Basis"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1255",
+    "question": "Was ist Graph?",
+    "type": "single",
+    "options": [
+      "Abstrakter Struktur aus Knoten (Ecken) und Kanten (Bögen) 𝐺𝐺 =(𝑁𝑁,𝐸𝐸) mit N Knoten und E Kanten und 𝐸𝐸⊆𝑁𝑁×𝑁𝑁 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 : 𝑆𝑆(𝑁𝑁,𝐸𝐸), 𝑧𝑧1∈𝑁𝑁, 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧:𝑁𝑁→𝑊𝑊,𝐹𝐹 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧 prüft, ob der 𝑁𝑁 einem Zielzustand entspricht.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Graph: Abstrakter Struktur aus Knoten (Ecken) und Kanten (Bögen) 𝐺𝐺 =(𝑁𝑁,𝐸𝐸) mit N Knoten und E Kanten und 𝐸𝐸⊆𝑁𝑁×𝑁𝑁 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 : 𝑆𝑆(𝑁𝑁,𝐸𝐸), 𝑧𝑧1∈𝑁𝑁, 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧:𝑁𝑁→𝑊𝑊,𝐹𝐹 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧 prüft, ob der 𝑁𝑁 einem Zielzustand entspricht.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 39,
+    "tags": [
+      "Graph"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1256",
+    "question": "Richtig oder Falsch: Graph Abstrakter Struktur aus Knoten (Ecken) und Kanten (Bögen) 𝐺𝐺 =(𝑁𝑁,𝐸𝐸) mit N Knoten und E Kanten und 𝐸𝐸⊆𝑁𝑁×𝑁𝑁 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 : 𝑆𝑆(𝑁𝑁,𝐸𝐸), 𝑧𝑧1∈𝑁𝑁, 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧:𝑁𝑁→𝑊𝑊,𝐹𝐹 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧 prüft, ob der 𝑁𝑁 einem Zielzustand entspricht.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Graph: Abstrakter Struktur aus Knoten (Ecken) und Kanten (Bögen) 𝐺𝐺 =(𝑁𝑁,𝐸𝐸) mit N Knoten und E Kanten und 𝐸𝐸⊆𝑁𝑁×𝑁𝑁 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 : 𝑆𝑆(𝑁𝑁,𝐸𝐸), 𝑧𝑧1∈𝑁𝑁, 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧:𝑁𝑁→𝑊𝑊,𝐹𝐹 𝑧𝑧𝑧𝑧𝐺𝐺𝑧𝑧 prüft, ob der 𝑁𝑁 einem Zielzustand entspricht.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 39,
+    "tags": [
+      "Graph"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1257",
+    "question": "Was ist Kand?",
+    "type": "single",
+    "options": [
+      "= [z1]; Ziel_erreicht := false ; REPEAT Wähle aus Kand einen Weg : p := z1z2 .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Kand: = [z1]; Ziel_erreicht := false ; REPEAT Wähle aus Kand einen Weg : p := z1z2 .",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 41,
+    "tags": [
+      "Kand"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1258",
+    "question": "Richtig oder Falsch: Kand = [z1]; Ziel_erreicht := false ; REPEAT Wähle aus Kand einen Weg : p := z1z2 .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Kand: = [z1]; Ziel_erreicht := false ; REPEAT Wähle aus Kand einen Weg : p := z1z2 .",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 41,
+    "tags": [
+      "Kand"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1259",
+    "question": "Was ist Breitensuche?",
+    "type": "single",
+    "options": [
+      "Expansion des Suchraums ebenenweise Tiefensuche: Expansion des Suchraums Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Breitensuche: Expansion des Suchraums ebenenweise Tiefensuche: Expansion des Suchraums Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 42,
+    "tags": [
+      "Breitensuche"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1260",
+    "question": "Richtig oder Falsch: Breitensuche Expansion des Suchraums ebenenweise Tiefensuche: Expansion des Suchraums Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Breitensuche: Expansion des Suchraums ebenenweise Tiefensuche: Expansion des Suchraums Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 42,
+    "tags": [
+      "Breitensuche"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1261",
+    "question": "Was ist Kand?",
+    "type": "single",
+    "options": [
+      "= [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Kand: = [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 43,
+    "tags": [
+      "Kand"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1262",
+    "question": "Richtig oder Falsch: Kand = [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Kand: = [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 43,
+    "tags": [
+      "Kand"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1263",
+    "question": "Was ist Kand?",
+    "type": "single",
+    "options": [
+      "= [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Kand: = [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 43,
+    "tags": [
+      "Kand"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1264",
+    "question": "Richtig oder Falsch: Kand = [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Kand: = [z1]; Ziel_erreicht := false ; REPEAT Sei Kand = [z1z2.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 43,
+    "tags": [
+      "Kand"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1265",
+    "question": "Was ist Vollständigkeit?",
+    "type": "single",
+    "options": [
+      "Suchverfahren ist vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vollständigkeit: Suchverfahren ist vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Vollständigkeit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1266",
+    "question": "Richtig oder Falsch: Vollständigkeit Suchverfahren ist vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vollständigkeit: Suchverfahren ist vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Vollständigkeit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1267",
+    "question": "Was ist Suchverfahren?",
+    "type": "single",
+    "options": [
+      "vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Suchverfahren: vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Suchverfahren"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1268",
+    "question": "Richtig oder Falsch: Suchverfahren vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Suchverfahren: vollständig, wenn es immer eine Lösung findet (falls diese existiert) Korrektheit : Suchverfahren ist korrekt, wenn der vorgeschlagene Weg tatsächlich eine Lösung ist Breitensuche ist vollständig, Tiefensuche nur dann, wenn Suchraum endlich ist.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Suchverfahren"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1269",
+    "question": "Was ist Suchverfahren?",
+    "type": "single",
+    "options": [
+      "korrekt, da Zielerreichung über ein Prädikat Wahr/Falsch geprüft werden kann.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Suchverfahren: korrekt, da Zielerreichung über ein Prädikat Wahr/Falsch geprüft werden kann.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Suchverfahren"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1270",
+    "question": "Richtig oder Falsch: Suchverfahren korrekt, da Zielerreichung über ein Prädikat Wahr/Falsch geprüft werden kann.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Suchverfahren: korrekt, da Zielerreichung über ein Prädikat Wahr/Falsch geprüft werden kann.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 45,
+    "tags": [
+      "Suchverfahren"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1271",
+    "question": "Was ist Suchverfahren Tiefen?",
+    "type": "single",
+    "options": [
+      "und Breitensuche Erstellen Sie für folgenden Ausgangszustand des Schiebepuzzles eine Graphen, der die nächsten erlaubten drei Züge darstellt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Suchverfahren Tiefen: und Breitensuche Erstellen Sie für folgenden Ausgangszustand des Schiebepuzzles eine Graphen, der die nächsten erlaubten drei Züge darstellt.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 46,
+    "tags": [
+      "Suchverfahren Tiefen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1272",
+    "question": "Richtig oder Falsch: Suchverfahren Tiefen und Breitensuche Erstellen Sie für folgenden Ausgangszustand des Schiebepuzzles eine Graphen, der die nächsten erlaubten drei Züge darstellt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Suchverfahren Tiefen: und Breitensuche Erstellen Sie für folgenden Ausgangszustand des Schiebepuzzles eine Graphen, der die nächsten erlaubten drei Züge darstellt.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 46,
+    "tags": [
+      "Suchverfahren Tiefen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1273",
+    "question": "Was ist Breiten?",
+    "type": "single",
+    "options": [
+      "und Tiefensuche viel Speicherplatz (Wege speichern) und Zeit.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Breiten: und Tiefensuche viel Speicherplatz (Wege speichern) und Zeit.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Breiten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1274",
+    "question": "Richtig oder Falsch: Breiten und Tiefensuche viel Speicherplatz (Wege speichern) und Zeit.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Breiten: und Tiefensuche viel Speicherplatz (Wege speichern) und Zeit.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Breiten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1275",
+    "question": "Was ist Strukturieren?",
+    "type": "single",
+    "options": [
+      "> Suchverfahren vollständig Verkleinern -> Vollständigkeit kann verloren gehen Oft existieren zusätzliche Anforderungen wie den kürzesten Weg zu finden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Strukturieren: > Suchverfahren vollständig Verkleinern -> Vollständigkeit kann verloren gehen Oft existieren zusätzliche Anforderungen wie den kürzesten Weg zu finden.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Strukturieren"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1276",
+    "question": "Richtig oder Falsch: Strukturieren > Suchverfahren vollständig Verkleinern -> Vollständigkeit kann verloren gehen Oft existieren zusätzliche Anforderungen wie den kürzesten Weg zu finden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Strukturieren: > Suchverfahren vollständig Verkleinern -> Vollständigkeit kann verloren gehen Oft existieren zusätzliche Anforderungen wie den kürzesten Weg zu finden.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Strukturieren"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1277",
+    "question": "Was ist Schach?",
+    "type": "single",
+    "options": [
+      "Figurenbewertung, Qualität der Stellung, Entfernung zum Schachmatt Diese Information kann dazu verwendet werden, den möglichen Lösungsraum zu beschneiden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Schach: Figurenbewertung, Qualität der Stellung, Entfernung zum Schachmatt Diese Information kann dazu verwendet werden, den möglichen Lösungsraum zu beschneiden.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Schach"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1278",
+    "question": "Richtig oder Falsch: Schach Figurenbewertung, Qualität der Stellung, Entfernung zum Schachmatt Diese Information kann dazu verwendet werden, den möglichen Lösungsraum zu beschneiden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Schach: Figurenbewertung, Qualität der Stellung, Entfernung zum Schachmatt Diese Information kann dazu verwendet werden, den möglichen Lösungsraum zu beschneiden.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 47,
+    "tags": [
+      "Schach"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1279",
+    "question": "Was ist Schach?",
+    "type": "single",
+    "options": [
+      "Qualität der StellungProblemlösen mittels Suchverfahren Heuristische oder informierte Suche Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Schach: Qualität der StellungProblemlösen mittels Suchverfahren Heuristische oder informierte Suche Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 49,
+    "tags": [
+      "Schach"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1280",
+    "question": "Richtig oder Falsch: Schach Qualität der StellungProblemlösen mittels Suchverfahren Heuristische oder informierte Suche Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Schach: Qualität der StellungProblemlösen mittels Suchverfahren Heuristische oder informierte Suche Lämmel U, Cleve J (2012) Künstliche Intelligenz.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 49,
+    "tags": [
+      "Schach"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1281",
+    "question": "Was ist Summe?",
+    "type": "single",
+    "options": [
+      "f = g + h Vorgehen: Zwei Knotenmengen offen, bewertet, aber noch nicht expandiert OPEN geschlossen (bewertet und expandiert) CLOSE Zulässigkeit einer Schätzfunktion h Eine Funktion h zur Bewertung eines Knotens heißt zulässig, wenn sie die Kosten, um zum Ziel zu kommen, nicht überschätzt: Für jeden Knoten n und jeden Zielknoten z, der von n aus erreichbar ist, gilt:h(n) ≤ g(z) – g(n).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Summe: f = g + h Vorgehen: Zwei Knotenmengen offen, bewertet, aber noch nicht expandiert OPEN geschlossen (bewertet und expandiert) CLOSE Zulässigkeit einer Schätzfunktion h Eine Funktion h zur Bewertung eines Knotens heißt zulässig, wenn sie die Kosten, um zum Ziel zu kommen, nicht überschätzt: Für jeden Knoten n und jeden Zielknoten z, der von n aus erreichbar ist, gilt:h(n) ≤ g(z) – g(n).",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 52,
+    "tags": [
+      "Summe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1282",
+    "question": "Richtig oder Falsch: Summe f = g + h Vorgehen: Zwei Knotenmengen offen, bewertet, aber noch nicht expandiert OPEN geschlossen (bewertet und expandiert) CLOSE Zulässigkeit einer Schätzfunktion h Eine Funktion h zur Bewertung eines Knotens heißt zulässig, wenn sie die Kosten, um zum Ziel zu kommen, nicht überschätzt: Für jeden Knoten n und jeden Zielknoten z, der von n aus erreichbar ist, gilt:h(n) ≤ g(z) – g(n).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Summe: f = g + h Vorgehen: Zwei Knotenmengen offen, bewertet, aber noch nicht expandiert OPEN geschlossen (bewertet und expandiert) CLOSE Zulässigkeit einer Schätzfunktion h Eine Funktion h zur Bewertung eines Knotens heißt zulässig, wenn sie die Kosten, um zum Ziel zu kommen, nicht überschätzt: Für jeden Knoten n und jeden Zielknoten z, der von n aus erreichbar ist, gilt:h(n) ≤ g(z) – g(n).",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 52,
+    "tags": [
+      "Summe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1283",
+    "question": "Was ist Puzzle?",
+    "type": "single",
+    "options": [
+      "def __init __(self,size ): self.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Puzzle: def __init __(self,size ): self.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 55,
+    "tags": [
+      "Puzzle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1284",
+    "question": "Richtig oder Falsch: Puzzle def __init __(self,size ): self.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Puzzle: def __init __(self,size ): self.",
+    "source_file": "10-KI_Verschiedene_Technologien.pdf",
+    "source_page": 55,
+    "tags": [
+      "Puzzle"
+    ],
+    "difficulty": 1
+  }
+]
