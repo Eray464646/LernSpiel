@@ -1,0 +1,2703 @@
+[
+  {
+    "id": "q_2536",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS © FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH (FOM), Leimkugelstraße 6, 45141 Essen Dieses Werk ist urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS © FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH (FOM), Leimkugelstraße 6, 45141 Essen Dieses Werk ist urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 2,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2537",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Werk oder Teile daraus dürfen nicht ohne schriftliche Genehmigung der FOM reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Werk oder Teile daraus dürfen nicht ohne schriftliche Genehmigung der FOM reproduziert oder unter Verwendung elektronischer Systeme verarbeitet, vervielfältigt oder verbreitet werden",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 2,
+    "tags": [
+      "Das",
+      "Werk",
+      "Teile"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2538",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Machine Learning Übung Parameter / Hyperparameter Verfahren Lernart Typische Parameter Typische Hyperparameter Lineare Regression Supervised Regressionsgewichte, BiasLernrate (falls GD), Regularisierungsstärke (λ) Logistische Regression Supervised Gewichte, BiasRegularisierungsparameter (C), Lernrate k-Nearest Neighbors (kNN) Supervised– (keine trainierten Parameter, speichert nur Daten)k-Wert, Distanzmaß Decision Tree Supervised Schwellenwerte an KnotenMaximale Tiefe, min",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Machine Learning Übung Parameter / Hyperparameter Verfahren Lernart Typische Parameter Typische Hyperparameter Lineare Regression Supervised Regressionsgewichte, BiasLernrate (falls GD), Regularisierungsstärke (λ) Logistische Regression Supervised Gewichte, BiasRegularisierungsparameter (C), Lernrate k-Nearest Neighbors (kNN) Supervised– (keine trainierten Parameter, speichert nur Daten)k-Wert, Distanzmaß Decision Tree Supervised Schwellenwerte an KnotenMaximale Tiefe, min",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 8,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2539",
+    "question": "Welche Aussage über Features ist korrekt?",
+    "type": "single",
+    "options": [
+      "Features Support Vector Machine (SVM) Supervised Support -Vektoren, GewichteC-Parameter, Kerneltyp, γ (bei RBF) Naive Bayes SupervisedKlassenwahrscheinlichkeiten, bedingte Wahrscheinlichkeiten– (meist kaum Hyperparameter) k-Means Unsupervised Clusterzentren (μ ₁,…,μₖ)Anzahl Cluster k, max",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Features Support Vector Machine (SVM) Supervised Support -Vektoren, GewichteC-Parameter, Kerneltyp, γ (bei RBF) Naive Bayes SupervisedKlassenwahrscheinlichkeiten, bedingte Wahrscheinlichkeiten– (meist kaum Hyperparameter) k-Means Unsupervised Clusterzentren (μ ₁,…,μₖ)Anzahl Cluster k, max",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 8,
+    "tags": [
+      "Features",
+      "Support",
+      "Vector"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2540",
+    "question": "Welche Aussage über Testdaten ist korrekt?",
+    "type": "single",
+    "options": [
+      "c) Testdaten: zur finalen Beurteilung der Modellleistung",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "c) Testdaten: zur finalen Beurteilung der Modellleistung",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 10,
+    "tags": [
+      "Testdaten",
+      "Beurteilung",
+      "Modellleistung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2541",
+    "question": "Welche Aussage über Aufgabe ist korrekt?",
+    "type": "single",
+    "options": [
+      "Aufgabe 7: Warum ist Kreuzvalidierung bei kleinen Datensätzen besonders sinnvoll",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aufgabe 7: Warum ist Kreuzvalidierung bei kleinen Datensätzen besonders sinnvoll",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 11,
+    "tags": [
+      "Aufgabe",
+      "Warum",
+      "Kreuzvalidierung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2542",
+    "question": "Welche Aussage über Aufgabe ist korrekt?",
+    "type": "single",
+    "options": [
+      "Aufgabe 9: Warum darf das Testset erst nach der Kreuzvalidierung verwendet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aufgabe 9: Warum darf das Testset erst nach der Kreuzvalidierung verwendet werden",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 12,
+    "tags": [
+      "Aufgabe",
+      "Warum",
+      "Testset"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2543",
+    "question": "Welche Aussage über Testset ist korrekt?",
+    "type": "single",
+    "options": [
+      "Testset erst am Schluss verwenden, um unverzerrte Schätzung der Generalisierungsleistung zu erhalten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Testset erst am Schluss verwenden, um unverzerrte Schätzung der Generalisierungsleistung zu erhalten",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 12,
+    "tags": [
+      "Testset",
+      "Schluss",
+      "Schätzung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2544",
+    "question": "Welche Aussage über Positive ist korrekt?",
+    "type": "single",
+    "options": [
+      "Positive Klasse ist „Mikrometeorit“",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Positive Klasse ist „Mikrometeorit“",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Positive",
+      "Klasse",
+      "Mikrometeorit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2545",
+    "question": "Welche Aussage über Balanced ist korrekt?",
+    "type": "single",
+    "options": [
+      "Balanced Accuracy und MCC sind robustere Maße bei Klassenungleichgewicht",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Balanced Accuracy und MCC sind robustere Maße bei Klassenungleichgewicht",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Balanced",
+      "Accuracy",
+      "Maße"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2546",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Eine Boltzmannmaschine (RBM = Restricted Boltzmann Machine) ist ein generatives neuronales Netzwerk, das lernt, wie typische Muster in Daten aussehen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Eine Boltzmannmaschine (RBM = Restricted Boltzmann Machine) ist ein generatives neuronales Netzwerk, das lernt, wie typische Muster in Daten aussehen",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 37,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2547",
+    "question": "Welche Aussage über Es ist korrekt?",
+    "type": "single",
+    "options": [
+      "Es besteht aus: sichtbaren Neuronen → enthalten die Eingangsdaten (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Es besteht aus: sichtbaren Neuronen → enthalten die Eingangsdaten (z",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 37,
+    "tags": [
+      "Es",
+      "Neuronen",
+      "Eingangsdaten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2548",
+    "question": "Welche Aussage über Welche ist korrekt?",
+    "type": "single",
+    "options": [
+      "Welche sind typisch für eine bestimmte Aktivität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Welche sind typisch für eine bestimmte Aktivität",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 37,
+    "tags": [
+      "Welche",
+      "Aktivität"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2549",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Schichten RBM Sie besteht aus genau zwei Schichten einer sichtbaren Schicht und einer versteckten Schicht Ausgabe ist rekonstruierter Input (keine Ausgabeschicht) Das Beispielmodell umfasst 26 Eingabeneuronen und 20 Neuronen in der versteckten Schicht",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Schichten RBM Sie besteht aus genau zwei Schichten einer sichtbaren Schicht und einer versteckten Schicht Ausgabe ist rekonstruierter Input (keine Ausgabeschicht) Das Beispielmodell umfasst 26 Eingabeneuronen und 20 Neuronen in der versteckten Schicht",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 38,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2550",
+    "question": "Welche Aussage über Konnektivität ist korrekt?",
+    "type": "single",
+    "options": [
+      "Konnektivität Das wichtigste Merkmal ist die Beschränkung ( Restricted):Jede Einheit der sichtbaren Schicht ist mit jeder Einheit der versteckten Schicht verbunden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Konnektivität Das wichtigste Merkmal ist die Beschränkung ( Restricted):Jede Einheit der sichtbaren Schicht ist mit jeder Einheit der versteckten Schicht verbunden",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 38,
+    "tags": [
+      "Konnektivität",
+      "Das",
+      "Merkmal"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2551",
+    "question": "Welche Aussage über Vorteil ist korrekt?",
+    "type": "single",
+    "options": [
+      "Vorteil Diese Beschränkung vereinfacht den Trainingsprozess drastisch, da die Aktivierungen der Neuronen in jeder Schicht, gegeben die Aktivierungen der anderen Schicht, unabhängig voneinander werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vorteil Diese Beschränkung vereinfacht den Trainingsprozess drastisch, da die Aktivierungen der Neuronen in jeder Schicht, gegeben die Aktivierungen der anderen Schicht, unabhängig voneinander werden",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 38,
+    "tags": [
+      "Vorteil",
+      "Diese",
+      "Beschränkung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2552",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Für die folgenden Beschreibungen werden Sensordaten aus der Erfassung von Aktivitäten, die mit einer Smartwatch erhoben wurden, verwendet",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Für die folgenden Beschreibungen werden Sensordaten aus der Erfassung von Aktivitäten, die mit einer Smartwatch erhoben wurden, verwendet",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 39,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2553",
+    "question": "Welche Aussage über Ziele ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ziele Pro-Activity -Modell Jede Aktivität (Drink, EShave, ETooth …) erhält ihr eigenes RBM -Modell, das nur auf deren Daten trainiert wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziele Pro-Activity -Modell Jede Aktivität (Drink, EShave, ETooth …) erhält ihr eigenes RBM -Modell, das nur auf deren Daten trainiert wird",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 40,
+    "tags": [
+      "Ziele",
+      "Pro",
+      "Activity"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2554",
+    "question": "Welche Aussage über Erkennung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Erkennung der Activity Ein neues Sensormuster wird an alle RBMs gegeben",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erkennung der Activity Ein neues Sensormuster wird an alle RBMs gegeben",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 40,
+    "tags": [
+      "Erkennung",
+      "Activity",
+      "Ein"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2555",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Modell, das es am besten rekonstruieren kann, ist die vorhergesagte Aktivität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Modell, das es am besten rekonstruieren kann, ist die vorhergesagte Aktivität",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 40,
+    "tags": [
+      "Das",
+      "Modell",
+      "Aktivität"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2556",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Klassifikation im Modell Funktionale Ausgabe sind der rekonstruieren Input und der Rekonstruktionsfehler",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Klassifikation im Modell Funktionale Ausgabe sind der rekonstruieren Input und der Rekonstruktionsfehler",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2557",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die „Ausgabe der RBM“ ist die Rekonstruktion des Inputs aus den versteckten Neuronen: Input → Visible Layer Berechne Aktivierung Hidden Layer Rekonstruiere wieder Visible Layer → aus den Hidden- Neuronen Für jede Aktivität wird ein RBM -Modell trainiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die „Ausgabe der RBM“ ist die Rekonstruktion des Inputs aus den versteckten Neuronen: Input → Visible Layer Berechne Aktivierung Hidden Layer Rekonstruiere wieder Visible Layer → aus den Hidden- Neuronen Für jede Aktivität wird ein RBM -Modell trainiert",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Die",
+      "Ausgabe",
+      "Rekonstruktion"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2558",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das ist dann die vorhergesagte Aktivität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das ist dann die vorhergesagte Aktivität",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Das",
+      "Aktivität"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2559",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Boltzmannmaschine Statistiken und Ergebnisse für Testfälle === Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples === Konfusionsmatrix === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 28 0 1 4 true_EShave 0 40 0 0 true_ETooth 7 36 26 26 true_Other 3 20 2 87 === Klassifikationsbericht (Precision, Recall, F1) === precision recall f1-score support Drink 0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Boltzmannmaschine Statistiken und Ergebnisse für Testfälle === Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples === Konfusionsmatrix === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 28 0 1 4 true_EShave 0 40 0 0 true_ETooth 7 36 26 26 true_Other 3 20 2 87 === Klassifikationsbericht (Precision, Recall, F1) === precision recall f1-score support Drink 0",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 42,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2560",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Boltzmannmaschine Statistiken und Ergebnisse für alle Fälle === Konfusionsmatrix (ALLE Fä lle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 100 0 2 8 true_EShave 0 132 0 0 true_ETooth 23 142 73 79 true_Other 9 71 20 272 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Boltzmannmaschine Statistiken und Ergebnisse für alle Fälle === Konfusionsmatrix (ALLE Fä lle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 100 0 2 8 true_EShave 0 132 0 0 true_ETooth 23 142 73 79 true_Other 9 71 20 272 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 43,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2561",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/26Ein Autoencoder (AE) ist ein künstliches neuronales Netzwerk, das lernt, die wichtigsten Muster in Daten zu erfassen, indem es diese komprimiert und anschließend wieder rekonstruiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/26Ein Autoencoder (AE) ist ein künstliches neuronales Netzwerk, das lernt, die wichtigsten Muster in Daten zu erfassen, indem es diese komprimiert und anschließend wieder rekonstruiert",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 46,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2562",
+    "question": "Welche Aussage über Es ist korrekt?",
+    "type": "single",
+    "options": [
+      "Es besteht aus: Encoder → reduziert die Eingangsdaten auf wenige, aussagekräftige Merkmale Latent Space → kompakte Repräsentation der Daten (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Es besteht aus: Encoder → reduziert die Eingangsdaten auf wenige, aussagekräftige Merkmale Latent Space → kompakte Repräsentation der Daten (z",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 46,
+    "tags": [
+      "Es",
+      "Encoder",
+      "Eingangsdaten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2563",
+    "question": "Welche Aussage über Bewegungssignatur ist korrekt?",
+    "type": "single",
+    "options": [
+      "Bewegungssignatur) Decoder → stellt aus dieser Repräsentation die ursprünglichen Daten wieder her Beim Training lernt der Autoencoder: Welche Komponenten der Sensordaten sind wesentlich",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bewegungssignatur) Decoder → stellt aus dieser Repräsentation die ursprünglichen Daten wieder her Beim Training lernt der Autoencoder: Welche Komponenten der Sensordaten sind wesentlich",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 46,
+    "tags": [
+      "Bewegungssignatur",
+      "Decoder",
+      "Repräsentation"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2564",
+    "question": "Welche Aussage über Ziele ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ziele Pro-Activity -Modell Jede Aktivität (Drink, EShave, ETooth …) erhält ihr eigenes Autoencoder -Modell, das nur auf deren Daten trainiert wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziele Pro-Activity -Modell Jede Aktivität (Drink, EShave, ETooth …) erhält ihr eigenes Autoencoder -Modell, das nur auf deren Daten trainiert wird",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 47,
+    "tags": [
+      "Ziele",
+      "Pro",
+      "Activity"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2565",
+    "question": "Welche Aussage über In ist korrekt?",
+    "type": "single",
+    "options": [
+      "In diesem Beispiel werden alle Aktivitäten mit weniger als 100 Fällen zur Klasse „Other“ zusammengefasst",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "In diesem Beispiel werden alle Aktivitäten mit weniger als 100 Fällen zur Klasse „Other“ zusammengefasst",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 47,
+    "tags": [
+      "In",
+      "Beispiel",
+      "Aktivitäten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2566",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Beispielmodell umfasst 26 Eingabeneuronen und 16 Neuronen in der versteckten Schicht",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Beispielmodell umfasst 26 Eingabeneuronen und 16 Neuronen in der versteckten Schicht",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 47,
+    "tags": [
+      "Das",
+      "Beispielmodell",
+      "Eingabeneuronen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2567",
+    "question": "Welche Aussage über Erkennung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Erkennung der Activity Ein neues Sensormuster wird an alle Autoencoder gegeben",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erkennung der Activity Ein neues Sensormuster wird an alle Autoencoder gegeben",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 47,
+    "tags": [
+      "Erkennung",
+      "Activity",
+      "Ein"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2568",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Modell, das es am besten rekonstruieren kann, ist die vorhergesagte Aktivität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Modell, das es am besten rekonstruieren kann, ist die vorhergesagte Aktivität",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 47,
+    "tags": [
+      "Das",
+      "Modell",
+      "Aktivität"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2569",
+    "question": "Welche Aussage über Sensorinput ist korrekt?",
+    "type": "single",
+    "options": [
+      "wie typisch der Sensorinput ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "wie typisch der Sensorinput ist",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 48,
+    "tags": [
+      "Sensorinput"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2570",
+    "question": "Welche Aussage über Für ist korrekt?",
+    "type": "single",
+    "options": [
+      "Für jede Aktivität wird ein Autoencoder -Modell trainiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Für jede Aktivität wird ein Autoencoder -Modell trainiert",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 48,
+    "tags": [
+      "Für",
+      "Aktivität",
+      "Autoencoder"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2571",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das ist dann die vorhergesagte Aktivität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das ist dann die vorhergesagte Aktivität",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 48,
+    "tags": [
+      "Das",
+      "Aktivität"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2572",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/ 26Autoencoder Statistiken und Ergebnisse für Testfälle === Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples Klassifiziere TEST- Daten mit allen Autoencodern",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/ 26Autoencoder Statistiken und Ergebnisse für Testfälle === Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples Klassifiziere TEST- Daten mit allen Autoencodern",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 49,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2573",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Lösungen Data Science WS 2025/ 26Autoencoder Statistiken und Ergebnisse für alle Fälle === Konfusionsmatrix (ALLE Fälle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 84 0 3 23 true_EShave 0 129 0 3 true_ETooth 0 1 309 7 true_Other 1 0 7 364 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Lösungen Data Science WS 2025/ 26Autoencoder Statistiken und Ergebnisse für alle Fälle === Konfusionsmatrix (ALLE Fälle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 84 0 3 23 true_EShave 0 129 0 3 true_ETooth 0 1 309 7 true_Other 1 0 7 364 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 50,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Lösungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2574",
+    "question": "Was ist Werk?",
+    "type": "single",
+    "options": [
+      "urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werk: urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 2,
+    "tags": [
+      "Werk"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2575",
+    "question": "Richtig oder Falsch: Werk urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werk: urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 2,
+    "tags": [
+      "Werk"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2576",
+    "question": "Was ist Maßskalen?",
+    "type": "single",
+    "options": [
+      "Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Maßskalen: Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 4,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2577",
+    "question": "Richtig oder Falsch: Maßskalen Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Maßskalen: Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 4,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2578",
+    "question": "Was ist Maßskalen?",
+    "type": "single",
+    "options": [
+      "Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Maßskalen: Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 5,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2579",
+    "question": "Richtig oder Falsch: Maßskalen Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Maßskalen: Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 5,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2580",
+    "question": "Was ist Supervised Support?",
+    "type": "single",
+    "options": [
+      "Vektoren, GewichteC-Parameter, Kerneltyp, γ (bei RBF) Naive Bayes SupervisedKlassenwahrscheinlichkeiten, bedingte Wahrscheinlichkeiten– (meist kaum Hyperparameter) k-Means Unsupervised Clusterzentren (μ ₁,…,μₖ)Anzahl Cluster k, max.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Supervised Support: Vektoren, GewichteC-Parameter, Kerneltyp, γ (bei RBF) Naive Bayes SupervisedKlassenwahrscheinlichkeiten, bedingte Wahrscheinlichkeiten– (meist kaum Hyperparameter) k-Means Unsupervised Clusterzentren (μ ₁,…,μₖ)Anzahl Cluster k, max.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 8,
+    "tags": [
+      "Supervised Support"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2581",
+    "question": "Richtig oder Falsch: Supervised Support Vektoren, GewichteC-Parameter, Kerneltyp, γ (bei RBF) Naive Bayes SupervisedKlassenwahrscheinlichkeiten, bedingte Wahrscheinlichkeiten– (meist kaum Hyperparameter) k-Means Unsupervised Clusterzentren (μ ₁,…,μₖ)Anzahl Cluster k, max.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Supervised Support: Vektoren, GewichteC-Parameter, Kerneltyp, γ (bei RBF) Naive Bayes SupervisedKlassenwahrscheinlichkeiten, bedingte Wahrscheinlichkeiten– (meist kaum Hyperparameter) k-Means Unsupervised Clusterzentren (μ ₁,…,μₖ)Anzahl Cluster k, max.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 8,
+    "tags": [
+      "Supervised Support"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2582",
+    "question": "Was ist Naive Bayesk?",
+    "type": "single",
+    "options": [
+      "MeansSVMRandom ForestDeep Neural Network WS  Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Naive Bayesk: MeansSVMRandom ForestDeep Neural Network WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 9,
+    "tags": [
+      "Naive Bayesk"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2583",
+    "question": "Richtig oder Falsch: Naive Bayesk MeansSVMRandom ForestDeep Neural Network WS  Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Naive Bayesk: MeansSVMRandom ForestDeep Neural Network WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 9,
+    "tags": [
+      "Naive Bayesk"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2584",
+    "question": "Was ist Trainingsdaten?",
+    "type": "single",
+    "options": [
+      "zum Lernen der Modellparameter .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Trainingsdaten: zum Lernen der Modellparameter .",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 10,
+    "tags": [
+      "Trainingsdaten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2585",
+    "question": "Richtig oder Falsch: Trainingsdaten zum Lernen der Modellparameter .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Trainingsdaten: zum Lernen der Modellparameter .",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 10,
+    "tags": [
+      "Trainingsdaten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2586",
+    "question": "Was ist Validierungsdaten?",
+    "type": "single",
+    "options": [
+      "zur Auswahl der Hyperparameter und Kontrolle von Overfitting.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Validierungsdaten: zur Auswahl der Hyperparameter und Kontrolle von Overfitting.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 10,
+    "tags": [
+      "Validierungsdaten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2587",
+    "question": "Richtig oder Falsch: Validierungsdaten zur Auswahl der Hyperparameter und Kontrolle von Overfitting.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Validierungsdaten: zur Auswahl der Hyperparameter und Kontrolle von Overfitting.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 10,
+    "tags": [
+      "Validierungsdaten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2588",
+    "question": "Was ist Testdaten?",
+    "type": "single",
+    "options": [
+      "zur finalen Beurteilung der Modellleistung.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Testdaten: zur finalen Beurteilung der Modellleistung.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 10,
+    "tags": [
+      "Testdaten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2589",
+    "question": "Richtig oder Falsch: Testdaten zur finalen Beurteilung der Modellleistung.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Testdaten: zur finalen Beurteilung der Modellleistung.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 10,
+    "tags": [
+      "Testdaten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2590",
+    "question": "Was ist Vorteil?",
+    "type": "single",
+    "options": [
+      "robustere Schätzung als eine einfache Split-Aufteilung.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vorteil: robustere Schätzung als eine einfache Split-Aufteilung.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 11,
+    "tags": [
+      "Vorteil"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2591",
+    "question": "Richtig oder Falsch: Vorteil robustere Schätzung als eine einfache Split-Aufteilung.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vorteil: robustere Schätzung als eine einfache Split-Aufteilung.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 11,
+    "tags": [
+      "Vorteil"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2592",
+    "question": "Was ist Fold?",
+    "type": "single",
+    "options": [
+      "800 Train, 200 Validierung je Fold.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fold: 800 Train, 200 Validierung je Fold.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 11,
+    "tags": [
+      "Fold"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2593",
+    "question": "Richtig oder Falsch: Fold 800 Train, 200 Validierung je Fold.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Fold: 800 Train, 200 Validierung je Fold.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 11,
+    "tags": [
+      "Fold"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2594",
+    "question": "Was ist Warum?",
+    "type": "single",
+    "options": [
+      "Kreuzvalidierung bei kleinen Datensätzen besonders sinnvoll?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Warum: Kreuzvalidierung bei kleinen Datensätzen besonders sinnvoll?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 11,
+    "tags": [
+      "Warum"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2595",
+    "question": "Richtig oder Falsch: Warum Kreuzvalidierung bei kleinen Datensätzen besonders sinnvoll?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Warum: Kreuzvalidierung bei kleinen Datensätzen besonders sinnvoll?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 11,
+    "tags": [
+      "Warum"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2596",
+    "question": "Was ist Bewertung?",
+    "type": "single",
+    "options": [
+      "geringe Varianz → Modell stabil .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bewertung: geringe Varianz → Modell stabil .",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bewertung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2597",
+    "question": "Richtig oder Falsch: Bewertung geringe Varianz → Modell stabil .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bewertung: geringe Varianz → Modell stabil .",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 12,
+    "tags": [
+      "Bewertung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2598",
+    "question": "Was ist Machine Learning Binäre Klassifikatoren?",
+    "type": "single",
+    "options": [
+      "Gütemaße Berechnen Sie für folgenden Tabellen die angeführten Gütemaße und interpretieren sie das Ergebnis.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Binäre Klassifikatoren: Gütemaße Berechnen Sie für folgenden Tabellen die angeführten Gütemaße und interpretieren sie das Ergebnis.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 14,
+    "tags": [
+      "Machine Learning Binäre Klassifikatoren"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2599",
+    "question": "Richtig oder Falsch: Machine Learning Binäre Klassifikatoren Gütemaße Berechnen Sie für folgenden Tabellen die angeführten Gütemaße und interpretieren sie das Ergebnis.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Binäre Klassifikatoren: Gütemaße Berechnen Sie für folgenden Tabellen die angeführten Gütemaße und interpretieren sie das Ergebnis.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 14,
+    "tags": [
+      "Machine Learning Binäre Klassifikatoren"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2600",
+    "question": "Was ist Quelle?",
+    "type": "single",
+    "options": [
+      "Eigene Darstellung) Voigt R (2023) Automatische Erkennung von Mikrometeoriten mittels künstlicher Intelligenz: Prototyping einer State -of-the-Art Architektur.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quelle: Eigene Darstellung) Voigt R (2023) Automatische Erkennung von Mikrometeoriten mittels künstlicher Intelligenz: Prototyping einer State -of-the-Art Architektur.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 14,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2601",
+    "question": "Richtig oder Falsch: Quelle Eigene Darstellung) Voigt R (2023) Automatische Erkennung von Mikrometeoriten mittels künstlicher Intelligenz: Prototyping einer State -of-the-Art Architektur.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quelle: Eigene Darstellung) Voigt R (2023) Automatische Erkennung von Mikrometeoriten mittels künstlicher Intelligenz: Prototyping einer State -of-the-Art Architektur.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 14,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2602",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße am Beispiel Mikrometeoriten vs.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße am Beispiel Mikrometeoriten vs.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 22,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2603",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße am Beispiel Mikrometeoriten vs.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße am Beispiel Mikrometeoriten vs.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 22,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2604",
+    "question": "Was ist Nicht?",
+    "type": "single",
+    "options": [
+      "Mikrometeoriten 23 Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nicht: Mikrometeoriten 23 Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 22,
+    "tags": [
+      "Nicht"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2605",
+    "question": "Richtig oder Falsch: Nicht Mikrometeoriten 23 Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Nicht: Mikrometeoriten 23 Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 22,
+    "tags": [
+      "Nicht"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2606",
+    "question": "Was ist Spalten?",
+    "type": "single",
+    "options": [
+      "wahre Klasse Zeilen = vorhergesagte KlasseExkurs: Konfusionsmatrizen & Qualitätsmaße Fallstudie Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP FP Vorhergesagt : Nicht MM FN TN Summen WS  Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Spalten: wahre Klasse Zeilen = vorhergesagte KlasseExkurs: Konfusionsmatrizen & Qualitätsmaße Fallstudie Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP FP Vorhergesagt : Nicht MM FN TN Summen WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 23,
+    "tags": [
+      "Spalten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2607",
+    "question": "Richtig oder Falsch: Spalten wahre Klasse Zeilen = vorhergesagte KlasseExkurs: Konfusionsmatrizen & Qualitätsmaße Fallstudie Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP FP Vorhergesagt : Nicht MM FN TN Summen WS  Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Spalten: wahre Klasse Zeilen = vorhergesagte KlasseExkurs: Konfusionsmatrizen & Qualitätsmaße Fallstudie Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP FP Vorhergesagt : Nicht MM FN TN Summen WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 23,
+    "tags": [
+      "Spalten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2608",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Szenario A: Gutes, balanciertes Modell (500 Mikro / 500 Nicht) Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 460 FP = 40 Vorhergesagt : Nicht MM FN = 40 TN = 460 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (460+460)/1000 = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario A: Gutes, balanciertes Modell (500 Mikro / 500 Nicht) Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 460 FP = 40 Vorhergesagt : Nicht MM FN = 40 TN = 460 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (460+460)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 24,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2609",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Szenario A: Gutes, balanciertes Modell (500 Mikro / 500 Nicht) Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 460 FP = 40 Vorhergesagt : Nicht MM FN = 40 TN = 460 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (460+460)/1000 = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario A: Gutes, balanciertes Modell (500 Mikro / 500 Nicht) Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 460 FP = 40 Vorhergesagt : Nicht MM FN = 40 TN = 460 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (460+460)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 24,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2610",
+    "question": "Was ist Score?",
+    "type": "single",
+    "options": [
+      "2·TP/(2·TP+FP+FN) = 920/(920+40+40) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Score: 2·TP/(2·TP+FP+FN) = 920/(920+40+40) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 24,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2611",
+    "question": "Richtig oder Falsch: Score 2·TP/(2·TP+FP+FN) = 920/(920+40+40) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Score: 2·TP/(2·TP+FP+FN) = 920/(920+40+40) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 24,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2612",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Szenario B: Konservativ (hohe Präzision, geringere Sensitivität),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 140 FP = 20 Vorhergesagt : Nicht MM FN = 60 TN = 780 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (140+780)/1000 = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario B: Konservativ (hohe Präzision, geringere Sensitivität),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 140 FP = 20 Vorhergesagt : Nicht MM FN = 60 TN = 780 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (140+780)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 25,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2613",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Szenario B: Konservativ (hohe Präzision, geringere Sensitivität),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 140 FP = 20 Vorhergesagt : Nicht MM FN = 60 TN = 780 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (140+780)/1000 = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario B: Konservativ (hohe Präzision, geringere Sensitivität),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 140 FP = 20 Vorhergesagt : Nicht MM FN = 60 TN = 780 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (140+780)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 25,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2614",
+    "question": "Was ist Score?",
+    "type": "single",
+    "options": [
+      "2·TP/(2·TP+FP+FN) = 280/(280+20+60) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Score: 2·TP/(2·TP+FP+FN) = 280/(280+20+60) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 25,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2615",
+    "question": "Richtig oder Falsch: Score 2·TP/(2·TP+FP+FN) = 280/(280+20+60) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Score: 2·TP/(2·TP+FP+FN) = 280/(280+20+60) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 25,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2616",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Szenario C: Aggressiv (hohe Sensitivität, geringere Präzision),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 180 FP = 220 Vorhergesagt : Nicht MM FN = 20 TN = 580 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (180+580)/1000 = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario C: Aggressiv (hohe Sensitivität, geringere Präzision),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 180 FP = 220 Vorhergesagt : Nicht MM FN = 20 TN = 580 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (180+580)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 26,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2617",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Szenario C: Aggressiv (hohe Sensitivität, geringere Präzision),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 180 FP = 220 Vorhergesagt : Nicht MM FN = 20 TN = 580 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (180+580)/1000 = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario C: Aggressiv (hohe Sensitivität, geringere Präzision),  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 180 FP = 220 Vorhergesagt : Nicht MM FN = 20 TN = 580 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (180+580)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 26,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2618",
+    "question": "Was ist Score?",
+    "type": "single",
+    "options": [
+      "2·TP/(2·TP+FP+FN) = 360/(360+220+20) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Score: 2·TP/(2·TP+FP+FN) = 360/(360+220+20) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 26,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2619",
+    "question": "Richtig oder Falsch: Score 2·TP/(2·TP+FP+FN) = 360/(360+220+20) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Score: 2·TP/(2·TP+FP+FN) = 360/(360+220+20) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 26,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2620",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Szenario D: Triviale Baseline: Alles „Nicht -Mikrometeorit“,  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 0 FP = 0 Vorhergesagt : Nicht MM FN = 200 TN = 800 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (0+800)/1000 = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario D: Triviale Baseline: Alles „Nicht -Mikrometeorit“,  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 0 FP = 0 Vorhergesagt : Nicht MM FN = 200 TN = 800 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (0+800)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 27,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2621",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Szenario D: Triviale Baseline: Alles „Nicht -Mikrometeorit“,  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 0 FP = 0 Vorhergesagt : Nicht MM FN = 200 TN = 800 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (0+800)/1000 = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario D: Triviale Baseline: Alles „Nicht -Mikrometeorit“,  Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 0 FP = 0 Vorhergesagt : Nicht MM FN = 200 TN = 800 Summen 200 800 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (0+800)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 27,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2622",
+    "question": "Was ist Score?",
+    "type": "single",
+    "options": [
+      "2·TP/(2·TP+FP+FN) = 0/(0+0+200) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Score: 2·TP/(2·TP+FP+FN) = 0/(0+0+200) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 27,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2623",
+    "question": "Richtig oder Falsch: Score 2·TP/(2·TP+FP+FN) = 0/(0+0+200) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Score: 2·TP/(2·TP+FP+FN) = 0/(0+0+200) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 27,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2624",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Szenario E: Zufall auf balancierten Klassen () Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 250 FP = 250 Vorhergesagt : Nicht MM FN = 250 TN = 250 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (250+250)/1000 = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario E: Zufall auf balancierten Klassen () Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 250 FP = 250 Vorhergesagt : Nicht MM FN = 250 TN = 250 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (250+250)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 28,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2625",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Szenario E: Zufall auf balancierten Klassen () Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 250 FP = 250 Vorhergesagt : Nicht MM FN = 250 TN = 250 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (250+250)/1000 = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Szenario E: Zufall auf balancierten Klassen () Wahre Klasse: MMWahre Klasse: Nicht MM Vorhergesagt : MM TP = 250 FP = 250 Vorhergesagt : Nicht MM FN = 250 TN = 250 Summen 500 500 TP = True Positives • TN = True Negatives • FP = False Positives • FN = False Negatives Qualitätsmaße (Formel + eingesetzte Zahlen) • Accuracy: (TP+TN)/N = (250+250)/1000 = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 28,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2626",
+    "question": "Was ist Score?",
+    "type": "single",
+    "options": [
+      "2·TP/(2·TP+FP+FN) = 500/(500+250+250) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Score: 2·TP/(2·TP+FP+FN) = 500/(500+250+250) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 28,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2627",
+    "question": "Richtig oder Falsch: Score 2·TP/(2·TP+FP+FN) = 500/(500+250+250) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Score: 2·TP/(2·TP+FP+FN) = 500/(500+250+250) = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 28,
+    "tags": [
+      "Score"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2628",
+    "question": "Was ist Spalten?",
+    "type": "single",
+    "options": [
+      "wahre Klasse, Zeilen = vorhergesagte Klasse (einheitlich umgesetzt).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Spalten: wahre Klasse, Zeilen = vorhergesagte Klasse (einheitlich umgesetzt).",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Spalten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2629",
+    "question": "Richtig oder Falsch: Spalten wahre Klasse, Zeilen = vorhergesagte Klasse (einheitlich umgesetzt).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Spalten: wahre Klasse, Zeilen = vorhergesagte Klasse (einheitlich umgesetzt).",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Spalten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2630",
+    "question": "Was ist Klassenverteilungen?",
+    "type": "single",
+    "options": [
+      "hohe scheinbare Accuracy , aber Recall = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klassenverteilungen: hohe scheinbare Accuracy , aber Recall = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Klassenverteilungen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2631",
+    "question": "Richtig oder Falsch: Klassenverteilungen hohe scheinbare Accuracy , aber Recall = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klassenverteilungen: hohe scheinbare Accuracy , aber Recall = 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Klassenverteilungen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2632",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Hinweise zur Interpretation WS  Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Hinweise zur Interpretation WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2633",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Hinweise zur Interpretation WS  Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Hinweise zur Interpretation WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 29,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2634",
+    "question": "Was ist Machine Learning Aufgabe?",
+    "type": "single",
+    "options": [
+      "Grenzen (Limitierungen) einfacher Perzeptrons Wende Deltaregel auf xor an Implementiere in Excel, Python, …A ¬A A B A B A B A → B A ↔ B T F T T T T T T F T T F F T F F F T F T T F F F F F T T A B A B A | B A B T T F F F T F T T F F T T T F F F F T T𝒘𝒘𝒊𝒊′=𝒘𝒘𝒊𝒊+𝝀𝝀�(𝒕𝒕𝒙𝒙−𝒐𝒐𝒙𝒙)�𝒐𝒐𝒊𝒊 𝒘𝒘′ = neues Gewicht, 𝒘𝒘 = altes Gewicht, 𝝀𝝀 (lambda ) = Lernrate, 𝒕𝒕ₓ = Trainingslabel (Soll- bzw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Aufgabe: Grenzen (Limitierungen) einfacher Perzeptrons Wende Deltaregel auf xor an Implementiere in Excel, Python, …A ¬A A B A B A B A → B A ↔ B T F T T T T T T F T T F F T F F F T F T T F F F F F T T A B A B A | B A B T T F F F T F T T F F T T T F F F F T T𝒘𝒘𝒊𝒊′=𝒘𝒘𝒊𝒊+𝝀𝝀�(𝒕𝒕𝒙𝒙−𝒐𝒐𝒙𝒙)�𝒐𝒐𝒊𝒊 𝒘𝒘′ = neues Gewicht, 𝒘𝒘 = altes Gewicht, 𝝀𝝀 (lambda ) = Lernrate, 𝒕𝒕ₓ = Trainingslabel (Soll- bzw.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 30,
+    "tags": [
+      "Machine Learning Aufgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2635",
+    "question": "Richtig oder Falsch: Machine Learning Aufgabe Grenzen (Limitierungen) einfacher Perzeptrons Wende Deltaregel auf xor an Implementiere in Excel, Python, …A ¬A A B A B A B A → B A ↔ B T F T T T T T T F T T F F T F F F T F T T F F F F F T T A B A B A | B A B T T F F F T F T T F F T T T F F F F T T𝒘𝒘𝒊𝒊′=𝒘𝒘𝒊𝒊+𝝀𝝀�(𝒕𝒕𝒙𝒙−𝒐𝒐𝒙𝒙)�𝒐𝒐𝒊𝒊 𝒘𝒘′ = neues Gewicht, 𝒘𝒘 = altes Gewicht, 𝝀𝝀 (lambda ) = Lernrate, 𝒕𝒕ₓ = Trainingslabel (Soll- bzw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Aufgabe: Grenzen (Limitierungen) einfacher Perzeptrons Wende Deltaregel auf xor an Implementiere in Excel, Python, …A ¬A A B A B A B A → B A ↔ B T F T T T T T T F T T F F T F F F T F T T F F F F F T T A B A B A | B A B T T F F F T F T T F F T T T F F F F T T𝒘𝒘𝒊𝒊′=𝒘𝒘𝒊𝒊+𝝀𝝀�(𝒕𝒕𝒙𝒙−𝒐𝒐𝒙𝒙)�𝒐𝒐𝒊𝒊 𝒘𝒘′ = neues Gewicht, 𝒘𝒘 = altes Gewicht, 𝝀𝝀 (lambda ) = Lernrate, 𝒕𝒕ₓ = Trainingslabel (Soll- bzw.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 30,
+    "tags": [
+      "Machine Learning Aufgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2636",
+    "question": "Was ist Quelle?",
+    "type": "single",
+    "options": [
+      "N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quelle: N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 31,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2637",
+    "question": "Richtig oder Falsch: Quelle N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quelle: N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 31,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2638",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 31,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2639",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 31,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2640",
+    "question": "Was ist Machine Learning Aufgabe?",
+    "type": "single",
+    "options": [
+      "Grenzen (Limitierungen) einfacher Perzeptrons Anpassung der Gewichte nach der Regel: w'=w+lambda*oi*(tx -ox) Lernrate Lambda 0,200 Delta Regel: Logisches xor, Activation ox: Aktivierungsfunktion = 0 wenn Net < 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Aufgabe: Grenzen (Limitierungen) einfacher Perzeptrons Anpassung der Gewichte nach der Regel: w'=w+lambda*oi*(tx -ox) Lernrate Lambda 0,200 Delta Regel: Logisches xor, Activation ox: Aktivierungsfunktion = 0 wenn Net < 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 32,
+    "tags": [
+      "Machine Learning Aufgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2641",
+    "question": "Richtig oder Falsch: Machine Learning Aufgabe Grenzen (Limitierungen) einfacher Perzeptrons Anpassung der Gewichte nach der Regel: w'=w+lambda*oi*(tx -ox) Lernrate Lambda 0,200 Delta Regel: Logisches xor, Activation ox: Aktivierungsfunktion = 0 wenn Net < 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Aufgabe: Grenzen (Limitierungen) einfacher Perzeptrons Anpassung der Gewichte nach der Regel: w'=w+lambda*oi*(tx -ox) Lernrate Lambda 0,200 Delta Regel: Logisches xor, Activation ox: Aktivierungsfunktion = 0 wenn Net < 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 32,
+    "tags": [
+      "Machine Learning Aufgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2642",
+    "question": "Was ist Input?",
+    "type": "single",
+    "options": [
+      "neuronenwOutput - neurontx training labelNet = wi*oi ox Delta tx -ox Startphase - Gewicht 01 1 0,0001 0 0,000 0 0,0001 2 0,000 Gewichte nach 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Input: neuronenwOutput - neurontx training labelNet = wi*oi ox Delta tx -ox Startphase - Gewicht 01 1 0,0001 0 0,000 0 0,0001 2 0,000 Gewichte nach 1.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 32,
+    "tags": [
+      "Input"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2643",
+    "question": "Richtig oder Falsch: Input neuronenwOutput - neurontx training labelNet = wi*oi ox Delta tx -ox Startphase - Gewicht 01 1 0,0001 0 0,000 0 0,0001 2 0,000 Gewichte nach 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Input: neuronenwOutput - neurontx training labelNet = wi*oi ox Delta tx -ox Startphase - Gewicht 01 1 0,0001 0 0,000 0 0,0001 2 0,000 Gewichte nach 1.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 32,
+    "tags": [
+      "Input"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2644",
+    "question": "Was ist Quelle?",
+    "type": "single",
+    "options": [
+      "N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quelle: N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 33,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2645",
+    "question": "Richtig oder Falsch: Quelle N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quelle: N=517 Spalten: wahre Klasse (Spalten), vorhergesagt (Zeilen) Definitionen & Formeln TPR/Recall = TP / (TP+FN) FPR = FP / (FP+TN) Precision (PPV) = TP / (TP+FP) F1 = 2·TP / (2·TP + FP + FN) MCC = (TP·TN − FP·FN) / √((TP+FP)(TP+FN)(TN+FP)(TN+FN)) Youden J = TPR − FPR (balanciert Sensitivität/Spezifität).",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 33,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2646",
+    "question": "Was ist Exkurs?",
+    "type": "single",
+    "options": [
+      "Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Exkurs: Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 33,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2647",
+    "question": "Richtig oder Falsch: Exkurs Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Exkurs: Konfusionsmatrizen & Qualitätsmaße Auswertung Mikrometeoriten -Klassifikation WS  Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 33,
+    "tags": [
+      "Exkurs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2648",
+    "question": "Was ist Übung?",
+    "type": "single",
+    "options": [
+      "Boltzmannmaschine – Neural Net Zoo 37 Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Übung: Boltzmannmaschine – Neural Net Zoo 37 Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 36,
+    "tags": [
+      "Übung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2649",
+    "question": "Richtig oder Falsch: Übung Boltzmannmaschine – Neural Net Zoo 37 Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Übung: Boltzmannmaschine – Neural Net Zoo 37 Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 36,
+    "tags": [
+      "Übung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2650",
+    "question": "Was ist Boltzmannmaschine Wahrscheinlichkeitsverteilungen?",
+    "type": "single",
+    "options": [
+      "Welche Kombinationen von Sensordaten kommen häufig gemeinsam vor ?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Boltzmannmaschine Wahrscheinlichkeitsverteilungen: Welche Kombinationen von Sensordaten kommen häufig gemeinsam vor ?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 37,
+    "tags": [
+      "Boltzmannmaschine Wahrscheinlichkeitsverteilungen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2651",
+    "question": "Richtig oder Falsch: Boltzmannmaschine Wahrscheinlichkeitsverteilungen Welche Kombinationen von Sensordaten kommen häufig gemeinsam vor ?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Boltzmannmaschine Wahrscheinlichkeitsverteilungen: Welche Kombinationen von Sensordaten kommen häufig gemeinsam vor ?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 37,
+    "tags": [
+      "Boltzmannmaschine Wahrscheinlichkeitsverteilungen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2652",
+    "question": "Was ist Welche?",
+    "type": "single",
+    "options": [
+      "typisch für eine bestimmte Aktivität?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Welche: typisch für eine bestimmte Aktivität?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 37,
+    "tags": [
+      "Welche"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2653",
+    "question": "Richtig oder Falsch: Welche typisch für eine bestimmte Aktivität?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Welche: typisch für eine bestimmte Aktivität?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 37,
+    "tags": [
+      "Welche"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2654",
+    "question": "Was ist Ausgabe?",
+    "type": "single",
+    "options": [
+      "rekonstruierter Input (keine Ausgabeschicht) Das Beispielmodell umfasst 26 Eingabeneuronen und 20 Neuronen in der versteckten Schicht.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ausgabe: rekonstruierter Input (keine Ausgabeschicht) Das Beispielmodell umfasst 26 Eingabeneuronen und 20 Neuronen in der versteckten Schicht.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 38,
+    "tags": [
+      "Ausgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2655",
+    "question": "Richtig oder Falsch: Ausgabe rekonstruierter Input (keine Ausgabeschicht) Das Beispielmodell umfasst 26 Eingabeneuronen und 20 Neuronen in der versteckten Schicht.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ausgabe: rekonstruierter Input (keine Ausgabeschicht) Das Beispielmodell umfasst 26 Eingabeneuronen und 20 Neuronen in der versteckten Schicht.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 38,
+    "tags": [
+      "Ausgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2656",
+    "question": "Was ist Merkmal?",
+    "type": "single",
+    "options": [
+      "die Beschränkung ( Restricted):Jede Einheit der sichtbaren Schicht ist mit jeder Einheit der versteckten Schicht verbunden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Merkmal: die Beschränkung ( Restricted):Jede Einheit der sichtbaren Schicht ist mit jeder Einheit der versteckten Schicht verbunden.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 38,
+    "tags": [
+      "Merkmal"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2657",
+    "question": "Richtig oder Falsch: Merkmal die Beschränkung ( Restricted):Jede Einheit der sichtbaren Schicht ist mit jeder Einheit der versteckten Schicht verbunden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Merkmal: die Beschränkung ( Restricted):Jede Einheit der sichtbaren Schicht ist mit jeder Einheit der versteckten Schicht verbunden.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 38,
+    "tags": [
+      "Merkmal"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2658",
+    "question": "Was ist Neuronen?",
+    "type": "single",
+    "options": [
+      "Input → Visible Layer Berechne Aktivierung Hidden Layer Rekonstruiere wieder Visible Layer → aus den Hidden- Neuronen Für jede Aktivität wird ein RBM -Modell trainiert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuronen: Input → Visible Layer Berechne Aktivierung Hidden Layer Rekonstruiere wieder Visible Layer → aus den Hidden- Neuronen Für jede Aktivität wird ein RBM -Modell trainiert.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Neuronen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2659",
+    "question": "Richtig oder Falsch: Neuronen Input → Visible Layer Berechne Aktivierung Hidden Layer Rekonstruiere wieder Visible Layer → aus den Hidden- Neuronen Für jede Aktivität wird ein RBM -Modell trainiert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuronen: Input → Visible Layer Berechne Aktivierung Hidden Layer Rekonstruiere wieder Visible Layer → aus den Hidden- Neuronen Für jede Aktivität wird ein RBM -Modell trainiert.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Neuronen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2660",
+    "question": "Was ist Modelle?",
+    "type": "single",
+    "options": [
+      "'Drink': 'EShave': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle RBMs versuchen das Sensorsample zu rekonstruieren.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Modelle: 'Drink': 'EShave': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle RBMs versuchen das Sensorsample zu rekonstruieren.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Modelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2661",
+    "question": "Richtig oder Falsch: Modelle 'Drink': 'EShave': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle RBMs versuchen das Sensorsample zu rekonstruieren.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Modelle: 'Drink': 'EShave': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle RBMs versuchen das Sensorsample zu rekonstruieren.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Modelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2662",
+    "question": "Was ist Ausgabe?",
+    "type": "single",
+    "options": [
+      "der rekonstruieren Input und der Rekonstruktionsfehler.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ausgabe: der rekonstruieren Input und der Rekonstruktionsfehler.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Ausgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2663",
+    "question": "Richtig oder Falsch: Ausgabe der rekonstruieren Input und der Rekonstruktionsfehler.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ausgabe: der rekonstruieren Input und der Rekonstruktionsfehler.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 41,
+    "tags": [
+      "Ausgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2664",
+    "question": "Was ist Testfälle?",
+    "type": "single",
+    "options": [
+      "== Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples === Konfusionsmatrix === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 28 0 1 4 true_EShave 0 40 0 0 true_ETooth 7 36 26 26 true_Other 3 20 2 87 === Klassifikationsbericht (Precision, Recall, F1) === precision recall f1-score support Drink 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Testfälle: == Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples === Konfusionsmatrix === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 28 0 1 4 true_EShave 0 40 0 0 true_ETooth 7 36 26 26 true_Other 3 20 2 87 === Klassifikationsbericht (Precision, Recall, F1) === precision recall f1-score support Drink 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 42,
+    "tags": [
+      "Testfälle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2665",
+    "question": "Richtig oder Falsch: Testfälle == Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples === Konfusionsmatrix === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 28 0 1 4 true_EShave 0 40 0 0 true_ETooth 7 36 26 26 true_Other 3 20 2 87 === Klassifikationsbericht (Precision, Recall, F1) === precision recall f1-score support Drink 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Testfälle: == Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples === Konfusionsmatrix === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 28 0 1 4 true_EShave 0 40 0 0 true_ETooth 7 36 26 26 true_Other 3 20 2 87 === Klassifikationsbericht (Precision, Recall, F1) === precision recall f1-score support Drink 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 42,
+    "tags": [
+      "Testfälle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2666",
+    "question": "Was ist Fälle?",
+    "type": "single",
+    "options": [
+      "== Konfusionsmatrix (ALLE Fä lle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 100 0 2 8 true_EShave 0 132 0 0 true_ETooth 23 142 73 79 true_Other 9 71 20 272 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fälle: == Konfusionsmatrix (ALLE Fä lle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 100 0 2 8 true_EShave 0 132 0 0 true_ETooth 23 142 73 79 true_Other 9 71 20 272 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 43,
+    "tags": [
+      "Fälle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2667",
+    "question": "Richtig oder Falsch: Fälle == Konfusionsmatrix (ALLE Fä lle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 100 0 2 8 true_EShave 0 132 0 0 true_ETooth 23 142 73 79 true_Other 9 71 20 272 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Fälle: == Konfusionsmatrix (ALLE Fä lle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 100 0 2 8 true_EShave 0 132 0 0 true_ETooth 23 142 73 79 true_Other 9 71 20 272 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 43,
+    "tags": [
+      "Fälle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2668",
+    "question": "Was ist Übung?",
+    "type": "single",
+    "options": [
+      "Autoencoder – Neural Net Zoo 46 Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Übung: Autoencoder – Neural Net Zoo 46 Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 45,
+    "tags": [
+      "Übung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2669",
+    "question": "Richtig oder Falsch: Übung Autoencoder – Neural Net Zoo 46 Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Übung: Autoencoder – Neural Net Zoo 46 Prof.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 45,
+    "tags": [
+      "Übung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2670",
+    "question": "Was ist Autoencoder?",
+    "type": "single",
+    "options": [
+      "Welche Komponenten der Sensordaten sind wesentlich ?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Autoencoder: Welche Komponenten der Sensordaten sind wesentlich ?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 46,
+    "tags": [
+      "Autoencoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2671",
+    "question": "Richtig oder Falsch: Autoencoder Welche Komponenten der Sensordaten sind wesentlich ?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Autoencoder: Welche Komponenten der Sensordaten sind wesentlich ?",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 46,
+    "tags": [
+      "Autoencoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2672",
+    "question": "Was ist Modelle?",
+    "type": "single",
+    "options": [
+      "'Drink': ' EShave ': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle Autoencoder -Modell versuchen das Sensorsample zu rekonstruieren.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Modelle: 'Drink': ' EShave ': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle Autoencoder -Modell versuchen das Sensorsample zu rekonstruieren.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 48,
+    "tags": [
+      "Modelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2673",
+    "question": "Richtig oder Falsch: Modelle 'Drink': ' EShave ': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle Autoencoder -Modell versuchen das Sensorsample zu rekonstruieren.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Modelle: 'Drink': ' EShave ': 'ETooth': 'Other‘ Für ein unbekanntes Sensorsample: Alle Autoencoder -Modell versuchen das Sensorsample zu rekonstruieren.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 48,
+    "tags": [
+      "Modelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2674",
+    "question": "Was ist Dasjenige Autoencoder?",
+    "type": "single",
+    "options": [
+      "Modell gewinnt, das den kleinsten Rekonstruktionsfehler liefert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dasjenige Autoencoder: Modell gewinnt, das den kleinsten Rekonstruktionsfehler liefert.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 48,
+    "tags": [
+      "Dasjenige Autoencoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2675",
+    "question": "Richtig oder Falsch: Dasjenige Autoencoder Modell gewinnt, das den kleinsten Rekonstruktionsfehler liefert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Dasjenige Autoencoder: Modell gewinnt, das den kleinsten Rekonstruktionsfehler liefert.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 48,
+    "tags": [
+      "Dasjenige Autoencoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2676",
+    "question": "Was ist Testfälle?",
+    "type": "single",
+    "options": [
+      "== Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples Klassifiziere TEST- Daten mit allen Autoencodern.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Testfälle: == Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples Klassifiziere TEST- Daten mit allen Autoencodern.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 49,
+    "tags": [
+      "Testfälle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2677",
+    "question": "Richtig oder Falsch: Testfälle == Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples Klassifiziere TEST- Daten mit allen Autoencodern.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Testfälle: == Klassenverteilung nach Gruppierung === 'Drink': 110 Samples 'EShave': 132 Samples 'ETooth': 317 Samples 'Other': 372 Samples Klassifiziere TEST- Daten mit allen Autoencodern.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 49,
+    "tags": [
+      "Testfälle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2678",
+    "question": "Was ist Fälle?",
+    "type": "single",
+    "options": [
+      "== Konfusionsmatrix (ALLE Fälle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 84 0 3 23 true_EShave 0 129 0 3 true_ETooth 0 1 309 7 true_Other 1 0 7 364 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fälle: == Konfusionsmatrix (ALLE Fälle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 84 0 3 23 true_EShave 0 129 0 3 true_ETooth 0 1 309 7 true_Other 1 0 7 364 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 50,
+    "tags": [
+      "Fälle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2679",
+    "question": "Richtig oder Falsch: Fälle == Konfusionsmatrix (ALLE Fälle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 84 0 3 23 true_EShave 0 129 0 3 true_ETooth 0 1 309 7 true_Other 1 0 7 364 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Fälle: == Konfusionsmatrix (ALLE Fälle) === pred_Drink pred_EShave pred_ETooth pred_Other true_Drink 84 0 3 23 true_EShave 0 129 0 3 true_ETooth 0 1 309 7 true_Other 1 0 7 364 === Klassifikationsbericht (ALLE Fälle) === precision recall f1-score support Drink 0.",
+    "source_file": "DataScience_Lösungen.pdf",
+    "source_page": 50,
+    "tags": [
+      "Fälle"
+    ],
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "q_3007",
+    "question": "Was ist Transfer?",
+    "type": "single",
+    "options": [
+      "Aufgabe Big Data & Data Science / Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transfer: Aufgabe Big Data & Data Science / Prof.",
+    "source_file": "Transferaufgabe.pdf",
+    "source_page": 1,
+    "tags": [
+      "Transfer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_3008",
+    "question": "Richtig oder Falsch: Transfer Aufgabe Big Data & Data Science / Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transfer: Aufgabe Big Data & Data Science / Prof.",
+    "source_file": "Transferaufgabe.pdf",
+    "source_page": 1,
+    "tags": [
+      "Transfer"
+    ],
+    "difficulty": 1
+  }
+]

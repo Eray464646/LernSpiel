@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "q_325",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "5 Big Data & Data Science WS Data Preparation bezeichnet den Prozess, bei dem Rohdaten in eine geeignete Form gebracht werden, um sie für Machine-Learning-Modelle nutzbar zu machen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "5 Big Data & Data Science WS Data Preparation bezeichnet den Prozess, bei dem Rohdaten in eine geeignete Form gebracht werden, um sie für Machine-Learning-Modelle nutzbar zu machen",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_326",
+    "question": "Welche Aussage über Es ist korrekt?",
+    "type": "single",
+    "options": [
+      "Es ist ein entscheidender Schritt im gesamten ML-Workflow, da die Qualität der vorbereiteten Daten maßgeblich die Leistung des Modells beeinflusst",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Es ist ein entscheidender Schritt im gesamten ML-Workflow, da die Qualität der vorbereiteten Daten maßgeblich die Leistung des Modells beeinflusst",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Es",
+      "Schritt",
+      "Workflow"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_327",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die Daten sollen strukturiert, konsistent und modellkompatibel sein – damit das Machine-Learning-Modell Muster zuverlässig erkennen und generalisieren kann",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Daten sollen strukturiert, konsistent und modellkompatibel sein – damit das Machine-Learning-Modell Muster zuverlässig erkennen und generalisieren kann",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Die",
+      "Daten",
+      "Machine"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_328",
+    "question": "Welche Aussage über Datenquellen ist korrekt?",
+    "type": "single",
+    "options": [
+      "DatenintegrationZusammenführen verschiedener Datenquellen zu einem konsistenten Datensatz",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "DatenintegrationZusammenführen verschiedener Datenquellen zu einem konsistenten Datensatz",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 6,
+    "tags": [
+      "Datenquellen",
+      "Datensatz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_329",
+    "question": "Welche Aussage über Feature ist korrekt?",
+    "type": "single",
+    "options": [
+      "Feature EngineeringErstellen neuer Merkmale oder Transformation bestehender, um die Modellleistung zu verbessern",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Feature EngineeringErstellen neuer Merkmale oder Transformation bestehender, um die Modellleistung zu verbessern",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 6,
+    "tags": [
+      "Feature",
+      "Merkmale",
+      "Transformation"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_330",
+    "question": "Welche Aussage über Ist ist korrekt?",
+    "type": "single",
+    "options": [
+      "• Ist das Fehlen der Werte zufallsbedingt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "• Ist das Fehlen der Werte zufallsbedingt",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 8,
+    "tags": [
+      "Ist",
+      "Fehlen",
+      "Werte"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_331",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "8 Big Data & Data Science WS 2025/26Data Preparation Handling „ Missing Values“ Eine der häufigsten Unregelmäßigkeiten in Datensätzen sind fehlende Merkmalsausprägungen („Missing Values“) In RapidMiner gekennzeichnet durch „",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "8 Big Data & Data Science WS 2025/26Data Preparation Handling „ Missing Values“ Eine der häufigsten Unregelmäßigkeiten in Datensätzen sind fehlende Merkmalsausprägungen („Missing Values“) In RapidMiner gekennzeichnet durch „",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 8,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_332",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "9 Big Data & Data Science WS 2025/26Data Preparation Handling „ Missing Values“ •Arten von „ Missing Values“: •Missing completely at random (MCAR) •Wahrscheinlichkeit eines fehlenden Wertes ist für alle Merkmalsausprägungen gleich z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "9 Big Data & Data Science WS 2025/26Data Preparation Handling „ Missing Values“ •Arten von „ Missing Values“: •Missing completely at random (MCAR) •Wahrscheinlichkeit eines fehlenden Wertes ist für alle Merkmalsausprägungen gleich z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_333",
+    "question": "Welche Aussage über Missing ist korrekt?",
+    "type": "single",
+    "options": [
+      "•Missing at random (MAR) •Wahrscheinlichkeit eines fehlenden Wertes ist höher, wenn ein anderes Merkmal eine bestimmte Ausprägung besitzt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "•Missing at random (MAR) •Wahrscheinlichkeit eines fehlenden Wertes ist höher, wenn ein anderes Merkmal eine bestimmte Ausprägung besitzt",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Missing",
+      "Wahrscheinlichkeit",
+      "Wertes"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_334",
+    "question": "Welche Aussage über Klasse ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klasse •Überprüfbar durch Visualisierung der „ Missing Value“ -Verteilung über die Merkmalsausprägungen •Missing not at random (MNAR) •Wahrscheinlichkeit eines fehlenden Wertes ist für einige Merkmalsausprägungen höher und bedingt durch das Merkmal selbst z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klasse •Überprüfbar durch Visualisierung der „ Missing Value“ -Verteilung über die Merkmalsausprägungen •Missing not at random (MNAR) •Wahrscheinlichkeit eines fehlenden Wertes ist für einige Merkmalsausprägungen höher und bedingt durch das Merkmal selbst z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Klasse",
+      "Überprüfbar",
+      "Visualisierung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_335",
+    "question": "Welche Aussage über Passagiere ist korrekt?",
+    "type": "single",
+    "options": [
+      ": Passagiere, die einen hohen Preis für ihr Ticket bezahlt haben unterschlagen den Preis bewusst •Nur feststellbar durch intensive Auseinandersetzung mit der Datenerfassungsmethodik •Löschen/Ersetzen der Werte ist nicht möglich ohne dabei das Modell zu beeinflussen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": ": Passagiere, die einen hohen Preis für ihr Ticket bezahlt haben unterschlagen den Preis bewusst •Nur feststellbar durch intensive Auseinandersetzung mit der Datenerfassungsmethodik •Löschen/Ersetzen der Werte ist nicht möglich ohne dabei das Modell zu beeinflussen",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Passagiere",
+      "Preis",
+      "Ticket"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_336",
+    "question": "Welche Aussage über Behandlung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Behandlung von „ Missing Values“ Löschen Ersetzen „Listwise deletion “ „Pairwise deletion “ Löschen v",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Behandlung von „ Missing Values“ Löschen Ersetzen „Listwise deletion “ „Pairwise deletion “ Löschen v",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 10,
+    "tags": [
+      "Behandlung",
+      "Missing",
+      "Values"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_337",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "11 Big Data & Data Science WS 2025/26Data Preparation Handling „ Missing Values“ Löschen von „ Missing Values“: •„Listwise deletion“ •Löschen aller Observationen, für die in mindestens einem Merkmal fehlende Werte vorliegen •Anzahl der Observationen pro Merkmal bleibt für alle Merkmale identisch •„Pairwise deletion “ •Observationen werden bei der Betrachtung von Merkmalen, für die sie keine Ausprägung besitzen, ignoriert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "11 Big Data & Data Science WS 2025/26Data Preparation Handling „ Missing Values“ Löschen von „ Missing Values“: •„Listwise deletion“ •Löschen aller Observationen, für die in mindestens einem Merkmal fehlende Werte vorliegen •Anzahl der Observationen pro Merkmal bleibt für alle Merkmale identisch •„Pairwise deletion “ •Observationen werden bei der Betrachtung von Merkmalen, für die sie keine Ausprägung besitzen, ignoriert",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 11,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_338",
+    "question": "Welche Aussage über Führt ist korrekt?",
+    "type": "single",
+    "options": [
+      "•Führt zu einer unterschiedlichen Anzahl an Observationen pro Merkmal •Löschen ganzer Merkmale •Enthält ein Merkmal zu viele fehlende Ausprägungen (>50%), ist es sinnvoll zu prüfen, ob das gesamte Merkmal aus der Analyse entfernt werden kann",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "•Führt zu einer unterschiedlichen Anzahl an Observationen pro Merkmal •Löschen ganzer Merkmale •Enthält ein Merkmal zu viele fehlende Ausprägungen (>50%), ist es sinnvoll zu prüfen, ob das gesamte Merkmal aus der Analyse entfernt werden kann",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 11,
+    "tags": [
+      "Führt",
+      "Anzahl",
+      "Observationen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_339",
+    "question": "Welche Aussage über Lineare ist korrekt?",
+    "type": "single",
+    "options": [
+      "Lineare Regression, Logistische Regression, kNN Vorteile höhere Genauigkeit als nicht -modell basierte Verfahren  Abbildung nicht -linearer Zusammenhänge möglich Parallele Anwendung auf mehrere MerkmaleNachteile Nur anwendbar, wenn ein tatsächlicher Zusammenhang zw",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Lineare Regression, Logistische Regression, kNN Vorteile höhere Genauigkeit als nicht -modell basierte Verfahren  Abbildung nicht -linearer Zusammenhänge möglich Parallele Anwendung auf mehrere MerkmaleNachteile Nur anwendbar, wenn ein tatsächlicher Zusammenhang zw",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 13,
+    "tags": [
+      "Lineare",
+      "Regression",
+      "Logistische"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_340",
+    "question": "Welche Aussage über Merkmalen ist korrekt?",
+    "type": "single",
+    "options": [
+      "den Merkmalen besteht signifikant höhere Komplexität und Rechen-aufwand  Einstellung von Hyperparametern erforderlich",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "den Merkmalen besteht signifikant höhere Komplexität und Rechen-aufwand  Einstellung von Hyperparametern erforderlich",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 13,
+    "tags": [
+      "Merkmalen",
+      "Komplexität",
+      "Rechen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_341",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "14 Big Data & Data Science WS 2025/26Data Preparation Beispiel für modell -basierte Behandlung von Missing Values k – Nearest Neighbours (kNN) Idee: „Missing Values“ werden aus den k Merkmalsausprägungen benachbarter Observationen geschätzt Anwendbar auf alle Merkmalsskalen Erfordert einen Zusammenhang zwischen dem Merkmal des „Missing Value“ und den anderen Merkmalen Das Finden benachbarter Observationen erfolgt über verschiedene Distanzmaße: Merkmalskalen Abstandsmaß Nominal / Ordinal Hamming -Distanz, Gewichtete Hamming -Dist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "14 Big Data & Data Science WS 2025/26Data Preparation Beispiel für modell -basierte Behandlung von Missing Values k – Nearest Neighbours (kNN) Idee: „Missing Values“ werden aus den k Merkmalsausprägungen benachbarter Observationen geschätzt Anwendbar auf alle Merkmalsskalen Erfordert einen Zusammenhang zwischen dem Merkmal des „Missing Value“ und den anderen Merkmalen Das Finden benachbarter Observationen erfolgt über verschiedene Distanzmaße: Merkmalskalen Abstandsmaß Nominal / Ordinal Hamming -Distanz, Gewichtete Hamming -Dist",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 14,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_342",
+    "question": "Welche Aussage über Metrisch ist korrekt?",
+    "type": "single",
+    "options": [
+      "Metrisch Euklidischer Abstand, Manhatten Distanz https://en",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Metrisch Euklidischer Abstand, Manhatten Distanz https://en",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 14,
+    "tags": [
+      "Metrisch",
+      "Euklidischer",
+      "Abstand"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_343",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "18 Big Data & Data Science WS 2025/26Data Preparation Behandlung von Ausreißern Ausreißer Observationen, die von den Erwartungen (Verteilung) der zugrundeliegenden Merkmale signifikant abweichen Auswirkungen: Einfluss auf statistische Kenngrößen (Mittelwert, Varianz, usw",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "18 Big Data & Data Science WS 2025/26Data Preparation Behandlung von Ausreißern Ausreißer Observationen, die von den Erwartungen (Verteilung) der zugrundeliegenden Merkmale signifikant abweichen Auswirkungen: Einfluss auf statistische Kenngrößen (Mittelwert, Varianz, usw",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 18,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_344",
+    "question": "Welche Aussage über Einfluss ist korrekt?",
+    "type": "single",
+    "options": [
+      "Einfluss auf die Genauigkeit der statistischen Modellierung der Daten Ausreißer (Anomalien) sind nicht zwangsläufig als Fehler anzusehen, sollten jedoch im Rahmen der „Data Exploration“ untersucht werden Spezielle Anwendungsgebiete der Ausreißererkennung Fraud detection (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Einfluss auf die Genauigkeit der statistischen Modellierung der Daten Ausreißer (Anomalien) sind nicht zwangsläufig als Fehler anzusehen, sollten jedoch im Rahmen der „Data Exploration“ untersucht werden Spezielle Anwendungsgebiete der Ausreißererkennung Fraud detection (z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 18,
+    "tags": [
+      "Einfluss",
+      "Genauigkeit",
+      "Modellierung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_345",
+    "question": "Welche Aussage über Ausreißer ist korrekt?",
+    "type": "single",
+    "options": [
+      "5 𝐼𝐼𝐼𝐼𝐼𝐼Univariate Ausreißer Multivariate Ausreißer Verwendung einfacher univariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen: Boxplot, Histogramm IQR-Distanz, z -ScoreVerwendung multivariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen ( z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "5 𝐼𝐼𝐼𝐼𝐼𝐼Univariate Ausreißer Multivariate Ausreißer Verwendung einfacher univariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen: Boxplot, Histogramm IQR-Distanz, z -ScoreVerwendung multivariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen ( z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 19,
+    "tags": [
+      "Ausreißer",
+      "Multivariate",
+      "Ausreißer"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_346",
+    "question": "Welche Aussage über Scatterplot ist korrekt?",
+    "type": "single",
+    "options": [
+      "B: Scatterplot) Clusterbasierte Ansätze Dichtebasierte Ansätze Distanzbasierte Ansätze 020406080100120140 0 100 200 300 400𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "B: Scatterplot) Clusterbasierte Ansätze Dichtebasierte Ansätze Distanzbasierte Ansätze 020406080100120140 0 100 200 300 400𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 19,
+    "tags": [
+      "Scatterplot",
+      "Clusterbasierte",
+      "Ansätze"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_347",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "20 Big Data & Data Science WS 2025/26Data Preparation Identifikation von Ausreißern (Multivariat) Dichte- basierte Methoden Vergleich der Dichte - differenzen zwischen Daten - punkten Annahme: Dichte ist nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "20 Big Data & Data Science WS 2025/26Data Preparation Identifikation von Ausreißern (Multivariat) Dichte- basierte Methoden Vergleich der Dichte - differenzen zwischen Daten - punkten Annahme: Dichte ist nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_348",
+    "question": "Welche Aussage über Local ist korrekt?",
+    "type": "single",
+    "options": [
+      "Local Outlier FactorDistanz -basierte Methoden Bewertet jeden Daten - punkt hinsichtlich seiner aggregierten Distanz zu seinen nächsten Nachbarn( kNN) Datenpunkte mit einem Distanzwert signifikant über dem Durchschnitt sind AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Local Outlier FactorDistanz -basierte Methoden Bewertet jeden Daten - punkt hinsichtlich seiner aggregierten Distanz zu seinen nächsten Nachbarn( kNN) Datenpunkte mit einem Distanzwert signifikant über dem Durchschnitt sind AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Local",
+      "Outlier",
+      "Methoden"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_349",
+    "question": "Welche Aussage über Transformation ist korrekt?",
+    "type": "single",
+    "options": [
+      "Transformation der Ausgangsdaten in ein neues Format, das von Machine Learning Modellen besser interpretiert werden kann Reduziert die Komplexität und beschleunigt die Konvergenz der verwendeten Modelle Erfordert Expertenwissen über die zugrundeliegende Problemstellung Wird zunehmend automatisiert(z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformation der Ausgangsdaten in ein neues Format, das von Machine Learning Modellen besser interpretiert werden kann Reduziert die Komplexität und beschleunigt die Konvergenz der verwendeten Modelle Erfordert Expertenwissen über die zugrundeliegende Problemstellung Wird zunehmend automatisiert(z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 23,
+    "tags": [
+      "Transformation",
+      "Ausgangsdaten",
+      "Format"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_350",
+    "question": "Welche Aussage über Deep ist korrekt?",
+    "type": "single",
+    "options": [
+      "B: durch Deep Learning ) 23 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering Features Feature EngineeringFeatures FeaturesRepräsentieren spezielle problembezogene Charakteristiken der Ausgangsdaten (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "B: durch Deep Learning ) 23 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering Features Feature EngineeringFeatures FeaturesRepräsentieren spezielle problembezogene Charakteristiken der Ausgangsdaten (z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 23,
+    "tags": [
+      "Deep",
+      "Learning",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_351",
+    "question": "Welche Aussage über Modelle ist korrekt?",
+    "type": "single",
+    "options": [
+      "Modelle sind performanter mit metrisch -skalierten Daten) Es gibt Ausnahmen: z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Modelle sind performanter mit metrisch -skalierten Daten) Es gibt Ausnahmen: z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Modelle",
+      "Daten",
+      "Es"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_352",
+    "question": "Welche Aussage über Entscheidungsbäume ist korrekt?",
+    "type": "single",
+    "options": [
+      "Entscheidungsbäume, Random Forest In der Regel ist ein Encoding nicht -metrischer Variablen sinnvoll Label Encoding One Hot Encoding Extraktion von (Teil -) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entscheidungsbäume, Random Forest In der Regel ist ein Encoding nicht -metrischer Variablen sinnvoll Label Encoding One Hot Encoding Extraktion von (Teil -) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Entscheidungsbäume",
+      "Random",
+      "Forest"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_353",
+    "question": "Welche Aussage über Transformation ist korrekt?",
+    "type": "single",
+    "options": [
+      "eine Transformation an Log-Transformation Metrische Merkmale unterschiedlicher Wertebereiche sollten auf einen Wertebereich skaliert werden Min-Max-Scaling Mean -Normalisation Standardisierung",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "eine Transformation an Log-Transformation Metrische Merkmale unterschiedlicher Wertebereiche sollten auf einen Wertebereich skaliert werden Min-Max-Scaling Mean -Normalisation Standardisierung",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Transformation",
+      "Log",
+      "Transformation"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_354",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "25 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (Nominal/Ordinal) Label Encoding Jeder Ausprägung wird durch einen fixen metrischen Wert ersetzt Nur anwendbar auf Ordinale Merkmale Die Anwendung auf Nominale Merkmale würde eine nicht existente Ordnung der Werte erzeugen, die vom Model fälschlicherweise berücksichtigt werden könnte",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "25 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (Nominal/Ordinal) Label Encoding Jeder Ausprägung wird durch einen fixen metrischen Wert ersetzt Nur anwendbar auf Ordinale Merkmale Die Anwendung auf Nominale Merkmale würde eine nicht existente Ordnung der Werte erzeugen, die vom Model fälschlicherweise berücksichtigt werden könnte",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 25,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_355",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "26 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (Nominal/Ordinal) Embark Southampton Cherbourg SouthamptonQueenstownQueenstownSout - hamptonCher - bourgQueens- town 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1One-Hot Encoding Jeder Ausprägung wird durch ein separates Merkmal abgebildet Anwendbar auf ordinale und nominale Merkmale Bei ordinalen Merkmalen geht die Ordnung durch das Encoding verloren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "26 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (Nominal/Ordinal) Embark Southampton Cherbourg SouthamptonQueenstownQueenstownSout - hamptonCher - bourgQueens- town 1 0 0 0 1 0 1 0 0 0 0 1 0 0 1One-Hot Encoding Jeder Ausprägung wird durch ein separates Merkmal abgebildet Anwendbar auf ordinale und nominale Merkmale Bei ordinalen Merkmalen geht die Ordnung durch das Encoding verloren",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 26,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_356",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "27 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (nominal/ordinal) Cabin A37 D7T38E2A5Extraction Ausprägungen nominaler/ordinal skalierter Merkmale enthalten unter Umständen relevante Informationen, die in ein separates Merkmal ausgelagert werden sollten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "27 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (nominal/ordinal) Cabin A37 D7T38E2A5Extraction Ausprägungen nominaler/ordinal skalierter Merkmale enthalten unter Umständen relevante Informationen, die in ein separates Merkmal ausgelagert werden sollten",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 27,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_357",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "28 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Log-Transformation Bei Merkmalen mit stark schiefen Verteilungen kann eine Transformation sinnvoll sein, um eine Verteilung zu erzeugen, die sich der Normalverteilung annähert die Größe des Merkmalsraums zu reduzieren Sollte mit Bedacht eingesetzt und validiert werden, da nicht immer zuverlässig (siehe Artikel ) 𝑥𝑥 log(𝑥𝑥)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "28 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Log-Transformation Bei Merkmalen mit stark schiefen Verteilungen kann eine Transformation sinnvoll sein, um eine Verteilung zu erzeugen, die sich der Normalverteilung annähert die Größe des Merkmalsraums zu reduzieren Sollte mit Bedacht eingesetzt und validiert werden, da nicht immer zuverlässig (siehe Artikel ) 𝑥𝑥 log(𝑥𝑥)",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 28,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_358",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "29 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price 500 10002000Binarization Ausprägungen eines metrischen Merkmals werden nach einer geeigneten Methode (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "29 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price 500 10002000Binarization Ausprägungen eines metrischen Merkmals werden nach einer geeigneten Methode (z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 29,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_359",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "30 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price 500 10002000Binning Ausprägungen eines metrischen Merkmals werden nach einer geeigneten Methode (Feste Schwellwerte, Quantile) in mehrere Klassen eingeteilt (Diskretisieren) Anwendbar auf ordinale und metrische Merkmale Bringt einen Verlust an Informationen mit sich (Einzelfallentscheidung, ob akzeptabel oder nicht) Price Cat",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "30 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price 500 10002000Binning Ausprägungen eines metrischen Merkmals werden nach einer geeigneten Methode (Feste Schwellwerte, Quantile) in mehrere Klassen eingeteilt (Diskretisieren) Anwendbar auf ordinale und metrische Merkmale Bringt einen Verlust an Informationen mit sich (Einzelfallentscheidung, ob akzeptabel oder nicht) Price Cat",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 30,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_360",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "31 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price Age 5000 2 1000 68 0 12 2000 5 0 31Scaling Viele Machine Learning Modelle gewichten Merkmale mit großen Ausprägungen stärker als Merkmale mit kleinen Ausprägungen Metrische Merkmale unterschiedlicher Wertebereiche sollten deshalb auf einen gemeinsamen Wertebereich skaliert werden ( z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "31 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price Age 5000 2 1000 68 0 12 2000 5 0 31Scaling Viele Machine Learning Modelle gewichten Merkmale mit großen Ausprägungen stärker als Merkmale mit kleinen Ausprägungen Metrische Merkmale unterschiedlicher Wertebereiche sollten deshalb auf einen gemeinsamen Wertebereich skaliert werden ( z",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 31,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_361",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "32 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price Age 5000 2 1000 68 0 12 2000 5 0 31Scaling Viele Machine Learning Modelle gewichten Merkmale mit großen Ausprägungen stärker als Merkmale mit kleinen Ausprägungen Metrische Merkmale unterschiedlicher Wertebereiche sollten deshalb auf einen gemeinsamen Wertebereich skaliert werden Standardisation: Price Age 1,640 -0,792 -0,289 1,629 -0,772 -0,425 0,193 -0,682 -0,772 0,271𝑥𝑥𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 =𝑥𝑥−̅𝑥𝑥 𝜎𝜎 𝑥𝑥 𝑥𝑥𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠̅𝑥𝑥𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 =0�𝜎𝜎𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 =1",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "32 Big Data & Data Science WS 2025/26Data Preparation Feature Engineering (metrisch) Price Age 5000 2 1000 68 0 12 2000 5 0 31Scaling Viele Machine Learning Modelle gewichten Merkmale mit großen Ausprägungen stärker als Merkmale mit kleinen Ausprägungen Metrische Merkmale unterschiedlicher Wertebereiche sollten deshalb auf einen gemeinsamen Wertebereich skaliert werden Standardisation: Price Age 1,640 -0,792 -0,289 1,629 -0,772 -0,425 0,193 -0,682 -0,772 0,271𝑥𝑥𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 =𝑥𝑥−̅𝑥𝑥 𝜎𝜎 𝑥𝑥 𝑥𝑥𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠̅𝑥𝑥𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 =0�𝜎𝜎𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠𝑠 =1",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 32,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_362",
+    "question": "Welche Aussage über Addition ist korrekt?",
+    "type": "single",
+    "options": [
+      "durch Addition, Subtraktion bestehender Merkmale) Bringt einen Verlust an Informationen mit sich (Einzelfallentscheidung, ob akzeptabel oder nicht) Beispiel: Zusammenfassen der Merkmale „Anzahl Eltern/Kinder“ und „Anzahl Ehepartner/Geschwister“ zu einem neuen Merkmal „Anzahl Verwandte“ Relatives 1 0363",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "durch Addition, Subtraktion bestehender Merkmale) Bringt einen Verlust an Informationen mit sich (Einzelfallentscheidung, ob akzeptabel oder nicht) Beispiel: Zusammenfassen der Merkmale „Anzahl Eltern/Kinder“ und „Anzahl Ehepartner/Geschwister“ zu einem neuen Merkmal „Anzahl Verwandte“ Relatives 1 0363",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 33,
+    "tags": [
+      "Addition",
+      "Subtraktion",
+      "Merkmale"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_363",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die Gruppe, die die meisten Veränderungen entdeckt und korrigiert, gewinnt die Challenge",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Gruppe, die die meisten Veränderungen entdeckt und korrigiert, gewinnt die Challenge",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 35,
+    "tags": [
+      "Die",
+      "Gruppe",
+      "Veränderungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_364",
+    "question": "Was ist Machine?",
+    "type": "single",
+    "options": [
+      "Learning-Modelle nutzbar zu machen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine: Learning-Modelle nutzbar zu machen.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Machine"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_365",
+    "question": "Richtig oder Falsch: Machine Learning-Modelle nutzbar zu machen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine: Learning-Modelle nutzbar zu machen.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Machine"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_366",
+    "question": "Was ist Machine?",
+    "type": "single",
+    "options": [
+      "Learning-Modell Muster zuverlässig erkennen und generalisieren kann.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine: Learning-Modell Muster zuverlässig erkennen und generalisieren kann.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Machine"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_367",
+    "question": "Richtig oder Falsch: Machine Learning-Modell Muster zuverlässig erkennen und generalisieren kann.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine: Learning-Modell Muster zuverlässig erkennen und generalisieren kann.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Machine"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_368",
+    "question": "Was ist Preparation?",
+    "type": "single",
+    "options": [
+      "den Prozess, bei dem Rohdaten in eine geeignete Form gebracht werden, um sie für Machine-Learning-Modelle nutzbar zu machen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Preparation: den Prozess, bei dem Rohdaten in eine geeignete Form gebracht werden, um sie für Machine-Learning-Modelle nutzbar zu machen.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Preparation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_369",
+    "question": "Richtig oder Falsch: Preparation den Prozess, bei dem Rohdaten in eine geeignete Form gebracht werden, um sie für Machine-Learning-Modelle nutzbar zu machen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Preparation: den Prozess, bei dem Rohdaten in eine geeignete Form gebracht werden, um sie für Machine-Learning-Modelle nutzbar zu machen.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 5,
+    "tags": [
+      "Preparation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_370",
+    "question": "Was ist Trainings?",
+    "type": "single",
+    "options": [
+      ", Validierungs - und Testdaten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Trainings: , Validierungs - und Testdaten.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 6,
+    "tags": [
+      "Trainings"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_371",
+    "question": "Richtig oder Falsch: Trainings , Validierungs - und Testdaten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Trainings: , Validierungs - und Testdaten.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 6,
+    "tags": [
+      "Trainings"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_372",
+    "question": "Was ist Datensätzen?",
+    "type": "single",
+    "options": [
+      "fehlende Merkmalsausprägungen („Missing Values“) In RapidMiner gekennzeichnet durch „?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Datensätzen: fehlende Merkmalsausprägungen („Missing Values“) In RapidMiner gekennzeichnet durch „?",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 8,
+    "tags": [
+      "Datensätzen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_373",
+    "question": "Richtig oder Falsch: Datensätzen fehlende Merkmalsausprägungen („Missing Values“) In RapidMiner gekennzeichnet durch „?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Datensätzen: fehlende Merkmalsausprägungen („Missing Values“) In RapidMiner gekennzeichnet durch „?",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 8,
+    "tags": [
+      "Datensätzen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_374",
+    "question": "Was ist Wertes?",
+    "type": "single",
+    "options": [
+      "für alle Merkmalsausprägungen gleich z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wertes: für alle Merkmalsausprägungen gleich z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Wertes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_375",
+    "question": "Richtig oder Falsch: Wertes für alle Merkmalsausprägungen gleich z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wertes: für alle Merkmalsausprägungen gleich z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Wertes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_376",
+    "question": "Was ist Wertes?",
+    "type": "single",
+    "options": [
+      "höher, wenn ein anderes Merkmal eine bestimmte Ausprägung besitzt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wertes: höher, wenn ein anderes Merkmal eine bestimmte Ausprägung besitzt.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Wertes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_377",
+    "question": "Richtig oder Falsch: Wertes höher, wenn ein anderes Merkmal eine bestimmte Ausprägung besitzt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wertes: höher, wenn ein anderes Merkmal eine bestimmte Ausprägung besitzt.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Wertes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_378",
+    "question": "Was ist Wertes?",
+    "type": "single",
+    "options": [
+      "für einige Merkmalsausprägungen höher und bedingt durch das Merkmal selbst z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wertes: für einige Merkmalsausprägungen höher und bedingt durch das Merkmal selbst z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Wertes"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_379",
+    "question": "Richtig oder Falsch: Wertes für einige Merkmalsausprägungen höher und bedingt durch das Merkmal selbst z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wertes: für einige Merkmalsausprägungen höher und bedingt durch das Merkmal selbst z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Wertes"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_380",
+    "question": "Was ist Werte?",
+    "type": "single",
+    "options": [
+      "nicht möglich ohne dabei das Modell zu beeinflussen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werte: nicht möglich ohne dabei das Modell zu beeinflussen.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_381",
+    "question": "Richtig oder Falsch: Werte nicht möglich ohne dabei das Modell zu beeinflussen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werte: nicht möglich ohne dabei das Modell zu beeinflussen.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 9,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_382",
+    "question": "Was ist Quantitativer Merkmalsausprägungen?",
+    "type": "single",
+    "options": [
+      "•Schätzen fehlender Werte auf Grundlage aller Ausprägungen eines Merkmals •Ersetzen der „ Missing Values“ durch Modus, Median oder Mittelwert über alle Ausprägungen •Sinnvoll bei „MCAR Values“ •Nachteil: Verschiebt ggf.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quantitativer Merkmalsausprägungen: •Schätzen fehlender Werte auf Grundlage aller Ausprägungen eines Merkmals •Ersetzen der „ Missing Values“ durch Modus, Median oder Mittelwert über alle Ausprägungen •Sinnvoll bei „MCAR Values“ •Nachteil: Verschiebt ggf.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 12,
+    "tags": [
+      "Quantitativer Merkmalsausprägungen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_383",
+    "question": "Richtig oder Falsch: Quantitativer Merkmalsausprägungen •Schätzen fehlender Werte auf Grundlage aller Ausprägungen eines Merkmals •Ersetzen der „ Missing Values“ durch Modus, Median oder Mittelwert über alle Ausprägungen •Sinnvoll bei „MCAR Values“ •Nachteil: Verschiebt ggf.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quantitativer Merkmalsausprägungen: •Schätzen fehlender Werte auf Grundlage aller Ausprägungen eines Merkmals •Ersetzen der „ Missing Values“ durch Modus, Median oder Mittelwert über alle Ausprägungen •Sinnvoll bei „MCAR Values“ •Nachteil: Verschiebt ggf.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 12,
+    "tags": [
+      "Quantitativer Merkmalsausprägungen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_384",
+    "question": "Was ist Quantitativer Merkmalsausprägungen?",
+    "type": "single",
+    "options": [
+      "•Modellbasiert •Verwenden eines Klassifikations -/Regressions -Models zur Vorhersage fehlender Werte auf Grundlage der Werte anderer Merkmale einer Observation •z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quantitativer Merkmalsausprägungen: •Modellbasiert •Verwenden eines Klassifikations -/Regressions -Models zur Vorhersage fehlender Werte auf Grundlage der Werte anderer Merkmale einer Observation •z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 13,
+    "tags": [
+      "Quantitativer Merkmalsausprägungen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_385",
+    "question": "Richtig oder Falsch: Quantitativer Merkmalsausprägungen •Modellbasiert •Verwenden eines Klassifikations -/Regressions -Models zur Vorhersage fehlender Werte auf Grundlage der Werte anderer Merkmale einer Observation •z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quantitativer Merkmalsausprägungen: •Modellbasiert •Verwenden eines Klassifikations -/Regressions -Models zur Vorhersage fehlender Werte auf Grundlage der Werte anderer Merkmale einer Observation •z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 13,
+    "tags": [
+      "Quantitativer Merkmalsausprägungen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_386",
+    "question": "Was ist Idee?",
+    "type": "single",
+    "options": [
+      "„Missing Values“ werden aus den k Merkmalsausprägungen benachbarter Observationen geschätzt Anwendbar auf alle Merkmalsskalen Erfordert einen Zusammenhang zwischen dem Merkmal des „Missing Value“ und den anderen Merkmalen Das Finden benachbarter Observationen erfolgt über verschiedene Distanzmaße: Merkmalskalen Abstandsmaß Nominal / Ordinal Hamming -Distanz, Gewichtete Hamming -Dist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Idee: „Missing Values“ werden aus den k Merkmalsausprägungen benachbarter Observationen geschätzt Anwendbar auf alle Merkmalsskalen Erfordert einen Zusammenhang zwischen dem Merkmal des „Missing Value“ und den anderen Merkmalen Das Finden benachbarter Observationen erfolgt über verschiedene Distanzmaße: Merkmalskalen Abstandsmaß Nominal / Ordinal Hamming -Distanz, Gewichtete Hamming -Dist.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 14,
+    "tags": [
+      "Idee"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_387",
+    "question": "Richtig oder Falsch: Idee „Missing Values“ werden aus den k Merkmalsausprägungen benachbarter Observationen geschätzt Anwendbar auf alle Merkmalsskalen Erfordert einen Zusammenhang zwischen dem Merkmal des „Missing Value“ und den anderen Merkmalen Das Finden benachbarter Observationen erfolgt über verschiedene Distanzmaße: Merkmalskalen Abstandsmaß Nominal / Ordinal Hamming -Distanz, Gewichtete Hamming -Dist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Idee: „Missing Values“ werden aus den k Merkmalsausprägungen benachbarter Observationen geschätzt Anwendbar auf alle Merkmalsskalen Erfordert einen Zusammenhang zwischen dem Merkmal des „Missing Value“ und den anderen Merkmalen Das Finden benachbarter Observationen erfolgt über verschiedene Distanzmaße: Merkmalskalen Abstandsmaß Nominal / Ordinal Hamming -Distanz, Gewichtete Hamming -Dist.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 14,
+    "tags": [
+      "Idee"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_388",
+    "question": "Was ist Auswirkungen?",
+    "type": "single",
+    "options": [
+      "Einfluss auf statistische Kenngrößen (Mittelwert, Varianz, usw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Auswirkungen: Einfluss auf statistische Kenngrößen (Mittelwert, Varianz, usw.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 18,
+    "tags": [
+      "Auswirkungen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_389",
+    "question": "Richtig oder Falsch: Auswirkungen Einfluss auf statistische Kenngrößen (Mittelwert, Varianz, usw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Auswirkungen: Einfluss auf statistische Kenngrößen (Mittelwert, Varianz, usw.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 18,
+    "tags": [
+      "Auswirkungen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_390",
+    "question": "Was ist Merkmalsausprägungen?",
+    "type": "single",
+    "options": [
+      "Boxplot, Histogramm IQR-Distanz, z -ScoreVerwendung multivariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen ( z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Merkmalsausprägungen: Boxplot, Histogramm IQR-Distanz, z -ScoreVerwendung multivariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen ( z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 19,
+    "tags": [
+      "Merkmalsausprägungen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_391",
+    "question": "Richtig oder Falsch: Merkmalsausprägungen Boxplot, Histogramm IQR-Distanz, z -ScoreVerwendung multivariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen ( z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Merkmalsausprägungen: Boxplot, Histogramm IQR-Distanz, z -ScoreVerwendung multivariater statistischer Methoden / Visualisierung zur Erkennung von extremen Merkmalsausprägungen ( z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 19,
+    "tags": [
+      "Merkmalsausprägungen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_392",
+    "question": "Was ist Dichte?",
+    "type": "single",
+    "options": [
+      "basierte Methoden Vergleich der Dichte - differenzen zwischen Daten - punkten Annahme: Dichte ist nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dichte: basierte Methoden Vergleich der Dichte - differenzen zwischen Daten - punkten Annahme: Dichte ist nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Dichte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_393",
+    "question": "Richtig oder Falsch: Dichte basierte Methoden Vergleich der Dichte - differenzen zwischen Daten - punkten Annahme: Dichte ist nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Dichte: basierte Methoden Vergleich der Dichte - differenzen zwischen Daten - punkten Annahme: Dichte ist nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Dichte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_394",
+    "question": "Was ist Distanz?",
+    "type": "single",
+    "options": [
+      "basierte Methoden Bewertet jeden Daten - punkt hinsichtlich seiner aggregierten Distanz zu seinen nächsten Nachbarn( kNN) Datenpunkte mit einem Distanzwert signifikant über dem Durchschnitt sind AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Distanz: basierte Methoden Bewertet jeden Daten - punkt hinsichtlich seiner aggregierten Distanz zu seinen nächsten Nachbarn( kNN) Datenpunkte mit einem Distanzwert signifikant über dem Durchschnitt sind AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Distanz"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_395",
+    "question": "Richtig oder Falsch: Distanz basierte Methoden Bewertet jeden Daten - punkt hinsichtlich seiner aggregierten Distanz zu seinen nächsten Nachbarn( kNN) Datenpunkte mit einem Distanzwert signifikant über dem Durchschnitt sind AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Distanz: basierte Methoden Bewertet jeden Daten - punkt hinsichtlich seiner aggregierten Distanz zu seinen nächsten Nachbarn( kNN) Datenpunkte mit einem Distanzwert signifikant über dem Durchschnitt sind AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Distanz"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_396",
+    "question": "Was ist Dichte?",
+    "type": "single",
+    "options": [
+      "nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dichte: nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Dichte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_397",
+    "question": "Richtig oder Falsch: Dichte nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Dichte: nicht in jedem Bereich des Merkmalsraums gleich Ausreißer sind Datenpunkte, deren Dichte sich signifikant von der Dichte der benachbarten Datenpunkte unterscheidet z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Dichte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_398",
+    "question": "Was ist Durchschnitt?",
+    "type": "single",
+    "options": [
+      "AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Durchschnitt: AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Durchschnitt"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_399",
+    "question": "Richtig oder Falsch: Durchschnitt AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Durchschnitt: AusreißerCluster -basierte Methoden Clusteranalyse: Datenpunkte werden zu n Clustern zusammengefasst Datenpunkte die keinem der n Cluster angehören sind Ausreißer z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 20,
+    "tags": [
+      "Durchschnitt"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_400",
+    "question": "Was ist Teil?",
+    "type": "single",
+    "options": [
+      ") Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Teil: ) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Teil"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_401",
+    "question": "Richtig oder Falsch: Teil ) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Teil: ) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Teil"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_402",
+    "question": "Was ist Modelle?",
+    "type": "single",
+    "options": [
+      "performanter mit metrisch -skalierten Daten) Es gibt Ausnahmen: z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Modelle: performanter mit metrisch -skalierten Daten) Es gibt Ausnahmen: z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Modelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_403",
+    "question": "Richtig oder Falsch: Modelle performanter mit metrisch -skalierten Daten) Es gibt Ausnahmen: z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Modelle: performanter mit metrisch -skalierten Daten) Es gibt Ausnahmen: z.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Modelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_404",
+    "question": "Was ist Regel?",
+    "type": "single",
+    "options": [
+      "ein Encoding nicht -metrischer Variablen sinnvoll Label Encoding One Hot Encoding Extraktion von (Teil -) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Regel: ein Encoding nicht -metrischer Variablen sinnvoll Label Encoding One Hot Encoding Extraktion von (Teil -) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Regel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_405",
+    "question": "Richtig oder Falsch: Regel ein Encoding nicht -metrischer Variablen sinnvoll Label Encoding One Hot Encoding Extraktion von (Teil -) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Regel: ein Encoding nicht -metrischer Variablen sinnvoll Label Encoding One Hot Encoding Extraktion von (Teil -) Informationen aus Merkmalen oder Zusammenführen mehrerer Merkmale Extraction Interactions Bei Daten mit schiefen Verteilungen bietet sich ggf.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 24,
+    "tags": [
+      "Regel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_406",
+    "question": "Was ist Iris?",
+    "type": "single",
+    "options": [
+      "Daten auf Änderungen (fehlende Werte, unplausible Werte, Duplikate etc.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Iris: Daten auf Änderungen (fehlende Werte, unplausible Werte, Duplikate etc.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 35,
+    "tags": [
+      "Iris"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_407",
+    "question": "Richtig oder Falsch: Iris Daten auf Änderungen (fehlende Werte, unplausible Werte, Duplikate etc.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Iris: Daten auf Änderungen (fehlende Werte, unplausible Werte, Duplikate etc.",
+    "source_file": "05-bigdata_data_science-data-preparation.pdf",
+    "source_page": 35,
+    "tags": [
+      "Iris"
+    ],
+    "difficulty": 1
+  }
+]

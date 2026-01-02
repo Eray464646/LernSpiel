@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Roguelite - Big Data & Data Science</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Courier New', monospace;
+            background: #1a1a2e;
+            color: #eee;
+            overflow: hidden;
+        }
+        
+        #gameContainer {
+            display: flex;
+            flex-direction: column;
+            height: 100vh;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+        
+        #header {
+            background: #16213e;
+            padding: 15px;
+            border-bottom: 3px solid #0f3460;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        #stats {
+            display: flex;
+            gap: 30px;
+            font-size: 18px;
+        }
+        
+        .stat {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        
+        .stat-icon {
+            font-size: 24px;
+        }
+        
+        #gameArea {
+            flex: 1;
+            display: flex;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        #canvas {
+            flex: 1;
+            background: #0f3460;
+            image-rendering: pixelated;
+            image-rendering: crisp-edges;
+        }
+        
+        #startScreen, #questionScreen, #gameOverScreen {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(15, 52, 96, 0.95);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 20px;
+        }
+        
+        #startScreen.active, #questionScreen.active, #gameOverScreen.active {
+            display: flex;
+        }
+        
+        .screen-title {
+            font-size: 48px;
+            margin-bottom: 30px;
+            color: #e94560;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+        }
+        
+        .button {
+            background: #e94560;
+            color: white;
+            border: none;
+            padding: 15px 40px;
+            font-size: 20px;
+            cursor: pointer;
+            margin: 10px;
+            border-radius: 5px;
+            font-family: 'Courier New', monospace;
+            transition: all 0.3s;
+        }
+        
+        .button:hover {
+            background: #ff6b81;
+            transform: scale(1.05);
+        }
+        
+        .button:active {
+            transform: scale(0.95);
+        }
+        
+        #modeSelection, #themeSelection {
+            margin: 20px;
+            padding: 20px;
+            background: rgba(22, 33, 62, 0.8);
+            border-radius: 10px;
+        }
+        
+        #questionContainer {
+            max-width: 800px;
+            background: rgba(22, 33, 62, 0.95);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+        }
+        
+        #questionText {
+            font-size: 24px;
+            margin-bottom: 30px;
+            line-height: 1.5;
+        }
+        
+        .option {
+            background: #16213e;
+            border: 2px solid #0f3460;
+            padding: 15px;
+            margin: 10px 0;
+            cursor: pointer;
+            border-radius: 5px;
+            transition: all 0.3s;
+            font-size: 16px;
+        }
+        
+        .option:hover {
+            border-color: #e94560;
+            background: #1f2d4d;
+        }
+        
+        .option.selected {
+            border-color: #e94560;
+            background: #2d3e5f;
+        }
+        
+        .option.correct {
+            border-color: #4caf50;
+            background: #1b5e20;
+        }
+        
+        .option.incorrect {
+            border-color: #f44336;
+            background: #b71c1c;
+        }
+        
+        #explanation {
+            margin-top: 20px;
+            padding: 20px;
+            background: rgba(15, 52, 96, 0.8);
+            border-left: 4px solid #e94560;
+            border-radius: 5px;
+            display: none;
+        }
+        
+        #explanation.active {
+            display: block;
+        }
+        
+        #sourceInfo {
+            margin-top: 15px;
+            padding: 10px;
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 5px;
+            font-size: 14px;
+            color: #aaa;
+        }
+        
+        .hp-bar {
+            height: 25px;
+            background: #16213e;
+            border-radius: 5px;
+            overflow: hidden;
+            border: 2px solid #0f3460;
+            width: 200px;
+        }
+        
+        .hp-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #4caf50, #8bc34a);
+            transition: width 0.3s;
+        }
+        
+        .hp-fill.low {
+            background: linear-gradient(90deg, #f44336, #ff9800);
+        }
+        
+        select {
+            background: #16213e;
+            color: #eee;
+            border: 2px solid #0f3460;
+            padding: 10px;
+            font-size: 16px;
+            font-family: 'Courier New', monospace;
+            border-radius: 5px;
+            margin: 5px;
+        }
+        
+        label {
+            display: block;
+            margin: 10px 0 5px 0;
+            font-size: 18px;
+        }
+        
+        #controls {
+            margin-top: 20px;
+            padding: 15px;
+            background: rgba(22, 33, 62, 0.8);
+            border-radius: 5px;
+            font-size: 14px;
+        }
+        
+        .control-hint {
+            margin: 5px 0;
+        }
+        
+        #roomNumber {
+            font-size: 20px;
+            color: #e94560;
+        }
+    </style>
+</head>
+<body>
+    <div id="gameContainer">
+        <div id="header">
+            <div id="stats">
+                <div class="stat">
+                    <span class="stat-icon">❤️</span>
+                    <div class="hp-bar">
+                        <div class="hp-fill" id="hpFill" style="width: 100%"></div>
+                    </div>
+                    <span id="hpText">10/10</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-icon">⭐</span>
+                    <span id="score">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-icon">🛡️</span>
+                    <span id="shield">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-icon">🚪</span>
+                    <span id="roomNumber">Raum 1/20</span>
+                </div>
+            </div>
+            <div>
+                <button class="button" onclick="game.returnToMenu()" style="padding: 8px 20px; font-size: 16px;">Menü</button>
+            </div>
+        </div>
+        
+        <div id="gameArea">
+            <canvas id="canvas"></canvas>
+            
+            <!-- Start Screen -->
+            <div id="startScreen" class="active">
+                <h1 class="screen-title">Quiz Roguelite</h1>
+                <p style="font-size: 20px; margin-bottom: 30px; text-align: center; max-width: 600px;">
+                    Lerne Big Data & Data Science durch ein spannendes Dungeon-Abenteuer!
+                </p>
+                
+                <div id="modeSelection">
+                    <label>Spielmodus:</label>
+                    <select id="modeSelect">
+                        <option value="normal">Normal</option>
+                        <option value="timeattack">Zeitdruck</option>
+                        <option value="boss">Boss Rush</option>
+                        <option value="transfer">Transferaufgabe</option>
+                    </select>
+                </div>
+                
+                <div id="themeSelection">
+                    <label>Themenfilter:</label>
+                    <select id="themeSelect">
+                        <option value="all">Alle Themen</option>
+                        <!-- Will be populated dynamically -->
+                    </select>
+                </div>
+                
+                <button class="button" onclick="game.startGame()">Start Run 🎮</button>
+                
+                <div id="controls">
+                    <div class="control-hint">🎮 Steuerung: Pfeiltasten oder WASD zum Bewegen</div>
+                    <div class="control-hint">🚪 Betritt einen Raum, um eine Frage zu beantworten</div>
+                    <div class="control-hint">✅ Richtige Antwort = Belohnung | ❌ Falsche Antwort = -1 HP</div>
+                </div>
+            </div>
+            
+            <!-- Question Screen -->
+            <div id="questionScreen">
+                <div id="questionContainer">
+                    <h2 id="questionText"></h2>
+                    <div id="questionType" style="font-size: 14px; color: #aaa; margin-bottom: 20px;"></div>
+                    <div id="optionsContainer"></div>
+                    <div id="explanation">
+                        <strong>Erklärung:</strong>
+                        <p id="explanationText"></p>
+                        <div id="sourceInfo"></div>
+                    </div>
+                    <div style="margin-top: 20px; text-align: center;">
+                        <button class="button" id="submitAnswer" onclick="game.checkAnswer()">Antwort prüfen</button>
+                        <button class="button" id="nextQuestion" onclick="game.nextQuestion()" style="display: none;">Weiter</button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Game Over Screen -->
+            <div id="gameOverScreen">
+                <h1 class="screen-title" id="gameOverTitle">Game Over!</h1>
+                <div style="font-size: 24px; margin: 20px;">
+                    <p>Finale Punktzahl: <strong id="finalScore">0</strong></p>
+                    <p>Erreichte Räume: <strong id="finalRooms">0</strong></p>
+                    <p>Richtige Antworten: <strong id="correctAnswers">0</strong></p>
+                    <p>Falsche Antworten: <strong id="wrongAnswers">0</strong></p>
+                </div>
+                <button class="button" onclick="game.returnToMenu()">Zurück zum Menü</button>
+                <button class="button" onclick="game.startGame()">Neuer Run</button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="src/game.js"></script>
+</body>
+</html>

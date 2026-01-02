@@ -1,0 +1,131 @@
+[
+  {
+    "id": "q_2529",
+    "question": "Welche Aussage über Verstehen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Verstehen der Aufgabe Ist-Zustand , Soll-Zustand Risiken , Kosten , Nutzen 2",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verstehen der Aufgabe Ist-Zustand , Soll-Zustand Risiken , Kosten , Nutzen 2",
+    "source_file": "DE Transfer Aufgabe Big Data and Data Science.pdf",
+    "source_page": 1,
+    "tags": [
+      "Verstehen",
+      "Aufgabe",
+      "Ist"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2530",
+    "question": "Was ist Transfer?",
+    "type": "single",
+    "options": [
+      "Aufgabe Big Data and Data Science Beschreiben Sie basierend auf dem CRISP -DM einen Anwendungsfall von Machine Learning aus Ihrem beruﬂichen Umfeld.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transfer: Aufgabe Big Data and Data Science Beschreiben Sie basierend auf dem CRISP -DM einen Anwendungsfall von Machine Learning aus Ihrem beruﬂichen Umfeld.",
+    "source_file": "DE Transfer Aufgabe Big Data and Data Science.pdf",
+    "source_page": 1,
+    "tags": [
+      "Transfer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2531",
+    "question": "Richtig oder Falsch: Transfer Aufgabe Big Data and Data Science Beschreiben Sie basierend auf dem CRISP -DM einen Anwendungsfall von Machine Learning aus Ihrem beruﬂichen Umfeld.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transfer: Aufgabe Big Data and Data Science Beschreiben Sie basierend auf dem CRISP -DM einen Anwendungsfall von Machine Learning aus Ihrem beruﬂichen Umfeld.",
+    "source_file": "DE Transfer Aufgabe Big Data and Data Science.pdf",
+    "source_page": 1,
+    "tags": [
+      "Transfer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2532",
+    "question": "Was ist Beschreibung?",
+    "type": "single",
+    "options": [
+      "• operatives Umfeld • aktuelles Proble m • Zielsetzung • Datengrundlage • mögliche KI - oder ML -Methode zur Lösung mit Begründung • Big Data Aspekte der Anwendung • mögliche Anwendungen • Potenziale • … 5.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beschreibung: • operatives Umfeld • aktuelles Proble m • Zielsetzung • Datengrundlage • mögliche KI - oder ML -Methode zur Lösung mit Begründung • Big Data Aspekte der Anwendung • mögliche Anwendungen • Potenziale • … 5.",
+    "source_file": "DE Transfer Aufgabe Big Data and Data Science.pdf",
+    "source_page": 1,
+    "tags": [
+      "Beschreibung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2533",
+    "question": "Richtig oder Falsch: Beschreibung • operatives Umfeld • aktuelles Proble m • Zielsetzung • Datengrundlage • mögliche KI - oder ML -Methode zur Lösung mit Begründung • Big Data Aspekte der Anwendung • mögliche Anwendungen • Potenziale • … 5.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beschreibung: • operatives Umfeld • aktuelles Proble m • Zielsetzung • Datengrundlage • mögliche KI - oder ML -Methode zur Lösung mit Begründung • Big Data Aspekte der Anwendung • mögliche Anwendungen • Potenziale • … 5.",
+    "source_file": "DE Transfer Aufgabe Big Data and Data Science.pdf",
+    "source_page": 1,
+    "tags": [
+      "Beschreibung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2534",
+    "question": "Was ist Data Mining Data Mining Process Model?",
+    "type": "single",
+    "options": [
+      "CRISP -DM 11 Big Data & Data Science SS 2018CRoss-Industry Standard Process for DataMining 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Mining Data Mining Process Model: CRISP -DM 11 Big Data & Data Science SS 2018CRoss-Industry Standard Process for DataMining 1.",
+    "source_file": "DE Transfer Aufgabe Big Data and Data Science.pdf",
+    "source_page": 1,
+    "tags": [
+      "Data Mining Data Mining Process Model"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2535",
+    "question": "Richtig oder Falsch: Data Mining Data Mining Process Model CRISP -DM 11 Big Data & Data Science SS 2018CRoss-Industry Standard Process for DataMining 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Mining Data Mining Process Model: CRISP -DM 11 Big Data & Data Science SS 2018CRoss-Industry Standard Process for DataMining 1.",
+    "source_file": "DE Transfer Aufgabe Big Data and Data Science.pdf",
+    "source_page": 1,
+    "tags": [
+      "Data Mining Data Mining Process Model"
+    ],
+    "difficulty": 1
+  }
+]

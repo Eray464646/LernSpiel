@@ -1,0 +1,59 @@
+[
+  {
+    "id": "q_237",
+    "question": "Welche Aussage über Des ist korrekt?",
+    "type": "single",
+    "options": [
+      "Des weiteren ist für jeden Datensatz die Art der Schwertlilie (Iris setosa, Iris virginica oder Iris versicolor) angegeben",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Des weiteren ist für jeden Datensatz die Art der Schwertlilie (Iris setosa, Iris virginica oder Iris versicolor) angegeben",
+    "source_file": "03_bigdata_data_science_beispieldaten v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Des",
+      "Datensatz",
+      "Art"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_238",
+    "question": "Was ist Datei?",
+    "type": "single",
+    "options": [
+      "Titanic \\titanic_exported.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Datei: Titanic \\titanic_exported.",
+    "source_file": "03_bigdata_data_science_beispieldaten v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Datei"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_239",
+    "question": "Richtig oder Falsch: Datei Titanic \\titanic_exported.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Datei: Titanic \\titanic_exported.",
+    "source_file": "03_bigdata_data_science_beispieldaten v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Datei"
+    ],
+    "difficulty": 1
+  }
+]
