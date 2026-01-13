@@ -1,0 +1,4442 @@
+[
+  {
+    "id": "q_1",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Modulbeschreibung: Die Studierenden können nach erfolgreichem Abschluss des Moduls : Management -Entscheidungen durch die Beschaffung, Analyse und Präsentation von internen und externen Informationen durch Techniken und Tools vorbereiten und unterstützen, die Wechselwirkungen der Management -Entscheidungen zwischen den unterschiedlichen Bereichen eines Unternehmens / einer Organisation bestimmen und deren Auswirkungen insbesondere hinsichtlich des Marketings, der Performance - Messung oder der Unterstützung strategischer Entscheidungen einschätzen, \"Big Data\" erklären und Lösungsvorschläge zur Bearbeitung der Daten erarbeiten, bestimmen, welche Informationen für welche Entscheidungen relevant sein können, sowohl Zahlen und Daten, aber auch unstrukturierte Texte als Quellen untersuchen, grundsätzliche Methoden aus dem Bereich der \"Data Science\" bewerten und anwenden,durch \"Data Science\" ermittelte Erkenntnisse durch statistische und mathematische Grundlagen untermauern",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Modulbeschreibung: Die Studierenden können nach erfolgreichem Abschluss des Moduls : Management -Entscheidungen durch die Beschaffung, Analyse und Präsentation von internen und externen Informationen durch Techniken und Tools vorbereiten und unterstützen, die Wechselwirkungen der Management -Entscheidungen zwischen den unterschiedlichen Bereichen eines Unternehmens / einer Organisation bestimmen und deren Auswirkungen insbesondere hinsichtlich des Marketings, der Performance - Messung oder der Unterstützung strategischer Entscheidungen einschätzen, \"Big Data\" erklären und Lösungsvorschläge zur Bearbeitung der Daten erarbeiten, bestimmen, welche Informationen für welche Entscheidungen relevant sein können, sowohl Zahlen und Daten, aber auch unstrukturierte Texte als Quellen untersuchen, grundsätzliche Methoden aus dem Bereich der \"Data Science\" bewerten und anwenden,durch \"Data Science\" ermittelte Erkenntnisse durch statistische und mathematische Grundlagen untermauern",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 2,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Die"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Klausur Klausur 90 Minuten (100% der Modulnote) Transferaufgabe in der Klausur (etwa 10% des Klausurumfangs): In der Veranstaltung werden Arbeits - und/oder Rechercheaufgaben mit explizitem Transferbezug zum praktischen Umfeld der Studierenden gestellt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Klausur Klausur 90 Minuten (100% der Modulnote) Transferaufgabe in der Klausur (etwa 10% des Klausurumfangs): In der Veranstaltung werden Arbeits - und/oder Rechercheaufgaben mit explizitem Transferbezug zum praktischen Umfeld der Studierenden gestellt",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 3,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Klausur"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_3",
+    "question": "Welche Aussage über Im ist korrekt?",
+    "type": "single",
+    "options": [
+      "Im Rahmen der Klausur wird dann durch angelehnte (nicht zwingend identische) Fragestellungen die Übertragung wissenschaftlicher Inhalte und Methoden auf konkrete betriebliche oder gesellschaftliche Probleme reflektiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Im Rahmen der Klausur wird dann durch angelehnte (nicht zwingend identische) Fragestellungen die Übertragung wissenschaftlicher Inhalte und Methoden auf konkrete betriebliche oder gesellschaftliche Probleme reflektiert",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 3,
+    "tags": [
+      "Im",
+      "Rahmen",
+      "Klausur"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_4",
+    "question": "Welche Aussage über Ich ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ich weiß aber nicht, ob man daraus etwas über die Zuverlässigkeit von Graphcast wird ableiten können",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ich weiß aber nicht, ob man daraus etwas über die Zuverlässigkeit von Graphcast wird ableiten können",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 6,
+    "tags": [
+      "Ich",
+      "Zuverlässigkeit",
+      "Graphcast"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_5",
+    "question": "Welche Aussage über Vielmehr ist korrekt?",
+    "type": "single",
+    "options": [
+      "Vielmehr wird wohl nach dem Orkantief am Donnerstag die Entwicklung zu Beginn der nächsten Woche noch außerhalb der Reichweite aller Modelle liegen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vielmehr wird wohl nach dem Orkantief am Donnerstag die Entwicklung zu Beginn der nächsten Woche noch außerhalb der Reichweite aller Modelle liegen",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 6,
+    "tags": [
+      "Vielmehr",
+      "Orkantief",
+      "Donnerstag"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_6",
+    "question": "Welche Aussage über Neu ist korrekt?",
+    "type": "single",
+    "options": [
+      "Neu dazugekommen ist mit FuXi ein KI-Wettermodell aus China (Fudan University and Shanghai Qi Zhi Institute) : https ://charts",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neu dazugekommen ist mit FuXi ein KI-Wettermodell aus China (Fudan University and Shanghai Qi Zhi Institute) : https ://charts",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Neu",
+      "Wettermodell",
+      "China"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_7",
+    "question": "Welche Aussage über Graphcast ist korrekt?",
+    "type": "single",
+    "options": [
+      "BisTag5schlägt sichGoogle Graphcast ambesten, bevor dann FuXi eine (scheinbar) größere Zuverlässigkeit hat",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "BisTag5schlägt sichGoogle Graphcast ambesten, bevor dann FuXi eine (scheinbar) größere Zuverlässigkeit hat",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Graphcast",
+      "Zuverlässigkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_8",
+    "question": "Welche Aussage über Carstensen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Carstensen K -U, Ebert C, Ebert C, Jekat S, Klabunde R, Langer H (2010) Computerlinguistik und Sprachtechnologie",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Carstensen K -U, Ebert C, Ebert C, Jekat S, Klabunde R, Langer H (2010) Computerlinguistik und Sprachtechnologie",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Carstensen",
+      "Ebert",
+      "Ebert"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_9",
+    "question": "Welche Aussage über Hausser ist korrekt?",
+    "type": "single",
+    "options": [
+      "Hausser R (2000) Grundlagen der Computerlinguistik",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hausser R (2000) Grundlagen der Computerlinguistik",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Hausser",
+      "Grundlagen",
+      "Computerlinguistik"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_10",
+    "question": "Welche Aussage über We ist korrekt?",
+    "type": "single",
+    "options": [
+      "We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "We think that a significant advance can be made in one or more of these problems if a carefully selected group of scientists work on it together for a summer",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 16,
+    "tags": [
+      "We"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_11",
+    "question": "Welche Aussage über Jahr ist korrekt?",
+    "type": "single",
+    "options": [
+      "um das Jahr 2000 herum Computer in der Lage sein werden, Fragen auf die gleiche Weise zu beantworten wie Menschen“ Herbert Simon (Nobelpreisträger) 1958„innerhalb von zehn Jahren ein digitaler Computer der Schachweltmeister sein wird“ Dito 1965„Maschinen innerhalb von zwanzig Jahren in der Lage sein werden, jede Arbeit zu verrichten, die ein Mensch tun kann“ Marvin Minsky 1970 „In drei bis acht Jahren werden wir eine Maschine mit der allgemeinen Intelligenz eines durchschnittlichen Menschen haben",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "um das Jahr 2000 herum Computer in der Lage sein werden, Fragen auf die gleiche Weise zu beantworten wie Menschen“ Herbert Simon (Nobelpreisträger) 1958„innerhalb von zehn Jahren ein digitaler Computer der Schachweltmeister sein wird“ Dito 1965„Maschinen innerhalb von zwanzig Jahren in der Lage sein werden, jede Arbeit zu verrichten, die ein Mensch tun kann“ Marvin Minsky 1970 „In drei bis acht Jahren werden wir eine Maschine mit der allgemeinen Intelligenz eines durchschnittlichen Menschen haben",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 17,
+    "tags": [
+      "Jahr",
+      "Computer",
+      "Lage"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_12",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS  Raymond Kurzweil Exponentielle Zunahme der technologischen Entwicklung 2045 Singularität - KI ermöglicht der Menschheit Unsterblichkeit zu erlangenTranshumanismus : Erweiterung der menschlichen Fähigkeiten durch Integration mit kybernetischen Maschinen („Cyborg“), hier insbesondere der Singularitarianismus „ Verpflichtung zum Fortschritt“ Krempl S (2018) EU -Plan: 20 Milliarden Euro für Künstliche Intelligenz bis 2020",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS  Raymond Kurzweil Exponentielle Zunahme der technologischen Entwicklung 2045 Singularität - KI ermöglicht der Menschheit Unsterblichkeit zu erlangenTranshumanismus : Erweiterung der menschlichen Fähigkeiten durch Integration mit kybernetischen Maschinen („Cyborg“), hier insbesondere der Singularitarianismus „ Verpflichtung zum Fortschritt“ Krempl S (2018) EU -Plan: 20 Milliarden Euro für Künstliche Intelligenz bis 2020",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 18,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Raymond"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_13",
+    "question": "Welche Aussage über Industrielle ist korrekt?",
+    "type": "single",
+    "options": [
+      "Industrielle RevolutionMechanisierung der menschlichen ArbeitDampfmaschineWebstuhl Wasserrad, Windmühlen (aber schon AC verwendet) Rom – Sklaven billiger als Maschinen, obwohl durchaus bekannt, Problem Energieerzeugung Digitalisierung : Umwandlung analoger Daten in digitale Form",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Industrielle RevolutionMechanisierung der menschlichen ArbeitDampfmaschineWebstuhl Wasserrad, Windmühlen (aber schon AC verwendet) Rom – Sklaven billiger als Maschinen, obwohl durchaus bekannt, Problem Energieerzeugung Digitalisierung : Umwandlung analoger Daten in digitale Form",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 20,
+    "tags": [
+      "Industrielle",
+      "Wasserrad",
+      "Windmühlen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_14",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS  Künstliche Intelligenz Internet Web 1950 1960 1970 1980 1990 2000 2010 2020 KI - Revival Konnektionistische KI KI WinterKI Winter ExpertensystemeNeuronale Netze, Deep Learning, Data Mining Arpanet Internet Big Data Web 1",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS  Künstliche Intelligenz Internet Web 1950 1960 1970 1980 1990 2000 2010 2020 KI - Revival Konnektionistische KI KI WinterKI Winter ExpertensystemeNeuronale Netze, Deep Learning, Data Mining Arpanet Internet Big Data Web 1",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 21,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Künstliche"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_15",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Das erste Jahrhundert im dritten Jahrtausend ist nach einhelliger Ansicht von IT- Experten – dabei muss nicht einmal das Marktforschungsinstitut Gartner bemüht werden – gekennzeichnet von Zunehmenden, internen und vor allem externen Datenvolumina, die zum einen durch verbesserte Mess - und Sensortechnik (siehe z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Das erste Jahrhundert im dritten Jahrtausend ist nach einhelliger Ansicht von IT- Experten – dabei muss nicht einmal das Marktforschungsinstitut Gartner bemüht werden – gekennzeichnet von Zunehmenden, internen und vor allem externen Datenvolumina, die zum einen durch verbesserte Mess - und Sensortechnik (siehe z",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Jahrhundert"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_16",
+    "question": "Welche Aussage über Netzwerken ist korrekt?",
+    "type": "single",
+    "options": [
+      "0 und sozialen Netzwerken extrahiert und passend in die betrieblichen Informationssysteme integriert werden, Orts- und zeitunabhängiger (mobiler) Kommunikation von Mitarbeitern untereinander und mit Dritten mittels Emails, Twitter, Facebook unter Nutzung von PCs, Smartphones oder Tablets, Virtuellen Arbeitsplatzen und damit einhergehender Änderung der Arbeitsgewohnheiten und -organisation, wobei – wenn nötig in Echtzeit – Daten und Informationen personalisiert für Entscheidung, Planung und Controlling bereitgestellt oder abgerufen werden müssen, sowie Verkürzten Planungs - und Entscheidungsdauern durch die zunehmende Globalisierung, Dynamik und Interaktion von Wirtschaft und Gesellschaft",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "0 und sozialen Netzwerken extrahiert und passend in die betrieblichen Informationssysteme integriert werden, Orts- und zeitunabhängiger (mobiler) Kommunikation von Mitarbeitern untereinander und mit Dritten mittels Emails, Twitter, Facebook unter Nutzung von PCs, Smartphones oder Tablets, Virtuellen Arbeitsplatzen und damit einhergehender Änderung der Arbeitsgewohnheiten und -organisation, wobei – wenn nötig in Echtzeit – Daten und Informationen personalisiert für Entscheidung, Planung und Controlling bereitgestellt oder abgerufen werden müssen, sowie Verkürzten Planungs - und Entscheidungsdauern durch die zunehmende Globalisierung, Dynamik und Interaktion von Wirtschaft und Gesellschaft",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Netzwerken",
+      "Informationssysteme",
+      "Orts"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_17",
+    "question": "Welche Aussage über Daten ist korrekt?",
+    "type": "single",
+    "options": [
+      "semistrukturierter Daten in (sozialen) Netzwerken und an Anforderungen an Aktualität, Informationsbedarf und Datenqualität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "semistrukturierter Daten in (sozialen) Netzwerken und an Anforderungen an Aktualität, Informationsbedarf und Datenqualität",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 24,
+    "tags": [
+      "Daten",
+      "Netzwerken",
+      "Anforderungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_18",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Data Science Mathematisches Wissen Statistisches Wissen Spezielle DM -Modelle (Neuronale Netze) KI-Wissen Programmiersprachen (Python, …) Big Data Architekturen Informationstechnisches Wissen Datenbankenwissen Anwendungswissen Anwendungsspezifisches Wissen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Data Science Mathematisches Wissen Statistisches Wissen Spezielle DM -Modelle (Neuronale Netze) KI-Wissen Programmiersprachen (Python, …) Big Data Architekturen Informationstechnisches Wissen Datenbankenwissen Anwendungswissen Anwendungsspezifisches Wissen",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 25,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Science"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_19",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Big Data bezeichnet den Einsatz großer Datenmengen aus vielfältigen Quellen mit einer hohen Verarbeitungs -geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Big Data bezeichnet den Einsatz großer Datenmengen aus vielfältigen Quellen mit einer hohen Verarbeitungs -geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_20",
+    "question": "Welche Aussage über Volume ist korrekt?",
+    "type": "single",
+    "options": [
+      "Volume (Menge) Datenbestand: umfangreich; liegt im Ter (1012) bis Zetta (1021) bytebereich; Skalierungsfähigkeit Variety (Vielfalt) Speicherung von strukturierten, semi -strukturierten und unstrukturierten Multimedia- Daten (Text, Grafik, Bilder, Audio und Video) Velocity (Geschwindigkeit)  Datenströme (Data Streams) sollen in Echtzeit ausgewertet und analysiert werden können Value (Wert) –Viability (Brauchbarkeit) Big Data Anwendung sollen den Unternehmenswert steigern - Investitionen in Personal und technischer Infrastruktur werden dort vorgenommen, wo eine Hebelwirkung besteht und einen Mehrwert generieren kann Veracity (Richtigkeit / Validität ) da viele Daten vage oder ungenau sind, müssen spezifische Algorithmen zur Bewertung der Aussagekraft und zur Qualitätseinschätzung der Resultate eingesetzt werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Volume (Menge) Datenbestand: umfangreich; liegt im Ter (1012) bis Zetta (1021) bytebereich; Skalierungsfähigkeit Variety (Vielfalt) Speicherung von strukturierten, semi -strukturierten und unstrukturierten Multimedia- Daten (Text, Grafik, Bilder, Audio und Video) Velocity (Geschwindigkeit)  Datenströme (Data Streams) sollen in Echtzeit ausgewertet und analysiert werden können Value (Wert) –Viability (Brauchbarkeit) Big Data Anwendung sollen den Unternehmenswert steigern - Investitionen in Personal und technischer Infrastruktur werden dort vorgenommen, wo eine Hebelwirkung besteht und einen Mehrwert generieren kann Veracity (Richtigkeit / Validität ) da viele Daten vage oder ungenau sind, müssen spezifische Algorithmen zur Bewertung der Aussagekraft und zur Qualitätseinschätzung der Resultate eingesetzt werden",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Volume",
+      "Menge",
+      "Datenbestand"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_21",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Herausforderungen Heterogene, verteilte Daten Mit unterschiedlichen Datenstrukturen Großes Datenvolumen Große Datenmengen ergeben noch keinen Mehrwert Schutz personenbezogener Daten Analyseprobleme Scheinkausalität zwischen Daten und Attributen Interpretation der Ergebnisse (Data Mining)Beispiele Verbrechensvorhersage Überwachung (NSA) Verkehrssteuerung Produkt/Prozesssteuerung Analyse von Gesundheitsdaten Kreditkartenüberprüfung ( Fraud Detecion) Meist im Zusammenhang mit Data Mining und KI BITKOM (2017) Big Data im Praxiseinsatz – Szenarien, Beispiele, Effekte",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Herausforderungen Heterogene, verteilte Daten Mit unterschiedlichen Datenstrukturen Großes Datenvolumen Große Datenmengen ergeben noch keinen Mehrwert Schutz personenbezogener Daten Analyseprobleme Scheinkausalität zwischen Daten und Attributen Interpretation der Ergebnisse (Data Mining)Beispiele Verbrechensvorhersage Überwachung (NSA) Verkehrssteuerung Produkt/Prozesssteuerung Analyse von Gesundheitsdaten Kreditkartenüberprüfung ( Fraud Detecion) Meist im Zusammenhang mit Data Mining und KI BITKOM (2017) Big Data im Praxiseinsatz – Szenarien, Beispiele, Effekte",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 32,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Heterogene"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_22",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS „Der Begriff Business Intelligence […] wird als betriebliche Entscheidungsunterstützung durch einen integrierten, aufs Unternehmen bezogenen IT -basierten Gesamtansatz definiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS „Der Begriff Business Intelligence […] wird als betriebliche Entscheidungsunterstützung durch einen integrierten, aufs Unternehmen bezogenen IT -basierten Gesamtansatz definiert",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Der"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_23",
+    "question": "Welche Aussage über Dabei ist korrekt?",
+    "type": "single",
+    "options": [
+      "Dabei werden die Daten aus unterschiedlichen Abteilungen extrahiert, transformiert und in einem zentralen Datenlager (engl",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dabei werden die Daten aus unterschiedlichen Abteilungen extrahiert, transformiert und in einem zentralen Datenlager (engl",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Dabei",
+      "Daten",
+      "Abteilungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_24",
+    "question": "Welche Aussage über Selektionen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Selektionen auf den gesammelten Daten bezüglich eines bestimmten Kriteriums werden Data -Marts genannt und stellen einen nicht persistenten Zwischenspeicher zum Data Warehouse dar",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Selektionen auf den gesammelten Daten bezüglich eines bestimmten Kriteriums werden Data -Marts genannt und stellen einen nicht persistenten Zwischenspeicher zum Data Warehouse dar",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Selektionen",
+      "Daten",
+      "Kriteriums"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_25",
+    "question": "Welche Aussage über Über ist korrekt?",
+    "type": "single",
+    "options": [
+      "Über definierte Schnittstellen können Business Intelligence Anwendungen, wie Leistungsanalysen oder Berichterstattungen, darauf zugreifen und die Daten weiterverarbeiten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Über definierte Schnittstellen können Business Intelligence Anwendungen, wie Leistungsanalysen oder Berichterstattungen, darauf zugreifen und die Daten weiterverarbeiten",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Über",
+      "Schnittstellen",
+      "Business"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_26",
+    "question": "Welche Aussage über Daten ist korrekt?",
+    "type": "single",
+    "options": [
+      "“ Daten meist aus dem internen Unternehmensumfeld verwendet",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "“ Daten meist aus dem internen Unternehmensumfeld verwendet",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Daten",
+      "Unternehmensumfeld"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_27",
+    "question": "Welche Aussage über Datensammlung ist korrekt?",
+    "type": "single",
+    "options": [
+      ") Datensammlung, Daten stammen meist außerhalb des eigenen Unternehmens (im Ggs",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": ") Datensammlung, Daten stammen meist außerhalb des eigenen Unternehmens (im Ggs",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 34,
+    "tags": [
+      "Datensammlung",
+      "Daten",
+      "Unternehmens"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_28",
+    "question": "Welche Aussage über Online ist korrekt?",
+    "type": "single",
+    "options": [
+      "OLAP (Online Analytical Processing) Daten als mehrdimensionaler Würfel , auf den je nach Bedarf bestimmte Operationen ausgeführt werden Client Server Orientierung Kontrast zu OLTP – Online Transactional Processing Grundoperationen Slicing , Dicing , Pivoting (Rotieren), Drilling (Down, Up)Big Data & Data Science - Definitionen OLAP (Online Analytical Processing) 35 Big Data & Data Science -Prof",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "OLAP (Online Analytical Processing) Daten als mehrdimensionaler Würfel , auf den je nach Bedarf bestimmte Operationen ausgeführt werden Client Server Orientierung Kontrast zu OLTP – Online Transactional Processing Grundoperationen Slicing , Dicing , Pivoting (Rotieren), Drilling (Down, Up)Big Data & Data Science - Definitionen OLAP (Online Analytical Processing) 35 Big Data & Data Science -Prof",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 35,
+    "tags": [
+      "Online",
+      "Analytical",
+      "Processing"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_29",
+    "question": "Welche Aussage über Tochtergesellschaften ist korrekt?",
+    "type": "single",
+    "options": [
+      "mit vielen Tochtergesellschaften (Amazon, WalMart)Eine physische Datenbank, die eine integrierte Sicht auf beliebige Daten (eines Unternehmens) ermöglicht und der Analyse und Unterscheidungsunterstützung dient Eigenschaften Physisch realisiert (non -volatil = nicht flüchtig) Schema und Daten sind integriert Schema ist analyseorientiert (zeitbezogen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "mit vielen Tochtergesellschaften (Amazon, WalMart)Eine physische Datenbank, die eine integrierte Sicht auf beliebige Daten (eines Unternehmens) ermöglicht und der Analyse und Unterscheidungsunterstützung dient Eigenschaften Physisch realisiert (non -volatil = nicht flüchtig) Schema und Daten sind integriert Schema ist analyseorientiert (zeitbezogen",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Tochtergesellschaften",
+      "Amazon",
+      "Eine"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_30",
+    "question": "Welche Aussage über Keine ist korrekt?",
+    "type": "single",
+    "options": [
+      ") Keine Datenmodifikationen Verwendet historische Daten Saake G, Sattler K -U, Heuer A (2008) Datenbanken",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": ") Keine Datenmodifikationen Verwendet historische Daten Saake G, Sattler K -U, Heuer A (2008) Datenbanken",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Keine",
+      "Datenmodifikationen",
+      "Verwendet"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_31",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Teildatenbestand eines DWH („kleine DWHs“) Definition aber oft uneinheitlich verwendet, Übergang zu DWH fließend Meist für einen bestimmten Bereich eines Unternehmens eingesetzt Spezielle Anwendungsbereiche „materialisierte Sicht “ eines Ausschnitts des DWHs – meist aus Effizienzgründen Datenmodell wird oft in einer OLAP Datenstruktur reflektiertStruktureller Extrakt : Nur Teil des DHW - Schemas extrahiert für bestimmte Analysen Inhaltlicher Extrakt : Gesamtes Schema, aber nur Teile der Daten extrahiert (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Teildatenbestand eines DWH („kleine DWHs“) Definition aber oft uneinheitlich verwendet, Übergang zu DWH fließend Meist für einen bestimmten Bereich eines Unternehmens eingesetzt Spezielle Anwendungsbereiche „materialisierte Sicht “ eines Ausschnitts des DWHs – meist aus Effizienzgründen Datenmodell wird oft in einer OLAP Datenstruktur reflektiertStruktureller Extrakt : Nur Teil des DHW - Schemas extrahiert für bestimmte Analysen Inhaltlicher Extrakt : Gesamtes Schema, aber nur Teile der Daten extrahiert (z",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 37,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Teildatenbestand"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_32",
+    "question": "Welche Aussage über Rechner ist korrekt?",
+    "type": "single",
+    "options": [
+      "mehr Rechner (Nodes) hinzufügenCAP Theorem Consistency, Availability und Partition Tolerance, wobei nur zwei der drei parallel gewährleistet werden können",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "mehr Rechner (Nodes) hinzufügenCAP Theorem Consistency, Availability und Partition Tolerance, wobei nur zwei der drei parallel gewährleistet werden können",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Rechner",
+      "Nodes",
+      "Theorem"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_33",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die Konsistenz der gespeicherten Daten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Konsistenz der gespeicherten Daten",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Die",
+      "Konsistenz",
+      "Daten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_34",
+    "question": "Welche Aussage über In ist korrekt?",
+    "type": "single",
+    "options": [
+      "In verteilten Systemen mit replizierten Daten muss sichergestellt sein, dass nach Abschluss einer Transaktion auch alle Replikate des manipulierten Datensatzes aktualisiert werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "In verteilten Systemen mit replizierten Daten muss sichergestellt sein, dass nach Abschluss einer Transaktion auch alle Replikate des manipulierten Datensatzes aktualisiert werden",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "In",
+      "Systemen",
+      "Daten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_35",
+    "question": "Welche Aussage über Diese ist korrekt?",
+    "type": "single",
+    "options": [
+      "Diese Konsistenz sollte nicht verwechselt werden mit der Konsistenz aus der ACID -Transaktionen, die nur die innere Konsistenz eines Datenbestandes betrifft",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Diese Konsistenz sollte nicht verwechselt werden mit der Konsistenz aus der ACID -Transaktionen, die nur die innere Konsistenz eines Datenbestandes betrifft",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Diese",
+      "Konsistenz",
+      "Konsistenz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_36",
+    "question": "Welche Aussage über Alle ist korrekt?",
+    "type": "single",
+    "options": [
+      "Alle Anfragen an das System werden stets beantwortet",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Alle Anfragen an das System werden stets beantwortet",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Alle",
+      "Anfragen",
+      "System"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_37",
+    "question": "Welche Aussage über Festplatten ist korrekt?",
+    "type": "single",
+    "options": [
+      "zu Festplatten Vorteil: Hohe Zugriffsgeschwindigkeit Nachteil: Preis Problem Persistenz von Transaktionen (ACID) Lösungen Snapshot- Dateien Protokolldateien Replikation auf Festplatten Varianten Hybride Systeme Tlw",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "zu Festplatten Vorteil: Hohe Zugriffsgeschwindigkeit Nachteil: Preis Problem Persistenz von Transaktionen (ACID) Lösungen Snapshot- Dateien Protokolldateien Replikation auf Festplatten Varianten Hybride Systeme Tlw",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 39,
+    "tags": [
+      "Festplatten",
+      "Vorteil",
+      "Hohe"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_38",
+    "question": "Welche Aussage über Erkennung ist korrekt?",
+    "type": "single",
+    "options": [
+      ") Erkennung statistischer Zusammenhänge/ Abhängigkeiten Bedeutungsgewinn durch „Big Data“Teilgebiete Webmining, insbesondere Nutzungsdaten Text Mining, Analyse unstrukturierter Daten Data Mining (im engeren Sinne), Analyse strukturierter Daten Welche Daten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": ") Erkennung statistischer Zusammenhänge/ Abhängigkeiten Bedeutungsgewinn durch „Big Data“Teilgebiete Webmining, insbesondere Nutzungsdaten Text Mining, Analyse unstrukturierter Daten Data Mining (im engeren Sinne), Analyse strukturierter Daten Welche Daten",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 40,
+    "tags": [
+      "Erkennung",
+      "Zusammenhänge",
+      "Abhängigkeiten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_39",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Künstliche IntelligenzVisualisierung / ComputergrafikStatistikDaten- banken Mathematik Data Mining Expertensysteme Maschinelles Lernen Data WarehouseBig DataBusiness Intelligence",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Künstliche IntelligenzVisualisierung / ComputergrafikStatistikDaten- banken Mathematik Data Mining Expertensysteme Maschinelles Lernen Data WarehouseBig DataBusiness Intelligence",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 41,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Mathematik"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_40",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Verfahren um Vorhersagen auf Basis von Daten zu machen Basis sind historische Daten , auf denen entsprechende (oft mathematische oder statistische) Modelle entwickelt werden Anwendung finden verschiedene Verfahren des Data Minings , überwachtes Machine LearningBeispiele Energiebedarf vorhersagen Kriminalität vorhersagen Krankheiten, Epidemien vorhersagen Maschinenausfälle Wettervorhersage Quelle: Wikipedia",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Verfahren um Vorhersagen auf Basis von Daten zu machen Basis sind historische Daten , auf denen entsprechende (oft mathematische oder statistische) Modelle entwickelt werden Anwendung finden verschiedene Verfahren des Data Minings , überwachtes Machine LearningBeispiele Energiebedarf vorhersagen Kriminalität vorhersagen Krankheiten, Epidemien vorhersagen Maschinenausfälle Wettervorhersage Quelle: Wikipedia",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 42,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Verfahren"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_41",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Automatische Auswertung von Texten mit dem Ziel, eine geäußerte Haltung als positiv oder negativ zu erkennen Teilgebiet des Textminings Einsatz von NLP TechnologienBeispiele Produktbewertungen Dienstleistungen (Hotelaufenthalte, Destinationen) Kundengespräche",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Automatische Auswertung von Texten mit dem Ziel, eine geäußerte Haltung als positiv oder negativ zu erkennen Teilgebiet des Textminings Einsatz von NLP TechnologienBeispiele Produktbewertungen Dienstleistungen (Hotelaufenthalte, Destinationen) Kundengespräche",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 43,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Automatische"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_42",
+    "question": "Welche Aussage über Selbiges ist korrekt?",
+    "type": "single",
+    "options": [
+      "Selbiges für Medien Bündeln Informationsfluss Wer wird beeinflusst",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Selbiges für Medien Bündeln Informationsfluss Wer wird beeinflusst",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 44,
+    "tags": [
+      "Selbiges",
+      "Medien",
+      "Bündeln"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_43",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS „In der KI wird untersucht, wie man intelligentes Verhalten von Computern erfassen und nachvollziehen lassen kann oder wie man allgemein mit Hilfe von Computern Probleme löst, die Intelligenzleistungen voraussetzen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS „In der KI wird untersucht, wie man intelligentes Verhalten von Computern erfassen und nachvollziehen lassen kann oder wie man allgemein mit Hilfe von Computern Probleme löst, die Intelligenzleistungen voraussetzen",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "In"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_44",
+    "question": "Welche Aussage über Dabei ist korrekt?",
+    "type": "single",
+    "options": [
+      "Dabei soll das menschliche Gedächtnis, sein Lernverhalten und seine Entwicklung nachgebildet werden“ http://www",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dabei soll das menschliche Gedächtnis, sein Lernverhalten und seine Entwicklung nachgebildet werden“ http://www",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Dabei",
+      "Gedächtnis",
+      "Lernverhalten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_45",
+    "question": "Welche Aussage über Teildisziplin ist korrekt?",
+    "type": "single",
+    "options": [
+      "html „Teildisziplin der Informatik, die so unterschiedliche Problembereiche wie Bildverarbeitung, Robotik, Fließtext - und Spracherkennung, mechanische Beweise und anderes umfasst und auch die Konstruktion von wissensbasierten Systemen einschließt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "html „Teildisziplin der Informatik, die so unterschiedliche Problembereiche wie Bildverarbeitung, Robotik, Fließtext - und Spracherkennung, mechanische Beweise und anderes umfasst und auch die Konstruktion von wissensbasierten Systemen einschließt",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Teildisziplin",
+      "Informatik",
+      "Problembereiche"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_46",
+    "question": "Welche Aussage über Wissensrepräsentation ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wissensrepräsentation Deklarative WR : Wissen explizit als Beschreibung gespeichert Mittels einer davon unabhängigen Inferenzmaschine werden Probleme gelöst und Schlussfolgerungen gezogen Leicht erweiterbar und änderbar durch Trennung von Daten und ausführender Maschine Prozedurale WR : Wissen in Form von Prozeduren (Algorithmen, Programmen) gespeichert Änderungen erfordern Eingriff in die Logik des ProgrammsBig Data & Data Science - eHealth Künstliche Intelligenz KI ( Artificial Intelligence , AI) 46 Big Data & Data Science -Prof",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wissensrepräsentation Deklarative WR : Wissen explizit als Beschreibung gespeichert Mittels einer davon unabhängigen Inferenzmaschine werden Probleme gelöst und Schlussfolgerungen gezogen Leicht erweiterbar und änderbar durch Trennung von Daten und ausführender Maschine Prozedurale WR : Wissen in Form von Prozeduren (Algorithmen, Programmen) gespeichert Änderungen erfordern Eingriff in die Logik des ProgrammsBig Data & Data Science - eHealth Künstliche Intelligenz KI ( Artificial Intelligence , AI) 46 Big Data & Data Science -Prof",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 46,
+    "tags": [
+      "Wissensrepräsentation",
+      "Deklarative",
+      "Wissen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_47",
+    "question": "Welche Aussage über Aussagen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Aussagen sind abstrakte Begriffe, auch Propositionen genannt, die in der Alltagssprache durch Sätze ausgedrückt werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aussagen sind abstrakte Begriffe, auch Propositionen genannt, die in der Alltagssprache durch Sätze ausgedrückt werden",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Aussagen",
+      "Begriffe",
+      "Propositionen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_48",
+    "question": "Welche Aussage über Dabei ist korrekt?",
+    "type": "single",
+    "options": [
+      "Dabei kommt es in der Aussagenlogik nicht auf den konkreten Inhalt der Aussagen an, sondern nur auf die Entscheidung, ob eine Aussage wahr oder falsch ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dabei kommt es in der Aussagenlogik nicht auf den konkreten Inhalt der Aussagen an, sondern nur auf die Entscheidung, ob eine Aussage wahr oder falsch ist",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Dabei",
+      "Aussagenlogik",
+      "Inhalt"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_49",
+    "question": "Welche Aussage über Wann ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wann ist ein Schluss gültig = wahr",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wann ist ein Schluss gültig = wahr",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Wann",
+      "Schluss"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_50",
+    "question": "Welche Aussage über Es ist korrekt?",
+    "type": "single",
+    "options": [
+      "Es regnet oder die Erde ist eine ScheibeFuzzy Logik Unscharfe Logik",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Es regnet oder die Erde ist eine ScheibeFuzzy Logik Unscharfe Logik",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Es",
+      "Erde",
+      "Logik"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_51",
+    "question": "Welche Aussage über Erlaubt ist korrekt?",
+    "type": "single",
+    "options": [
+      "Erlaubt Schlüsse, die nicht eindeutig wahr/falsch (binär) sind, sondern auch Ausdrücke wie selten, ziemlich",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erlaubt Schlüsse, die nicht eindeutig wahr/falsch (binär) sind, sondern auch Ausdrücke wie selten, ziemlich",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Erlaubt",
+      "Schlüsse",
+      "Ausdrücke"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_52",
+    "question": "Welche Aussage über Der ist korrekt?",
+    "type": "single",
+    "options": [
+      "Der Wahrheitswert einer Aussage wird numerisch in einem Intervall [0,1] beschrieben (Funktion)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der Wahrheitswert einer Aussage wird numerisch in einem Intervall [0,1] beschrieben (Funktion)",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Der",
+      "Wahrheitswert",
+      "Aussage"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_53",
+    "question": "Welche Aussage über Prädikatenlogik ist korrekt?",
+    "type": "single",
+    "options": [
+      "Prädikatenlogik Für die Prädikatenlogik sind Aussagen selbst komplexe Gebilde, die nach bestimmten Regeln aufgebaut sind",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Prädikatenlogik Für die Prädikatenlogik sind Aussagen selbst komplexe Gebilde, die nach bestimmten Regeln aufgebaut sind",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Prädikatenlogik",
+      "Für",
+      "Prädikatenlogik"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_54",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Anwendungsfall der Booleschen Algebra mit den Werten true / false Elementaraussagen sind entweder wahr oder falsch 2 + 2 = 4 vs",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Anwendungsfall der Booleschen Algebra mit den Werten true / false Elementaraussagen sind entweder wahr oder falsch 2 + 2 = 4 vs",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Booleschen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_55",
+    "question": "Welche Aussage über Eisen ist korrekt?",
+    "type": "single",
+    "options": [
+      "2 + 2 = 5 Eisen ist leichter als Blei Verknüpfung und ∧ , oder ∨, nicht ¬ Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "2 + 2 = 5 Eisen ist leichter als Blei Verknüpfung und ∧ , oder ∨, nicht ¬ Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Eisen",
+      "Blei",
+      "Verknüpfung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_56",
+    "question": "Welche Aussage über Jede ist korrekt?",
+    "type": "single",
+    "options": [
+      "Jede Elementaraussage ist eine Aussage",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Jede Elementaraussage ist eine Aussage",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Jede",
+      "Elementaraussage",
+      "Aussage"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_57",
+    "question": "Welche Aussage über Sind ist korrekt?",
+    "type": "single",
+    "options": [
+      "Sind A, A1, A2 Aussagen, so sind auch A1 ∧ A2, A1 ∨ A2, ¬A Aussagen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Sind A, A1, A2 Aussagen, so sind auch A1 ∧ A2, A1 ∨ A2, ¬A Aussagen",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Sind",
+      "Aussagen",
+      "Aussagen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_58",
+    "question": "Welche Aussage über Umsetzung ist korrekt?",
+    "type": "single",
+    "options": [
+      "T T TA B C | (A∧ ¬B)∨C→(A∨B) 1] T T T | T ✓ 2] T T F | T ✓ 3] T F T | T ✓ 4] T F F | T ✓ 5] F T T | T ✓ 6] F T F | T ✓ 7] F F T | F 8] F F F | T ✓ ------------ A B C | A∧ B∧C 1] 1 1 1 | 1 ✓ 2] 1 1 0 | 0 3] 1 0 1 | 0 4] 1 0 0 | 0 5] 0 1 1 | 0 6] 0 1 0 | 0 7] 0 0 1 | 0 8] 0 0 0 | 0 1 = T, 0 = FVerknüpfung NAND Umsetzung ¬ A A | A A ∧ B (A | B) | (A | B) A ∨ B (A | A) | (B | B) A NOR B ((A | A) | (B | B)) | ((A | A) | (B | B)) A XOR B (A | (B | B)) | ((A | A) | B) A ⇒ B A | (B | B) A ⇔ B (A | B) | ((A | A) | (B | B)) Alle logischen Operatoren durch NAND darstellen Prolog: Programming in Logic vater_von( christine,wolfgang)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "T T TA B C | (A∧ ¬B)∨C→(A∨B) 1] T T T | T ✓ 2] T T F | T ✓ 3] T F T | T ✓ 4] T F F | T ✓ 5] F T T | T ✓ 6] F T F | T ✓ 7] F F T | F 8] F F F | T ✓ ------------ A B C | A∧ B∧C 1] 1 1 1 | 1 ✓ 2] 1 1 0 | 0 3] 1 0 1 | 0 4] 1 0 0 | 0 5] 0 1 1 | 0 6] 0 1 0 | 0 7] 0 0 1 | 0 8] 0 0 0 | 0 1 = T, 0 = FVerknüpfung NAND Umsetzung ¬ A A | A A ∧ B (A | B) | (A | B) A ∨ B (A | A) | (B | B) A NOR B ((A | A) | (B | B)) | ((A | A) | (B | B)) A XOR B (A | (B | B)) | ((A | A) | B) A ⇒ B A | (B | B) A ⇔ B (A | B) | ((A | A) | (B | B)) Alle logischen Operatoren durch NAND darstellen Prolog: Programming in Logic vater_von( christine,wolfgang)",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 50,
+    "tags": [
+      "Umsetzung",
+      "Alle",
+      "Operatoren"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_59",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS  Ist die Aussage wahr oder falsch",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS  Ist die Aussage wahr oder falsch",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 51,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Ist"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_60",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Was ist das Ziel",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Was ist das Ziel",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 53,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Ziel"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_61",
+    "question": "Welche Aussage über Problemlösung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Problemlösung analog zu einem Experten für ein bestimmtes Fachgebiet Wissen wird vom Experten explizit zur Verfügung gestellt (codiert), meist in Form von Heuristiken (Erfahrungswissen) Realisierung Oft mittels regelbasierter Systeme realisiert „Business Rule Engines “Beispiele Konfigurieren von Computern – passende Komponenten finden Versicherung – optimale Versicherungskombination finden basierend auf den Angaben des Kunden Medizin – Auswahl von Medikamenten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Problemlösung analog zu einem Experten für ein bestimmtes Fachgebiet Wissen wird vom Experten explizit zur Verfügung gestellt (codiert), meist in Form von Heuristiken (Erfahrungswissen) Realisierung Oft mittels regelbasierter Systeme realisiert „Business Rule Engines “Beispiele Konfigurieren von Computern – passende Komponenten finden Versicherung – optimale Versicherungskombination finden basierend auf den Angaben des Kunden Medizin – Auswahl von Medikamenten",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 53,
+    "tags": [
+      "Problemlösung",
+      "Experten",
+      "Fachgebiet"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_62",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "Big Data & Data Science - Definitionen Ein wichtiges Anwendungsgebiet der KI / des Data Mining sind Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Big Data & Data Science - Definitionen Ein wichtiges Anwendungsgebiet der KI / des Data Mining sind Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_63",
+    "question": "Welche Aussage über Welche ist korrekt?",
+    "type": "single",
+    "options": [
+      "Welche Verfahren werden für Empfehlungssysteme eingesetzt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Welche Verfahren werden für Empfehlungssysteme eingesetzt",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Welche",
+      "Verfahren",
+      "Empfehlungssysteme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_64",
+    "question": "Welche Aussage über Regelbasierte ist korrekt?",
+    "type": "single",
+    "options": [
+      "Regelbasierte Expertensysteme sind klassische KI -Systeme, früher stark „gehypt“",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Regelbasierte Expertensysteme sind klassische KI -Systeme, früher stark „gehypt“",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Regelbasierte",
+      "Expertensysteme",
+      "Systeme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_65",
+    "question": "Welche Aussage über Heute ist korrekt?",
+    "type": "single",
+    "options": [
+      "Heute wird dieser Begriff eher selten verwendet und ebenso die Anwendung solcher Systeme",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Heute wird dieser Begriff eher selten verwendet und ebenso die Anwendung solcher Systeme",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Heute",
+      "Begriff",
+      "Anwendung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_66",
+    "question": "Welche Aussage über Ist ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ist der Begriff wirklich verschwunden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ist der Begriff wirklich verschwunden",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Ist",
+      "Begriff"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_67",
+    "question": "Was ist Modulbeschreibung?",
+    "type": "single",
+    "options": [
+      "Die Studierenden können nach erfolgreichem Abschluss des Moduls : Management -Entscheidungen durch die Beschaffung, Analyse und Präsentation von internen und externen Informationen durch Techniken und Tools vorbereiten und unterstützen, die Wechselwirkungen der Management -Entscheidungen zwischen den unterschiedlichen Bereichen eines Unternehmens / einer Organisation bestimmen und deren Auswirkungen insbesondere hinsichtlich des Marketings, der Performance - Messung oder der Unterstützung strategischer Entscheidungen einschätzen, \"Big Data\" erklären und Lösungsvorschläge zur Bearbeitung der Daten erarbeiten, bestimmen, welche Informationen für welche Entscheidungen relevant sein können, sowohl Zahlen und Daten, aber auch unstrukturierte Texte als Quellen untersuchen, grundsätzliche Methoden aus dem Bereich der \"Data Science\" bewerten und anwenden,durch \"Data Science\" ermittelte Erkenntnisse durch statistische und mathematische Grundlagen untermauern.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Modulbeschreibung: Die Studierenden können nach erfolgreichem Abschluss des Moduls : Management -Entscheidungen durch die Beschaffung, Analyse und Präsentation von internen und externen Informationen durch Techniken und Tools vorbereiten und unterstützen, die Wechselwirkungen der Management -Entscheidungen zwischen den unterschiedlichen Bereichen eines Unternehmens / einer Organisation bestimmen und deren Auswirkungen insbesondere hinsichtlich des Marketings, der Performance - Messung oder der Unterstützung strategischer Entscheidungen einschätzen, \"Big Data\" erklären und Lösungsvorschläge zur Bearbeitung der Daten erarbeiten, bestimmen, welche Informationen für welche Entscheidungen relevant sein können, sowohl Zahlen und Daten, aber auch unstrukturierte Texte als Quellen untersuchen, grundsätzliche Methoden aus dem Bereich der \"Data Science\" bewerten und anwenden,durch \"Data Science\" ermittelte Erkenntnisse durch statistische und mathematische Grundlagen untermauern.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 2,
+    "tags": [
+      "Modulbeschreibung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_68",
+    "question": "Richtig oder Falsch: Modulbeschreibung Die Studierenden können nach erfolgreichem Abschluss des Moduls : Management -Entscheidungen durch die Beschaffung, Analyse und Präsentation von internen und externen Informationen durch Techniken und Tools vorbereiten und unterstützen, die Wechselwirkungen der Management -Entscheidungen zwischen den unterschiedlichen Bereichen eines Unternehmens / einer Organisation bestimmen und deren Auswirkungen insbesondere hinsichtlich des Marketings, der Performance - Messung oder der Unterstützung strategischer Entscheidungen einschätzen, \"Big Data\" erklären und Lösungsvorschläge zur Bearbeitung der Daten erarbeiten, bestimmen, welche Informationen für welche Entscheidungen relevant sein können, sowohl Zahlen und Daten, aber auch unstrukturierte Texte als Quellen untersuchen, grundsätzliche Methoden aus dem Bereich der \"Data Science\" bewerten und anwenden,durch \"Data Science\" ermittelte Erkenntnisse durch statistische und mathematische Grundlagen untermauern.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Modulbeschreibung: Die Studierenden können nach erfolgreichem Abschluss des Moduls : Management -Entscheidungen durch die Beschaffung, Analyse und Präsentation von internen und externen Informationen durch Techniken und Tools vorbereiten und unterstützen, die Wechselwirkungen der Management -Entscheidungen zwischen den unterschiedlichen Bereichen eines Unternehmens / einer Organisation bestimmen und deren Auswirkungen insbesondere hinsichtlich des Marketings, der Performance - Messung oder der Unterstützung strategischer Entscheidungen einschätzen, \"Big Data\" erklären und Lösungsvorschläge zur Bearbeitung der Daten erarbeiten, bestimmen, welche Informationen für welche Entscheidungen relevant sein können, sowohl Zahlen und Daten, aber auch unstrukturierte Texte als Quellen untersuchen, grundsätzliche Methoden aus dem Bereich der \"Data Science\" bewerten und anwenden,durch \"Data Science\" ermittelte Erkenntnisse durch statistische und mathematische Grundlagen untermauern.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 2,
+    "tags": [
+      "Modulbeschreibung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_69",
+    "question": "Was ist Arbeits?",
+    "type": "single",
+    "options": [
+      "und/oder Rechercheaufgaben mit explizitem Transferbezug zum praktischen Umfeld der Studierenden gestellt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Arbeits: und/oder Rechercheaufgaben mit explizitem Transferbezug zum praktischen Umfeld der Studierenden gestellt.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 3,
+    "tags": [
+      "Arbeits"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_70",
+    "question": "Richtig oder Falsch: Arbeits und/oder Rechercheaufgaben mit explizitem Transferbezug zum praktischen Umfeld der Studierenden gestellt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Arbeits: und/oder Rechercheaufgaben mit explizitem Transferbezug zum praktischen Umfeld der Studierenden gestellt.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 3,
+    "tags": [
+      "Arbeits"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_71",
+    "question": "Was ist Maschinelles Lernen?",
+    "type": "single",
+    "options": [
+      "Einführung, Allgemeine Ansätze, Model Evaluation 6 Maschinelles Lernen: Clusterverfahren, K -Means , k-NN, Dimensionsreduktion 7 Maschinelles Lernen: Entscheidungsbäume 8 Maschinelles Lernen: Neuronale Netze, Transformer Modelle 9 Maschinelles Lernen: Reinforcement Learning 10 Big Data Architekturen 11 Ethische Aspekte 12 KlausurBig Data & Data Science Modul -/Veranstaltungsgliederung Anzahl der Gliederungspunkte entspricht nicht der Anzahl der Lehrveranstaltungseinheiten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Maschinelles Lernen: Einführung, Allgemeine Ansätze, Model Evaluation 6 Maschinelles Lernen: Clusterverfahren, K -Means , k-NN, Dimensionsreduktion 7 Maschinelles Lernen: Entscheidungsbäume 8 Maschinelles Lernen: Neuronale Netze, Transformer Modelle 9 Maschinelles Lernen: Reinforcement Learning 10 Big Data Architekturen 11 Ethische Aspekte 12 KlausurBig Data & Data Science Modul -/Veranstaltungsgliederung Anzahl der Gliederungspunkte entspricht nicht der Anzahl der Lehrveranstaltungseinheiten.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 5,
+    "tags": [
+      "Maschinelles Lernen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_72",
+    "question": "Richtig oder Falsch: Maschinelles Lernen Einführung, Allgemeine Ansätze, Model Evaluation 6 Maschinelles Lernen: Clusterverfahren, K -Means , k-NN, Dimensionsreduktion 7 Maschinelles Lernen: Entscheidungsbäume 8 Maschinelles Lernen: Neuronale Netze, Transformer Modelle 9 Maschinelles Lernen: Reinforcement Learning 10 Big Data Architekturen 11 Ethische Aspekte 12 KlausurBig Data & Data Science Modul -/Veranstaltungsgliederung Anzahl der Gliederungspunkte entspricht nicht der Anzahl der Lehrveranstaltungseinheiten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Maschinelles Lernen: Einführung, Allgemeine Ansätze, Model Evaluation 6 Maschinelles Lernen: Clusterverfahren, K -Means , k-NN, Dimensionsreduktion 7 Maschinelles Lernen: Entscheidungsbäume 8 Maschinelles Lernen: Neuronale Netze, Transformer Modelle 9 Maschinelles Lernen: Reinforcement Learning 10 Big Data Architekturen 11 Ethische Aspekte 12 KlausurBig Data & Data Science Modul -/Veranstaltungsgliederung Anzahl der Gliederungspunkte entspricht nicht der Anzahl der Lehrveranstaltungseinheiten.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 5,
+    "tags": [
+      "Maschinelles Lernen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_73",
+    "question": "Was ist Cast?",
+    "type": "single",
+    "options": [
+      "AI model for faster and more accurate global weather forecasting.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Cast: AI model for faster and more accurate global weather forecasting.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 6,
+    "tags": [
+      "Cast"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_74",
+    "question": "Richtig oder Falsch: Cast AI model for faster and more accurate global weather forecasting.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Cast: AI model for faster and more accurate global weather forecasting.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 6,
+    "tags": [
+      "Cast"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_75",
+    "question": "Was ist Graphcast?",
+    "type": "single",
+    "options": [
+      "Intelligenz erwartet zu Beginn der nächsten Woche ein von Italien über Österreich nach Tschechien ziehendes Tief, welches in ganz Bayern kräftige Schneefälle bringen würde.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Graphcast: Intelligenz erwartet zu Beginn der nächsten Woche ein von Italien über Österreich nach Tschechien ziehendes Tief, welches in ganz Bayern kräftige Schneefälle bringen würde.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 6,
+    "tags": [
+      "Graphcast"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_76",
+    "question": "Richtig oder Falsch: Graphcast Intelligenz erwartet zu Beginn der nächsten Woche ein von Italien über Österreich nach Tschechien ziehendes Tief, welches in ganz Bayern kräftige Schneefälle bringen würde.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Graphcast: Intelligenz erwartet zu Beginn der nächsten Woche ein von Italien über Österreich nach Tschechien ziehendes Tief, welches in ganz Bayern kräftige Schneefälle bringen würde.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 6,
+    "tags": [
+      "Graphcast"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_77",
+    "question": "Was ist Extra?",
+    "type": "single",
+    "options": [
+      "tropics&parameter=Temperature %20850hPa&score=Anomaly %20correlation Hier sieht man, wie die Vorhersagegüte in Bezug auf die Temperatur in der freien Atmosphäre mit der zeitlichen Länge der Vorhersage abnimmt .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Extra: tropics&parameter=Temperature %20850hPa&score=Anomaly %20correlation Hier sieht man, wie die Vorhersagegüte in Bezug auf die Temperatur in der freien Atmosphäre mit der zeitlichen Länge der Vorhersage abnimmt .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Extra"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_78",
+    "question": "Richtig oder Falsch: Extra tropics&parameter=Temperature %20850hPa&score=Anomaly %20correlation Hier sieht man, wie die Vorhersagegüte in Bezug auf die Temperatur in der freien Atmosphäre mit der zeitlichen Länge der Vorhersage abnimmt .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Extra: tropics&parameter=Temperature %20850hPa&score=Anomaly %20correlation Hier sieht man, wie die Vorhersagegüte in Bezug auf die Temperatur in der freien Atmosphäre mit der zeitlichen Länge der Vorhersage abnimmt .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Extra"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_79",
+    "question": "Was ist Luftdruck?",
+    "type": "single",
+    "options": [
+      "und Temperaturgegensätze dann viel zu gering .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Luftdruck: und Temperaturgegensätze dann viel zu gering .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Luftdruck"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_80",
+    "question": "Richtig oder Falsch: Luftdruck und Temperaturgegensätze dann viel zu gering .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Luftdruck: und Temperaturgegensätze dann viel zu gering .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Luftdruck"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_81",
+    "question": "Was ist Extra?",
+    "type": "single",
+    "options": [
+      "tropics&parameter=Temperature %20850hPa&score=Forecast %20activity FuXi trickst also sozusagen die eine Statistik aus und fällt bei der anderen durch.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Extra: tropics&parameter=Temperature %20850hPa&score=Forecast %20activity FuXi trickst also sozusagen die eine Statistik aus und fällt bei der anderen durch.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Extra"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_82",
+    "question": "Richtig oder Falsch: Extra tropics&parameter=Temperature %20850hPa&score=Forecast %20activity FuXi trickst also sozusagen die eine Statistik aus und fällt bei der anderen durch.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Extra: tropics&parameter=Temperature %20850hPa&score=Forecast %20activity FuXi trickst also sozusagen die eine Statistik aus und fällt bei der anderen durch.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Extra"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_83",
+    "question": "Was ist Graphcast?",
+    "type": "single",
+    "options": [
+      "Modells regelmäßig und die Überlegenheit macht sich tatsächlich auch in der täglichen Praxis bemerkbar .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Graphcast: Modells regelmäßig und die Überlegenheit macht sich tatsächlich auch in der täglichen Praxis bemerkbar .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Graphcast"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_84",
+    "question": "Richtig oder Falsch: Graphcast Modells regelmäßig und die Überlegenheit macht sich tatsächlich auch in der täglichen Praxis bemerkbar .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Graphcast: Modells regelmäßig und die Überlegenheit macht sich tatsächlich auch in der täglichen Praxis bemerkbar .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Graphcast"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_85",
+    "question": "Was ist Tagen?",
+    "type": "single",
+    "options": [
+      "FuXi undGraphcast demnach sogutwieIFSnach achteinhalb bzw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Tagen: FuXi undGraphcast demnach sogutwieIFSnach achteinhalb bzw.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Tagen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_86",
+    "question": "Richtig oder Falsch: Tagen FuXi undGraphcast demnach sogutwieIFSnach achteinhalb bzw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Tagen: FuXi undGraphcast demnach sogutwieIFSnach achteinhalb bzw.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Tagen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_87",
+    "question": "Was ist Insbesondere?",
+    "type": "single",
+    "options": [
+      "die Luftdruck - und Temperaturgegensätze dann viel zu gering .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Insbesondere: die Luftdruck - und Temperaturgegensätze dann viel zu gering .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Insbesondere"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_88",
+    "question": "Richtig oder Falsch: Insbesondere die Luftdruck - und Temperaturgegensätze dann viel zu gering .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Insbesondere: die Luftdruck - und Temperaturgegensätze dann viel zu gering .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Insbesondere"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_89",
+    "question": "Was ist Graphcast?",
+    "type": "single",
+    "options": [
+      "übrigens AIFS, die hauseigene KI-Vorhersage des ECMWF, die ebenfalls bis zum Ende meteorologisch sinnvolle und detailreiche Ergebnisse liefert .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Graphcast: übrigens AIFS, die hauseigene KI-Vorhersage des ECMWF, die ebenfalls bis zum Ende meteorologisch sinnvolle und detailreiche Ergebnisse liefert .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Graphcast"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_90",
+    "question": "Richtig oder Falsch: Graphcast übrigens AIFS, die hauseigene KI-Vorhersage des ECMWF, die ebenfalls bis zum Ende meteorologisch sinnvolle und detailreiche Ergebnisse liefert .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Graphcast: übrigens AIFS, die hauseigene KI-Vorhersage des ECMWF, die ebenfalls bis zum Ende meteorologisch sinnvolle und detailreiche Ergebnisse liefert .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Graphcast"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_91",
+    "question": "Was ist Insbesondere?",
+    "type": "single",
+    "options": [
+      "mir bis jetzt bei Graphcast nicht diese spezifischen Schwächen aufgefallen, die bei allen konventionellen Modellen gelegentlich auftreten und zu teilweise skurrilen Entwicklungsvarianten führen, die dann wieder fallengelassen werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Insbesondere: mir bis jetzt bei Graphcast nicht diese spezifischen Schwächen aufgefallen, die bei allen konventionellen Modellen gelegentlich auftreten und zu teilweise skurrilen Entwicklungsvarianten führen, die dann wieder fallengelassen werden.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Insbesondere"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_92",
+    "question": "Richtig oder Falsch: Insbesondere mir bis jetzt bei Graphcast nicht diese spezifischen Schwächen aufgefallen, die bei allen konventionellen Modellen gelegentlich auftreten und zu teilweise skurrilen Entwicklungsvarianten führen, die dann wieder fallengelassen werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Insbesondere: mir bis jetzt bei Graphcast nicht diese spezifischen Schwächen aufgefallen, die bei allen konventionellen Modellen gelegentlich auftreten und zu teilweise skurrilen Entwicklungsvarianten führen, die dann wieder fallengelassen werden.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 7,
+    "tags": [
+      "Insbesondere"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_93",
+    "question": "Was ist Scikit?",
+    "type": "single",
+    "options": [
+      "Learn und TensorFlow .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Scikit: Learn und TensorFlow .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Scikit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_94",
+    "question": "Richtig oder Falsch: Scikit Learn und TensorFlow .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Scikit: Learn und TensorFlow .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Scikit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_95",
+    "question": "Was ist Mensch- Maschine?",
+    "type": "single",
+    "options": [
+      "Kommunikation in natürlicher Sprache ; mit 772 Übungen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mensch- Maschine: Kommunikation in natürlicher Sprache ; mit 772 Übungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Mensch- Maschine"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_96",
+    "question": "Richtig oder Falsch: Mensch- Maschine Kommunikation in natürlicher Sprache ; mit 772 Übungen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mensch- Maschine: Kommunikation in natürlicher Sprache ; mit 772 Übungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Mensch- Maschine"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_97",
+    "question": "Was ist Business Intelligence?",
+    "type": "single",
+    "options": [
+      "Grundlagen und praktische Anwendungen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Business Intelligence: Grundlagen und praktische Anwendungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Business Intelligence"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_98",
+    "question": "Richtig oder Falsch: Business Intelligence Grundlagen und praktische Anwendungen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Business Intelligence: Grundlagen und praktische Anwendungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 10,
+    "tags": [
+      "Business Intelligence"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_99",
+    "question": "Was ist Grundlagen?",
+    "type": "single",
+    "options": [
+      "Konzepte -Anwendungen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Grundlagen: Konzepte -Anwendungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 11,
+    "tags": [
+      "Grundlagen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_100",
+    "question": "Richtig oder Falsch: Grundlagen Konzepte -Anwendungen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Grundlagen: Konzepte -Anwendungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 11,
+    "tags": [
+      "Grundlagen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_101",
+    "question": "Was ist Addison?",
+    "type": "single",
+    "options": [
+      "Wesley Bonn, Reading, Massachusetts, Menlo Park, California, Don Mills, Ontario, Wokingham , England, Amsterdam, Sydney, Singapore, Tokyo, Madrid, Bogotá, Santiago, San Juan Puppe F (1988) Einführung in Expertensysteme.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Addison: Wesley Bonn, Reading, Massachusetts, Menlo Park, California, Don Mills, Ontario, Wokingham , England, Amsterdam, Sydney, Singapore, Tokyo, Madrid, Bogotá, Santiago, San Juan Puppe F (1988) Einführung in Expertensysteme.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 11,
+    "tags": [
+      "Addison"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_102",
+    "question": "Richtig oder Falsch: Addison Wesley Bonn, Reading, Massachusetts, Menlo Park, California, Don Mills, Ontario, Wokingham , England, Amsterdam, Sydney, Singapore, Tokyo, Madrid, Bogotá, Santiago, San Juan Puppe F (1988) Einführung in Expertensysteme.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Addison: Wesley Bonn, Reading, Massachusetts, Menlo Park, California, Don Mills, Ontario, Wokingham , England, Amsterdam, Sydney, Singapore, Tokyo, Madrid, Bogotá, Santiago, San Juan Puppe F (1988) Einführung in Expertensysteme.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 11,
+    "tags": [
+      "Addison"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_103",
+    "question": "Was ist Springer?",
+    "type": "single",
+    "options": [
+      "Verlag Berlin Heidelberg Spreckelsen C, Spitzer K (2009) Wissensbasen und Expertensysteme in der Medizin.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Springer: Verlag Berlin Heidelberg Spreckelsen C, Spitzer K (2009) Wissensbasen und Expertensysteme in der Medizin.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 11,
+    "tags": [
+      "Springer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_104",
+    "question": "Richtig oder Falsch: Springer Verlag Berlin Heidelberg Spreckelsen C, Spitzer K (2009) Wissensbasen und Expertensysteme in der Medizin.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Springer: Verlag Berlin Heidelberg Spreckelsen C, Spitzer K (2009) Wissensbasen und Expertensysteme in der Medizin.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 11,
+    "tags": [
+      "Springer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_105",
+    "question": "Was ist Anwendungen?",
+    "type": "single",
+    "options": [
+      "Literatur Aichele C, Herrmann J (2021) Betriebswirtschaftliche KI -Anwendungen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Anwendungen: Literatur Aichele C, Herrmann J (2021) Betriebswirtschaftliche KI -Anwendungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 13,
+    "tags": [
+      "Anwendungen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_106",
+    "question": "Richtig oder Falsch: Anwendungen Literatur Aichele C, Herrmann J (2021) Betriebswirtschaftliche KI -Anwendungen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Anwendungen: Literatur Aichele C, Herrmann J (2021) Betriebswirtschaftliche KI -Anwendungen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 13,
+    "tags": [
+      "Anwendungen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_107",
+    "question": "Was ist Künstliche Intelligenz?",
+    "type": "single",
+    "options": [
+      "Wann übernehmen die Maschinen?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Künstliche Intelligenz: Wann übernehmen die Maschinen?",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 13,
+    "tags": [
+      "Künstliche Intelligenz"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_108",
+    "question": "Richtig oder Falsch: Künstliche Intelligenz Wann übernehmen die Maschinen?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Künstliche Intelligenz: Wann übernehmen die Maschinen?",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 13,
+    "tags": [
+      "Künstliche Intelligenz"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_109",
+    "question": "Was ist Begriffe?",
+    "type": "single",
+    "options": [
+      "Gruppe 1 Künstliche Intelligenz Machine Learning Expertensysteme Problemlösen Gruppe 2 Neuronale Netze Deep Learning Gruppe 3 Supervides Learning Unsupervised Learning Reinforcement Learning Gruppe 4 Transformer Modelle CNNÜbung 1: Begriffsentwicklung 15 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Begriffe: Gruppe 1 Künstliche Intelligenz Machine Learning Expertensysteme Problemlösen Gruppe 2 Neuronale Netze Deep Learning Gruppe 3 Supervides Learning Unsupervised Learning Reinforcement Learning Gruppe 4 Transformer Modelle CNNÜbung 1: Begriffsentwicklung 15 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 15,
+    "tags": [
+      "Begriffe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_110",
+    "question": "Richtig oder Falsch: Begriffe Gruppe 1 Künstliche Intelligenz Machine Learning Expertensysteme Problemlösen Gruppe 2 Neuronale Netze Deep Learning Gruppe 3 Supervides Learning Unsupervised Learning Reinforcement Learning Gruppe 4 Transformer Modelle CNNÜbung 1: Begriffsentwicklung 15 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Begriffe: Gruppe 1 Künstliche Intelligenz Machine Learning Expertensysteme Problemlösen Gruppe 2 Neuronale Netze Deep Learning Gruppe 3 Supervides Learning Unsupervised Learning Reinforcement Learning Gruppe 4 Transformer Modelle CNNÜbung 1: Begriffsentwicklung 15 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 15,
+    "tags": [
+      "Begriffe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_111",
+    "question": "Was ist Singularität?",
+    "type": "single",
+    "options": [
+      "KI ermöglicht der Menschheit Unsterblichkeit zu erlangenTranshumanismus : Erweiterung der menschlichen Fähigkeiten durch Integration mit kybernetischen Maschinen („Cyborg“), hier insbesondere der Singularitarianismus „ Verpflichtung zum Fortschritt“ Krempl S (2018) EU -Plan: 20 Milliarden Euro für Künstliche Intelligenz bis 2020.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Singularität: KI ermöglicht der Menschheit Unsterblichkeit zu erlangenTranshumanismus : Erweiterung der menschlichen Fähigkeiten durch Integration mit kybernetischen Maschinen („Cyborg“), hier insbesondere der Singularitarianismus „ Verpflichtung zum Fortschritt“ Krempl S (2018) EU -Plan: 20 Milliarden Euro für Künstliche Intelligenz bis 2020.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 18,
+    "tags": [
+      "Singularität"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_112",
+    "question": "Richtig oder Falsch: Singularität KI ermöglicht der Menschheit Unsterblichkeit zu erlangenTranshumanismus : Erweiterung der menschlichen Fähigkeiten durch Integration mit kybernetischen Maschinen („Cyborg“), hier insbesondere der Singularitarianismus „ Verpflichtung zum Fortschritt“ Krempl S (2018) EU -Plan: 20 Milliarden Euro für Künstliche Intelligenz bis 2020.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Singularität: KI ermöglicht der Menschheit Unsterblichkeit zu erlangenTranshumanismus : Erweiterung der menschlichen Fähigkeiten durch Integration mit kybernetischen Maschinen („Cyborg“), hier insbesondere der Singularitarianismus „ Verpflichtung zum Fortschritt“ Krempl S (2018) EU -Plan: 20 Milliarden Euro für Künstliche Intelligenz bis 2020.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 18,
+    "tags": [
+      "Singularität"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_113",
+    "question": "Was ist Plan?",
+    "type": "single",
+    "options": [
+      "20-Milliarden -Euro -fuer- Kuenstliche -Intelligenz -bis-2020 -4034360.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Plan: 20-Milliarden -Euro -fuer- Kuenstliche -Intelligenz -bis-2020 -4034360.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 18,
+    "tags": [
+      "Plan"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_114",
+    "question": "Richtig oder Falsch: Plan 20-Milliarden -Euro -fuer- Kuenstliche -Intelligenz -bis-2020 -4034360.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Plan: 20-Milliarden -Euro -fuer- Kuenstliche -Intelligenz -bis-2020 -4034360.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 18,
+    "tags": [
+      "Plan"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_115",
+    "question": "Was ist Supercomputer Watson?",
+    "type": "single",
+    "options": [
+      "Im Krankenhaus fällt die Wunderwaffe durch.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Supercomputer Watson: Im Krankenhaus fällt die Wunderwaffe durch.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 19,
+    "tags": [
+      "Supercomputer Watson"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_116",
+    "question": "Richtig oder Falsch: Supercomputer Watson Im Krankenhaus fällt die Wunderwaffe durch.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Supercomputer Watson: Im Krankenhaus fällt die Wunderwaffe durch.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 19,
+    "tags": [
+      "Supercomputer Watson"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_117",
+    "question": "Was ist Viel?",
+    "type": "single",
+    "options": [
+      "gefaehrlicher -als-Atomwaffen -Elon- Musk -erneuert -seine -Warnung -vor-KI-3990782.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Viel: gefaehrlicher -als-Atomwaffen -Elon- Musk -erneuert -seine -Warnung -vor-KI-3990782.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 19,
+    "tags": [
+      "Viel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_118",
+    "question": "Richtig oder Falsch: Viel gefaehrlicher -als-Atomwaffen -Elon- Musk -erneuert -seine -Warnung -vor-KI-3990782.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Viel: gefaehrlicher -als-Atomwaffen -Elon- Musk -erneuert -seine -Warnung -vor-KI-3990782.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 19,
+    "tags": [
+      "Viel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_119",
+    "question": "Was ist Hawking?",
+    "type": "single",
+    "options": [
+      "AI could end human race.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hawking: AI could end human race.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 19,
+    "tags": [
+      "Hawking"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_120",
+    "question": "Richtig oder Falsch: Hawking AI could end human race.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hawking: AI could end human race.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 19,
+    "tags": [
+      "Hawking"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_121",
+    "question": "Was ist Antikythera?",
+    "type": "single",
+    "options": [
+      "Tragbarer Computer Himmels - scheibe von Bebra 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Antikythera: Tragbarer Computer Himmels - scheibe von Bebra 2.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 20,
+    "tags": [
+      "Antikythera"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_122",
+    "question": "Richtig oder Falsch: Antikythera Tragbarer Computer Himmels - scheibe von Bebra 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Antikythera: Tragbarer Computer Himmels - scheibe von Bebra 2.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 20,
+    "tags": [
+      "Antikythera"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_123",
+    "question": "Was ist Neuzeit?",
+    "type": "single",
+    "options": [
+      "Rationales, wissenschaftlich geprägtes DenkenMessen, Bewerten, systematische Vorgehensweise 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuzeit: Rationales, wissenschaftlich geprägtes DenkenMessen, Bewerten, systematische Vorgehensweise 1.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 20,
+    "tags": [
+      "Neuzeit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_124",
+    "question": "Richtig oder Falsch: Neuzeit Rationales, wissenschaftlich geprägtes DenkenMessen, Bewerten, systematische Vorgehensweise 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuzeit: Rationales, wissenschaftlich geprägtes DenkenMessen, Bewerten, systematische Vorgehensweise 1.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 20,
+    "tags": [
+      "Neuzeit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_125",
+    "question": "Was ist Sprach?",
+    "type": "single",
+    "options": [
+      "erkennung Mycin R1 Klassische KIBig Data & Data Science KI im Laufe der Zeit 21Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Sprach: erkennung Mycin R1 Klassische KIBig Data & Data Science KI im Laufe der Zeit 21Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 21,
+    "tags": [
+      "Sprach"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_126",
+    "question": "Richtig oder Falsch: Sprach erkennung Mycin R1 Klassische KIBig Data & Data Science KI im Laufe der Zeit 21Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Sprach: erkennung Mycin R1 Klassische KIBig Data & Data Science KI im Laufe der Zeit 21Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 21,
+    "tags": [
+      "Sprach"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_127",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "XL (lange Kontexte), XLNet .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: XL (lange Kontexte), XLNet .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 22,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_128",
+    "question": "Richtig oder Falsch: Transformer XL (lange Kontexte), XLNet .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: XL (lange Kontexte), XLNet .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 22,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_129",
+    "question": "Was ist Retrieval?",
+    "type": "single",
+    "options": [
+      "augmentierte Generierung) .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Retrieval: augmentierte Generierung) .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 22,
+    "tags": [
+      "Retrieval"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_130",
+    "question": "Richtig oder Falsch: Retrieval augmentierte Generierung) .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Retrieval: augmentierte Generierung) .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 22,
+    "tags": [
+      "Retrieval"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_131",
+    "question": "Was ist Mess?",
+    "type": "single",
+    "options": [
+      "und Sensortechnik (siehe z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mess: und Sensortechnik (siehe z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Mess"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_132",
+    "question": "Richtig oder Falsch: Mess und Sensortechnik (siehe z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mess: und Sensortechnik (siehe z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Mess"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_133",
+    "question": "Was ist Orts?",
+    "type": "single",
+    "options": [
+      "und zeitunabhängiger (mobiler) Kommunikation von Mitarbeitern untereinander und mit Dritten mittels Emails, Twitter, Facebook unter Nutzung von PCs, Smartphones oder Tablets, Virtuellen Arbeitsplatzen und damit einhergehender Änderung der Arbeitsgewohnheiten und -organisation, wobei – wenn nötig in Echtzeit – Daten und Informationen personalisiert für Entscheidung, Planung und Controlling bereitgestellt oder abgerufen werden müssen, sowie Verkürzten Planungs - und Entscheidungsdauern durch die zunehmende Globalisierung, Dynamik und Interaktion von Wirtschaft und Gesellschaft.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Orts: und zeitunabhängiger (mobiler) Kommunikation von Mitarbeitern untereinander und mit Dritten mittels Emails, Twitter, Facebook unter Nutzung von PCs, Smartphones oder Tablets, Virtuellen Arbeitsplatzen und damit einhergehender Änderung der Arbeitsgewohnheiten und -organisation, wobei – wenn nötig in Echtzeit – Daten und Informationen personalisiert für Entscheidung, Planung und Controlling bereitgestellt oder abgerufen werden müssen, sowie Verkürzten Planungs - und Entscheidungsdauern durch die zunehmende Globalisierung, Dynamik und Interaktion von Wirtschaft und Gesellschaft.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Orts"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_134",
+    "question": "Richtig oder Falsch: Orts und zeitunabhängiger (mobiler) Kommunikation von Mitarbeitern untereinander und mit Dritten mittels Emails, Twitter, Facebook unter Nutzung von PCs, Smartphones oder Tablets, Virtuellen Arbeitsplatzen und damit einhergehender Änderung der Arbeitsgewohnheiten und -organisation, wobei – wenn nötig in Echtzeit – Daten und Informationen personalisiert für Entscheidung, Planung und Controlling bereitgestellt oder abgerufen werden müssen, sowie Verkürzten Planungs - und Entscheidungsdauern durch die zunehmende Globalisierung, Dynamik und Interaktion von Wirtschaft und Gesellschaft.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Orts: und zeitunabhängiger (mobiler) Kommunikation von Mitarbeitern untereinander und mit Dritten mittels Emails, Twitter, Facebook unter Nutzung von PCs, Smartphones oder Tablets, Virtuellen Arbeitsplatzen und damit einhergehender Änderung der Arbeitsgewohnheiten und -organisation, wobei – wenn nötig in Echtzeit – Daten und Informationen personalisiert für Entscheidung, Planung und Controlling bereitgestellt oder abgerufen werden müssen, sowie Verkürzten Planungs - und Entscheidungsdauern durch die zunehmende Globalisierung, Dynamik und Interaktion von Wirtschaft und Gesellschaft.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Orts"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_135",
+    "question": "Was ist Jahrtausend?",
+    "type": "single",
+    "options": [
+      "nach einhelliger Ansicht von IT- Experten – dabei muss nicht einmal das Marktforschungsinstitut Gartner bemüht werden – gekennzeichnet von Zunehmenden, internen und vor allem externen Datenvolumina, die zum einen durch verbesserte Mess - und Sensortechnik (siehe z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Jahrtausend: nach einhelliger Ansicht von IT- Experten – dabei muss nicht einmal das Marktforschungsinstitut Gartner bemüht werden – gekennzeichnet von Zunehmenden, internen und vor allem externen Datenvolumina, die zum einen durch verbesserte Mess - und Sensortechnik (siehe z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Jahrtausend"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_136",
+    "question": "Richtig oder Falsch: Jahrtausend nach einhelliger Ansicht von IT- Experten – dabei muss nicht einmal das Marktforschungsinstitut Gartner bemüht werden – gekennzeichnet von Zunehmenden, internen und vor allem externen Datenvolumina, die zum einen durch verbesserte Mess - und Sensortechnik (siehe z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Jahrtausend: nach einhelliger Ansicht von IT- Experten – dabei muss nicht einmal das Marktforschungsinstitut Gartner bemüht werden – gekennzeichnet von Zunehmenden, internen und vor allem externen Datenvolumina, die zum einen durch verbesserte Mess - und Sensortechnik (siehe z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 23,
+    "tags": [
+      "Jahrtausend"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_137",
+    "question": "Was ist Erhöhte Erfassungs?",
+    "type": "single",
+    "options": [
+      ", Mess- und Veränderungsgeschwindigkeit der Daten, Zunehmende Heterogenität insbesondere der externen Daten aus dem Web, Stärkere Verteilung der Daten in sog.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erhöhte Erfassungs: , Mess- und Veränderungsgeschwindigkeit der Daten, Zunehmende Heterogenität insbesondere der externen Daten aus dem Web, Stärkere Verteilung der Daten in sog.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 24,
+    "tags": [
+      "Erhöhte Erfassungs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_138",
+    "question": "Richtig oder Falsch: Erhöhte Erfassungs , Mess- und Veränderungsgeschwindigkeit der Daten, Zunehmende Heterogenität insbesondere der externen Daten aus dem Web, Stärkere Verteilung der Daten in sog.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Erhöhte Erfassungs: , Mess- und Veränderungsgeschwindigkeit der Daten, Zunehmende Heterogenität insbesondere der externen Daten aus dem Web, Stärkere Verteilung der Daten in sog.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 24,
+    "tags": [
+      "Erhöhte Erfassungs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_139",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Big Data 31 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Big Data 31 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_140",
+    "question": "Richtig oder Falsch: Data Science Definitionen Big Data 31 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Big Data 31 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_141",
+    "question": "Was ist Verarbeitungs?",
+    "type": "single",
+    "options": [
+      "geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verarbeitungs: geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Verarbeitungs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_142",
+    "question": "Richtig oder Falsch: Verarbeitungs geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Verarbeitungs: geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Verarbeitungs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_143",
+    "question": "Was ist Datenbestand?",
+    "type": "single",
+    "options": [
+      "umfangreich; liegt im Ter (1012) bis Zetta (1021) bytebereich; Skalierungsfähigkeit Variety (Vielfalt) Speicherung von strukturierten, semi -strukturierten und unstrukturierten Multimedia- Daten (Text, Grafik, Bilder, Audio und Video) Velocity (Geschwindigkeit)  Datenströme (Data Streams) sollen in Echtzeit ausgewertet und analysiert werden können Value (Wert) –Viability (Brauchbarkeit) Big Data Anwendung sollen den Unternehmenswert steigern - Investitionen in Personal und technischer Infrastruktur werden dort vorgenommen, wo eine Hebelwirkung besteht und einen Mehrwert generieren kann Veracity (Richtigkeit / Validität ) da viele Daten vage oder ungenau sind, müssen spezifische Algorithmen zur Bewertung der Aussagekraft und zur Qualitätseinschätzung der Resultate eingesetzt werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Datenbestand: umfangreich; liegt im Ter (1012) bis Zetta (1021) bytebereich; Skalierungsfähigkeit Variety (Vielfalt) Speicherung von strukturierten, semi -strukturierten und unstrukturierten Multimedia- Daten (Text, Grafik, Bilder, Audio und Video) Velocity (Geschwindigkeit)  Datenströme (Data Streams) sollen in Echtzeit ausgewertet und analysiert werden können Value (Wert) –Viability (Brauchbarkeit) Big Data Anwendung sollen den Unternehmenswert steigern - Investitionen in Personal und technischer Infrastruktur werden dort vorgenommen, wo eine Hebelwirkung besteht und einen Mehrwert generieren kann Veracity (Richtigkeit / Validität ) da viele Daten vage oder ungenau sind, müssen spezifische Algorithmen zur Bewertung der Aussagekraft und zur Qualitätseinschätzung der Resultate eingesetzt werden.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Datenbestand"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_144",
+    "question": "Richtig oder Falsch: Datenbestand umfangreich; liegt im Ter (1012) bis Zetta (1021) bytebereich; Skalierungsfähigkeit Variety (Vielfalt) Speicherung von strukturierten, semi -strukturierten und unstrukturierten Multimedia- Daten (Text, Grafik, Bilder, Audio und Video) Velocity (Geschwindigkeit)  Datenströme (Data Streams) sollen in Echtzeit ausgewertet und analysiert werden können Value (Wert) –Viability (Brauchbarkeit) Big Data Anwendung sollen den Unternehmenswert steigern - Investitionen in Personal und technischer Infrastruktur werden dort vorgenommen, wo eine Hebelwirkung besteht und einen Mehrwert generieren kann Veracity (Richtigkeit / Validität ) da viele Daten vage oder ungenau sind, müssen spezifische Algorithmen zur Bewertung der Aussagekraft und zur Qualitätseinschätzung der Resultate eingesetzt werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Datenbestand: umfangreich; liegt im Ter (1012) bis Zetta (1021) bytebereich; Skalierungsfähigkeit Variety (Vielfalt) Speicherung von strukturierten, semi -strukturierten und unstrukturierten Multimedia- Daten (Text, Grafik, Bilder, Audio und Video) Velocity (Geschwindigkeit)  Datenströme (Data Streams) sollen in Echtzeit ausgewertet und analysiert werden können Value (Wert) –Viability (Brauchbarkeit) Big Data Anwendung sollen den Unternehmenswert steigern - Investitionen in Personal und technischer Infrastruktur werden dort vorgenommen, wo eine Hebelwirkung besteht und einen Mehrwert generieren kann Veracity (Richtigkeit / Validität ) da viele Daten vage oder ungenau sind, müssen spezifische Algorithmen zur Bewertung der Aussagekraft und zur Qualitätseinschätzung der Resultate eingesetzt werden.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Datenbestand"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_145",
+    "question": "Was ist Data?",
+    "type": "single",
+    "options": [
+      "den Einsatz großer Datenmengen aus vielfältigen Quellen mit einer hohen Verarbeitungs -geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data: den Einsatz großer Datenmengen aus vielfältigen Quellen mit einer hohen Verarbeitungs -geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Data"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_146",
+    "question": "Richtig oder Falsch: Data den Einsatz großer Datenmengen aus vielfältigen Quellen mit einer hohen Verarbeitungs -geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data: den Einsatz großer Datenmengen aus vielfältigen Quellen mit einer hohen Verarbeitungs -geschwindigkeit zur Erzeugung wirtschaftlichen Nutzens.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 31,
+    "tags": [
+      "Data"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_147",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Big Data - Anwendungen und Herausforderungen 32 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Big Data - Anwendungen und Herausforderungen 32 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 32,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_148",
+    "question": "Richtig oder Falsch: Data Science Definitionen Big Data - Anwendungen und Herausforderungen 32 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Big Data - Anwendungen und Herausforderungen 32 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 32,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_149",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Business Intelligence 33 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Business Intelligence 33 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_150",
+    "question": "Richtig oder Falsch: Data Science Definitionen Business Intelligence 33 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Business Intelligence 33 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_151",
+    "question": "Was ist Data?",
+    "type": "single",
+    "options": [
+      "Marts genannt und stellen einen nicht persistenten Zwischenspeicher zum Data Warehouse dar.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data: Marts genannt und stellen einen nicht persistenten Zwischenspeicher zum Data Warehouse dar.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Data"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_152",
+    "question": "Richtig oder Falsch: Data Marts genannt und stellen einen nicht persistenten Zwischenspeicher zum Data Warehouse dar.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data: Marts genannt und stellen einen nicht persistenten Zwischenspeicher zum Data Warehouse dar.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 33,
+    "tags": [
+      "Data"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_153",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Competitive Intelligence 34 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Competitive Intelligence 34 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 34,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_154",
+    "question": "Richtig oder Falsch: Data Science Definitionen Competitive Intelligence 34 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Competitive Intelligence 34 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 34,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_155",
+    "question": "Was ist Datenquellen?",
+    "type": "single",
+    "options": [
+      "Internet, Unternehmensberichte, Messen, … durch den aus mehr oder minder strukturierten Informationen über Märkte, Wettbewerber und Technologien ein Verständnis über ihr Unternehmensumfeld entsteht.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Datenquellen: Internet, Unternehmensberichte, Messen, … durch den aus mehr oder minder strukturierten Informationen über Märkte, Wettbewerber und Technologien ein Verständnis über ihr Unternehmensumfeld entsteht.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 34,
+    "tags": [
+      "Datenquellen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_156",
+    "question": "Richtig oder Falsch: Datenquellen Internet, Unternehmensberichte, Messen, … durch den aus mehr oder minder strukturierten Informationen über Märkte, Wettbewerber und Technologien ein Verständnis über ihr Unternehmensumfeld entsteht.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Datenquellen: Internet, Unternehmensberichte, Messen, … durch den aus mehr oder minder strukturierten Informationen über Märkte, Wettbewerber und Technologien ein Verständnis über ihr Unternehmensumfeld entsteht.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 34,
+    "tags": [
+      "Datenquellen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_157",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen OLAP (Online Analytical Processing) 35 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen OLAP (Online Analytical Processing) 35 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 35,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_158",
+    "question": "Richtig oder Falsch: Data Science Definitionen OLAP (Online Analytical Processing) 35 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen OLAP (Online Analytical Processing) 35 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 35,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_159",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Data Warehouse (DWH) 36 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Data Warehouse (DWH) 36 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_160",
+    "question": "Richtig oder Falsch: Data Science Definitionen Data Warehouse (DWH) 36 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Data Warehouse (DWH) 36 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_161",
+    "question": "Was ist Back?",
+    "type": "single",
+    "options": [
+      "End-Bereich –Werkzeuge zwischen Datenquellen und DWH Extraktoren, Transformatoren, Monitor (Datenänderungen erkennen und behandeln), Datenqualitätssicherung ETL = Extract , Transform, Load Operational Data Store –physischer Zwischenspeicher Datenmigration – Transformatoren, die der Vereinheitlichung dienen Beispiel Analyse der Geschäftsdaten von global operierenden Unternehmen, z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Back: End-Bereich –Werkzeuge zwischen Datenquellen und DWH Extraktoren, Transformatoren, Monitor (Datenänderungen erkennen und behandeln), Datenqualitätssicherung ETL = Extract , Transform, Load Operational Data Store –physischer Zwischenspeicher Datenmigration – Transformatoren, die der Vereinheitlichung dienen Beispiel Analyse der Geschäftsdaten von global operierenden Unternehmen, z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Back"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_162",
+    "question": "Richtig oder Falsch: Back End-Bereich –Werkzeuge zwischen Datenquellen und DWH Extraktoren, Transformatoren, Monitor (Datenänderungen erkennen und behandeln), Datenqualitätssicherung ETL = Extract , Transform, Load Operational Data Store –physischer Zwischenspeicher Datenmigration – Transformatoren, die der Vereinheitlichung dienen Beispiel Analyse der Geschäftsdaten von global operierenden Unternehmen, z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Back: End-Bereich –Werkzeuge zwischen Datenquellen und DWH Extraktoren, Transformatoren, Monitor (Datenänderungen erkennen und behandeln), Datenqualitätssicherung ETL = Extract , Transform, Load Operational Data Store –physischer Zwischenspeicher Datenmigration – Transformatoren, die der Vereinheitlichung dienen Beispiel Analyse der Geschäftsdaten von global operierenden Unternehmen, z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Back"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_163",
+    "question": "Was ist Daten?",
+    "type": "single",
+    "options": [
+      "integriert Schema ist analyseorientiert (zeitbezogen!",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Daten: integriert Schema ist analyseorientiert (zeitbezogen!",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Daten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_164",
+    "question": "Richtig oder Falsch: Daten integriert Schema ist analyseorientiert (zeitbezogen!",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Daten: integriert Schema ist analyseorientiert (zeitbezogen!",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 36,
+    "tags": [
+      "Daten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_165",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Data Mart 37 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Data Mart 37 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 37,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_166",
+    "question": "Richtig oder Falsch: Data Science Definitionen Data Mart 37 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Data Mart 37 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 37,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_167",
+    "question": "Was ist Struktureller Extrakt?",
+    "type": "single",
+    "options": [
+      "Nur Teil des DHW - Schemas extrahiert für bestimmte Analysen Inhaltlicher Extrakt : Gesamtes Schema, aber nur Teile der Daten extrahiert (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Struktureller Extrakt: Nur Teil des DHW - Schemas extrahiert für bestimmte Analysen Inhaltlicher Extrakt : Gesamtes Schema, aber nur Teile der Daten extrahiert (z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 37,
+    "tags": [
+      "Struktureller Extrakt"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_168",
+    "question": "Richtig oder Falsch: Struktureller Extrakt Nur Teil des DHW - Schemas extrahiert für bestimmte Analysen Inhaltlicher Extrakt : Gesamtes Schema, aber nur Teile der Daten extrahiert (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Struktureller Extrakt: Nur Teil des DHW - Schemas extrahiert für bestimmte Analysen Inhaltlicher Extrakt : Gesamtes Schema, aber nur Teile der Daten extrahiert (z.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 37,
+    "tags": [
+      "Struktureller Extrakt"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_169",
+    "question": "Was ist Aggregierter Extrakt?",
+    "type": "single",
+    "options": [
+      "Höhere Abstraktionsstufe gespeichert (Tage -> Monate) Beispiel Webmining, insbesondere Nutzungsdaten Kudrass T (2015) Taschenbuch Datenbanken.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aggregierter Extrakt: Höhere Abstraktionsstufe gespeichert (Tage -> Monate) Beispiel Webmining, insbesondere Nutzungsdaten Kudrass T (2015) Taschenbuch Datenbanken.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 37,
+    "tags": [
+      "Aggregierter Extrakt"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_170",
+    "question": "Richtig oder Falsch: Aggregierter Extrakt Höhere Abstraktionsstufe gespeichert (Tage -> Monate) Beispiel Webmining, insbesondere Nutzungsdaten Kudrass T (2015) Taschenbuch Datenbanken.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Aggregierter Extrakt: Höhere Abstraktionsstufe gespeichert (Tage -> Monate) Beispiel Webmining, insbesondere Nutzungsdaten Kudrass T (2015) Taschenbuch Datenbanken.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 37,
+    "tags": [
+      "Aggregierter Extrakt"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_171",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen NoSQL – Not Only SQL 38 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen NoSQL – Not Only SQL 38 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_172",
+    "question": "Richtig oder Falsch: Data Science Definitionen NoSQL – Not Only SQL 38 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen NoSQL – Not Only SQL 38 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_173",
+    "question": "Was ist Konsistenzgewährung?",
+    "type": "single",
+    "options": [
+      "aufgrund des CAP - Theorems ist die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Konsistenzgewährung: aufgrund des CAP - Theorems ist die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Konsistenzgewährung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_174",
+    "question": "Richtig oder Falsch: Konsistenzgewährung aufgrund des CAP - Theorems ist die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Konsistenzgewährung: aufgrund des CAP - Theorems ist die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Konsistenzgewährung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_175",
+    "question": "Was ist Theorems?",
+    "type": "single",
+    "options": [
+      "die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Theorems: die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Theorems"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_176",
+    "question": "Richtig oder Falsch: Theorems die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Theorems: die Konsistenz lediglich verzögert gewährleistet ( weak consistency ), falls hohe Verfügbarkeit und Ausfalltoleranz angestrebt werdenhttp://wikis.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 38,
+    "tags": [
+      "Theorems"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_177",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen In-Memory Datenbanken 39 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen In-Memory Datenbanken 39 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 39,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_178",
+    "question": "Richtig oder Falsch: Data Science Definitionen In-Memory Datenbanken 39 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen In-Memory Datenbanken 39 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 39,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_179",
+    "question": "Was ist Vorteil?",
+    "type": "single",
+    "options": [
+      "Hohe Zugriffsgeschwindigkeit Nachteil: Preis Problem Persistenz von Transaktionen (ACID) Lösungen Snapshot- Dateien Protokolldateien Replikation auf Festplatten Varianten Hybride Systeme Tlw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vorteil: Hohe Zugriffsgeschwindigkeit Nachteil: Preis Problem Persistenz von Transaktionen (ACID) Lösungen Snapshot- Dateien Protokolldateien Replikation auf Festplatten Varianten Hybride Systeme Tlw.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 39,
+    "tags": [
+      "Vorteil"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_180",
+    "question": "Richtig oder Falsch: Vorteil Hohe Zugriffsgeschwindigkeit Nachteil: Preis Problem Persistenz von Transaktionen (ACID) Lösungen Snapshot- Dateien Protokolldateien Replikation auf Festplatten Varianten Hybride Systeme Tlw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vorteil: Hohe Zugriffsgeschwindigkeit Nachteil: Preis Problem Persistenz von Transaktionen (ACID) Lösungen Snapshot- Dateien Protokolldateien Replikation auf Festplatten Varianten Hybride Systeme Tlw.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 39,
+    "tags": [
+      "Vorteil"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_181",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Data Mining 40 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Data Mining 40 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 40,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_182",
+    "question": "Richtig oder Falsch: Data Science Definitionen Data Mining 40 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Data Mining 40 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 40,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_183",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Zu- und Einordnung Data Mining in andere Fachgebiete 41Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Zu- und Einordnung Data Mining in andere Fachgebiete 41Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 41,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_184",
+    "question": "Richtig oder Falsch: Data Science Definitionen Zu- und Einordnung Data Mining in andere Fachgebiete 41Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Zu- und Einordnung Data Mining in andere Fachgebiete 41Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 41,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_185",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Predictive Analytics 42 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Predictive Analytics 42 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 42,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_186",
+    "question": "Richtig oder Falsch: Data Science Definitionen Predictive Analytics 42 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Predictive Analytics 42 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 42,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_187",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Sentiment -Analyse 43 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Sentiment -Analyse 43 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 43,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_188",
+    "question": "Richtig oder Falsch: Data Science Definitionen Sentiment -Analyse 43 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Sentiment -Analyse 43 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 43,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_189",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Meinungsführeridentifikation (Opinion Leaders) 44 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Meinungsführeridentifikation (Opinion Leaders) 44 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 44,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_190",
+    "question": "Richtig oder Falsch: Data Science Definitionen Meinungsführeridentifikation (Opinion Leaders) 44 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Meinungsführeridentifikation (Opinion Leaders) 44 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 44,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_191",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Künstliche Intelligenz 45 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Künstliche Intelligenz 45 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_192",
+    "question": "Richtig oder Falsch: Data Science Definitionen Künstliche Intelligenz 45 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Künstliche Intelligenz 45 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_193",
+    "question": "Was ist Mannheim?",
+    "type": "single",
+    "options": [
+      "Bibliographisches Institut & F.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mannheim: Bibliographisches Institut & F.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Mannheim"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_194",
+    "question": "Richtig oder Falsch: Mannheim Bibliographisches Institut & F.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mannheim: Bibliographisches Institut & F.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Mannheim"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_195",
+    "question": "Was ist Fließtext?",
+    "type": "single",
+    "options": [
+      "und Spracherkennung, mechanische Beweise und anderes umfasst und auch die Konstruktion von wissensbasierten Systemen einschließt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fließtext: und Spracherkennung, mechanische Beweise und anderes umfasst und auch die Konstruktion von wissensbasierten Systemen einschließt.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Fließtext"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_196",
+    "question": "Richtig oder Falsch: Fließtext und Spracherkennung, mechanische Beweise und anderes umfasst und auch die Konstruktion von wissensbasierten Systemen einschließt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Fließtext: und Spracherkennung, mechanische Beweise und anderes umfasst und auch die Konstruktion von wissensbasierten Systemen einschließt.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 45,
+    "tags": [
+      "Fließtext"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_197",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "eHealth Künstliche Intelligenz KI ( Artificial Intelligence , AI) 46 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: eHealth Künstliche Intelligenz KI ( Artificial Intelligence , AI) 46 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 46,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_198",
+    "question": "Richtig oder Falsch: Data Science eHealth Künstliche Intelligenz KI ( Artificial Intelligence , AI) 46 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: eHealth Künstliche Intelligenz KI ( Artificial Intelligence , AI) 46 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 46,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_199",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Verschiedene Logiken in der KI 47 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Verschiedene Logiken in der KI 47 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_200",
+    "question": "Richtig oder Falsch: Data Science Definitionen Verschiedene Logiken in der KI 47 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Verschiedene Logiken in der KI 47 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_201",
+    "question": "Was ist Aussagen?",
+    "type": "single",
+    "options": [
+      "abstrakte Begriffe, auch Propositionen genannt, die in der Alltagssprache durch Sätze ausgedrückt werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aussagen: abstrakte Begriffe, auch Propositionen genannt, die in der Alltagssprache durch Sätze ausgedrückt werden.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Aussagen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_202",
+    "question": "Richtig oder Falsch: Aussagen abstrakte Begriffe, auch Propositionen genannt, die in der Alltagssprache durch Sätze ausgedrückt werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Aussagen: abstrakte Begriffe, auch Propositionen genannt, die in der Alltagssprache durch Sätze ausgedrückt werden.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Aussagen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_203",
+    "question": "Was ist Wann?",
+    "type": "single",
+    "options": [
+      "ein Schluss gültig = wahr?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wann: ein Schluss gültig = wahr?",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Wann"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_204",
+    "question": "Richtig oder Falsch: Wann ein Schluss gültig = wahr?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wann: ein Schluss gültig = wahr?",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Wann"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_205",
+    "question": "Was ist Erde?",
+    "type": "single",
+    "options": [
+      "eine ScheibeFuzzy Logik Unscharfe Logik .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erde: eine ScheibeFuzzy Logik Unscharfe Logik .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Erde"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_206",
+    "question": "Richtig oder Falsch: Erde eine ScheibeFuzzy Logik Unscharfe Logik .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Erde: eine ScheibeFuzzy Logik Unscharfe Logik .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Erde"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_207",
+    "question": "Was ist Prädikatenlogik?",
+    "type": "single",
+    "options": [
+      "Aussagen selbst komplexe Gebilde, die nach bestimmten Regeln aufgebaut sind.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Prädikatenlogik: Aussagen selbst komplexe Gebilde, die nach bestimmten Regeln aufgebaut sind.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Prädikatenlogik"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_208",
+    "question": "Richtig oder Falsch: Prädikatenlogik Aussagen selbst komplexe Gebilde, die nach bestimmten Regeln aufgebaut sind.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Prädikatenlogik: Aussagen selbst komplexe Gebilde, die nach bestimmten Regeln aufgebaut sind.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Prädikatenlogik"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_209",
+    "question": "Was ist Prädikate?",
+    "type": "single",
+    "options": [
+      "Aussagen mit Variablen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Prädikate: Aussagen mit Variablen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Prädikate"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_210",
+    "question": "Richtig oder Falsch: Prädikate Aussagen mit Variablen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Prädikate: Aussagen mit Variablen.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Prädikate"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_211",
+    "question": "Was ist Katzen?",
+    "type": "single",
+    "options": [
+      "Säugetiere) AlleMenschen sind sterblich .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Katzen: Säugetiere) AlleMenschen sind sterblich .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Katzen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_212",
+    "question": "Richtig oder Falsch: Katzen Säugetiere) AlleMenschen sind sterblich .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Katzen: Säugetiere) AlleMenschen sind sterblich .",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 47,
+    "tags": [
+      "Katzen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_213",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Boolsche Algebra / KI 48 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Boolsche Algebra / KI 48 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 48,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_214",
+    "question": "Richtig oder Falsch: Data Science Definitionen Boolsche Algebra / KI 48 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Boolsche Algebra / KI 48 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 48,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_215",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Aussagenlogik / KI 49 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Aussagenlogik / KI 49 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_216",
+    "question": "Richtig oder Falsch: Data Science Definitionen Aussagenlogik / KI 49 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Aussagenlogik / KI 49 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_217",
+    "question": "Was ist Abgeleitet?",
+    "type": "single",
+    "options": [
+      "Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Abgeleitet"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_218",
+    "question": "Richtig oder Falsch: Abgeleitet Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Abgeleitet"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_219",
+    "question": "Was ist Eisen?",
+    "type": "single",
+    "options": [
+      "leichter als Blei Verknüpfung und ∧ , oder ∨, nicht ¬ Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Eisen: leichter als Blei Verknüpfung und ∧ , oder ∨, nicht ¬ Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Eisen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_220",
+    "question": "Richtig oder Falsch: Eisen leichter als Blei Verknüpfung und ∧ , oder ∨, nicht ¬ Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Eisen: leichter als Blei Verknüpfung und ∧ , oder ∨, nicht ¬ Abgeleitet: Implikation →, Bikonditional (XNOR) , XOR ⊻ , NOR ⊽, NAND | ( Shefferscher Strich) Definition 1.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 49,
+    "tags": [
+      "Eisen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_221",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Aussagenlogik - Beispiele 50 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Aussagenlogik - Beispiele 50 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 50,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_222",
+    "question": "Richtig oder Falsch: Data Science Definitionen Aussagenlogik - Beispiele 50 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Aussagenlogik - Beispiele 50 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 50,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_223",
+    "question": "Was ist Prolog?",
+    "type": "single",
+    "options": [
+      "Programming in Logic vater_von( christine,wolfgang).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Prolog: Programming in Logic vater_von( christine,wolfgang).",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 50,
+    "tags": [
+      "Prolog"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_224",
+    "question": "Richtig oder Falsch: Prolog Programming in Logic vater_von( christine,wolfgang).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Prolog: Programming in Logic vater_von( christine,wolfgang).",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 50,
+    "tags": [
+      "Prolog"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_225",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Wer war der Mörder?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Wer war der Mörder?",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 52,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_226",
+    "question": "Richtig oder Falsch: Data Science Definitionen Wer war der Mörder?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Wer war der Mörder?",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 52,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_227",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Expertensysteme 53 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Expertensysteme 53 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 53,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_228",
+    "question": "Richtig oder Falsch: Data Science Definitionen Expertensysteme 53 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Expertensysteme 53 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 53,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_229",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Regelbasierte Systeme 54 Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Regelbasierte Systeme 54 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 54,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_230",
+    "question": "Richtig oder Falsch: Data Science Definitionen Regelbasierte Systeme 54 Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Regelbasierte Systeme 54 Big Data & Data Science -Prof.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 54,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_231",
+    "question": "Was ist Data Science?",
+    "type": "single",
+    "options": [
+      "Definitionen Ein wichtiges Anwendungsgebiet der KI / des Data Mining sind Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Science: Definitionen Ein wichtiges Anwendungsgebiet der KI / des Data Mining sind Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_232",
+    "question": "Richtig oder Falsch: Data Science Definitionen Ein wichtiges Anwendungsgebiet der KI / des Data Mining sind Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Science: Definitionen Ein wichtiges Anwendungsgebiet der KI / des Data Mining sind Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Data Science"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_233",
+    "question": "Was ist Mining?",
+    "type": "single",
+    "options": [
+      "Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mining: Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Mining"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_234",
+    "question": "Richtig oder Falsch: Mining Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mining: Empfehlungssystem („ Recommender Systeme“) Suchen und Erstellen Sie eine Definition für Empfehlungssysteme!",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Mining"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_235",
+    "question": "Was ist Expertensysteme?",
+    "type": "single",
+    "options": [
+      "klassische KI -Systeme, früher stark „gehypt“.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Expertensysteme: klassische KI -Systeme, früher stark „gehypt“.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Expertensysteme"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_236",
+    "question": "Richtig oder Falsch: Expertensysteme klassische KI -Systeme, früher stark „gehypt“.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Expertensysteme: klassische KI -Systeme, früher stark „gehypt“.",
+    "source_file": "01-bigdata_data_science-begriffe_v5.pdf",
+    "source_page": 55,
+    "tags": [
+      "Expertensysteme"
+    ],
+    "difficulty": 1
+  }
+]

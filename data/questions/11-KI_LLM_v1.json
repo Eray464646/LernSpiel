@@ -1,0 +1,5309 @@
+[
+  {
+    "id": "q_1643",
+    "question": "Welche Aussage über Was ist korrekt?",
+    "type": "single",
+    "options": [
+      "Was ist ein Transformer -Modell",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Was ist ein Transformer -Modell",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Was",
+      "Transformer",
+      "Modell"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1644",
+    "question": "Welche Aussage über Architektur ist korrekt?",
+    "type": "single",
+    "options": [
+      "Architektur des Transformer- Modells Besteht aus zwei Hauptkomponenten: Encoder und Decoder",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Architektur des Transformer- Modells Besteht aus zwei Hauptkomponenten: Encoder und Decoder",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Architektur",
+      "Transformer",
+      "Modells"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1645",
+    "question": "Welche Aussage über English ist korrekt?",
+    "type": "single",
+    "options": [
+      "4 BLEU on the WMT 2014 English- to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "4 BLEU on the WMT 2014 English- to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 4,
+    "tags": [
+      "English",
+      "German"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1646",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Transformer -Modell Der Artikel Tokens werden in d_model - dimensionale Vektoren umgewandelt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Transformer -Modell Der Artikel Tokens werden in d_model - dimensionale Vektoren umgewandelt",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Modell"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1647",
+    "question": "Welche Aussage über Positionale ist korrekt?",
+    "type": "single",
+    "options": [
+      "Positionale Codierung wird addiert, um Wortposition zu kodieren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Positionale Codierung wird addiert, um Wortposition zu kodieren",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Positionale",
+      "Codierung",
+      "Wortposition"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1648",
+    "question": "Welche Aussage über Jede ist korrekt?",
+    "type": "single",
+    "options": [
+      "Jede Encoder - und Decoder -Schicht besteht aus Sub-Layern: 1",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Jede Encoder - und Decoder -Schicht besteht aus Sub-Layern: 1",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Jede",
+      "Encoder",
+      "Decoder"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1649",
+    "question": "Welche Aussage über Punktweise ist korrekt?",
+    "type": "single",
+    "options": [
+      "Punktweise vollständig verbundenes Feed-Forward Netzwerk Residual Connections (Sprungverbindungen) und Layer -Normalisierung werden nach jedem Sub-Layer angewendet",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Punktweise vollständig verbundenes Feed-Forward Netzwerk Residual Connections (Sprungverbindungen) und Layer -Normalisierung werden nach jedem Sub-Layer angewendet",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Punktweise",
+      "Feed",
+      "Forward"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1650",
+    "question": "Welche Aussage über Attention ist korrekt?",
+    "type": "single",
+    "options": [
+      "Attention ist ein Mechanismus, der für jedes Token gewichtet bestimmt, welche anderen Tokens im Kontext für seine Repräsentation relevant sind",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Attention ist ein Mechanismus, der für jedes Token gewichtet bestimmt, welche anderen Tokens im Kontext für seine Repräsentation relevant sind",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Attention",
+      "Mechanismus",
+      "Token"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1651",
+    "question": "Welche Aussage über Ein ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ein Repräsentationsraum ist der Vektorraum, in dem Tokens intern dargestellt werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ein Repräsentationsraum ist der Vektorraum, in dem Tokens intern dargestellt werden",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Ein",
+      "Repräsentationsraum",
+      "Vektorraum"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1652",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das bedeutet, dass gleicher Text unter verschiedenen Blickwinkel betrachtet wird, etwa Syntax, Semantik, längere Abgängigkeiten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das bedeutet, dass gleicher Text unter verschiedenen Blickwinkel betrachtet wird, etwa Syntax, Semantik, längere Abgängigkeiten",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Das",
+      "Text",
+      "Blickwinkel"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1653",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Feed-Forward Netzwerk ist für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Feed-Forward Netzwerk ist für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Das",
+      "Feed",
+      "Forward"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1654",
+    "question": "Welche Aussage über Ein ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ein Modell besteht auseiner Stapelung identischer Transformer -Schichten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ein Modell besteht auseiner Stapelung identischer Transformer -Schichten",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Ein",
+      "Modell",
+      "Stapelung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1655",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Modell besteht ausschließlich aus Decoder -Schichten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Modell besteht ausschließlich aus Decoder -Schichten",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Das",
+      "Modell",
+      "Decoder"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1656",
+    "question": "Welche Aussage über Fast ist korrekt?",
+    "type": "single",
+    "options": [
+      "Fast alle modernen LLMs (GPT, LLaMA, Mistral) sind Decoder -only",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fast alle modernen LLMs (GPT, LLaMA, Mistral) sind Decoder -only",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Fast",
+      "Mistral",
+      "Decoder"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1657",
+    "question": "Welche Aussage über Zukünftige ist korrekt?",
+    "type": "single",
+    "options": [
+      "Zukünftige Tokens werden durch Maskierung ausgeblendet",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Zukünftige Tokens werden durch Maskierung ausgeblendet",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Zukünftige",
+      "Tokens",
+      "Maskierung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1658",
+    "question": "Welche Aussage über Der ist korrekt?",
+    "type": "single",
+    "options": [
+      "Der ursprüngliche Transformer besteht aus Encoder und Decoder",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der ursprüngliche Transformer besteht aus Encoder und Decoder",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Der",
+      "Transformer",
+      "Encoder"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1659",
+    "question": "Welche Aussage über Encoder ist korrekt?",
+    "type": "single",
+    "options": [
+      "BERT ist ein reines Encoder -Modell , das Text bidirektional versteht – aber keinen Text generiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "BERT ist ein reines Encoder -Modell , das Text bidirektional versteht – aber keinen Text generiert",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Encoder",
+      "Modell",
+      "Text"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1660",
+    "question": "Welche Aussage über Transformer ist korrekt?",
+    "type": "single",
+    "options": [
+      "T5 ist ein Transformer -Modell, bei dem jede Aufgabe als Text -→-Text -Problem formuliert wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "T5 ist ein Transformer -Modell, bei dem jede Aufgabe als Text -→-Text -Problem formuliert wird",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Transformer",
+      "Modell",
+      "Aufgabe"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1661",
+    "question": "Welche Aussage über Parameter ist korrekt?",
+    "type": "single",
+    "options": [
+      "Parameter: Feed -Forward Network (FFN) Besteht aus zwei linearen Transformationen mit Nichtlinearität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Parameter: Feed -Forward Network (FFN) Besteht aus zwei linearen Transformationen mit Nichtlinearität",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 10,
+    "tags": [
+      "Parameter",
+      "Feed",
+      "Forward"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1662",
+    "question": "Welche Aussage über Transformer ist korrekt?",
+    "type": "single",
+    "options": [
+      "Transformer -Modell Beispiel: LLaMA / Mistral (7B)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer -Modell Beispiel: LLaMA / Mistral (7B)",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 12,
+    "tags": [
+      "Transformer",
+      "Modell",
+      "Beispiel"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1663",
+    "question": "Welche Aussage über Er ist korrekt?",
+    "type": "single",
+    "options": [
+      "Er verwendet Self -Attention-Mechanismen, um die Bedeutung verschiedener Wörter in der Eingabesequenz zu gewichten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Er verwendet Self -Attention-Mechanismen, um die Bedeutung verschiedener Wörter in der Eingabesequenz zu gewichten",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 14,
+    "tags": [
+      "Er",
+      "Self",
+      "Attention"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1664",
+    "question": "Welche Aussage über Größe ist korrekt?",
+    "type": "single",
+    "options": [
+      "Größe wird durch d_model (Hauptdimension des Transformer -Vektorraums) festgelegt, die vom Benutzer sinnvoll gewählt werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Größe wird durch d_model (Hauptdimension des Transformer -Vektorraums) festgelegt, die vom Benutzer sinnvoll gewählt werden",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 15,
+    "tags": [
+      "Größe",
+      "Hauptdimension",
+      "Transformer"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1665",
+    "question": "Welche Aussage über Sie ist korrekt?",
+    "type": "single",
+    "options": [
+      "Sie kommen in ähnlichen Kontexten gehäuft vor, daher statistische Ähnlichkeit im Kern, nicht wirklich Bedeutungsähnlichkeit im menschlichen Verständnis",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Sie kommen in ähnlichen Kontexten gehäuft vor, daher statistische Ähnlichkeit im Kern, nicht wirklich Bedeutungsähnlichkeit im menschlichen Verständnis",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 15,
+    "tags": [
+      "Sie",
+      "Kontexten",
+      "Ähnlichkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1666",
+    "question": "Welche Aussage über Embeddings ist korrekt?",
+    "type": "single",
+    "options": [
+      "Embeddings lernen Verteilungsähnlichkeit (Distributional Semantics ): Wörter, die in ähnlichen Kontexten vorkommen, erhalten ähnliche Vektoren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Embeddings lernen Verteilungsähnlichkeit (Distributional Semantics ): Wörter, die in ähnlichen Kontexten vorkommen, erhalten ähnliche Vektoren",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 15,
+    "tags": [
+      "Embeddings",
+      "Verteilungsähnlichkeit",
+      "Distributional"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1667",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Modelldimensionen (d_model ) Sind eine zentrale Architektur -Entscheidung, Modelldimension muss überall konsistent sein",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Modelldimensionen (d_model ) Sind eine zentrale Architektur -Entscheidung, Modelldimension muss überall konsistent sein",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 16,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Sind"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1668",
+    "question": "Welche Aussage über Embedding ist korrekt?",
+    "type": "single",
+    "options": [
+      "Embedding, Q/K/V, Attention, FFN, Output- Layer nutzen diese Dimension 8–32 → Mini -Modelle 64–256 → typische kompakte Modelle 512–4096 → echte LLMs Die Modelldimension d_model legt fest, wie groß der semantische Repräsentationsraum des Modells ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Embedding, Q/K/V, Attention, FFN, Output- Layer nutzen diese Dimension 8–32 → Mini -Modelle 64–256 → typische kompakte Modelle 512–4096 → echte LLMs Die Modelldimension d_model legt fest, wie groß der semantische Repräsentationsraum des Modells ist",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 16,
+    "tags": [
+      "Embedding",
+      "Attention",
+      "Output"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1669",
+    "question": "Welche Aussage über Je ist korrekt?",
+    "type": "single",
+    "options": [
+      "Je größer die Modelldimension, desto mehr Muster, Abhängigkeiten und Bedeutung kann das Modell abbilden – also höhere Leistungsfähigkeit – vorausgesetzt, genügend Trainingsdaten sind vorhanden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Je größer die Modelldimension, desto mehr Muster, Abhängigkeiten und Bedeutung kann das Modell abbilden – also höhere Leistungsfähigkeit – vorausgesetzt, genügend Trainingsdaten sind vorhanden",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 16,
+    "tags": [
+      "Je",
+      "Modelldimension",
+      "Muster"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1670",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Encoder Besteht aus mehreren Schichten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Encoder Besteht aus mehreren Schichten",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 17,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Besteht"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1671",
+    "question": "Welche Aussage über Eine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Eine Residual Connection (Skip Connection) fügt die ursprüngliche Eingabe wieder zum Ausgang einer Schicht hinzu, damit Informationen leichter durch das Netzwerk fließen und das Training stabiler wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Eine Residual Connection (Skip Connection) fügt die ursprüngliche Eingabe wieder zum Ausgang einer Schicht hinzu, damit Informationen leichter durch das Netzwerk fließen und das Training stabiler wird",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 17,
+    "tags": [
+      "Eine",
+      "Residual",
+      "Connection"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1672",
+    "question": "Welche Aussage über Output ist korrekt?",
+    "type": "single",
+    "options": [
+      "Output von Encoder wird genutzt, um den Kontext während der Generierung zu berücksichtigen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Output von Encoder wird genutzt, um den Kontext während der Generierung zu berücksichtigen",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 17,
+    "tags": [
+      "Output",
+      "Encoder",
+      "Kontext"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1673",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Der Attention-Mechanismus ist ein zentrales Merkmal von Transformern",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Der Attention-Mechanismus ist ein zentrales Merkmal von Transformern",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Der"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1674",
+    "question": "Welche Aussage über Er ist korrekt?",
+    "type": "single",
+    "options": [
+      "Er ermöglicht es dem Modell, sich beim Generieren jedes Wortes in der Ausgabesequenz auf unterschiedliche Teile der Eingabesequenz zu konzentrieren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Er ermöglicht es dem Modell, sich beim Generieren jedes Wortes in der Ausgabesequenz auf unterschiedliche Teile der Eingabesequenz zu konzentrieren",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Er",
+      "Modell",
+      "Generieren"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1675",
+    "question": "Welche Aussage über Daher ist korrekt?",
+    "type": "single",
+    "options": [
+      "Daher werden Positionsencodierungen zu den Eingabe-Embeddings hinzugefügt, um dem Modell Informationen über die Position jedes Wortes in der Sequenz zu geben",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Daher werden Positionsencodierungen zu den Eingabe-Embeddings hinzugefügt, um dem Modell Informationen über die Position jedes Wortes in der Sequenz zu geben",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Daher",
+      "Positionsencodierungen",
+      "Eingabe"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1676",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Self Attention → Selbstaufmerksamkeit** Selbstaufmerksamkeit ermöglicht es einem Modell, jedes Wort im Kontext des gesamten Satzes zu betrachten, anstatt isoliert, indem die Bedeutung der anderen Wörter in Beziehung zu jedem einzelnen Wort gewichtet wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Self Attention → Selbstaufmerksamkeit** Selbstaufmerksamkeit ermöglicht es einem Modell, jedes Wort im Kontext des gesamten Satzes zu betrachten, anstatt isoliert, indem die Bedeutung der anderen Wörter in Beziehung zu jedem einzelnen Wort gewichtet wird",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 19,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Attention"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1677",
+    "question": "Welche Aussage über Multi ist korrekt?",
+    "type": "single",
+    "options": [
+      "Multi -Head Attention: Mehrere Attention-Mechanismen werden parallel ausgeführt Kernbegriffe Query (Q) – Was suche ich",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Multi -Head Attention: Mehrere Attention-Mechanismen werden parallel ausgeführt Kernbegriffe Query (Q) – Was suche ich",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 19,
+    "tags": [
+      "Multi",
+      "Head",
+      "Attention"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1678",
+    "question": "Welche Aussage über Beschreibt ist korrekt?",
+    "type": "single",
+    "options": [
+      "Beschreibt jedes Wort im Satz im Hinblick darauf, ob es relevant für die aktuelle Query ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beschreibt jedes Wort im Satz im Hinblick darauf, ob es relevant für die aktuelle Query ist",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 19,
+    "tags": [
+      "Beschreibt",
+      "Wort",
+      "Satz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1679",
+    "question": "Welche Aussage über Enthält ist korrekt?",
+    "type": "single",
+    "options": [
+      "Enthält die eigentliche Inhaltsinformation, die an die Query zurückgegeben wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Enthält die eigentliche Inhaltsinformation, die an die Query zurückgegeben wird",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 19,
+    "tags": [
+      "Enthält",
+      "Inhaltsinformation",
+      "Query"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1680",
+    "question": "Welche Aussage über Query ist korrekt?",
+    "type": "single",
+    "options": [
+      "Query, Key, Value: Jedes Wort wird in drei Vektoren transformiert – Query (Q), Key (K) und Value (V)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Query, Key, Value: Jedes Wort wird in drei Vektoren transformiert – Query (Q), Key (K) und Value (V)",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Query",
+      "Key",
+      "Value"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1681",
+    "question": "Welche Aussage über Gewichtete ist korrekt?",
+    "type": "single",
+    "options": [
+      "Gewichtete Summe Für jedes Wort wird ein neuer Vektor erzeugt, basierend auf der gewichteten Summe der V -Vektoren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Gewichtete Summe Für jedes Wort wird ein neuer Vektor erzeugt, basierend auf der gewichteten Summe der V -Vektoren",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Gewichtete",
+      "Summe",
+      "Für"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1682",
+    "question": "Welche Aussage über Positionale ist korrekt?",
+    "type": "single",
+    "options": [
+      "Positionale Codierung wird hinzugefügt, um die Position der Wörter im Satz zu berücksichtigen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Positionale Codierung wird hinzugefügt, um die Position der Wörter im Satz zu berücksichtigen",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Positionale",
+      "Codierung",
+      "Position"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1683",
+    "question": "Welche Aussage über Verwendet ist korrekt?",
+    "type": "single",
+    "options": [
+      "Verwendet Sinus - und Cosinus -Funktionen basierend auf der Position des Wortes",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verwendet Sinus - und Cosinus -Funktionen basierend auf der Position des Wortes",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Verwendet",
+      "Sinus",
+      "Cosinus"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1684",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör 22Wort Position (pos) NLP 0 is 1 amazing 2 i ist die Dimensions -Nummer innerhalb des d_model -Vektors",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör 22Wort Position (pos) NLP 0 is 1 amazing 2 i ist die Dimensions -Nummer innerhalb des d_model -Vektors",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Position"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1685",
+    "question": "Welche Aussage über Embedding ist korrekt?",
+    "type": "single",
+    "options": [
+      "d_model ist die Embedding-Dimension des Modells",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "d_model ist die Embedding-Dimension des Modells",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Embedding",
+      "Dimension",
+      "Modells"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1686",
+    "question": "Welche Aussage über Adam ist korrekt?",
+    "type": "single",
+    "options": [
+      "Adam Optimizer wird oft genutzt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Adam Optimizer wird oft genutzt",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 23,
+    "tags": [
+      "Adam",
+      "Optimizer"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1687",
+    "question": "Welche Aussage über Adam ist korrekt?",
+    "type": "single",
+    "options": [
+      "Adam (Adaptive Moment Estimation) ist ein Optimierungsalgorithmus, der bei jedem Parameter die Lernrate automatisch anpasst, indem er sowohl den Mittelwert (1",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Adam (Adaptive Moment Estimation) ist ein Optimierungsalgorithmus, der bei jedem Parameter die Lernrate automatisch anpasst, indem er sowohl den Mittelwert (1",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 23,
+    "tags": [
+      "Adam",
+      "Adaptive",
+      "Moment"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1688",
+    "question": "Welche Aussage über Transformer ist korrekt?",
+    "type": "single",
+    "options": [
+      "Transformer werden in vielen NLP -Aufgaben eingesetzt, z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer werden in vielen NLP -Aufgaben eingesetzt, z",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 25,
+    "tags": [
+      "Transformer",
+      "Aufgaben"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1689",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die Transformer -Architektur stellt einen bedeutenden Fortschritt im Bereich NLP dar, da sie eine höhere Effizienz und Effektivität bei der Verarbeitung sequenzieller Daten ermöglicht",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Transformer -Architektur stellt einen bedeutenden Fortschritt im Bereich NLP dar, da sie eine höhere Effizienz und Effektivität bei der Verarbeitung sequenzieller Daten ermöglicht",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 25,
+    "tags": [
+      "Die",
+      "Transformer",
+      "Architektur"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1690",
+    "question": "Welche Aussage über Datenaufbereitung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Datenaufbereitung: Artikel werden aus einem Ordner eingelesen, ggf",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Datenaufbereitung: Artikel werden aus einem Ordner eingelesen, ggf",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Datenaufbereitung",
+      "Artikel",
+      "Ordner"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1691",
+    "question": "Welche Aussage über Chunks ist korrekt?",
+    "type": "single",
+    "options": [
+      "automatisch in Chunks von 6 Sätzen aufgeteilt, falls kein Summary vorhanden ist → automatisch generierte Mini-Summary, Tokenisierung + Aufbau eines Vokabulars 2",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "automatisch in Chunks von 6 Sätzen aufgeteilt, falls kein Summary vorhanden ist → automatisch generierte Mini-Summary, Tokenisierung + Aufbau eines Vokabulars 2",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Chunks",
+      "Sätzen",
+      "Summary"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1692",
+    "question": "Welche Aussage über Training ist korrekt?",
+    "type": "single",
+    "options": [
+      "Training: klassisches seq2seq- Training mit Cross -Entropy , Gewichte von Q, K, V werden nach jeder Epoche gespeichert, Plots: Frobenius -Normen, einzelne Gewichte, Attention- Heatmaps 5",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Training: klassisches seq2seq- Training mit Cross -Entropy , Gewichte von Q, K, V werden nach jeder Epoche gespeichert, Plots: Frobenius -Normen, einzelne Gewichte, Attention- Heatmaps 5",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Training",
+      "Training",
+      "Cross"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1693",
+    "question": "Welche Aussage über Generierung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Generierung: nach dem Training kann zu jedem Mikrometeoriten- Text eine neue Zusammenfassung erzeugt werden, autoregressiv, bis < eos> erreicht 6",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Generierung: nach dem Training kann zu jedem Mikrometeoriten- Text eine neue Zusammenfassung erzeugt werden, autoregressiv, bis < eos> erreicht 6",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Generierung",
+      "Training",
+      "Mikrometeoriten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1694",
+    "question": "Welche Aussage über Dieser ist korrekt?",
+    "type": "single",
+    "options": [
+      "90] Dieser Vektor ist die d_model -Repräsentation des Tokens",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "90] Dieser Vektor ist die d_model -Repräsentation des Tokens",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Dieser",
+      "Vektor",
+      "Repräsentation"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1695",
+    "question": "Welche Aussage über Dies ist korrekt?",
+    "type": "single",
+    "options": [
+      "83] Dies ist die finale Encoder -Repräsentation",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "83] Dies ist die finale Encoder -Repräsentation",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 31,
+    "tags": [
+      "Dies",
+      "Encoder",
+      "Repräsentation"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1696",
+    "question": "Welche Aussage über Decoder ist korrekt?",
+    "type": "single",
+    "options": [
+      "Decoder – Cross Attention Decoder Q_d wird mit Encoder -K verglichen: Q_d​=[0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Decoder – Cross Attention Decoder Q_d wird mit Encoder -K verglichen: Q_d​=[0",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Decoder",
+      "Cross",
+      "Attention"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1697",
+    "question": "Welche Aussage über Dieser ist korrekt?",
+    "type": "single",
+    "options": [
+      "96] Dieser Vektor wird in die Vocabulary -Projektion eingespeist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "96] Dieser Vektor wird in die Vocabulary -Projektion eingespeist",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Dieser",
+      "Vektor",
+      "Vocabulary"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1698",
+    "question": "Welche Aussage über Vokabulargröße ist korrekt?",
+    "type": "single",
+    "options": [
+      "py MiniSentenceClassifier initialisiert: MiniSentenceClassifier initialisiert: Vokabulargröße : 97 Klassen : 2 → [' mikrometeorit_info', ' staub_statistik '] d_model : 32 dim_ff : 64 num_layers : 2 Device : cpu Epoch 1 | Loss: 0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "py MiniSentenceClassifier initialisiert: MiniSentenceClassifier initialisiert: Vokabulargröße : 97 Klassen : 2 → [' mikrometeorit_info', ' staub_statistik '] d_model : 32 dim_ff : 64 num_layers : 2 Device : cpu Epoch 1 | Loss: 0",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Vokabulargröße",
+      "Klassen",
+      "Device"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1699",
+    "question": "Welche Aussage über Klasse ist korrekt?",
+    "type": "single",
+    "options": [
+      "→ vorhergesagte Klasse: staub_statistik → Wahrscheinlichkeiten: {' mikrometeorit_info': 0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "→ vorhergesagte Klasse: staub_statistik → Wahrscheinlichkeiten: {' mikrometeorit_info': 0",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klasse",
+      "Wahrscheinlichkeiten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1700",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Transformer -Modell Aufgabe 2: Gruppe 1 – Query, Key, Value & Gewichtsmatrizen Was sind Q, K, V",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Transformer -Modell Aufgabe 2: Gruppe 1 – Query, Key, Value & Gewichtsmatrizen Was sind Q, K, V",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 36,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Modell"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1701",
+    "question": "Welche Aussage über Wie ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wie werden W^Q, W^K, W^V gelernt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wie werden W^Q, W^K, W^V gelernt",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 36,
+    "tags": [
+      "Wie"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1702",
+    "question": "Welche Aussage über Warum ist korrekt?",
+    "type": "single",
+    "options": [
+      "Warum Self -Attention kontextsensitiv ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Warum Self -Attention kontextsensitiv ist",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 37,
+    "tags": [
+      "Warum",
+      "Self",
+      "Attention"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1703",
+    "question": "Welche Aussage über Erstellen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Erstellen Sie eine Liste weiterer Transformer -Modelle",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erstellen Sie eine Liste weiterer Transformer -Modelle",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 40,
+    "tags": [
+      "Erstellen",
+      "Sie",
+      "Liste"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_1704",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modelle Einführung und Funktionsweise WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modelle Einführung und Funktionsweise WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 2,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1705",
+    "question": "Richtig oder Falsch: Transformer Modelle Einführung und Funktionsweise WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modelle Einführung und Funktionsweise WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 2,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1706",
+    "question": "Was ist Hauptanwendung?",
+    "type": "single",
+    "options": [
+      "Maschinelle Übersetzung, Textgenerierung, Sprachverständnis.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hauptanwendung: Maschinelle Übersetzung, Textgenerierung, Sprachverständnis.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Hauptanwendung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1707",
+    "question": "Richtig oder Falsch: Hauptanwendung Maschinelle Übersetzung, Textgenerierung, Sprachverständnis.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hauptanwendung: Maschinelle Übersetzung, Textgenerierung, Sprachverständnis.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Hauptanwendung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1708",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modells Besteht aus zwei Hauptkomponenten: Encoder und Decoder.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modells Besteht aus zwei Hauptkomponenten: Encoder und Decoder.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1709",
+    "question": "Richtig oder Falsch: Transformer Modells Besteht aus zwei Hauptkomponenten: Encoder und Decoder.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modells Besteht aus zwei Hauptkomponenten: Encoder und Decoder.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1710",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1711",
+    "question": "Richtig oder Falsch: Transformer Modell WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 3,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1712",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modells „The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder -decoder configuration.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modells „The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder -decoder configuration.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 4,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1713",
+    "question": "Richtig oder Falsch: Transformer Modells „The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder -decoder configuration.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modells „The dominant sequence transduction models are based on complex recurrent or convolutional neural networks in an encoder -decoder configuration.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 4,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1714",
+    "question": "Was ist English?",
+    "type": "single",
+    "options": [
+      "to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "English: to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 4,
+    "tags": [
+      "English"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1715",
+    "question": "Richtig oder Falsch: English to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. English: to-German translation task, improving over the existing best results, including ensembles by over 2 BLEU.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 4,
+    "tags": [
+      "English"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1716",
+    "question": "Was ist English?",
+    "type": "single",
+    "options": [
+      "to-French translation task, our model establishes a new single- model state- of-the-art BLEU score of 41.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "English: to-French translation task, our model establishes a new single- model state- of-the-art BLEU score of 41.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 4,
+    "tags": [
+      "English"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1717",
+    "question": "Richtig oder Falsch: English to-French translation task, our model establishes a new single- model state- of-the-art BLEU score of 41.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. English: to-French translation task, our model establishes a new single- model state- of-the-art BLEU score of 41.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 4,
+    "tags": [
+      "English"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1718",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Der Artikel Tokens werden in d_model - dimensionale Vektoren umgewandelt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Der Artikel Tokens werden in d_model - dimensionale Vektoren umgewandelt.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1719",
+    "question": "Richtig oder Falsch: Transformer Modell Der Artikel Tokens werden in d_model - dimensionale Vektoren umgewandelt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Der Artikel Tokens werden in d_model - dimensionale Vektoren umgewandelt.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1720",
+    "question": "Was ist Ergebnis?",
+    "type": "single",
+    "options": [
+      "semantischer Inhalt + Positionsinformation.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ergebnis: semantischer Inhalt + Positionsinformation.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Ergebnis"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1721",
+    "question": "Richtig oder Falsch: Ergebnis semantischer Inhalt + Positionsinformation.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ergebnis: semantischer Inhalt + Positionsinformation.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Ergebnis"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1722",
+    "question": "Was ist Jeder Encoder?",
+    "type": "single",
+    "options": [
+      "Layer enthält: Multi -Head Self -Attention – Tokens schauen aufeinander.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Jeder Encoder: Layer enthält: Multi -Head Self -Attention – Tokens schauen aufeinander.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Jeder Encoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1723",
+    "question": "Richtig oder Falsch: Jeder Encoder Layer enthält: Multi -Head Self -Attention – Tokens schauen aufeinander.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Jeder Encoder: Layer enthält: Multi -Head Self -Attention – Tokens schauen aufeinander.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Jeder Encoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1724",
+    "question": "Was ist Feedforward?",
+    "type": "single",
+    "options": [
+      "Netz – verarbeitet Merkmale weiter.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Feedforward: Netz – verarbeitet Merkmale weiter.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Feedforward"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1725",
+    "question": "Richtig oder Falsch: Feedforward Netz – verarbeitet Merkmale weiter.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Feedforward: Netz – verarbeitet Merkmale weiter.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Feedforward"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1726",
+    "question": "Was ist Schritte?",
+    "type": "single",
+    "options": [
+      "Masked Self -Attention – kein Blick in die Zukunft.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Schritte: Masked Self -Attention – kein Blick in die Zukunft.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Schritte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1727",
+    "question": "Richtig oder Falsch: Schritte Masked Self -Attention – kein Blick in die Zukunft.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Schritte: Masked Self -Attention – kein Blick in die Zukunft.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Schritte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1728",
+    "question": "Was ist Cross?",
+    "type": "single",
+    "options": [
+      "Attention – schaut auf Encoder - Ausgabe.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Cross: Attention – schaut auf Encoder - Ausgabe.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Cross"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1729",
+    "question": "Richtig oder Falsch: Cross Attention – schaut auf Encoder - Ausgabe.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Cross: Attention – schaut auf Encoder - Ausgabe.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Cross"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1730",
+    "question": "Was ist Decoder?",
+    "type": "single",
+    "options": [
+      "Ausgabe wird in Vokabulardimension projiziert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Decoder: Ausgabe wird in Vokabulardimension projiziert.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1731",
+    "question": "Richtig oder Falsch: Decoder Ausgabe wird in Vokabulardimension projiziert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Decoder: Ausgabe wird in Vokabulardimension projiziert.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1732",
+    "question": "Was ist Softmax?",
+    "type": "single",
+    "options": [
+      "eine Funktion, die einen beliebigen Zahlenvektor in eine Wahrscheinlichkeitsverteilung umwandelt, indem sie exponentiert und anschließend normalisiert wird.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Softmax: eine Funktion, die einen beliebigen Zahlenvektor in eine Wahrscheinlichkeitsverteilung umwandelt, indem sie exponentiert und anschließend normalisiert wird.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Softmax"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1733",
+    "question": "Richtig oder Falsch: Softmax eine Funktion, die einen beliebigen Zahlenvektor in eine Wahrscheinlichkeitsverteilung umwandelt, indem sie exponentiert und anschließend normalisiert wird.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Softmax: eine Funktion, die einen beliebigen Zahlenvektor in eine Wahrscheinlichkeitsverteilung umwandelt, indem sie exponentiert und anschließend normalisiert wird.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 5,
+    "tags": [
+      "Softmax"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1734",
+    "question": "Was ist Jede Encoder?",
+    "type": "single",
+    "options": [
+      "und Decoder -Schicht besteht aus Sub-Layern: 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Jede Encoder: und Decoder -Schicht besteht aus Sub-Layern: 1.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Jede Encoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1735",
+    "question": "Richtig oder Falsch: Jede Encoder und Decoder -Schicht besteht aus Sub-Layern: 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Jede Encoder: und Decoder -Schicht besteht aus Sub-Layern: 1.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Jede Encoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1736",
+    "question": "Was ist Multi?",
+    "type": "single",
+    "options": [
+      "Head Self-Attention Mechanismus 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Multi: Head Self-Attention Mechanismus 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Multi"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1737",
+    "question": "Richtig oder Falsch: Multi Head Self-Attention Mechanismus 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Multi: Head Self-Attention Mechanismus 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Multi"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1738",
+    "question": "Was ist Feed?",
+    "type": "single",
+    "options": [
+      "Forward Netzwerk Residual Connections (Sprungverbindungen) und Layer -Normalisierung werden nach jedem Sub-Layer angewendet.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Feed: Forward Netzwerk Residual Connections (Sprungverbindungen) und Layer -Normalisierung werden nach jedem Sub-Layer angewendet.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Feed"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1739",
+    "question": "Richtig oder Falsch: Feed Forward Netzwerk Residual Connections (Sprungverbindungen) und Layer -Normalisierung werden nach jedem Sub-Layer angewendet.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Feed: Forward Netzwerk Residual Connections (Sprungverbindungen) und Layer -Normalisierung werden nach jedem Sub-Layer angewendet.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Feed"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1740",
+    "question": "Was ist Multi?",
+    "type": "single",
+    "options": [
+      "Head Attention erlaubt dem Modell, Informationen aus verschiedenen Repräsentationsräumen zu kombinieren.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Multi: Head Attention erlaubt dem Modell, Informationen aus verschiedenen Repräsentationsräumen zu kombinieren.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Multi"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1741",
+    "question": "Richtig oder Falsch: Multi Head Attention erlaubt dem Modell, Informationen aus verschiedenen Repräsentationsräumen zu kombinieren.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Multi: Head Attention erlaubt dem Modell, Informationen aus verschiedenen Repräsentationsräumen zu kombinieren.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Multi"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1742",
+    "question": "Was ist Das Feed?",
+    "type": "single",
+    "options": [
+      "Forward Netzwerk ist für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Feed: Forward Netzwerk ist für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Das Feed"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1743",
+    "question": "Richtig oder Falsch: Das Feed Forward Netzwerk ist für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Das Feed: Forward Netzwerk ist für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Das Feed"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1744",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Architektur der Transformer -Schichten WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Architektur der Transformer -Schichten WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1745",
+    "question": "Richtig oder Falsch: Transformer Modell Architektur der Transformer -Schichten WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Architektur der Transformer -Schichten WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1746",
+    "question": "Was ist Attention?",
+    "type": "single",
+    "options": [
+      "ein Mechanismus, der für jedes Token gewichtet bestimmt, welche anderen Tokens im Kontext für seine Repräsentation relevant sind.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Attention: ein Mechanismus, der für jedes Token gewichtet bestimmt, welche anderen Tokens im Kontext für seine Repräsentation relevant sind.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Attention"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1747",
+    "question": "Richtig oder Falsch: Attention ein Mechanismus, der für jedes Token gewichtet bestimmt, welche anderen Tokens im Kontext für seine Repräsentation relevant sind.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Attention: ein Mechanismus, der für jedes Token gewichtet bestimmt, welche anderen Tokens im Kontext für seine Repräsentation relevant sind.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Attention"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1748",
+    "question": "Was ist Repräsentationsraum?",
+    "type": "single",
+    "options": [
+      "der Vektorraum, in dem Tokens intern dargestellt werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Repräsentationsraum: der Vektorraum, in dem Tokens intern dargestellt werden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Repräsentationsraum"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1749",
+    "question": "Richtig oder Falsch: Repräsentationsraum der Vektorraum, in dem Tokens intern dargestellt werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Repräsentationsraum: der Vektorraum, in dem Tokens intern dargestellt werden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Repräsentationsraum"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1750",
+    "question": "Was ist Netzwerk?",
+    "type": "single",
+    "options": [
+      "für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Netzwerk: für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Netzwerk"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1751",
+    "question": "Richtig oder Falsch: Netzwerk für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Netzwerk: für jede Position unabhängig und besteht aus zwei linearen Transformationen mit einer ReLU -Aktivierung dazwischen.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 6,
+    "tags": [
+      "Netzwerk"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1752",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Typische Architektur eines Large Language Models (LLM) Decoder -only Moderne LLMs basieren fast ausschließlich auf der Transformer -Architektur (Decoder - only).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Typische Architektur eines Large Language Models (LLM) Decoder -only Moderne LLMs basieren fast ausschließlich auf der Transformer -Architektur (Decoder - only).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1753",
+    "question": "Richtig oder Falsch: Transformer Modell Typische Architektur eines Large Language Models (LLM) Decoder -only Moderne LLMs basieren fast ausschließlich auf der Transformer -Architektur (Decoder - only).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Typische Architektur eines Large Language Models (LLM) Decoder -only Moderne LLMs basieren fast ausschließlich auf der Transformer -Architektur (Decoder - only).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1754",
+    "question": "Was ist Self?",
+    "type": "single",
+    "options": [
+      "Attention + Feed- Forward - Netze.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self: Attention + Feed- Forward - Netze.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1755",
+    "question": "Richtig oder Falsch: Self Attention + Feed- Forward - Netze.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Self: Attention + Feed- Forward - Netze.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1756",
+    "question": "Was ist Encoder?",
+    "type": "single",
+    "options": [
+      "verarbeitet Eingabetext vollständig.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Encoder: verarbeitet Eingabetext vollständig.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Encoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1757",
+    "question": "Richtig oder Falsch: Encoder verarbeitet Eingabetext vollständig.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Encoder: verarbeitet Eingabetext vollständig.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Encoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1758",
+    "question": "Was ist Decoder?",
+    "type": "single",
+    "options": [
+      "erzeugt Ausgabetext Token für Token.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Decoder: erzeugt Ausgabetext Token für Token.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1759",
+    "question": "Richtig oder Falsch: Decoder erzeugt Ausgabetext Token für Token.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Decoder: erzeugt Ausgabetext Token für Token.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 7,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1760",
+    "question": "Was ist Decoder?",
+    "type": "single",
+    "options": [
+      "only Modellen Vorhersage des nächsten Tokens (Next -Token-Prediction).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Decoder: only Modellen Vorhersage des nächsten Tokens (Next -Token-Prediction).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1761",
+    "question": "Richtig oder Falsch: Decoder only Modellen Vorhersage des nächsten Tokens (Next -Token-Prediction).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Decoder: only Modellen Vorhersage des nächsten Tokens (Next -Token-Prediction).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1762",
+    "question": "Was ist Formal?",
+    "type": "single",
+    "options": [
+      "P(w_t | w_1, …, w_{t -1}).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Formal: P(w_t | w_1, …, w_{t -1}).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Formal"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1763",
+    "question": "Richtig oder Falsch: Formal P(w_t | w_1, …, w_{t -1}).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Formal: P(w_t | w_1, …, w_{t -1}).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Formal"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1764",
+    "question": "Was ist Encoder?",
+    "type": "single",
+    "options": [
+      "Modell , das Text bidirektional versteht – aber keinen Text generiert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Encoder: Modell , das Text bidirektional versteht – aber keinen Text generiert.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Encoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1765",
+    "question": "Richtig oder Falsch: Encoder Modell , das Text bidirektional versteht – aber keinen Text generiert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Encoder: Modell , das Text bidirektional versteht – aber keinen Text generiert.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Encoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1766",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell, bei dem jede Aufgabe als Text -→-Text -Problem formuliert wird.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell, bei dem jede Aufgabe als Text -→-Text -Problem formuliert wird.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1767",
+    "question": "Richtig oder Falsch: Transformer Modell, bei dem jede Aufgabe als Text -→-Text -Problem formuliert wird.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell, bei dem jede Aufgabe als Text -→-Text -Problem formuliert wird.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 8,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1768",
+    "question": "Was ist Attention Heads?",
+    "type": "single",
+    "options": [
+      "Parallele Aufmerksamkeitsmechanismen pro Schicht.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Attention Heads: Parallele Aufmerksamkeitsmechanismen pro Schicht.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 9,
+    "tags": [
+      "Attention Heads"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1769",
+    "question": "Richtig oder Falsch: Attention Heads Parallele Aufmerksamkeitsmechanismen pro Schicht.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Attention Heads: Parallele Aufmerksamkeitsmechanismen pro Schicht.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 9,
+    "tags": [
+      "Attention Heads"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1770",
+    "question": "Was ist Feed?",
+    "type": "single",
+    "options": [
+      "Forward Dimension ( d_ff): Anzahl der Neuronen im FFN -Teil.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Feed: Forward Dimension ( d_ff): Anzahl der Neuronen im FFN -Teil.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 9,
+    "tags": [
+      "Feed"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1771",
+    "question": "Richtig oder Falsch: Feed Forward Dimension ( d_ff): Anzahl der Neuronen im FFN -Teil.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Feed: Forward Dimension ( d_ff): Anzahl der Neuronen im FFN -Teil.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 9,
+    "tags": [
+      "Feed"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1772",
+    "question": "Was ist Parameter?",
+    "type": "single",
+    "options": [
+      "Anzahl der Schichten Typische Werte: 12 ( klein), 32 (Standard), 96+ ( sehr groß).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Parameter: Anzahl der Schichten Typische Werte: 12 ( klein), 32 (Standard), 96+ ( sehr groß).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 10,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1773",
+    "question": "Richtig oder Falsch: Parameter Anzahl der Schichten Typische Werte: 12 ( klein), 32 (Standard), 96+ ( sehr groß).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Parameter: Anzahl der Schichten Typische Werte: 12 ( klein), 32 (Standard), 96+ ( sehr groß).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 10,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1774",
+    "question": "Was ist Parameter?",
+    "type": "single",
+    "options": [
+      "Hidden Size (d_model) Dimension des Vektors, der jedes Token repräsentiert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Parameter: Hidden Size (d_model) Dimension des Vektors, der jedes Token repräsentiert.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 10,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1775",
+    "question": "Richtig oder Falsch: Parameter Hidden Size (d_model) Dimension des Vektors, der jedes Token repräsentiert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Parameter: Hidden Size (d_model) Dimension des Vektors, der jedes Token repräsentiert.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 10,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1776",
+    "question": "Was ist Parameter?",
+    "type": "single",
+    "options": [
+      "Feed -Forward Network (FFN) Besteht aus zwei linearen Transformationen mit Nichtlinearität.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Parameter: Feed -Forward Network (FFN) Besteht aus zwei linearen Transformationen mit Nichtlinearität.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 10,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1777",
+    "question": "Richtig oder Falsch: Parameter Feed -Forward Network (FFN) Besteht aus zwei linearen Transformationen mit Nichtlinearität.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Parameter: Feed -Forward Network (FFN) Besteht aus zwei linearen Transformationen mit Nichtlinearität.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 10,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1778",
+    "question": "Was ist Parameter?",
+    "type": "single",
+    "options": [
+      "Attention Heads Multi -Head Attention zerlegt d_model in mehrere Teilräume.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Parameter: Attention Heads Multi -Head Attention zerlegt d_model in mehrere Teilräume.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 11,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1779",
+    "question": "Richtig oder Falsch: Parameter Attention Heads Multi -Head Attention zerlegt d_model in mehrere Teilräume.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Parameter: Attention Heads Multi -Head Attention zerlegt d_model in mehrere Teilräume.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 11,
+    "tags": [
+      "Parameter"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1780",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modelle Details WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modelle Details WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 13,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1781",
+    "question": "Richtig oder Falsch: Transformer Modelle Details WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modelle Details WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 13,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1782",
+    "question": "Was ist Self?",
+    "type": "single",
+    "options": [
+      "Attention-Mechanismen, um die Bedeutung verschiedener Wörter in der Eingabesequenz zu gewichten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self: Attention-Mechanismen, um die Bedeutung verschiedener Wörter in der Eingabesequenz zu gewichten.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 14,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1783",
+    "question": "Richtig oder Falsch: Self Attention-Mechanismen, um die Bedeutung verschiedener Wörter in der Eingabesequenz zu gewichten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Self: Attention-Mechanismen, um die Bedeutung verschiedener Wörter in der Eingabesequenz zu gewichten.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 14,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1784",
+    "question": "Was ist Self?",
+    "type": "single",
+    "options": [
+      "Attention als auch Encoder -Decoder -Attention-Mechanismen, um sich auf relevante Teile der Eingabe und der bereits generierten Ausgabe zu konzentrieren.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self: Attention als auch Encoder -Decoder -Attention-Mechanismen, um sich auf relevante Teile der Eingabe und der bereits generierten Ausgabe zu konzentrieren.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 14,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1785",
+    "question": "Richtig oder Falsch: Self Attention als auch Encoder -Decoder -Attention-Mechanismen, um sich auf relevante Teile der Eingabe und der bereits generierten Ausgabe zu konzentrieren.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Self: Attention als auch Encoder -Decoder -Attention-Mechanismen, um sich auf relevante Teile der Eingabe und der bereits generierten Ausgabe zu konzentrieren.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 14,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1786",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Vektorraums) festgelegt, die vom Benutzer sinnvoll gewählt werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Vektorraums) festgelegt, die vom Benutzer sinnvoll gewählt werden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 15,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1787",
+    "question": "Richtig oder Falsch: Transformer Vektorraums) festgelegt, die vom Benutzer sinnvoll gewählt werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Vektorraums) festgelegt, die vom Benutzer sinnvoll gewählt werden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 15,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1788",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Embeddings und Modelldimensionen \"mikrometeorit\" → [0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Embeddings und Modelldimensionen \"mikrometeorit\" → [0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 15,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1789",
+    "question": "Richtig oder Falsch: Transformer Modell Embeddings und Modelldimensionen \"mikrometeorit\" → [0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Embeddings und Modelldimensionen \"mikrometeorit\" → [0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 15,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1790",
+    "question": "Was ist Architektur?",
+    "type": "single",
+    "options": [
+      "Entscheidung, Modelldimension muss überall konsistent sein.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Architektur: Entscheidung, Modelldimension muss überall konsistent sein.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 16,
+    "tags": [
+      "Architektur"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1791",
+    "question": "Richtig oder Falsch: Architektur Entscheidung, Modelldimension muss überall konsistent sein.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Architektur: Entscheidung, Modelldimension muss überall konsistent sein.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 16,
+    "tags": [
+      "Architektur"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1792",
+    "question": "Was ist Output?",
+    "type": "single",
+    "options": [
+      "Layer nutzen diese Dimension 8–32 → Mini -Modelle 64–256 → typische kompakte Modelle 512–4096 → echte LLMs Die Modelldimension d_model legt fest, wie groß der semantische Repräsentationsraum des Modells ist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Output: Layer nutzen diese Dimension 8–32 → Mini -Modelle 64–256 → typische kompakte Modelle 512–4096 → echte LLMs Die Modelldimension d_model legt fest, wie groß der semantische Repräsentationsraum des Modells ist.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 16,
+    "tags": [
+      "Output"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1793",
+    "question": "Richtig oder Falsch: Output Layer nutzen diese Dimension 8–32 → Mini -Modelle 64–256 → typische kompakte Modelle 512–4096 → echte LLMs Die Modelldimension d_model legt fest, wie groß der semantische Repräsentationsraum des Modells ist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Output: Layer nutzen diese Dimension 8–32 → Mini -Modelle 64–256 → typische kompakte Modelle 512–4096 → echte LLMs Die Modelldimension d_model legt fest, wie groß der semantische Repräsentationsraum des Modells ist.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 16,
+    "tags": [
+      "Output"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1794",
+    "question": "Was ist Hauptbestandteile?",
+    "type": "single",
+    "options": [
+      "Self-Attention- Mechanismus Feed- Forward -Neuronales Netzwerk Hinzufügen von Residual Connections und Layer Normalization.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hauptbestandteile: Self-Attention- Mechanismus Feed- Forward -Neuronales Netzwerk Hinzufügen von Residual Connections und Layer Normalization.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 17,
+    "tags": [
+      "Hauptbestandteile"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1795",
+    "question": "Richtig oder Falsch: Hauptbestandteile Self-Attention- Mechanismus Feed- Forward -Neuronales Netzwerk Hinzufügen von Residual Connections und Layer Normalization.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hauptbestandteile: Self-Attention- Mechanismus Feed- Forward -Neuronales Netzwerk Hinzufügen von Residual Connections und Layer Normalization.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 17,
+    "tags": [
+      "Hauptbestandteile"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1796",
+    "question": "Was ist Attention?",
+    "type": "single",
+    "options": [
+      "Self -Attention und Encoder -Decoder -Attention.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Attention: Self -Attention und Encoder -Decoder -Attention.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 17,
+    "tags": [
+      "Attention"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1797",
+    "question": "Richtig oder Falsch: Attention Self -Attention und Encoder -Decoder -Attention.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Attention: Self -Attention und Encoder -Decoder -Attention.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 17,
+    "tags": [
+      "Attention"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1798",
+    "question": "Was ist Der Attention?",
+    "type": "single",
+    "options": [
+      "Mechanismus ist ein zentrales Merkmal von Transformern.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der Attention: Mechanismus ist ein zentrales Merkmal von Transformern.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Der Attention"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1799",
+    "question": "Richtig oder Falsch: Der Attention Mechanismus ist ein zentrales Merkmal von Transformern.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Der Attention: Mechanismus ist ein zentrales Merkmal von Transformern.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Der Attention"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1800",
+    "question": "Was ist Eingabe?",
+    "type": "single",
+    "options": [
+      "Embeddings hinzugefügt, um dem Modell Informationen über die Position jedes Wortes in der Sequenz zu geben.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Eingabe: Embeddings hinzugefügt, um dem Modell Informationen über die Position jedes Wortes in der Sequenz zu geben.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Eingabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1801",
+    "question": "Richtig oder Falsch: Eingabe Embeddings hinzugefügt, um dem Modell Informationen über die Position jedes Wortes in der Sequenz zu geben.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Eingabe: Embeddings hinzugefügt, um dem Modell Informationen über die Position jedes Wortes in der Sequenz zu geben.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Eingabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1802",
+    "question": "Was ist Mechanismus?",
+    "type": "single",
+    "options": [
+      "ein zentrales Merkmal von Transformern.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mechanismus: ein zentrales Merkmal von Transformern.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Mechanismus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1803",
+    "question": "Richtig oder Falsch: Mechanismus ein zentrales Merkmal von Transformern.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mechanismus: ein zentrales Merkmal von Transformern.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 18,
+    "tags": [
+      "Mechanismus"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1804",
+    "question": "Was ist Multi?",
+    "type": "single",
+    "options": [
+      "Head Attention: Mehrere Attention-Mechanismen werden parallel ausgeführt Kernbegriffe Query (Q) – Was suche ich?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Multi: Head Attention: Mehrere Attention-Mechanismen werden parallel ausgeführt Kernbegriffe Query (Q) – Was suche ich?",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 19,
+    "tags": [
+      "Multi"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1805",
+    "question": "Richtig oder Falsch: Multi Head Attention: Mehrere Attention-Mechanismen werden parallel ausgeführt Kernbegriffe Query (Q) – Was suche ich?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Multi: Head Attention: Mehrere Attention-Mechanismen werden parallel ausgeführt Kernbegriffe Query (Q) – Was suche ich?",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 19,
+    "tags": [
+      "Multi"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1806",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Self-Attention 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Self-Attention 1.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1807",
+    "question": "Richtig oder Falsch: Transformer Modell Self-Attention 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Self-Attention 1.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1808",
+    "question": "Was ist Input?",
+    "type": "single",
+    "options": [
+      "Menge von Vektoren, die die Wörter eines Satzes repräsentieren.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Input: Menge von Vektoren, die die Wörter eines Satzes repräsentieren.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Input"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1809",
+    "question": "Richtig oder Falsch: Input Menge von Vektoren, die die Wörter eines Satzes repräsentieren.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Input: Menge von Vektoren, die die Wörter eines Satzes repräsentieren.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Input"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1810",
+    "question": "Was ist Value?",
+    "type": "single",
+    "options": [
+      "Jedes Wort wird in drei Vektoren transformiert – Query (Q), Key (K) und Value (V).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Value: Jedes Wort wird in drei Vektoren transformiert – Query (Q), Key (K) und Value (V).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Value"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1811",
+    "question": "Richtig oder Falsch: Value Jedes Wort wird in drei Vektoren transformiert – Query (Q), Key (K) und Value (V).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Value: Jedes Wort wird in drei Vektoren transformiert – Query (Q), Key (K) und Value (V).",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 20,
+    "tags": [
+      "Value"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1812",
+    "question": "Was ist Eingabewortvektoren?",
+    "type": "single",
+    "options": [
+      "NLP -> [1, 0, 1], is -> [0, 1, 0], amazing -> [1, 1, 0] 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Eingabewortvektoren: NLP -> [1, 0, 1], is -> [0, 1, 0], amazing -> [1, 1, 0] 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 21,
+    "tags": [
+      "Eingabewortvektoren"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1813",
+    "question": "Richtig oder Falsch: Eingabewortvektoren NLP -> [1, 0, 1], is -> [0, 1, 0], amazing -> [1, 1, 0] 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Eingabewortvektoren: NLP -> [1, 0, 1], is -> [0, 1, 0], amazing -> [1, 1, 0] 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 21,
+    "tags": [
+      "Eingabewortvektoren"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1814",
+    "question": "Was ist Value?",
+    "type": "single",
+    "options": [
+      "Vektoren zur Berechnung der neuen WortdarstellungenTransformer -Modell Self-Attention WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Value: Vektoren zur Berechnung der neuen WortdarstellungenTransformer -Modell Self-Attention WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 21,
+    "tags": [
+      "Value"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1815",
+    "question": "Richtig oder Falsch: Value Vektoren zur Berechnung der neuen WortdarstellungenTransformer -Modell Self-Attention WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Value: Vektoren zur Berechnung der neuen WortdarstellungenTransformer -Modell Self-Attention WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 21,
+    "tags": [
+      "Value"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1816",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modelle haben keine inhärente Reihenfolge.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modelle haben keine inhärente Reihenfolge.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1817",
+    "question": "Richtig oder Falsch: Transformer Modelle haben keine inhärente Reihenfolge.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modelle haben keine inhärente Reihenfolge.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1818",
+    "question": "Was ist Verwendet Sinus?",
+    "type": "single",
+    "options": [
+      "und Cosinus -Funktionen basierend auf der Position des Wortes.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verwendet Sinus: und Cosinus -Funktionen basierend auf der Position des Wortes.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Verwendet Sinus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1819",
+    "question": "Richtig oder Falsch: Verwendet Sinus und Cosinus -Funktionen basierend auf der Position des Wortes.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Verwendet Sinus: und Cosinus -Funktionen basierend auf der Position des Wortes.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Verwendet Sinus"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1820",
+    "question": "Was ist Formeln?",
+    "type": "single",
+    "options": [
+      "PE(pos , 2i) = sin(pos / 10000(2i/d_model )) PE(pos , 2i+1) = cos(pos / 10000(2i/d_model )) Beispielsatz: „NLP is amazing “ 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Formeln: PE(pos , 2i) = sin(pos / 10000(2i/d_model )) PE(pos , 2i+1) = cos(pos / 10000(2i/d_model )) Beispielsatz: „NLP is amazing “ 1.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Formeln"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1821",
+    "question": "Richtig oder Falsch: Formeln PE(pos , 2i) = sin(pos / 10000(2i/d_model )) PE(pos , 2i+1) = cos(pos / 10000(2i/d_model )) Beispielsatz: „NLP is amazing “ 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Formeln: PE(pos , 2i) = sin(pos / 10000(2i/d_model )) PE(pos , 2i+1) = cos(pos / 10000(2i/d_model )) Beispielsatz: „NLP is amazing “ 1.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Formeln"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1822",
+    "question": "Was ist Wortvektoren?",
+    "type": "single",
+    "options": [
+      "NLP -> [1, 0, 1, 0], is -> [0, 1, 0, 1], amazing -> [1, 1, 1, 1] 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wortvektoren: NLP -> [1, 0, 1, 0], is -> [0, 1, 0, 1], amazing -> [1, 1, 1, 1] 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Wortvektoren"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1823",
+    "question": "Richtig oder Falsch: Wortvektoren NLP -> [1, 0, 1, 0], is -> [0, 1, 0, 1], amazing -> [1, 1, 1, 1] 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wortvektoren: NLP -> [1, 0, 1, 0], is -> [0, 1, 0, 1], amazing -> [1, 1, 1, 1] 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Wortvektoren"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1824",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Positionale Codierung WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Positionale Codierung WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1825",
+    "question": "Richtig oder Falsch: Transformer Modell Positionale Codierung WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Positionale Codierung WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1826",
+    "question": "Was ist Dimensions?",
+    "type": "single",
+    "options": [
+      "Nummer innerhalb des d_model -Vektors.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dimensions: Nummer innerhalb des d_model -Vektors.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Dimensions"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1827",
+    "question": "Richtig oder Falsch: Dimensions Nummer innerhalb des d_model -Vektors.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Dimensions: Nummer innerhalb des d_model -Vektors.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Dimensions"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1828",
+    "question": "Was ist Embedding?",
+    "type": "single",
+    "options": [
+      "Dimension des Modells.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Embedding: Dimension des Modells.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Embedding"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1829",
+    "question": "Richtig oder Falsch: Embedding Dimension des Modells.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Embedding: Dimension des Modells.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 22,
+    "tags": [
+      "Embedding"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1830",
+    "question": "Was ist Verlustfunktion?",
+    "type": "single",
+    "options": [
+      "Normalerweise Kreuzentropieverlust für die Sequenzgenerierung.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verlustfunktion: Normalerweise Kreuzentropieverlust für die Sequenzgenerierung.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 23,
+    "tags": [
+      "Verlustfunktion"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1831",
+    "question": "Richtig oder Falsch: Verlustfunktion Normalerweise Kreuzentropieverlust für die Sequenzgenerierung.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Verlustfunktion: Normalerweise Kreuzentropieverlust für die Sequenzgenerierung.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 23,
+    "tags": [
+      "Verlustfunktion"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1832",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Training und Optimierung WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Training und Optimierung WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 23,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1833",
+    "question": "Richtig oder Falsch: Transformer Modell Training und Optimierung WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Training und Optimierung WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 23,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1834",
+    "question": "Was ist Frage?",
+    "type": "single",
+    "options": [
+      "Antwort -Systeme, TextzusammenfassungTransformer -Modell Anwendungen WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Frage: Antwort -Systeme, TextzusammenfassungTransformer -Modell Anwendungen WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 24,
+    "tags": [
+      "Frage"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1835",
+    "question": "Richtig oder Falsch: Frage Antwort -Systeme, TextzusammenfassungTransformer -Modell Anwendungen WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Frage: Antwort -Systeme, TextzusammenfassungTransformer -Modell Anwendungen WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 24,
+    "tags": [
+      "Frage"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1836",
+    "question": "Was ist Die Transformer?",
+    "type": "single",
+    "options": [
+      "Architektur stellt einen bedeutenden Fortschritt im Bereich NLP dar, da sie eine höhere Effizienz und Effektivität bei der Verarbeitung sequenzieller Daten ermöglicht.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Transformer: Architektur stellt einen bedeutenden Fortschritt im Bereich NLP dar, da sie eine höhere Effizienz und Effektivität bei der Verarbeitung sequenzieller Daten ermöglicht.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 25,
+    "tags": [
+      "Die Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1837",
+    "question": "Richtig oder Falsch: Die Transformer Architektur stellt einen bedeutenden Fortschritt im Bereich NLP dar, da sie eine höhere Effizienz und Effektivität bei der Verarbeitung sequenzieller Daten ermöglicht.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Die Transformer: Architektur stellt einen bedeutenden Fortschritt im Bereich NLP dar, da sie eine höhere Effizienz und Effektivität bei der Verarbeitung sequenzieller Daten ermöglicht.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 25,
+    "tags": [
+      "Die Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1838",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Zusammenfassung WS  Big Data & Data Science - Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Zusammenfassung WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 25,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1839",
+    "question": "Richtig oder Falsch: Transformer Modell Zusammenfassung WS  Big Data & Data Science - Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Zusammenfassung WS  Big Data & Data Science - Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 25,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1840",
+    "question": "Was ist Demo?",
+    "type": "single",
+    "options": [
+      "Programmtransf_ed_commented.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Demo: Programmtransf_ed_commented.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Demo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1841",
+    "question": "Richtig oder Falsch: Demo Programmtransf_ed_commented.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Demo: Programmtransf_ed_commented.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Demo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1842",
+    "question": "Was ist Mikrometeoriten?",
+    "type": "single",
+    "options": [
+      "Artikel, zerlegt sie in kleine Textabschnitte, trainiert darauf einen Mini -Transformer und erzeugt anschließend eigenständig kurze Summaries.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mikrometeoriten: Artikel, zerlegt sie in kleine Textabschnitte, trainiert darauf einen Mini -Transformer und erzeugt anschließend eigenständig kurze Summaries.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Mikrometeoriten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1843",
+    "question": "Richtig oder Falsch: Mikrometeoriten Artikel, zerlegt sie in kleine Textabschnitte, trainiert darauf einen Mini -Transformer und erzeugt anschließend eigenständig kurze Summaries.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mikrometeoriten: Artikel, zerlegt sie in kleine Textabschnitte, trainiert darauf einen Mini -Transformer und erzeugt anschließend eigenständig kurze Summaries.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Mikrometeoriten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1844",
+    "question": "Was ist Datenaufbereitung?",
+    "type": "single",
+    "options": [
+      "Artikel werden aus einem Ordner eingelesen, ggf.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Datenaufbereitung: Artikel werden aus einem Ordner eingelesen, ggf.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Datenaufbereitung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1845",
+    "question": "Richtig oder Falsch: Datenaufbereitung Artikel werden aus einem Ordner eingelesen, ggf.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Datenaufbereitung: Artikel werden aus einem Ordner eingelesen, ggf.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Datenaufbereitung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1846",
+    "question": "Was ist Mini?",
+    "type": "single",
+    "options": [
+      "Summary, Tokenisierung + Aufbau eines Vokabulars 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mini: Summary, Tokenisierung + Aufbau eines Vokabulars 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Mini"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1847",
+    "question": "Richtig oder Falsch: Mini Summary, Tokenisierung + Aufbau eines Vokabulars 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mini: Summary, Tokenisierung + Aufbau eines Vokabulars 2.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Mini"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1848",
+    "question": "Was ist Self?",
+    "type": "single",
+    "options": [
+      "Attention, baut ein „Gedächtnis“ des Eingabetextes auf 3.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self: Attention, baut ein „Gedächtnis“ des Eingabetextes auf 3.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1849",
+    "question": "Richtig oder Falsch: Self Attention, baut ein „Gedächtnis“ des Eingabetextes auf 3.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Self: Attention, baut ein „Gedächtnis“ des Eingabetextes auf 3.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1850",
+    "question": "Was ist Decoder?",
+    "type": "single",
+    "options": [
+      "startet mit < bos>nutzt, maskierte Self- Attention (nur Vergangenheit sichtbar), Cross -Attention zum Encoder (Decoder „fragt“ im Text nach), erzeugt Token für Token die Zusammenfassung 4.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Decoder: startet mit < bos>nutzt, maskierte Self- Attention (nur Vergangenheit sichtbar), Cross -Attention zum Encoder (Decoder „fragt“ im Text nach), erzeugt Token für Token die Zusammenfassung 4.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1851",
+    "question": "Richtig oder Falsch: Decoder startet mit < bos>nutzt, maskierte Self- Attention (nur Vergangenheit sichtbar), Cross -Attention zum Encoder (Decoder „fragt“ im Text nach), erzeugt Token für Token die Zusammenfassung 4.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Decoder: startet mit < bos>nutzt, maskierte Self- Attention (nur Vergangenheit sichtbar), Cross -Attention zum Encoder (Decoder „fragt“ im Text nach), erzeugt Token für Token die Zusammenfassung 4.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Decoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1852",
+    "question": "Was ist Training?",
+    "type": "single",
+    "options": [
+      "klassisches seq2seq- Training mit Cross -Entropy , Gewichte von Q, K, V werden nach jeder Epoche gespeichert, Plots: Frobenius -Normen, einzelne Gewichte, Attention- Heatmaps 5.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Training: klassisches seq2seq- Training mit Cross -Entropy , Gewichte von Q, K, V werden nach jeder Epoche gespeichert, Plots: Frobenius -Normen, einzelne Gewichte, Attention- Heatmaps 5.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Training"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1853",
+    "question": "Richtig oder Falsch: Training klassisches seq2seq- Training mit Cross -Entropy , Gewichte von Q, K, V werden nach jeder Epoche gespeichert, Plots: Frobenius -Normen, einzelne Gewichte, Attention- Heatmaps 5.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Training: klassisches seq2seq- Training mit Cross -Entropy , Gewichte von Q, K, V werden nach jeder Epoche gespeichert, Plots: Frobenius -Normen, einzelne Gewichte, Attention- Heatmaps 5.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Training"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1854",
+    "question": "Was ist Generierung?",
+    "type": "single",
+    "options": [
+      "nach dem Training kann zu jedem Mikrometeoriten- Text eine neue Zusammenfassung erzeugt werden, autoregressiv, bis < eos> erreicht 6.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Generierung: nach dem Training kann zu jedem Mikrometeoriten- Text eine neue Zusammenfassung erzeugt werden, autoregressiv, bis < eos> erreicht 6.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Generierung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1855",
+    "question": "Richtig oder Falsch: Generierung nach dem Training kann zu jedem Mikrometeoriten- Text eine neue Zusammenfassung erzeugt werden, autoregressiv, bis < eos> erreicht 6.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Generierung: nach dem Training kann zu jedem Mikrometeoriten- Text eine neue Zusammenfassung erzeugt werden, autoregressiv, bis < eos> erreicht 6.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Generierung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1856",
+    "question": "Was ist Debug?",
+    "type": "single",
+    "options": [
+      "& Analysefunktionen: Encoder -Self-Attention- HeatmapDecoder -Cross -Attention- Heatmap, automatischer HTML- Report, der alle Ausgaben, Plots und Erklärtexte enthältTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Debug: & Analysefunktionen: Encoder -Self-Attention- HeatmapDecoder -Cross -Attention- Heatmap, automatischer HTML- Report, der alle Ausgaben, Plots und Erklärtexte enthältTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Debug"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1857",
+    "question": "Richtig oder Falsch: Debug & Analysefunktionen: Encoder -Self-Attention- HeatmapDecoder -Cross -Attention- Heatmap, automatischer HTML- Report, der alle Ausgaben, Plots und Erklärtexte enthältTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Debug: & Analysefunktionen: Encoder -Self-Attention- HeatmapDecoder -Cross -Attention- Heatmap, automatischer HTML- Report, der alle Ausgaben, Plots und Erklärtexte enthältTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 26,
+    "tags": [
+      "Debug"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1858",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1859",
+    "question": "Richtig oder Falsch: Transformer Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1860",
+    "question": "Was ist Geladene Trainingspaare?",
+    "type": "single",
+    "options": [
+      "57 Starte Mini Encoder -Decoder mit: d_model = 32 dim_ff = 64 epochs = 80 lr = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Geladene Trainingspaare: 57 Starte Mini Encoder -Decoder mit: d_model = 32 dim_ff = 64 epochs = 80 lr = 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Geladene Trainingspaare"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1861",
+    "question": "Richtig oder Falsch: Geladene Trainingspaare 57 Starte Mini Encoder -Decoder mit: d_model = 32 dim_ff = 64 epochs = 80 lr = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Geladene Trainingspaare: 57 Starte Mini Encoder -Decoder mit: d_model = 32 dim_ff = 64 epochs = 80 lr = 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Geladene Trainingspaare"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1862",
+    "question": "Was ist Device?",
+    "type": "single",
+    "options": [
+      "cpuVokabulargröße : 2040 Starte Training des Mini Encoder -Decoder -Transformers.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Device: cpuVokabulargröße : 2040 Starte Training des Mini Encoder -Decoder -Transformers.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Device"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1863",
+    "question": "Richtig oder Falsch: Device cpuVokabulargröße : 2040 Starte Training des Mini Encoder -Decoder -Transformers.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Device: cpuVokabulargröße : 2040 Starte Training des Mini Encoder -Decoder -Transformers.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Device"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1864",
+    "question": "Was ist Testtext?",
+    "type": "single",
+    "options": [
+      "täglich treffen etwa 100 tonnen außerirdischen staubs auf die erde, ein teil davon erreicht als mikrometeoriten die erdoberfläche.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Testtext: täglich treffen etwa 100 tonnen außerirdischen staubs auf die erde, ein teil davon erreicht als mikrometeoriten die erdoberfläche.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Testtext"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1865",
+    "question": "Richtig oder Falsch: Testtext täglich treffen etwa 100 tonnen außerirdischen staubs auf die erde, ein teil davon erreicht als mikrometeoriten die erdoberfläche.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Testtext: täglich treffen etwa 100 tonnen außerirdischen staubs auf die erde, ein teil davon erreicht als mikrometeoriten die erdoberfläche.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 27,
+    "tags": [
+      "Testtext"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1866",
+    "question": "Was ist Embedding?",
+    "type": "single",
+    "options": [
+      "Vektor für „mikrometeorit “: E(mikrometeorit )=[0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Embedding: Vektor für „mikrometeorit “: E(mikrometeorit )=[0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Embedding"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1867",
+    "question": "Richtig oder Falsch: Embedding Vektor für „mikrometeorit “: E(mikrometeorit )=[0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Embedding: Vektor für „mikrometeorit “: E(mikrometeorit )=[0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Embedding"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1868",
+    "question": "Was ist Matrixmultiplikation?",
+    "type": "single",
+    "options": [
+      "Q = Embedding E × W_Q Analog: K = Embedding × W_K, V = Embedding × W_V Dies erzeugt Query -, Key - und Value-Vektoren gleicher Dimension.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Matrixmultiplikation: Q = Embedding E × W_Q Analog: K = Embedding × W_K, V = Embedding × W_V Dies erzeugt Query -, Key - und Value-Vektoren gleicher Dimension.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Matrixmultiplikation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1869",
+    "question": "Richtig oder Falsch: Matrixmultiplikation Q = Embedding E × W_Q Analog: K = Embedding × W_K, V = Embedding × W_V Dies erzeugt Query -, Key - und Value-Vektoren gleicher Dimension.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Matrixmultiplikation: Q = Embedding E × W_Q Analog: K = Embedding × W_K, V = Embedding × W_V Dies erzeugt Query -, Key - und Value-Vektoren gleicher Dimension.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Matrixmultiplikation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1870",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1871",
+    "question": "Richtig oder Falsch: Transformer Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1872",
+    "question": "Was ist Vektor?",
+    "type": "single",
+    "options": [
+      "die d_model -Repräsentation des Tokens.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vektor: die d_model -Repräsentation des Tokens.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Vektor"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1873",
+    "question": "Richtig oder Falsch: Vektor die d_model -Repräsentation des Tokens.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vektor: die d_model -Repräsentation des Tokens.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 28,
+    "tags": [
+      "Vektor"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1874",
+    "question": "Was ist Query?",
+    "type": "single",
+    "options": [
+      "Vektor (Q) Ergebnis (Beispiel) : Q = [0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Query: Vektor (Q) Ergebnis (Beispiel) : Q = [0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 29,
+    "tags": [
+      "Query"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1875",
+    "question": "Richtig oder Falsch: Query Vektor (Q) Ergebnis (Beispiel) : Q = [0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Query: Vektor (Q) Ergebnis (Beispiel) : Q = [0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 29,
+    "tags": [
+      "Query"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1876",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 29,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1877",
+    "question": "Richtig oder Falsch: Transformer Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 29,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1878",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 30,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1879",
+    "question": "Richtig oder Falsch: Transformer Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 30,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1880",
+    "question": "Was ist Context?",
+    "type": "single",
+    "options": [
+      "Gewicht × V = V C = [0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Context: Gewicht × V = V C = [0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 31,
+    "tags": [
+      "Context"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1881",
+    "question": "Richtig oder Falsch: Context Gewicht × V = V C = [0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Context: Gewicht × V = V C = [0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 31,
+    "tags": [
+      "Context"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1882",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 31,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1883",
+    "question": "Richtig oder Falsch: Transformer Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 31,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1884",
+    "question": "Was ist Dies?",
+    "type": "single",
+    "options": [
+      "die finale Encoder -Repräsentation.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dies: die finale Encoder -Repräsentation.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 31,
+    "tags": [
+      "Dies"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1885",
+    "question": "Richtig oder Falsch: Dies die finale Encoder -Repräsentation.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Dies: die finale Encoder -Repräsentation.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 31,
+    "tags": [
+      "Dies"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1886",
+    "question": "Was ist Encoder?",
+    "type": "single",
+    "options": [
+      "K verglichen: Q_d​=[0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Encoder: K verglichen: Q_d​=[0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Encoder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1887",
+    "question": "Richtig oder Falsch: Encoder K verglichen: Q_d​=[0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Encoder: K verglichen: Q_d​=[0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Encoder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1888",
+    "question": "Was ist Vocabulary?",
+    "type": "single",
+    "options": [
+      "Projektion eingespeist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vocabulary: Projektion eingespeist.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Vocabulary"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1889",
+    "question": "Richtig oder Falsch: Vocabulary Projektion eingespeist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vocabulary: Projektion eingespeist.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Vocabulary"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1890",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1891",
+    "question": "Richtig oder Falsch: Transformer Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 32,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1892",
+    "question": "Was ist Wahrscheinlichstes Wort?",
+    "type": "single",
+    "options": [
+      "„staub“ Zusammengefasst Embedding-Vektor Q / K / V Matrizen (8 ×8) Attention-Scores Context -Vektor Feedforward-Output Decoder: Masked Attention + Cross -Attention Output -Projektion → SoftmaxTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wahrscheinlichstes Wort: „staub“ Zusammengefasst Embedding-Vektor Q / K / V Matrizen (8 ×8) Attention-Scores Context -Vektor Feedforward-Output Decoder: Masked Attention + Cross -Attention Output -Projektion → SoftmaxTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 33,
+    "tags": [
+      "Wahrscheinlichstes Wort"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1893",
+    "question": "Richtig oder Falsch: Wahrscheinlichstes Wort „staub“ Zusammengefasst Embedding-Vektor Q / K / V Matrizen (8 ×8) Attention-Scores Context -Vektor Feedforward-Output Decoder: Masked Attention + Cross -Attention Output -Projektion → SoftmaxTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wahrscheinlichstes Wort: „staub“ Zusammengefasst Embedding-Vektor Q / K / V Matrizen (8 ×8) Attention-Scores Context -Vektor Feedforward-Output Decoder: Masked Attention + Cross -Attention Output -Projektion → SoftmaxTransformer -Modell Modelllauf Mini Transformer Demo - Summarizer WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 33,
+    "tags": [
+      "Wahrscheinlichstes Wort"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1894",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Modelllauf Mini Transformer Demo – Variante Klasse bestimmen WS  Big Data & Data Science -Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Modelllauf Mini Transformer Demo – Variante Klasse bestimmen WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1895",
+    "question": "Richtig oder Falsch: Transformer Modell Modelllauf Mini Transformer Demo – Variante Klasse bestimmen WS  Big Data & Data Science -Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Modelllauf Mini Transformer Demo – Variante Klasse bestimmen WS  Big Data & Data Science -Prof.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1896",
+    "question": "Was ist Vokabulargröße?",
+    "type": "single",
+    "options": [
+      "97 Klassen : 2 → [' mikrometeorit_info', ' staub_statistik '] d_model : 32 dim_ff : 64 num_layers : 2 Device : cpu Epoch 1 | Loss: 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vokabulargröße: 97 Klassen : 2 → [' mikrometeorit_info', ' staub_statistik '] d_model : 32 dim_ff : 64 num_layers : 2 Device : cpu Epoch 1 | Loss: 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Vokabulargröße"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1897",
+    "question": "Richtig oder Falsch: Vokabulargröße 97 Klassen : 2 → [' mikrometeorit_info', ' staub_statistik '] d_model : 32 dim_ff : 64 num_layers : 2 Device : cpu Epoch 1 | Loss: 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vokabulargröße: 97 Klassen : 2 → [' mikrometeorit_info', ' staub_statistik '] d_model : 32 dim_ff : 64 num_layers : 2 Device : cpu Epoch 1 | Loss: 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Vokabulargröße"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1898",
+    "question": "Was ist Text?",
+    "type": "single",
+    "options": [
+      "Mikrometeoriten kann man auf Flachdächern finden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Text: Mikrometeoriten kann man auf Flachdächern finden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Text"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1899",
+    "question": "Richtig oder Falsch: Text Mikrometeoriten kann man auf Flachdächern finden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Text: Mikrometeoriten kann man auf Flachdächern finden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Text"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1900",
+    "question": "Was ist Klasse?",
+    "type": "single",
+    "options": [
+      "staub_statistik → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klasse: staub_statistik → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1901",
+    "question": "Richtig oder Falsch: Klasse staub_statistik → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klasse: staub_statistik → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1902",
+    "question": "Was ist Text?",
+    "type": "single",
+    "options": [
+      "Jeden Tag regnet tonnenweise Staub aus dem All auf die Erde.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Text: Jeden Tag regnet tonnenweise Staub aus dem All auf die Erde.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Text"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1903",
+    "question": "Richtig oder Falsch: Text Jeden Tag regnet tonnenweise Staub aus dem All auf die Erde.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Text: Jeden Tag regnet tonnenweise Staub aus dem All auf die Erde.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Text"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1904",
+    "question": "Was ist Klasse?",
+    "type": "single",
+    "options": [
+      "mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klasse: mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1905",
+    "question": "Richtig oder Falsch: Klasse mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klasse: mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1906",
+    "question": "Was ist Text?",
+    "type": "single",
+    "options": [
+      "Die Atmosphäre schützt uns vor vielen kleinen Staubteilchen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Text: Die Atmosphäre schützt uns vor vielen kleinen Staubteilchen.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Text"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1907",
+    "question": "Richtig oder Falsch: Text Die Atmosphäre schützt uns vor vielen kleinen Staubteilchen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Text: Die Atmosphäre schützt uns vor vielen kleinen Staubteilchen.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Text"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1908",
+    "question": "Was ist Klasse?",
+    "type": "single",
+    "options": [
+      "mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klasse: mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1909",
+    "question": "Richtig oder Falsch: Klasse mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klasse: mikrometeorit_info → Wahrscheinlichkeiten: {' mikrometeorit_info': 0.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 34,
+    "tags": [
+      "Klasse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1910",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Gruppenaufgabe: Transformer -Modelle verstehen Sie können als Basis das zur Verfügung gestellt Programm verwenden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Gruppenaufgabe: Transformer -Modelle verstehen Sie können als Basis das zur Verfügung gestellt Programm verwenden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 35,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1911",
+    "question": "Richtig oder Falsch: Transformer Modell Gruppenaufgabe: Transformer -Modelle verstehen Sie können als Basis das zur Verfügung gestellt Programm verwenden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Gruppenaufgabe: Transformer -Modelle verstehen Sie können als Basis das zur Verfügung gestellt Programm verwenden.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 35,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1912",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "Funktionsweise anhand eines konkreten Beispiels erklären.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: Funktionsweise anhand eines konkreten Beispiels erklären.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 35,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1913",
+    "question": "Richtig oder Falsch: Ziel Funktionsweise anhand eines konkreten Beispiels erklären.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: Funktionsweise anhand eines konkreten Beispiels erklären.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 35,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1914",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Aufgabe 2: Gruppe 1 – Query, Key, Value & Gewichtsmatrizen Was sind Q, K, V?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Aufgabe 2: Gruppe 1 – Query, Key, Value & Gewichtsmatrizen Was sind Q, K, V?",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 36,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1915",
+    "question": "Richtig oder Falsch: Transformer Modell Aufgabe 2: Gruppe 1 – Query, Key, Value & Gewichtsmatrizen Was sind Q, K, V?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Aufgabe 2: Gruppe 1 – Query, Key, Value & Gewichtsmatrizen Was sind Q, K, V?",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 36,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1916",
+    "question": "Was ist Mini?",
+    "type": "single",
+    "options": [
+      "Beispiel mit Bezug zur Anwendung.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mini: Beispiel mit Bezug zur Anwendung.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 36,
+    "tags": [
+      "Mini"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1917",
+    "question": "Richtig oder Falsch: Mini Beispiel mit Bezug zur Anwendung.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mini: Beispiel mit Bezug zur Anwendung.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 36,
+    "tags": [
+      "Mini"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1918",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Aufgabe 2: Gruppe 2 – Self-Attention Berechnung der Attention Scores.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Aufgabe 2: Gruppe 2 – Self-Attention Berechnung der Attention Scores.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 37,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1919",
+    "question": "Richtig oder Falsch: Transformer Modell Aufgabe 2: Gruppe 2 – Self-Attention Berechnung der Attention Scores.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Aufgabe 2: Gruppe 2 – Self-Attention Berechnung der Attention Scores.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 37,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1920",
+    "question": "Was ist Warum Self?",
+    "type": "single",
+    "options": [
+      "Attention kontextsensitiv ist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Warum Self: Attention kontextsensitiv ist.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 37,
+    "tags": [
+      "Warum Self"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1921",
+    "question": "Richtig oder Falsch: Warum Self Attention kontextsensitiv ist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Warum Self: Attention kontextsensitiv ist.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 37,
+    "tags": [
+      "Warum Self"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1922",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Aufgabe 2: Gruppe 3 – Encoder Rolle des Encoders im Transformer.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Aufgabe 2: Gruppe 3 – Encoder Rolle des Encoders im Transformer.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 38,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1923",
+    "question": "Richtig oder Falsch: Transformer Modell Aufgabe 2: Gruppe 3 – Encoder Rolle des Encoders im Transformer.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Aufgabe 2: Gruppe 3 – Encoder Rolle des Encoders im Transformer.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 38,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1924",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Aufgabe 2: Gruppe 4 – Decoder Masked Self -Attention.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Aufgabe 2: Gruppe 4 – Decoder Masked Self -Attention.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 39,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1925",
+    "question": "Richtig oder Falsch: Transformer Modell Aufgabe 2: Gruppe 4 – Decoder Masked Self -Attention.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Aufgabe 2: Gruppe 4 – Decoder Masked Self -Attention.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 39,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_1926",
+    "question": "Was ist Transformer?",
+    "type": "single",
+    "options": [
+      "Modell Aufgabe 3: Weitere Transformer -Modelle Neben LLMs, den klassischen Einsatzgebiet von Transformern, gibt es noch andere Varianten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformer: Modell Aufgabe 3: Weitere Transformer -Modelle Neben LLMs, den klassischen Einsatzgebiet von Transformern, gibt es noch andere Varianten.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 40,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_1927",
+    "question": "Richtig oder Falsch: Transformer Modell Aufgabe 3: Weitere Transformer -Modelle Neben LLMs, den klassischen Einsatzgebiet von Transformern, gibt es noch andere Varianten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformer: Modell Aufgabe 3: Weitere Transformer -Modelle Neben LLMs, den klassischen Einsatzgebiet von Transformern, gibt es noch andere Varianten.",
+    "source_file": "11-KI_LLM_v1.pdf",
+    "source_page": 40,
+    "tags": [
+      "Transformer"
+    ],
+    "difficulty": 1
+  }
+]

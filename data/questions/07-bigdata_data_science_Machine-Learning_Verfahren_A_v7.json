@@ -1,0 +1,3367 @@
+[
+  {
+    "id": "q_408",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS © FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH (FOM) Leimkugelstraße 6 45141 Essen Dieses Werk ist urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS © FOM Hochschule für Oekonomie & Management gemeinnützige Gesellschaft mbH (FOM) Leimkugelstraße 6 45141 Essen Dieses Werk ist urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 2,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_409",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Werk oder Teile daraus dürfen nicht ohne schriftliche Genehmigung der FOM reproduziert oder unter Verwendung elektronischer Systeme verarbeitet vervielfältigt oder verbreitet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Werk oder Teile daraus dürfen nicht ohne schriftliche Genehmigung der FOM reproduziert oder unter Verwendung elektronischer Systeme verarbeitet vervielfältigt oder verbreitet werden",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 2,
+    "tags": [
+      "Das",
+      "Werk",
+      "Teile"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_410",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS Ein instanzbasiertes Lernverfahren trifft Entscheidungen indem es neue Beispiele mit gespeicherten Trainingsinstanzen vergleicht deren Klassen (Labels) bekannt sind und als Grundlage für die Zuordnung dienen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS Ein instanzbasiertes Lernverfahren trifft Entscheidungen indem es neue Beispiele mit gespeicherten Trainingsinstanzen vergleicht deren Klassen (Labels) bekannt sind und als Grundlage für die Zuordnung dienen",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 5,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_411",
+    "question": "Welche Aussage über Aus ist korrekt?",
+    "type": "single",
+    "options": [
+      "Aus diesem Grund werden instanzbasierte Methoden auch als winner -take- all-Methoden und speicherbasiertes Lernen bezeichnet ( memory based learning lazy learning) Der Schwerpunkt liegt dabei auf der Darstellung der gespeicherten Instanzen und den zwischen den Instanzen verwendeten Ähnlichkeitsmaßen Die beliebtesten instanzbasierten Algorithmen sind: k-Nearest Neighbor (kNN) Learning Vector Quantization (LVQ) Self-Organizing Map (SOM) Locally Weighted Learning (LWL)Machine Learning Instance-based Learning",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aus diesem Grund werden instanzbasierte Methoden auch als winner -take- all-Methoden und speicherbasiertes Lernen bezeichnet ( memory based learning lazy learning) Der Schwerpunkt liegt dabei auf der Darstellung der gespeicherten Instanzen und den zwischen den Instanzen verwendeten Ähnlichkeitsmaßen Die beliebtesten instanzbasierten Algorithmen sind: k-Nearest Neighbor (kNN) Learning Vector Quantization (LVQ) Self-Organizing Map (SOM) Locally Weighted Learning (LWL)Machine Learning Instance-based Learning",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 5,
+    "tags": [
+      "Aus",
+      "Grund",
+      "Methoden"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_412",
+    "question": "Welche Aussage über Nachteile ist korrekt?",
+    "type": "single",
+    "options": [
+      ") Nachteile Klassifikationsaufwand hoch da die Abstände für alle Beispiele bestimmt werden müssen (bestimmt die Komplexität) Große Speicherplatzbedarf Voraussetzung Existenz eines AbstandsmaßMachine Learning Instance-based Learning",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": ") Nachteile Klassifikationsaufwand hoch da die Abstände für alle Beispiele bestimmt werden müssen (bestimmt die Komplexität) Große Speicherplatzbedarf Voraussetzung Existenz eines AbstandsmaßMachine Learning Instance-based Learning",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 6,
+    "tags": [
+      "Nachteile",
+      "Klassifikationsaufwand",
+      "Abstände"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_413",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Abstandsmaße Euklidischer Abstand Manhattan Distanz Maximum -Distanz größter Abstand in einer der i Dimensionen Hammingdistanz An wieviel Positionen unterscheidet sich der Datensatz",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Abstandsmaße Euklidischer Abstand Manhattan Distanz Maximum -Distanz größter Abstand in einer der i Dimensionen Hammingdistanz An wieviel Positionen unterscheidet sich der Datensatz",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 7,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_414",
+    "question": "Welche Aussage über Abstandmaß ist korrekt?",
+    "type": "single",
+    "options": [
+      "Abstandmaß für nominale x Beliebtestes Verfahren für eine Beispielmenge 𝑥𝑥 und einen Nachbarn 𝑥𝑥′ ist der Euklidische AbstandMachine Learning Instance-based Learning https://importq",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Abstandmaß für nominale x Beliebtestes Verfahren für eine Beispielmenge 𝑥𝑥 und einen Nachbarn 𝑥𝑥′ ist der Euklidische AbstandMachine Learning Instance-based Learning https://importq",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 7,
+    "tags": [
+      "Abstandmaß",
+      "Beliebtestes",
+      "Verfahren"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_415",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Instance-based Learning - K-Nearest -Neighbour Algorithmus (1)Für alle xi aus den Trainingsbeispielen berechne die Ähnlichkeit zu y (2)Wähle daraus diejenigen k Beispiele x1-xk die zu y am ähnlichsten sind (3)Die Klasse K(y) ist die Klasse die in den x1-xk Trainingsbeispielen am häufigsten vorkommt Brute Force Algorithmus Modifikation Es werden in (3) alle k Datenpunkte gleichwertig behandelt – ohne Berücksichtigung des Abstandes Shepards Methode Gewichtung der Abstände der 1",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Instance-based Learning - K-Nearest -Neighbour Algorithmus (1)Für alle xi aus den Trainingsbeispielen berechne die Ähnlichkeit zu y (2)Wähle daraus diejenigen k Beispiele x1-xk die zu y am ähnlichsten sind (3)Die Klasse K(y) ist die Klasse die in den x1-xk Trainingsbeispielen am häufigsten vorkommt Brute Force Algorithmus Modifikation Es werden in (3) alle k Datenpunkte gleichwertig behandelt – ohne Berücksichtigung des Abstandes Shepards Methode Gewichtung der Abstände der 1",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 8,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_416",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Instance-based Learning / k -Nearest Neighbor (kNN ) Verfahren Messung der Distanz (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Instance-based Learning / k -Nearest Neighbor (kNN ) Verfahren Messung der Distanz (z",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 9,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_417",
+    "question": "Welche Aussage über Distanz ist korrekt?",
+    "type": "single",
+    "options": [
+      "euklidische Distanz) zwischen dem neuen zu klassifizierenden Datensatz und allen anderen Datensätzen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "euklidische Distanz) zwischen dem neuen zu klassifizierenden Datensatz und allen anderen Datensätzen",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 9,
+    "tags": [
+      "Distanz",
+      "Datensatz",
+      "Datensätzen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_418",
+    "question": "Welche Aussage über Wählen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wählen Sie die k kleinsten Distanzen (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wählen Sie die k kleinsten Distanzen (z",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 9,
+    "tags": [
+      "Wählen",
+      "Sie",
+      "Distanzen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_419",
+    "question": "Welche Aussage über Diese ist korrekt?",
+    "type": "single",
+    "options": [
+      "Diese wird als Vorhersage für den neuen Datensatz gewählt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Diese wird als Vorhersage für den neuen Datensatz gewählt",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 9,
+    "tags": [
+      "Diese",
+      "Vorhersage",
+      "Datensatz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_420",
+    "question": "Welche Aussage über Für ist korrekt?",
+    "type": "single",
+    "options": [
+      "Für ein neues Produkt​ Pneu mit den Messungen (4,4) soll der Produkttyp klassifiziert werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Für ein neues Produkt​ Pneu mit den Messungen (4,4) soll der Produkttyp klassifiziert werden",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 11,
+    "tags": [
+      "Für",
+      "Produkt",
+      "Pneu"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_421",
+    "question": "Welche Aussage über Berechnen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Berechnen Sie sowohl die euklidische Distanz und Manhattan Distanz zwischen ​Pneu und jedem Produkt im Datensatz",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Berechnen Sie sowohl die euklidische Distanz und Manhattan Distanz zwischen ​Pneu und jedem Produkt im Datensatz",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 11,
+    "tags": [
+      "Berechnen",
+      "Sie",
+      "Distanz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_422",
+    "question": "Welche Aussage über Was ist korrekt?",
+    "type": "single",
+    "options": [
+      "Was sind die Vor - und Nachteile des k -NN Algorithmus",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Was sind die Vor - und Nachteile des k -NN Algorithmus",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 11,
+    "tags": [
+      "Was",
+      "Vor",
+      "Nachteile"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_423",
+    "question": "Welche Aussage über Erklären ist korrekt?",
+    "type": "single",
+    "options": [
+      "Erklären Sie warum es wichtig ist einen geeigneten Wert für k zu wählen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erklären Sie warum es wichtig ist einen geeigneten Wert für k zu wählen",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 11,
+    "tags": [
+      "Erklären",
+      "Sie",
+      "Wert"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_424",
+    "question": "Welche Aussage über Eingangswerten ist korrekt?",
+    "type": "single",
+    "options": [
+      "𝑐𝑐 numerischen Eingangswerten 𝑥𝑥𝑖𝑖 zu numerischen Ausgangswerten 𝑦𝑦𝑖𝑖 Abgeleitet aus dem Bereich der Statistik Annahme: Die Beziehung zwischen 𝑥𝑥𝑖𝑖 und 𝑦𝑦𝑖𝑖 ist linear Jeder Eingangswert 𝑥𝑥𝑖𝑖 wird mit einem Gewicht m multipliziert und zu einer Bias b addiert Simple Linear Regression: Nur ein Eingabefeature 𝑥𝑥𝑖𝑖 Multiple Linear Regression: Mehrer Inputfeatures 𝑥𝑥𝑖𝑖1…𝑥𝑥𝑖𝑖𝑛𝑛Machine Learning Linear Regression ModelContinous value 𝑥𝑥𝑖𝑖�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏�𝑦𝑦𝑖𝑖Simple Linear Regression Model (Geradengleichung)Continous Feature",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "𝑐𝑐 numerischen Eingangswerten 𝑥𝑥𝑖𝑖 zu numerischen Ausgangswerten 𝑦𝑦𝑖𝑖 Abgeleitet aus dem Bereich der Statistik Annahme: Die Beziehung zwischen 𝑥𝑥𝑖𝑖 und 𝑦𝑦𝑖𝑖 ist linear Jeder Eingangswert 𝑥𝑥𝑖𝑖 wird mit einem Gewicht m multipliziert und zu einer Bias b addiert Simple Linear Regression: Nur ein Eingabefeature 𝑥𝑥𝑖𝑖 Multiple Linear Regression: Mehrer Inputfeatures 𝑥𝑥𝑖𝑖1…𝑥𝑥𝑖𝑖𝑛𝑛Machine Learning Linear Regression ModelContinous value 𝑥𝑥𝑖𝑖�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏�𝑦𝑦𝑖𝑖Simple Linear Regression Model (Geradengleichung)Continous Feature",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 14,
+    "tags": [
+      "Eingangswerten",
+      "Ausgangswerten",
+      "Abgeleitet"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_425",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Simple Linear Regression ModellKontinuierliche Variable𝒊𝒊𝒙𝒙𝒊𝒊𝒚𝒚𝒊𝒊 1 1 1 2 2 3 3 4 3 4 3 2 5 5 5 𝑥𝑥𝑖𝑖�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏�𝑦𝑦𝑖𝑖 𝑚𝑚 - Steigung 𝑏𝑏 - BiasParameters:0123456 0 2 4 6y_i x_iDatenbasis Lineares Regressionsmodell (Geradengleichung)Ziel •Vorhersage kontinuierlicher 𝑦𝑦𝑖𝑖- Werte auf der Grundlage von 𝑥𝑥𝑖𝑖- Werten unter Verwendung eines geeigneten Modells wobei 𝑦𝑦𝑖𝑖 die vorhergesagten Werte des Modells sind •Lösung: •Verwenden Sie ein lineares Regressionsmodell zur Annäherung an �𝑦𝑦 𝑖𝑖 an 𝑥𝑥𝑖𝑖Kontinuierliche Variable",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Simple Linear Regression ModellKontinuierliche Variable𝒊𝒊𝒙𝒙𝒊𝒊𝒚𝒚𝒊𝒊 1 1 1 2 2 3 3 4 3 4 3 2 5 5 5 𝑥𝑥𝑖𝑖�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏�𝑦𝑦𝑖𝑖 𝑚𝑚 - Steigung 𝑏𝑏 - BiasParameters:0123456 0 2 4 6y_i x_iDatenbasis Lineares Regressionsmodell (Geradengleichung)Ziel •Vorhersage kontinuierlicher 𝑦𝑦𝑖𝑖- Werte auf der Grundlage von 𝑥𝑥𝑖𝑖- Werten unter Verwendung eines geeigneten Modells wobei 𝑦𝑦𝑖𝑖 die vorhergesagten Werte des Modells sind •Lösung: •Verwenden Sie ein lineares Regressionsmodell zur Annäherung an �𝑦𝑦 𝑖𝑖 an 𝑥𝑥𝑖𝑖Kontinuierliche Variable",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 15,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_426",
+    "question": "Welche Aussage über Gradientenabstiegsverfahren ist korrekt?",
+    "type": "single",
+    "options": [
+      "5 �𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+bDas Gradientenabstiegsverfahren (Gradient Descent) ist ein Optimierungsverfahren das schrittweise die Parameter eines Modells anpasst um den Fehler (Kostenfunktion) zu minimieren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "5 �𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+bDas Gradientenabstiegsverfahren (Gradient Descent) ist ein Optimierungsverfahren das schrittweise die Parameter eines Modells anpasst um den Fehler (Kostenfunktion) zu minimieren",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 16,
+    "tags": [
+      "Gradientenabstiegsverfahren",
+      "Gradient",
+      "Descent"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_427",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die Parameter werden in Richtung des negativen Gradienten der Fehlerfunktion verändert sodass der Fehler am schnellsten abnimmt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Parameter werden in Richtung des negativen Gradienten der Fehlerfunktion verändert sodass der Fehler am schnellsten abnimmt",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 16,
+    "tags": [
+      "Die",
+      "Parameter",
+      "Richtung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_428",
+    "question": "Welche Aussage über Fehler ist korrekt?",
+    "type": "single",
+    "options": [
+      "25 4 3 2 2 0 0 5 5 5 3 -2 4 𝐽𝐽=13Berechnung der Fehler (Residuen) für einzelne Stichproben Mean Squared Error (MSE):Berechne Fehler über alle Datensätze •Die Fehler werden quadriert um nur positive Fehler zu erhalten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "25 4 3 2 2 0 0 5 5 5 3 -2 4 𝐽𝐽=13Berechnung der Fehler (Residuen) für einzelne Stichproben Mean Squared Error (MSE):Berechne Fehler über alle Datensätze •Die Fehler werden quadriert um nur positive Fehler zu erhalten",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 17,
+    "tags": [
+      "Fehler",
+      "Residuen",
+      "Stichproben"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_429",
+    "question": "Welche Aussage über Ziel ist korrekt?",
+    "type": "single",
+    "options": [
+      "png𝐽𝐽=1 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 �𝑦𝑦𝑖𝑖−𝑦𝑦𝑖𝑖2 =1 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏−𝑦𝑦𝑖𝑖2•Ziel: Die Regressionsgerade finden die den geringsten Fehler aufweist (beste Anpassung an die Daten) •Die Regressionsgerade wird durch 𝑚𝑚 und 𝑏𝑏 dargestellt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "png𝐽𝐽=1 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 �𝑦𝑦𝑖𝑖−𝑦𝑦𝑖𝑖2 =1 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏−𝑦𝑦𝑖𝑖2•Ziel: Die Regressionsgerade finden die den geringsten Fehler aufweist (beste Anpassung an die Daten) •Die Regressionsgerade wird durch 𝑚𝑚 und 𝑏𝑏 dargestellt",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 18,
+    "tags": [
+      "Ziel",
+      "Die",
+      "Regressionsgerade"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_430",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "•Die meisten Methoden des maschinellen Lernens verwenden Gradientenabstieg um die besten Parameter zu finden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "•Die meisten Methoden des maschinellen Lernens verwenden Gradientenabstieg um die besten Parameter zu finden",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 18,
+    "tags": [
+      "Die",
+      "Methoden",
+      "Lernens"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_431",
+    "question": "Welche Aussage über Lösung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Lösung der linearen Regression mit Gradientenabstieg •Berechnung der Steigung für jede Parameterachse: •Die Steigung kann durch Berechnung der partiellen Ableitungen von J für die beiden Parameter 𝑚𝑚 und 𝑏𝑏 ermittelt werden •m-Achse: •b-Achse: 20 Prof",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Lösung der linearen Regression mit Gradientenabstieg •Berechnung der Steigung für jede Parameterachse: •Die Steigung kann durch Berechnung der partiellen Ableitungen von J für die beiden Parameter 𝑚𝑚 und 𝑏𝑏 ermittelt werden •m-Achse: •b-Achse: 20 Prof",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 20,
+    "tags": [
+      "Lösung",
+      "Regression",
+      "Gradientenabstieg"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_432",
+    "question": "Welche Aussage über Zeigen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Zeigen Sie dass die dargestellten Ableitungen für korrekt sind",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Zeigen Sie dass die dargestellten Ableitungen für korrekt sind",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 21,
+    "tags": [
+      "Zeigen",
+      "Sie",
+      "Ableitungen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_433",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Simple Linear Regression mit Gradientenabstieg Lösung der linearen Regression mit Gradientenabstieg 𝑚𝑚=𝑚𝑚−𝛼𝛼 𝛿𝛿𝑚𝑚 𝑏𝑏=𝑏𝑏−𝛼𝛼 𝛿𝛿𝑏𝑏•Berechnung der Steigung (partielle Ableitungen) für jeden Parameter •Aktualisierung der Parameter in Richtung der partiellen Ableitungen (Steigung)𝛿𝛿𝑚𝑚=𝜕𝜕𝐽𝐽 𝜕𝜕𝑚𝑚=2 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 −𝑥𝑥𝑖𝑖(𝑦𝑦𝑖𝑖−(𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏))𝛿𝛿𝑏𝑏=𝜕𝜕𝐽𝐽 𝜕𝜕𝑏𝑏=2 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 − (𝑦𝑦𝑖𝑖−(𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏)) L𝐕𝐕𝐮𝐮𝐞𝐞𝐮𝐮𝐕𝐕𝐞𝐞𝐕𝐕𝛼𝛼 •Ist ein Hyperparameter für den Gradientenabstieg •Legt fest wie groß die Schritte sind die wir in Richtung des Gradienten machen •Schwierige Einstellung für viele Lernprobleme •Wenn 𝛼𝛼 zu niedrig ist wird das Training sehr langsam •Wenn 𝛼𝛼 zu groß ist könnte das Training das Minimum verfehlen (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Simple Linear Regression mit Gradientenabstieg Lösung der linearen Regression mit Gradientenabstieg 𝑚𝑚=𝑚𝑚−𝛼𝛼 𝛿𝛿𝑚𝑚 𝑏𝑏=𝑏𝑏−𝛼𝛼 𝛿𝛿𝑏𝑏•Berechnung der Steigung (partielle Ableitungen) für jeden Parameter •Aktualisierung der Parameter in Richtung der partiellen Ableitungen (Steigung)𝛿𝛿𝑚𝑚=𝜕𝜕𝐽𝐽 𝜕𝜕𝑚𝑚=2 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 −𝑥𝑥𝑖𝑖(𝑦𝑦𝑖𝑖−(𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏))𝛿𝛿𝑏𝑏=𝜕𝜕𝐽𝐽 𝜕𝜕𝑏𝑏=2 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 − (𝑦𝑦𝑖𝑖−(𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏)) L𝐕𝐕𝐮𝐮𝐞𝐞𝐮𝐮𝐕𝐕𝐞𝐞𝐕𝐕𝛼𝛼 •Ist ein Hyperparameter für den Gradientenabstieg •Legt fest wie groß die Schritte sind die wir in Richtung des Gradienten machen •Schwierige Einstellung für viele Lernprobleme •Wenn 𝛼𝛼 zu niedrig ist wird das Training sehr langsam •Wenn 𝛼𝛼 zu groß ist könnte das Training das Minimum verfehlen (z",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 22,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_434",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Klassifikation mit logistischer Regression Klassifikation kann als Regressionsproblem mit diskreten Ausgaben (Klassen) betrachtet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Klassifikation mit logistischer Regression Klassifikation kann als Regressionsproblem mit diskreten Ausgaben (Klassen) betrachtet werden",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 28,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_435",
+    "question": "Welche Aussage über Machine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Machine Learning Logistic Regression",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Logistic Regression",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 28,
+    "tags": [
+      "Machine",
+      "Learning",
+      "Logistic"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_436",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Klassifikation mit logistischer Regression Idee: Stattdessen eine gekrümmte Funktion verwenden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Klassifikation mit logistischer Regression Idee: Stattdessen eine gekrümmte Funktion verwenden",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_437",
+    "question": "Welche Aussage über Machine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Machine Learning Logistic Regression �𝑦𝑦𝑖𝑖=𝑔𝑔𝑧𝑧𝑖𝑖=1 1+𝑒𝑒−𝑧𝑧𝑖𝑖",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Logistic Regression �𝑦𝑦𝑖𝑖=𝑔𝑔𝑧𝑧𝑖𝑖=1 1+𝑒𝑒−𝑧𝑧𝑖𝑖",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Machine",
+      "Learning",
+      "Logistic"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_438",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Klassifikation mit logistischer Regression Frage: Wie trainieren wir unser logistisches Modell auf die Daten",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Klassifikation mit logistischer Regression Frage: Wie trainieren wir unser logistisches Modell auf die Daten",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_439",
+    "question": "Welche Aussage über Machine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Machine Learning Logistic Regression �𝑦𝑦𝑖𝑖=𝑔𝑔𝑧𝑧𝑖𝑖=1 1+𝑒𝑒−𝑧𝑧𝑖𝑖𝑧𝑧𝑖𝑖=𝜃𝜃𝑥𝑥𝑖𝑖+𝑏𝑏 𝐽𝐽=−1 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 𝑦𝑦𝑖𝑖⋅log�𝑦𝑦𝑖𝑖+(1−𝑦𝑦𝑖𝑖)⋅log(1−�𝑦𝑦𝑖𝑖)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Logistic Regression �𝑦𝑦𝑖𝑖=𝑔𝑔𝑧𝑧𝑖𝑖=1 1+𝑒𝑒−𝑧𝑧𝑖𝑖𝑧𝑧𝑖𝑖=𝜃𝜃𝑥𝑥𝑖𝑖+𝑏𝑏 𝐽𝐽=−1 𝑐𝑐� 𝑖𝑖=1𝑛𝑛 𝑦𝑦𝑖𝑖⋅log�𝑦𝑦𝑖𝑖+(1−𝑦𝑦𝑖𝑖)⋅log(1−�𝑦𝑦𝑖𝑖)",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Machine",
+      "Learning",
+      "Logistic"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_440",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/ 26Was tun wenn der Datensatz nicht linear trennbar ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/ 26Was tun wenn der Datensatz nicht linear trennbar ist",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 33,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_441",
+    "question": "Welche Aussage über Wir ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wir wenden eine Kernelfunktion an um die Daten in einen höherdimensionalen Raum zu transformieren in dem sie trennbar sind („Kernel -Trick“)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wir wenden eine Kernelfunktion an um die Daten in einen höherdimensionalen Raum zu transformieren in dem sie trennbar sind („Kernel -Trick“)",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 33,
+    "tags": [
+      "Wir",
+      "Kernelfunktion",
+      "Daten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_442",
+    "question": "Welche Aussage über Problem ist korrekt?",
+    "type": "single",
+    "options": [
+      "Problem: Die explizite Transformation ist rechnerisch sehr aufwendig",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Problem: Die explizite Transformation ist rechnerisch sehr aufwendig",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 33,
+    "tags": [
+      "Problem",
+      "Die",
+      "Transformation"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_443",
+    "question": "Welche Aussage über Petal ist korrekt?",
+    "type": "single",
+    "options": [
+      "Petal -Attribute (Länge, Breite) sind die wichtigsten Merkmale",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Petal -Attribute (Länge, Breite) sind die wichtigsten Merkmale",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 35,
+    "tags": [
+      "Petal",
+      "Attribute",
+      "Länge"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_444",
+    "question": "Welche Aussage über Nachteile ist korrekt?",
+    "type": "single",
+    "options": [
+      "Nachteile Erfordert einen sehr sauberen Datensatz um gute Ergebnisse zu erzielen (Datenvorbereitung ist entscheidend)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nachteile Erfordert einen sehr sauberen Datensatz um gute Ergebnisse zu erzielen (Datenvorbereitung ist entscheidend)",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 36,
+    "tags": [
+      "Nachteile",
+      "Erfordert",
+      "Datensatz"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_445",
+    "question": "Welche Aussage über Für ist korrekt?",
+    "type": "single",
+    "options": [
+      "Für sehr große Datensätze oft ungeeignet da das Training sehr langsam ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Für sehr große Datensätze oft ungeeignet da das Training sehr langsam ist",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 36,
+    "tags": [
+      "Für",
+      "Datensätze",
+      "Training"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_446",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Support Vector Machines Vorteile Im Allgemeinen: sehr gute Klassifikationsleistung",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/26Machine Learning Support Vector Machines Vorteile Im Allgemeinen: sehr gute Klassifikationsleistung",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 36,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_447",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör / Big Data & Data Science WS 2025/ 26Machine Learning Decision Trees Leistungsfähiger Algorithmus für Klassifikations - und Regressionsprobleme",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör / Big Data & Data Science WS 2025/ 26Machine Learning Decision Trees Leistungsfähiger Algorithmus für Klassifikations - und Regressionsprobleme",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Big"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_448",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das Training von Entscheidungsbäumen erzeugt eine Top-down-Struktur binärer Entscheidungen: Jede Entscheidung teilt den Eingabedatensatz in zwei Teilmengen die in den entstehenden Unterästen weiterverarbeitet werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das Training von Entscheidungsbäumen erzeugt eine Top-down-Struktur binärer Entscheidungen: Jede Entscheidung teilt den Eingabedatensatz in zwei Teilmengen die in den entstehenden Unterästen weiterverarbeitet werden",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Das",
+      "Training",
+      "Entscheidungsbäumen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_449",
+    "question": "Welche Aussage über Der ist korrekt?",
+    "type": "single",
+    "options": [
+      "Der Aufspaltungsprozess läuft weiter bis ein vordefiniertes Abbruchkriterium erreicht ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der Aufspaltungsprozess läuft weiter bis ein vordefiniertes Abbruchkriterium erreicht ist",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Der",
+      "Aufspaltungsprozess",
+      "Abbruchkriterium"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_450",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die resultierende Baumstruktur überfittet das Trainingsset in vielen Fällen und muss durch Pruning (Beschneiden) reduziert werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die resultierende Baumstruktur überfittet das Trainingsset in vielen Fällen und muss durch Pruning (Beschneiden) reduziert werden",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Die",
+      "Baumstruktur",
+      "Trainingsset"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_451",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die Entscheidungen verzweigen sich in Baumstrukturen bis für einen gegebenen Datensatz eine Vorhersage getroffen wird",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Entscheidungen verzweigen sich in Baumstrukturen bis für einen gegebenen Datensatz eine Vorhersage getroffen wird",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Die",
+      "Entscheidungen",
+      "Baumstrukturen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_452",
+    "question": "Welche Aussage über Entscheidungsbäume ist korrekt?",
+    "type": "single",
+    "options": [
+      "Entscheidungsbäume werden für Klassifikations - und Regressionsprobleme auf Daten trainiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entscheidungsbäume werden für Klassifikations - und Regressionsprobleme auf Daten trainiert",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Entscheidungsbäume",
+      "Klassifikations",
+      "Regressionsprobleme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_453",
+    "question": "Welche Aussage über Aufgrund ist korrekt?",
+    "type": "single",
+    "options": [
+      "Aufgrund ihrer Einfachheit sind Entscheidungsbäume oft schnell und genau und daher ein großer Favorit im Machine Learning",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aufgrund ihrer Einfachheit sind Entscheidungsbäume oft schnell und genau und daher ein großer Favorit im Machine Learning",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Aufgrund",
+      "Einfachheit",
+      "Entscheidungsbäume"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_454",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die beliebtesten Entscheidungsbaum - Algorithmen sind: CART (Classification and Regression Tree) ID3 (Iterative Dichotomiser 3) C4",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die beliebtesten Entscheidungsbaum - Algorithmen sind: CART (Classification and Regression Tree) ID3 (Iterative Dichotomiser 3) C4",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Die",
+      "Entscheidungsbaum",
+      "Algorithmen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_455",
+    "question": "Welche Aussage über Versionen ist korrekt?",
+    "type": "single",
+    "options": [
+      "0 (verschiedene Versionen eines leistungsfähigen Ansatzes) CHAID (Chi-squared Automatic Interaction Detection) Decision Stump M5 Konditionale Entscheidungsbäume (Conditional Decision Trees )",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "0 (verschiedene Versionen eines leistungsfähigen Ansatzes) CHAID (Chi-squared Automatic Interaction Detection) Decision Stump M5 Konditionale Entscheidungsbäume (Conditional Decision Trees )",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Versionen",
+      "Ansatzes",
+      "Chi"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_456",
+    "question": "Welche Aussage über Der ist korrekt?",
+    "type": "single",
+    "options": [
+      "Der Plot zeigt dass die Daten nicht linear trennbar sind",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Der Plot zeigt dass die Daten nicht linear trennbar sind",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 41,
+    "tags": [
+      "Der",
+      "Plot",
+      "Daten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_457",
+    "question": "Welche Aussage über In ist korrekt?",
+    "type": "single",
+    "options": [
+      "In der Praxis testen man Splits für jedes Attribut und bewertet anschließend die entstehenden Teilmengen - wie „rein“ ein Datensatz nach einer Aufteilung ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "In der Praxis testen man Splits für jedes Attribut und bewertet anschließend die entstehenden Teilmengen - wie „rein“ ein Datensatz nach einer Aufteilung ist",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "In",
+      "Praxis",
+      "Splits"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_458",
+    "question": "Welche Aussage über Geringe ist korrekt?",
+    "type": "single",
+    "options": [
+      "Geringe Reinheit: Die Daten im Knoten sind gemischt also enthalten mehrere Klassen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Geringe Reinheit: Die Daten im Knoten sind gemischt also enthalten mehrere Klassen",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Geringe",
+      "Reinheit",
+      "Die"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_459",
+    "question": "Welche Aussage über Misst ist korrekt?",
+    "type": "single",
+    "options": [
+      "Misst wie stark die Klassen gemischt sind",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Misst wie stark die Klassen gemischt sind",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Misst",
+      "Klassen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_460",
+    "question": "Welche Aussage über Erzwingt ist korrekt?",
+    "type": "single",
+    "options": [
+      "Erzwingt die Erstellung kleinerer Partitionen mit vielen unterschiedlichen Werten kleinere Werte sind besser Ist 0 wenn nur eine Klasse vorkommt (keine Unsicherheit)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erzwingt die Erstellung kleinerer Partitionen mit vielen unterschiedlichen Werten kleinere Werte sind besser Ist 0 wenn nur eine Klasse vorkommt (keine Unsicherheit)",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Erzwingt",
+      "Erstellung",
+      "Partitionen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_461",
+    "question": "Welche Aussage über Reinheit ist korrekt?",
+    "type": "single",
+    "options": [
+      "0 → perfekte Reinheit 50 Datensätze alle Klasse setosa (value = [50 0 0] ) ➜ Alle Blüten mit kurzen Blütenblättern sind Setosa",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "0 → perfekte Reinheit 50 Datensätze alle Klasse setosa (value = [50 0 0] ) ➜ Alle Blüten mit kurzen Blütenblättern sind Setosa",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "Reinheit",
+      "Datensätze",
+      "Klasse"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_462",
+    "question": "Was ist Werk?",
+    "type": "single",
+    "options": [
+      "urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werk: urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 2,
+    "tags": [
+      "Werk"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_463",
+    "question": "Richtig oder Falsch: Werk urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werk: urheberrechtlich geschützt und nur für den persönlichen Gebrauch im Rahmen der Veranstaltungen der FOM bestimmt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 2,
+    "tags": [
+      "Werk"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_464",
+    "question": "Was ist Instance?",
+    "type": "single",
+    "options": [
+      "based Learning 4 Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Instance: based Learning 4 Prof.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 4,
+    "tags": [
+      "Instance"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_465",
+    "question": "Richtig oder Falsch: Instance based Learning 4 Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Instance: based Learning 4 Prof.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 4,
+    "tags": [
+      "Instance"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_466",
+    "question": "Was ist Maximum?",
+    "type": "single",
+    "options": [
+      "Distanz größter Abstand in einer der i Dimensionen Hammingdistanz An wieviel Positionen unterscheidet sich der Datensatz?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Maximum: Distanz größter Abstand in einer der i Dimensionen Hammingdistanz An wieviel Positionen unterscheidet sich der Datensatz?",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 7,
+    "tags": [
+      "Maximum"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_467",
+    "question": "Richtig oder Falsch: Maximum Distanz größter Abstand in einer der i Dimensionen Hammingdistanz An wieviel Positionen unterscheidet sich der Datensatz?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Maximum: Distanz größter Abstand in einer der i Dimensionen Hammingdistanz An wieviel Positionen unterscheidet sich der Datensatz?",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 7,
+    "tags": [
+      "Maximum"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_468",
+    "question": "Was ist Machine Learning Instance?",
+    "type": "single",
+    "options": [
+      "based Learning https://importq.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Instance: based Learning https://importq.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 7,
+    "tags": [
+      "Machine Learning Instance"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_469",
+    "question": "Richtig oder Falsch: Machine Learning Instance based Learning https://importq.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Instance: based Learning https://importq.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 7,
+    "tags": [
+      "Machine Learning Instance"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_470",
+    "question": "Was ist Machine Learning Instance-based Learning?",
+    "type": "single",
+    "options": [
+      "K-Nearest -Neighbour Algorithmus (1)Für alle xi aus den Trainingsbeispielen berechne die Ähnlichkeit zu y (2)Wähle daraus diejenigen k Beispiele x1-xk die zu y am ähnlichsten sind (3)Die Klasse K(y) ist die Klasse die in den x1-xk Trainingsbeispielen am häufigsten vorkommt Brute Force Algorithmus Modifikation Es werden in (3) alle k Datenpunkte gleichwertig behandelt – ohne Berücksichtigung des Abstandes Shepards Methode Gewichtung der Abstände der 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Instance-based Learning: K-Nearest -Neighbour Algorithmus (1)Für alle xi aus den Trainingsbeispielen berechne die Ähnlichkeit zu y (2)Wähle daraus diejenigen k Beispiele x1-xk die zu y am ähnlichsten sind (3)Die Klasse K(y) ist die Klasse die in den x1-xk Trainingsbeispielen am häufigsten vorkommt Brute Force Algorithmus Modifikation Es werden in (3) alle k Datenpunkte gleichwertig behandelt – ohne Berücksichtigung des Abstandes Shepards Methode Gewichtung der Abstände der 1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 8,
+    "tags": [
+      "Machine Learning Instance-based Learning"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_471",
+    "question": "Richtig oder Falsch: Machine Learning Instance-based Learning K-Nearest -Neighbour Algorithmus (1)Für alle xi aus den Trainingsbeispielen berechne die Ähnlichkeit zu y (2)Wähle daraus diejenigen k Beispiele x1-xk die zu y am ähnlichsten sind (3)Die Klasse K(y) ist die Klasse die in den x1-xk Trainingsbeispielen am häufigsten vorkommt Brute Force Algorithmus Modifikation Es werden in (3) alle k Datenpunkte gleichwertig behandelt – ohne Berücksichtigung des Abstandes Shepards Methode Gewichtung der Abstände der 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Instance-based Learning: K-Nearest -Neighbour Algorithmus (1)Für alle xi aus den Trainingsbeispielen berechne die Ähnlichkeit zu y (2)Wähle daraus diejenigen k Beispiele x1-xk die zu y am ähnlichsten sind (3)Die Klasse K(y) ist die Klasse die in den x1-xk Trainingsbeispielen am häufigsten vorkommt Brute Force Algorithmus Modifikation Es werden in (3) alle k Datenpunkte gleichwertig behandelt – ohne Berücksichtigung des Abstandes Shepards Methode Gewichtung der Abstände der 1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 8,
+    "tags": [
+      "Machine Learning Instance-based Learning"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_472",
+    "question": "Was ist Machine Learning Instance?",
+    "type": "single",
+    "options": [
+      "based Learning / k -Nearest Neighbor (kNN ) Verfahren Messung der Distanz (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Instance: based Learning / k -Nearest Neighbor (kNN ) Verfahren Messung der Distanz (z.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 9,
+    "tags": [
+      "Machine Learning Instance"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_473",
+    "question": "Richtig oder Falsch: Machine Learning Instance based Learning / k -Nearest Neighbor (kNN ) Verfahren Messung der Distanz (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Instance: based Learning / k -Nearest Neighbor (kNN ) Verfahren Messung der Distanz (z.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 9,
+    "tags": [
+      "Machine Learning Instance"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_474",
+    "question": "Was ist Machine Learning Instance-based Learning?",
+    "type": "single",
+    "options": [
+      "K-Nearest -Neighbour https://machinelearningmastery.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Instance-based Learning: K-Nearest -Neighbour https://machinelearningmastery.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 10,
+    "tags": [
+      "Machine Learning Instance-based Learning"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_475",
+    "question": "Richtig oder Falsch: Machine Learning Instance-based Learning K-Nearest -Neighbour https://machinelearningmastery.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Instance-based Learning: K-Nearest -Neighbour https://machinelearningmastery.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 10,
+    "tags": [
+      "Machine Learning Instance-based Learning"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_476",
+    "question": "Was ist Quelle?",
+    "type": "single",
+    "options": [
+      "Cleve J Lämmel U (2014) Data Mining.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Quelle: Cleve J Lämmel U (2014) Data Mining.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 12,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_477",
+    "question": "Richtig oder Falsch: Quelle Cleve J Lämmel U (2014) Data Mining.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Quelle: Cleve J Lämmel U (2014) Data Mining.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 12,
+    "tags": [
+      "Quelle"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_478",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "Die Regressionsgerade finden die den geringsten Fehler aufweist (beste Anpassung an die Daten) •Die Regressionsgerade wird durch 𝑚𝑚 und 𝑏𝑏 dargestellt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: Die Regressionsgerade finden die den geringsten Fehler aufweist (beste Anpassung an die Daten) •Die Regressionsgerade wird durch 𝑚𝑚 und 𝑏𝑏 dargestellt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 18,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_479",
+    "question": "Richtig oder Falsch: Ziel Die Regressionsgerade finden die den geringsten Fehler aufweist (beste Anpassung an die Daten) •Die Regressionsgerade wird durch 𝑚𝑚 und 𝑏𝑏 dargestellt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: Die Regressionsgerade finden die den geringsten Fehler aufweist (beste Anpassung an die Daten) •Die Regressionsgerade wird durch 𝑚𝑚 und 𝑏𝑏 dargestellt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 18,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_480",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "Finde die Werte für 𝑚𝑚 und 𝑏𝑏 die den Fehler J minimieren.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: Finde die Werte für 𝑚𝑚 und 𝑏𝑏 die den Fehler J minimieren.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_481",
+    "question": "Richtig oder Falsch: Ziel Finde die Werte für 𝑚𝑚 und 𝑏𝑏 die den Fehler J minimieren.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: Finde die Werte für 𝑚𝑚 und 𝑏𝑏 die den Fehler J minimieren.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_482",
+    "question": "Was ist Idee?",
+    "type": "single",
+    "options": [
+      "Wir beginnen an einem zufälligen Punkt der Fehleroberfläche und gehen in kleinen Schritten bergab bis wir den niedrigsten Punkt erreichen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Idee: Wir beginnen an einem zufälligen Punkt der Fehleroberfläche und gehen in kleinen Schritten bergab bis wir den niedrigsten Punkt erreichen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Idee"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_483",
+    "question": "Richtig oder Falsch: Idee Wir beginnen an einem zufälligen Punkt der Fehleroberfläche und gehen in kleinen Schritten bergab bis wir den niedrigsten Punkt erreichen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Idee: Wir beginnen an einem zufälligen Punkt der Fehleroberfläche und gehen in kleinen Schritten bergab bis wir den niedrigsten Punkt erreichen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Idee"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_484",
+    "question": "Was ist Frage?",
+    "type": "single",
+    "options": [
+      "Wie finden wir heraus in welche Richtung wir gehen müssen?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Frage: Wie finden wir heraus in welche Richtung wir gehen müssen?",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Frage"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_485",
+    "question": "Richtig oder Falsch: Frage Wie finden wir heraus in welche Richtung wir gehen müssen?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Frage: Wie finden wir heraus in welche Richtung wir gehen müssen?",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Frage"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_486",
+    "question": "Was ist Lösung?",
+    "type": "single",
+    "options": [
+      "Berechne die Steigung (Anstieg) einer Tangente an die Fläche an unserem aktuellen Punkt und bewege dich in die entgegengesetzte Richtung https://spin.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Lösung: Berechne die Steigung (Anstieg) einer Tangente an die Fläche an unserem aktuellen Punkt und bewege dich in die entgegengesetzte Richtung https://spin.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Lösung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_487",
+    "question": "Richtig oder Falsch: Lösung Berechne die Steigung (Anstieg) einer Tangente an die Fläche an unserem aktuellen Punkt und bewege dich in die entgegengesetzte Richtung https://spin.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Lösung: Berechne die Steigung (Anstieg) einer Tangente an die Fläche an unserem aktuellen Punkt und bewege dich in die entgegengesetzte Richtung https://spin.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 19,
+    "tags": [
+      "Lösung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_488",
+    "question": "Was ist Parameterachse?",
+    "type": "single",
+    "options": [
+      "•Die Steigung kann durch Berechnung der partiellen Ableitungen von J für die beiden Parameter 𝑚𝑚 und 𝑏𝑏 ermittelt werden •m-Achse: •b-Achse: 20 Prof.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Parameterachse: •Die Steigung kann durch Berechnung der partiellen Ableitungen von J für die beiden Parameter 𝑚𝑚 und 𝑏𝑏 ermittelt werden •m-Achse: •b-Achse: 20 Prof.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 20,
+    "tags": [
+      "Parameterachse"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_489",
+    "question": "Richtig oder Falsch: Parameterachse •Die Steigung kann durch Berechnung der partiellen Ableitungen von J für die beiden Parameter 𝑚𝑚 und 𝑏𝑏 ermittelt werden •m-Achse: •b-Achse: 20 Prof.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Parameterachse: •Die Steigung kann durch Berechnung der partiellen Ableitungen von J für die beiden Parameter 𝑚𝑚 und 𝑏𝑏 ermittelt werden •m-Achse: •b-Achse: 20 Prof.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 20,
+    "tags": [
+      "Parameterachse"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_490",
+    "question": "Was ist Schritte?",
+    "type": "single",
+    "options": [
+      "die wir in Richtung des Gradienten machen •Schwierige Einstellung für viele Lernprobleme •Wenn 𝛼𝛼 zu niedrig ist wird das Training sehr langsam •Wenn 𝛼𝛼 zu groß ist könnte das Training das Minimum verfehlen (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Schritte: die wir in Richtung des Gradienten machen •Schwierige Einstellung für viele Lernprobleme •Wenn 𝛼𝛼 zu niedrig ist wird das Training sehr langsam •Wenn 𝛼𝛼 zu groß ist könnte das Training das Minimum verfehlen (z.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 22,
+    "tags": [
+      "Schritte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_491",
+    "question": "Richtig oder Falsch: Schritte die wir in Richtung des Gradienten machen •Schwierige Einstellung für viele Lernprobleme •Wenn 𝛼𝛼 zu niedrig ist wird das Training sehr langsam •Wenn 𝛼𝛼 zu groß ist könnte das Training das Minimum verfehlen (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Schritte: die wir in Richtung des Gradienten machen •Schwierige Einstellung für viele Lernprobleme •Wenn 𝛼𝛼 zu niedrig ist wird das Training sehr langsam •Wenn 𝛼𝛼 zu groß ist könnte das Training das Minimum verfehlen (z.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 22,
+    "tags": [
+      "Schritte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_492",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichtung 𝑚𝑚 und Verzerrung 𝑏𝑏 Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters m𝑏𝑏 repeat until convergence 𝑚𝑚=𝑚𝑚−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑚𝑚 b=𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters 𝜃𝜃 repeat until convergence for (j=1;j<n;j++) 𝜃𝜃 𝑗𝑗=𝜃𝜃𝑗𝑗−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝜃𝜃𝑗𝑗 𝑏𝑏 =𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏 �𝑦𝑦𝑖𝑖=𝑏𝑏+𝜃𝜃1𝑥𝑥𝑖𝑖1+⋯+𝜃𝜃𝑛𝑛𝑥𝑥𝑖𝑖𝑛𝑛=𝜃𝜃𝑋𝑋𝑇𝑇+𝑏𝑏Multiple Linear Regr .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichtung 𝑚𝑚 und Verzerrung 𝑏𝑏 Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters m𝑏𝑏 repeat until convergence 𝑚𝑚=𝑚𝑚−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑚𝑚 b=𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters 𝜃𝜃 repeat until convergence for (j=1;j<n;j++) 𝜃𝜃 𝑗𝑗=𝜃𝜃𝑗𝑗−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝜃𝜃𝑗𝑗 𝑏𝑏 =𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏 �𝑦𝑦𝑖𝑖=𝑏𝑏+𝜃𝜃1𝑥𝑥𝑖𝑖1+⋯+𝜃𝜃𝑛𝑛𝑥𝑥𝑖𝑖𝑛𝑛=𝜃𝜃𝑋𝑋𝑇𝑇+𝑏𝑏Multiple Linear Regr .",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 23,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_493",
+    "question": "Richtig oder Falsch: Ziel Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichtung 𝑚𝑚 und Verzerrung 𝑏𝑏 Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters m𝑏𝑏 repeat until convergence 𝑚𝑚=𝑚𝑚−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑚𝑚 b=𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters 𝜃𝜃 repeat until convergence for (j=1;j<n;j++) 𝜃𝜃 𝑗𝑗=𝜃𝜃𝑗𝑗−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝜃𝜃𝑗𝑗 𝑏𝑏 =𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏 �𝑦𝑦𝑖𝑖=𝑏𝑏+𝜃𝜃1𝑥𝑥𝑖𝑖1+⋯+𝜃𝜃𝑛𝑛𝑥𝑥𝑖𝑖𝑛𝑛=𝜃𝜃𝑋𝑋𝑇𝑇+𝑏𝑏Multiple Linear Regr .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichtung 𝑚𝑚 und Verzerrung 𝑏𝑏 Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters m𝑏𝑏 repeat until convergence 𝑚𝑚=𝑚𝑚−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑚𝑚 b=𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏Define error measure J set hyperparameter 𝛼𝛼 initialize model parameters 𝜃𝜃 repeat until convergence for (j=1;j<n;j++) 𝜃𝜃 𝑗𝑗=𝜃𝜃𝑗𝑗−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝜃𝜃𝑗𝑗 𝑏𝑏 =𝑏𝑏−𝛼𝛼𝜕𝜕𝜕𝜕 𝜕𝜕𝑏𝑏�𝑦𝑦𝑖𝑖=𝑚𝑚𝑥𝑥𝑖𝑖+𝑏𝑏 �𝑦𝑦𝑖𝑖=𝑏𝑏+𝜃𝜃1𝑥𝑥𝑖𝑖1+⋯+𝜃𝜃𝑛𝑛𝑥𝑥𝑖𝑖𝑛𝑛=𝜃𝜃𝑋𝑋𝑇𝑇+𝑏𝑏Multiple Linear Regr .",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 23,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_494",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichten 𝜃𝜃1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichten 𝜃𝜃1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 23,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_495",
+    "question": "Richtig oder Falsch: Ziel Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichten 𝜃𝜃1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: Vorhersage von 𝑦𝑦 auf der Grundlage von 𝑥𝑥 unter Verwendung eines Modells mit Gewichten 𝜃𝜃1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 23,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_496",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "das Geschlecht einer Person basierend auf ihrer Körpergröße vorhersagen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: das Geschlecht einer Person basierend auf ihrer Körpergröße vorhersagen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 28,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_497",
+    "question": "Richtig oder Falsch: Beispiel das Geschlecht einer Person basierend auf ihrer Körpergröße vorhersagen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: das Geschlecht einer Person basierend auf ihrer Körpergröße vorhersagen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 28,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_498",
+    "question": "Was ist Größen?",
+    "type": "single",
+    "options": [
+      "Parameter: kontinuierlich numerisch unabhängig.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Größen: Parameter: kontinuierlich numerisch unabhängig.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 28,
+    "tags": [
+      "Größen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_499",
+    "question": "Richtig oder Falsch: Größen Parameter: kontinuierlich numerisch unabhängig.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Größen: Parameter: kontinuierlich numerisch unabhängig.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 28,
+    "tags": [
+      "Größen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_500",
+    "question": "Was ist Idee?",
+    "type": "single",
+    "options": [
+      "Stattdessen eine gekrümmte Funktion verwenden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Idee: Stattdessen eine gekrümmte Funktion verwenden.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Idee"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_501",
+    "question": "Richtig oder Falsch: Idee Stattdessen eine gekrümmte Funktion verwenden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Idee: Stattdessen eine gekrümmte Funktion verwenden.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Idee"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_502",
+    "question": "Was ist Sigmoid?",
+    "type": "single",
+    "options": [
+      "Funktion: Alle Ausgabewerte liegen in einem festen Bereich: 0<�𝑦𝑦 𝑖𝑖<1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Sigmoid: Funktion: Alle Ausgabewerte liegen in einem festen Bereich: 0<�𝑦𝑦 𝑖𝑖<1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Sigmoid"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_503",
+    "question": "Richtig oder Falsch: Sigmoid Funktion: Alle Ausgabewerte liegen in einem festen Bereich: 0<�𝑦𝑦 𝑖𝑖<1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Sigmoid: Funktion: Alle Ausgabewerte liegen in einem festen Bereich: 0<�𝑦𝑦 𝑖𝑖<1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Sigmoid"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_504",
+    "question": "Was ist Sigmoid?",
+    "type": "single",
+    "options": [
+      "Funktion 𝑔𝑔 𝑧𝑧𝑖𝑖an um die kurvenförmige Gestalt zu erhalten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Sigmoid: Funktion 𝑔𝑔 𝑧𝑧𝑖𝑖an um die kurvenförmige Gestalt zu erhalten.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Sigmoid"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_505",
+    "question": "Richtig oder Falsch: Sigmoid Funktion 𝑔𝑔 𝑧𝑧𝑖𝑖an um die kurvenförmige Gestalt zu erhalten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Sigmoid: Funktion 𝑔𝑔 𝑧𝑧𝑖𝑖an um die kurvenförmige Gestalt zu erhalten.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 29,
+    "tags": [
+      "Sigmoid"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_506",
+    "question": "Was ist Regression Frage?",
+    "type": "single",
+    "options": [
+      "Wie trainieren wir unser logistisches Modell auf die Daten?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Regression Frage: Wie trainieren wir unser logistisches Modell auf die Daten?",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Regression Frage"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_507",
+    "question": "Richtig oder Falsch: Regression Frage Wie trainieren wir unser logistisches Modell auf die Daten?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Regression Frage: Wie trainieren wir unser logistisches Modell auf die Daten?",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Regression Frage"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_508",
+    "question": "Was ist Antwort?",
+    "type": "single",
+    "options": [
+      "Ähnlich wie bei der linearen Regression.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Antwort: Ähnlich wie bei der linearen Regression.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Antwort"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_509",
+    "question": "Richtig oder Falsch: Antwort Ähnlich wie bei der linearen Regression.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Antwort: Ähnlich wie bei der linearen Regression.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Antwort"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_510",
+    "question": "Was ist Fehlerfunktion?",
+    "type": "single",
+    "options": [
+      "Kreuzentropie-Verlust (Cross-Entropy Loss).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fehlerfunktion: Kreuzentropie-Verlust (Cross-Entropy Loss).",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Fehlerfunktion"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_511",
+    "question": "Richtig oder Falsch: Fehlerfunktion Kreuzentropie-Verlust (Cross-Entropy Loss).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Fehlerfunktion: Kreuzentropie-Verlust (Cross-Entropy Loss).",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 30,
+    "tags": [
+      "Fehlerfunktion"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_512",
+    "question": "Was ist Klassen?",
+    "type": "single",
+    "options": [
+      "Klassifikationsprobleme verwendbar.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klassen: Klassifikationsprobleme verwendbar.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 32,
+    "tags": [
+      "Klassen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_513",
+    "question": "Richtig oder Falsch: Klassen Klassifikationsprobleme verwendbar.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klassen: Klassifikationsprobleme verwendbar.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 32,
+    "tags": [
+      "Klassen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_514",
+    "question": "Was ist Hyperbene?",
+    "type": "single",
+    "options": [
+      "n -dimensionale Ebene die die beiden Klassen trennt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hyperbene: n -dimensionale Ebene die die beiden Klassen trennt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 32,
+    "tags": [
+      "Hyperbene"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_515",
+    "question": "Richtig oder Falsch: Hyperbene n -dimensionale Ebene die die beiden Klassen trennt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hyperbene: n -dimensionale Ebene die die beiden Klassen trennt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 32,
+    "tags": [
+      "Hyperbene"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_516",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "Die Ebene soll möglichst weit von den nächstgelegenen Datenpunkten (Stützvektoren) entfernt liegen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: Die Ebene soll möglichst weit von den nächstgelegenen Datenpunkten (Stützvektoren) entfernt liegen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 32,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_517",
+    "question": "Richtig oder Falsch: Ziel Die Ebene soll möglichst weit von den nächstgelegenen Datenpunkten (Stützvektoren) entfernt liegen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: Die Ebene soll möglichst weit von den nächstgelegenen Datenpunkten (Stützvektoren) entfernt liegen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 32,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_518",
+    "question": "Was ist Problem?",
+    "type": "single",
+    "options": [
+      "Die explizite Transformation ist rechnerisch sehr aufwendig.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Problem: Die explizite Transformation ist rechnerisch sehr aufwendig.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 33,
+    "tags": [
+      "Problem"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_519",
+    "question": "Richtig oder Falsch: Problem Die explizite Transformation ist rechnerisch sehr aufwendig.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Problem: Die explizite Transformation ist rechnerisch sehr aufwendig.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 33,
+    "tags": [
+      "Problem"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_520",
+    "question": "Was ist Transformation?",
+    "type": "single",
+    "options": [
+      "rechnerisch sehr aufwendig.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Transformation: rechnerisch sehr aufwendig.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 33,
+    "tags": [
+      "Transformation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_521",
+    "question": "Richtig oder Falsch: Transformation rechnerisch sehr aufwendig.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Transformation: rechnerisch sehr aufwendig.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 33,
+    "tags": [
+      "Transformation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_522",
+    "question": "Was ist Machine Learning Beispiel Iris?",
+    "type": "single",
+    "options": [
+      "Datensatz 150 Datensätze 3 Klassen ( Setosa Versicolor Virginica) 4 Merkmale: Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Modell: Support Vector Machine (SVM) mit RBF -Kernel Vorverarbeitung: Standardisierung der Merkmale Ziel: Trennung der drei Iris- Klassen ( Setosa, Versicolor, Virginica) Optimierung über Kreuzvalidierung (3- fach) Gewählte Parameter: C = 10, gamma = 'scale' Ergebnis Klassifikationsgenauigkeit (CV): ca.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Beispiel Iris: Datensatz 150 Datensätze 3 Klassen ( Setosa Versicolor Virginica) 4 Merkmale: Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Modell: Support Vector Machine (SVM) mit RBF -Kernel Vorverarbeitung: Standardisierung der Merkmale Ziel: Trennung der drei Iris- Klassen ( Setosa, Versicolor, Virginica) Optimierung über Kreuzvalidierung (3- fach) Gewählte Parameter: C = 10, gamma = 'scale' Ergebnis Klassifikationsgenauigkeit (CV): ca.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 34,
+    "tags": [
+      "Machine Learning Beispiel Iris"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_523",
+    "question": "Richtig oder Falsch: Machine Learning Beispiel Iris Datensatz 150 Datensätze 3 Klassen ( Setosa Versicolor Virginica) 4 Merkmale: Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Modell: Support Vector Machine (SVM) mit RBF -Kernel Vorverarbeitung: Standardisierung der Merkmale Ziel: Trennung der drei Iris- Klassen ( Setosa, Versicolor, Virginica) Optimierung über Kreuzvalidierung (3- fach) Gewählte Parameter: C = 10, gamma = 'scale' Ergebnis Klassifikationsgenauigkeit (CV): ca.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Beispiel Iris: Datensatz 150 Datensätze 3 Klassen ( Setosa Versicolor Virginica) 4 Merkmale: Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Modell: Support Vector Machine (SVM) mit RBF -Kernel Vorverarbeitung: Standardisierung der Merkmale Ziel: Trennung der drei Iris- Klassen ( Setosa, Versicolor, Virginica) Optimierung über Kreuzvalidierung (3- fach) Gewählte Parameter: C = 10, gamma = 'scale' Ergebnis Klassifikationsgenauigkeit (CV): ca.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 34,
+    "tags": [
+      "Machine Learning Beispiel Iris"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_524",
+    "question": "Was ist Iris?",
+    "type": "single",
+    "options": [
+      "Arten nahezu perfekt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Iris: Arten nahezu perfekt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 35,
+    "tags": [
+      "Iris"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_525",
+    "question": "Richtig oder Falsch: Iris Arten nahezu perfekt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Iris: Arten nahezu perfekt.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 35,
+    "tags": [
+      "Iris"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_526",
+    "question": "Was ist Petal?",
+    "type": "single",
+    "options": [
+      "Attribute (Länge, Breite) sind die wichtigsten Merkmale.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Petal: Attribute (Länge, Breite) sind die wichtigsten Merkmale.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 35,
+    "tags": [
+      "Petal"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_527",
+    "question": "Richtig oder Falsch: Petal Attribute (Länge, Breite) sind die wichtigsten Merkmale.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Petal: Attribute (Länge, Breite) sind die wichtigsten Merkmale.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 35,
+    "tags": [
+      "Petal"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_528",
+    "question": "Was ist Im Allgemeinen?",
+    "type": "single",
+    "options": [
+      "sehr gute Klassifikationsleistung.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Im Allgemeinen: sehr gute Klassifikationsleistung.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 36,
+    "tags": [
+      "Im Allgemeinen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_529",
+    "question": "Richtig oder Falsch: Im Allgemeinen sehr gute Klassifikationsleistung.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Im Allgemeinen: sehr gute Klassifikationsleistung.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 36,
+    "tags": [
+      "Im Allgemeinen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_530",
+    "question": "Was ist Klassifikations?",
+    "type": "single",
+    "options": [
+      "und Regressionsprobleme.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klassifikations: und Regressionsprobleme.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Klassifikations"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_531",
+    "question": "Richtig oder Falsch: Klassifikations und Regressionsprobleme.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klassifikations: und Regressionsprobleme.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Klassifikations"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_532",
+    "question": "Was ist Top-down?",
+    "type": "single",
+    "options": [
+      "Struktur binärer Entscheidungen: Jede Entscheidung teilt den Eingabedatensatz in zwei Teilmengen die in den entstehenden Unterästen weiterverarbeitet werden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Top-down: Struktur binärer Entscheidungen: Jede Entscheidung teilt den Eingabedatensatz in zwei Teilmengen die in den entstehenden Unterästen weiterverarbeitet werden.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Top-down"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_533",
+    "question": "Richtig oder Falsch: Top-down Struktur binärer Entscheidungen: Jede Entscheidung teilt den Eingabedatensatz in zwei Teilmengen die in den entstehenden Unterästen weiterverarbeitet werden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Top-down: Struktur binärer Entscheidungen: Jede Entscheidung teilt den Eingabedatensatz in zwei Teilmengen die in den entstehenden Unterästen weiterverarbeitet werden.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 38,
+    "tags": [
+      "Top-down"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_534",
+    "question": "Was ist Entscheidungsbaum?",
+    "type": "single",
+    "options": [
+      "Methoden konstruieren ein Modell von Entscheidungen, die auf den tatsächlichen Attributwerten in den Daten beruhen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entscheidungsbaum: Methoden konstruieren ein Modell von Entscheidungen, die auf den tatsächlichen Attributwerten in den Daten beruhen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Entscheidungsbaum"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_535",
+    "question": "Richtig oder Falsch: Entscheidungsbaum Methoden konstruieren ein Modell von Entscheidungen, die auf den tatsächlichen Attributwerten in den Daten beruhen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Entscheidungsbaum: Methoden konstruieren ein Modell von Entscheidungen, die auf den tatsächlichen Attributwerten in den Daten beruhen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Entscheidungsbaum"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_536",
+    "question": "Was ist Klassifikations?",
+    "type": "single",
+    "options": [
+      "und Regressionsprobleme auf Daten trainiert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klassifikations: und Regressionsprobleme auf Daten trainiert.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Klassifikations"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_537",
+    "question": "Richtig oder Falsch: Klassifikations und Regressionsprobleme auf Daten trainiert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Klassifikations: und Regressionsprobleme auf Daten trainiert.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Klassifikations"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_538",
+    "question": "Was ist Entscheidungsbaum?",
+    "type": "single",
+    "options": [
+      "Algorithmen sind: CART (Classification and Regression Tree) ID3 (Iterative Dichotomiser 3) C4.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entscheidungsbaum: Algorithmen sind: CART (Classification and Regression Tree) ID3 (Iterative Dichotomiser 3) C4.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Entscheidungsbaum"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_539",
+    "question": "Richtig oder Falsch: Entscheidungsbaum Algorithmen sind: CART (Classification and Regression Tree) ID3 (Iterative Dichotomiser 3) C4.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Entscheidungsbaum: Algorithmen sind: CART (Classification and Regression Tree) ID3 (Iterative Dichotomiser 3) C4.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Entscheidungsbaum"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_540",
+    "question": "Was ist Einfachheit?",
+    "type": "single",
+    "options": [
+      "Entscheidungsbäume oft schnell und genau und daher ein großer Favorit im Machine Learning.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Einfachheit: Entscheidungsbäume oft schnell und genau und daher ein großer Favorit im Machine Learning.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Einfachheit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_541",
+    "question": "Richtig oder Falsch: Einfachheit Entscheidungsbäume oft schnell und genau und daher ein großer Favorit im Machine Learning.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Einfachheit: Entscheidungsbäume oft schnell und genau und daher ein großer Favorit im Machine Learning.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 39,
+    "tags": [
+      "Einfachheit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_542",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "Einfaches binäres Klassifikationsproblem.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: Einfaches binäres Klassifikationsproblem.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 41,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_543",
+    "question": "Richtig oder Falsch: Beispiel Einfaches binäres Klassifikationsproblem.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: Einfaches binäres Klassifikationsproblem.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 41,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_544",
+    "question": "Was ist Teilmengen?",
+    "type": "single",
+    "options": [
+      "wie „rein“ ein Datensatz nach einer Aufteilung ist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Teilmengen: wie „rein“ ein Datensatz nach einer Aufteilung ist.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Teilmengen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_545",
+    "question": "Richtig oder Falsch: Teilmengen wie „rein“ ein Datensatz nach einer Aufteilung ist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Teilmengen: wie „rein“ ein Datensatz nach einer Aufteilung ist.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Teilmengen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_546",
+    "question": "Was ist Reinheit?",
+    "type": "single",
+    "options": [
+      "Grad zu dem die Daten in einem Teil (Knoten) einer einzigen Klasse angehören.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reinheit: Grad zu dem die Daten in einem Teil (Knoten) einer einzigen Klasse angehören.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Reinheit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_547",
+    "question": "Richtig oder Falsch: Reinheit Grad zu dem die Daten in einem Teil (Knoten) einer einzigen Klasse angehören.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Reinheit: Grad zu dem die Daten in einem Teil (Knoten) einer einzigen Klasse angehören.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Reinheit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_548",
+    "question": "Was ist Hohe Reinheit?",
+    "type": "single",
+    "options": [
+      "Alle Elemente im Knoten gehören derselben Klasse an.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hohe Reinheit: Alle Elemente im Knoten gehören derselben Klasse an.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Hohe Reinheit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_549",
+    "question": "Richtig oder Falsch: Hohe Reinheit Alle Elemente im Knoten gehören derselben Klasse an.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hohe Reinheit: Alle Elemente im Knoten gehören derselben Klasse an.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Hohe Reinheit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_550",
+    "question": "Was ist Geringe Reinheit?",
+    "type": "single",
+    "options": [
+      "Die Daten im Knoten sind gemischt also enthalten mehrere Klassen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Geringe Reinheit: Die Daten im Knoten sind gemischt also enthalten mehrere Klassen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Geringe Reinheit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_551",
+    "question": "Richtig oder Falsch: Geringe Reinheit Die Daten im Knoten sind gemischt also enthalten mehrere Klassen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Geringe Reinheit: Die Daten im Knoten sind gemischt also enthalten mehrere Klassen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Geringe Reinheit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_552",
+    "question": "Was ist Knoten?",
+    "type": "single",
+    "options": [
+      "gemischt also enthalten mehrere Klassen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Knoten: gemischt also enthalten mehrere Klassen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Knoten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_553",
+    "question": "Richtig oder Falsch: Knoten gemischt also enthalten mehrere Klassen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Knoten: gemischt also enthalten mehrere Klassen.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 47,
+    "tags": [
+      "Knoten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_554",
+    "question": "Was ist Wert?",
+    "type": "single",
+    "options": [
+      "0 → vollständige Trennung erreicht → perfekte Reinheit.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wert: 0 → vollständige Trennung erreicht → perfekte Reinheit.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Wert"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_555",
+    "question": "Richtig oder Falsch: Wert 0 → vollständige Trennung erreicht → perfekte Reinheit.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wert: 0 → vollständige Trennung erreicht → perfekte Reinheit.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Wert"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_556",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "Minimierung von UnreinheitEntropy Misst die Unordnung oder Unsicherheit in den Daten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: Minimierung von UnreinheitEntropy Misst die Unordnung oder Unsicherheit in den Daten.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_557",
+    "question": "Richtig oder Falsch: Ziel Minimierung von UnreinheitEntropy Misst die Unordnung oder Unsicherheit in den Daten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: Minimierung von UnreinheitEntropy Misst die Unordnung oder Unsicherheit in den Daten.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_558",
+    "question": "Was ist Werte?",
+    "type": "single",
+    "options": [
+      "besser Ist 0 wenn nur eine Klasse vorkommt (keine Unsicherheit).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werte: besser Ist 0 wenn nur eine Klasse vorkommt (keine Unsicherheit).",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_559",
+    "question": "Richtig oder Falsch: Werte besser Ist 0 wenn nur eine Klasse vorkommt (keine Unsicherheit).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werte: besser Ist 0 wenn nur eine Klasse vorkommt (keine Unsicherheit).",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 48,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_560",
+    "question": "Was ist Merkmale?",
+    "type": "single",
+    "options": [
+      "Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Ziel: Attribut finden, das die Daten am besten trennt Der Algorithmus sortiert die Werte, etwa von Blütenblattlänge, aufsteigend und berechnet die Mittelpunkte zwischen benachbarten Werten, wo sich die Klasse ändert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Merkmale: Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Ziel: Attribut finden, das die Daten am besten trennt Der Algorithmus sortiert die Werte, etwa von Blütenblattlänge, aufsteigend und berechnet die Mittelpunkte zwischen benachbarten Werten, wo sich die Klasse ändert.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 49,
+    "tags": [
+      "Merkmale"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_561",
+    "question": "Richtig oder Falsch: Merkmale Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Ziel: Attribut finden, das die Daten am besten trennt Der Algorithmus sortiert die Werte, etwa von Blütenblattlänge, aufsteigend und berechnet die Mittelpunkte zwischen benachbarten Werten, wo sich die Klasse ändert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Merkmale: Kelchblattlänge, Kelchblattbreite, Blütenblattlänge, Blütenblattbreite Ziel: Attribut finden, das die Daten am besten trennt Der Algorithmus sortiert die Werte, etwa von Blütenblattlänge, aufsteigend und berechnet die Mittelpunkte zwischen benachbarten Werten, wo sich die Klasse ändert.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 49,
+    "tags": [
+      "Merkmale"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_562",
+    "question": "Was ist Iris?",
+    "type": "single",
+    "options": [
+      "Datensatz) IndexBlütenblattlänge (cm)Klasse 1 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Iris: Datensatz) IndexBlütenblattlänge (cm)Klasse 1 1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 49,
+    "tags": [
+      "Iris"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_563",
+    "question": "Richtig oder Falsch: Iris Datensatz) IndexBlütenblattlänge (cm)Klasse 1 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Iris: Datensatz) IndexBlütenblattlänge (cm)Klasse 1 1.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 49,
+    "tags": [
+      "Iris"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_564",
+    "question": "Was ist Gini Merkmal?",
+    "type": "single",
+    "options": [
+      "petal_length Schwelle: ≤ 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Gini Merkmal: petal_length Schwelle: ≤ 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 51,
+    "tags": [
+      "Gini Merkmal"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_565",
+    "question": "Richtig oder Falsch: Gini Merkmal petal_length Schwelle: ≤ 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Gini Merkmal: petal_length Schwelle: ≤ 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 51,
+    "tags": [
+      "Gini Merkmal"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_566",
+    "question": "Was ist Setosa?",
+    "type": "single",
+    "options": [
+      "45 Versicolor: 1 Virginica : 0 Gini( left) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Setosa: 45 Versicolor: 1 Virginica : 0 Gini( left) = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 51,
+    "tags": [
+      "Setosa"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_567",
+    "question": "Richtig oder Falsch: Setosa 45 Versicolor: 1 Virginica : 0 Gini( left) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Setosa: 45 Versicolor: 1 Virginica : 0 Gini( left) = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 51,
+    "tags": [
+      "Setosa"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_568",
+    "question": "Was ist Setosa?",
+    "type": "single",
+    "options": [
+      "2 Versicolor: 50 Virginica : 49 Gini( right) = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Setosa: 2 Versicolor: 50 Virginica : 49 Gini( right) = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 51,
+    "tags": [
+      "Setosa"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_569",
+    "question": "Richtig oder Falsch: Setosa 2 Versicolor: 50 Virginica : 49 Gini( right) = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Setosa: 2 Versicolor: 50 Virginica : 49 Gini( right) = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 51,
+    "tags": [
+      "Setosa"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_570",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "Reihenfolge: 𝑠𝑠𝑒𝑒𝑐𝑐𝑐𝑐𝑠𝑠𝑠𝑠𝑠𝑠𝑒𝑒𝑠𝑠𝑠𝑠𝑖𝑖𝑐𝑐𝑐𝑐𝑠𝑠𝑐𝑐𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠𝑔𝑔𝑖𝑖𝑐𝑐𝑖𝑖𝑐𝑐𝑠𝑠 (häufige Schreibweise: virginica ).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: Reihenfolge: 𝑠𝑠𝑒𝑒𝑐𝑐𝑐𝑐𝑠𝑠𝑠𝑠𝑠𝑠𝑒𝑒𝑠𝑠𝑠𝑠𝑖𝑖𝑐𝑐𝑐𝑐𝑠𝑠𝑐𝑐𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠𝑔𝑔𝑖𝑖𝑐𝑐𝑖𝑖𝑐𝑐𝑠𝑠 (häufige Schreibweise: virginica ).",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 52,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_571",
+    "question": "Richtig oder Falsch: Beispiel Reihenfolge: 𝑠𝑠𝑒𝑒𝑐𝑐𝑐𝑐𝑠𝑠𝑠𝑠𝑠𝑠𝑒𝑒𝑠𝑠𝑠𝑠𝑖𝑖𝑐𝑐𝑐𝑐𝑠𝑠𝑐𝑐𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠𝑔𝑔𝑖𝑖𝑐𝑐𝑖𝑖𝑐𝑐𝑠𝑠 (häufige Schreibweise: virginica ).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: Reihenfolge: 𝑠𝑠𝑒𝑒𝑐𝑐𝑐𝑐𝑠𝑠𝑠𝑠𝑠𝑠𝑒𝑒𝑠𝑠𝑠𝑠𝑖𝑖𝑐𝑐𝑐𝑐𝑠𝑠𝑐𝑐𝑠𝑠𝑠𝑠𝑖𝑖𝑠𝑠𝑔𝑔𝑖𝑖𝑐𝑐𝑖𝑖𝑐𝑐𝑠𝑠 (häufige Schreibweise: virginica ).",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 52,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_572",
+    "question": "Was ist Machine Learning Entscheidungsbäume?",
+    "type": "single",
+    "options": [
+      "Beispiel Iris Wurzelknoten (oben) Bedingung: petal length (cm) <= 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Machine Learning Entscheidungsbäume: Beispiel Iris Wurzelknoten (oben) Bedingung: petal length (cm) <= 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "Machine Learning Entscheidungsbäume"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_573",
+    "question": "Richtig oder Falsch: Machine Learning Entscheidungsbäume Beispiel Iris Wurzelknoten (oben) Bedingung: petal length (cm) <= 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Machine Learning Entscheidungsbäume: Beispiel Iris Wurzelknoten (oben) Bedingung: petal length (cm) <= 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "Machine Learning Entscheidungsbäume"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_574",
+    "question": "Was ist Werte?",
+    "type": "single",
+    "options": [
+      "[50 50 50] → je 50 pro Klasse Mehrheit: class = setosa ➜ Der Baum teilt also zunächst nach der Blütenblattlänge.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werte: [50 50 50] → je 50 pro Klasse Mehrheit: class = setosa ➜ Der Baum teilt also zunächst nach der Blütenblattlänge.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_575",
+    "question": "Richtig oder Falsch: Werte [50 50 50] → je 50 pro Klasse Mehrheit: class = setosa ➜ Der Baum teilt also zunächst nach der Blütenblattlänge.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werte: [50 50 50] → je 50 pro Klasse Mehrheit: class = setosa ➜ Der Baum teilt also zunächst nach der Blütenblattlänge.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_576",
+    "question": "Was ist True?",
+    "type": "single",
+    "options": [
+      "Zweig) Bedingung erfüllt: petal length <= 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "True: Zweig) Bedingung erfüllt: petal length <= 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "True"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_577",
+    "question": "Richtig oder Falsch: True Zweig) Bedingung erfüllt: petal length <= 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. True: Zweig) Bedingung erfüllt: petal length <= 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "True"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_578",
+    "question": "Was ist False?",
+    "type": "single",
+    "options": [
+      "Zweig) Bedingung nicht erfüllt: petal length > 2.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "False: Zweig) Bedingung nicht erfüllt: petal length > 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "False"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_579",
+    "question": "Richtig oder Falsch: False Zweig) Bedingung nicht erfüllt: petal length > 2.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. False: Zweig) Bedingung nicht erfüllt: petal length > 2.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "False"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_580",
+    "question": "Was ist Werte?",
+    "type": "single",
+    "options": [
+      "[0 50 50] → Mischung aus versicolor und virginica Gini = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werte: [0 50 50] → Mischung aus versicolor und virginica Gini = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_581",
+    "question": "Richtig oder Falsch: Werte [0 50 50] → Mischung aus versicolor und virginica Gini = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werte: [0 50 50] → Mischung aus versicolor und virginica Gini = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_582",
+    "question": "Was ist True- Zweig?",
+    "type": "single",
+    "options": [
+      "54 Datensätze fast alle versicolor value = [0 49 5] → Gini = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "True- Zweig: 54 Datensätze fast alle versicolor value = [0 49 5] → Gini = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "True- Zweig"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_583",
+    "question": "Richtig oder Falsch: True- Zweig 54 Datensätze fast alle versicolor value = [0 49 5] → Gini = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. True- Zweig: 54 Datensätze fast alle versicolor value = [0 49 5] → Gini = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "True- Zweig"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_584",
+    "question": "Was ist False- Zweig?",
+    "type": "single",
+    "options": [
+      "46 Datensätze fast alle virginica value = [0 1 45] → Gini = 0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "False- Zweig: 46 Datensätze fast alle virginica value = [0 1 45] → Gini = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "False- Zweig"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_585",
+    "question": "Richtig oder Falsch: False- Zweig 46 Datensätze fast alle virginica value = [0 1 45] → Gini = 0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. False- Zweig: 46 Datensätze fast alle virginica value = [0 1 45] → Gini = 0.",
+    "source_file": "07-bigdata_data_science_Machine-Learning_Verfahren_A_v7.pdf",
+    "source_page": 53,
+    "tags": [
+      "False- Zweig"
+    ],
+    "difficulty": 1
+  }
+]

@@ -1,0 +1,1682 @@
+[
+  {
+    "id": "q_2915",
+    "question": "Welche Aussage über Reine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Reine Bildverarbeitung (Hough, DoG, Inpainting) hilft, ist aber empﬁndlich gegenüber Parameterwahl und Feldvariation",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reine Bildverarbeitung (Hough, DoG, Inpainting) hilft, ist aber empﬁndlich gegenüber Parameterwahl und Feldvariation",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Reine",
+      "Bildverarbeitung",
+      "Hough"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2916",
+    "question": "Welche Aussage über Eine ist korrekt?",
+    "type": "single",
+    "options": [
+      "Eine weitere Ursache sind Reﬂexionen im Strahlengang, insbesondere von Netwon- Teleskopen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Eine weitere Ursache sind Reﬂexionen im Strahlengang, insbesondere von Netwon- Teleskopen",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Eine",
+      "Ursache",
+      "Strahlengang"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2917",
+    "question": "Welche Aussage über Vollmond ist korrekt?",
+    "type": "single",
+    "options": [
+      "Vollmond in Bildnähe) wird das Innere des Tubus, der Fangspiegelhalter, die Auszugshülse oder blanke Schrauben „angeleuchtet“",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vollmond in Bildnähe) wird das Innere des Tubus, der Fangspiegelhalter, die Auszugshülse oder blanke Schrauben „angeleuchtet“",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Vollmond",
+      "Bildnähe",
+      "Innere"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2918",
+    "question": "Welche Aussage über Dieses ist korrekt?",
+    "type": "single",
+    "options": [
+      "Dieses Streulicht streut/ reﬂektiert bis zum Sensor, hebt den Himmels hintergrund an („veiling glare“) und verursacht Gradienten, Bögen oder schwache „Geisterbilder“",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dieses Streulicht streut/ reﬂektiert bis zum Sensor, hebt den Himmels hintergrund an („veiling glare“) und verursacht Gradienten, Bögen oder schwache „Geisterbilder“",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Dieses",
+      "Streulicht",
+      "Sensor"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2919",
+    "question": "Welche Aussage über Newtons ist korrekt?",
+    "type": "single",
+    "options": [
+      "Newtons sind dafür anfällig, weil der offene Tubus und 1 Anmerkung : Diese Projektbeschreibung wurde mit ChatGPT erzeugt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Newtons sind dafür anfällig, weil der offene Tubus und 1 Anmerkung : Diese Projektbeschreibung wurde mit ChatGPT erzeugt",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Newtons",
+      "Tubus",
+      "Anmerkung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2920",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör  Ziel(e) Ziel ist eine robuste, photometrie-schonende KI-Lösung",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör  Ziel(e) Ziel ist eine robuste, photometrie-schonende KI-Lösung",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Ziel"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2921",
+    "question": "Welche Aussage über Abgrenzung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Abgrenzung / Nicht -Ziele • Kein Re -Calibration -Workﬂow (Flats) – Fokus ist rein bildbasiertes Postprocessing",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Abgrenzung / Nicht -Ziele • Kein Re -Calibration -Workﬂow (Flats) – Fokus ist rein bildbasiertes Postprocessing",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Abgrenzung",
+      "Nicht",
+      "Ziele"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2922",
+    "question": "Welche Aussage über Sterne ist korrekt?",
+    "type": "single",
+    "options": [
+      "• Sterne, Kometenkerne, Galaxienarme dürfen nicht „weggeglättet“ werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "• Sterne, Kometenkerne, Galaxienarme dürfen nicht „weggeglättet“ werden",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Sterne",
+      "Kometenkerne",
+      "Galaxienarme"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2923",
+    "question": "Was ist Flat?",
+    "type": "single",
+    "options": [
+      "Artefakte („Donuts“) in astronomischen Bildern (FITS)1 Ausgangslage / Problem In Deep -Sky-Aufnahmen treten durch Staub/Tröpfchen im Strahlengang und unpassende Flats ringförmige Artefakte („Donuts“) auf.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Flat: Artefakte („Donuts“) in astronomischen Bildern (FITS)1 Ausgangslage / Problem In Deep -Sky-Aufnahmen treten durch Staub/Tröpfchen im Strahlengang und unpassende Flats ringförmige Artefakte („Donuts“) auf.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Flat"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2924",
+    "question": "Richtig oder Falsch: Flat Artefakte („Donuts“) in astronomischen Bildern (FITS)1 Ausgangslage / Problem In Deep -Sky-Aufnahmen treten durch Staub/Tröpfchen im Strahlengang und unpassende Flats ringförmige Artefakte („Donuts“) auf.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Flat: Artefakte („Donuts“) in astronomischen Bildern (FITS)1 Ausgangslage / Problem In Deep -Sky-Aufnahmen treten durch Staub/Tröpfchen im Strahlengang und unpassende Flats ringförmige Artefakte („Donuts“) auf.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Flat"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2925",
+    "question": "Was ist Hintergrund?",
+    "type": "single",
+    "options": [
+      "Uniformität und können Photometrie/Detektion verfälschen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hintergrund: Uniformität und können Photometrie/Detektion verfälschen.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Hintergrund"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2926",
+    "question": "Richtig oder Falsch: Hintergrund Uniformität und können Photometrie/Detektion verfälschen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hintergrund: Uniformität und können Photometrie/Detektion verfälschen.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Hintergrund"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2927",
+    "question": "Was ist Anmerkung?",
+    "type": "single",
+    "options": [
+      "Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Anmerkung: Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Anmerkung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2928",
+    "question": "Richtig oder Falsch: Anmerkung Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Anmerkung: Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Anmerkung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2929",
+    "question": "Was ist Donut?",
+    "type": "single",
+    "options": [
+      "Aufnahmen durchgeführt wurden.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Donut: Aufnahmen durchgeführt wurden.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Donut"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2930",
+    "question": "Richtig oder Falsch: Donut Aufnahmen durchgeführt wurden.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Donut: Aufnahmen durchgeführt wurden.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Donut"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2931",
+    "question": "Was ist Ursache?",
+    "type": "single",
+    "options": [
+      "Reﬂexionen im Strahlengang, insbesondere von Netwon- Teleskopen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ursache: Reﬂexionen im Strahlengang, insbesondere von Netwon- Teleskopen.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Ursache"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2932",
+    "question": "Richtig oder Falsch: Ursache Reﬂexionen im Strahlengang, insbesondere von Netwon- Teleskopen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ursache: Reﬂexionen im Strahlengang, insbesondere von Netwon- Teleskopen.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Ursache"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2933",
+    "question": "Was ist Newtons?",
+    "type": "single",
+    "options": [
+      "dafür anfällig, weil der offene Tubus und 1 Anmerkung : Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Newtons: dafür anfällig, weil der offene Tubus und 1 Anmerkung : Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Newtons"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2934",
+    "question": "Richtig oder Falsch: Newtons dafür anfällig, weil der offene Tubus und 1 Anmerkung : Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Newtons: dafür anfällig, weil der offene Tubus und 1 Anmerkung : Diese Projektbeschreibung wurde mit ChatGPT erzeugt.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 1,
+    "tags": [
+      "Newtons"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2935",
+    "question": "Was ist Pixel?",
+    "type": "single",
+    "options": [
+      "genaue Maske) in Luminanz - und RGB -FITS.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Pixel: genaue Maske) in Luminanz - und RGB -FITS.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Pixel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2936",
+    "question": "Richtig oder Falsch: Pixel genaue Maske) in Luminanz - und RGB -FITS.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Pixel: genaue Maske) in Luminanz - und RGB -FITS.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Pixel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2937",
+    "question": "Was ist Laufzeit?",
+    "type": "single",
+    "options": [
+      "taugliche Inference (≤ 1 –2 s pro 4 –20 MP -Frame auf GPU/CPU).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Laufzeit: taugliche Inference (≤ 1 –2 s pro 4 –20 MP -Frame auf GPU/CPU).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Laufzeit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2938",
+    "question": "Richtig oder Falsch: Laufzeit taugliche Inference (≤ 1 –2 s pro 4 –20 MP -Frame auf GPU/CPU).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Laufzeit: taugliche Inference (≤ 1 –2 s pro 4 –20 MP -Frame auf GPU/CPU).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Laufzeit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2939",
+    "question": "Was ist Batch?",
+    "type": "single",
+    "options": [
+      "Verarbeitung und CLI/Notebook-Demo.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Batch: Verarbeitung und CLI/Notebook-Demo.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Batch"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2940",
+    "question": "Richtig oder Falsch: Batch Verarbeitung und CLI/Notebook-Demo.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Batch: Verarbeitung und CLI/Notebook-Demo.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Batch"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2941",
+    "question": "Was ist Nicht?",
+    "type": "single",
+    "options": [
+      "Ziele • Kein Re -Calibration -Workﬂow (Flats) – Fokus ist rein bildbasiertes Postprocessing.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nicht: Ziele • Kein Re -Calibration -Workﬂow (Flats) – Fokus ist rein bildbasiertes Postprocessing.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Nicht"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2942",
+    "question": "Richtig oder Falsch: Nicht Ziele • Kein Re -Calibration -Workﬂow (Flats) – Fokus ist rein bildbasiertes Postprocessing.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Nicht: Ziele • Kein Re -Calibration -Workﬂow (Flats) – Fokus ist rein bildbasiertes Postprocessing.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Nicht"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2943",
+    "question": "Was ist Primärdaten?",
+    "type": "single",
+    "options": [
+      "FITS -Lights (mono/RGB) mit und ohne Donuts – ideal aus verschiedenen Setups (Pixelmaß, Seeing, F/Ratio).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Primärdaten: FITS -Lights (mono/RGB) mit und ohne Donuts – ideal aus verschiedenen Setups (Pixelmaß, Seeing, F/Ratio).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Primärdaten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2944",
+    "question": "Richtig oder Falsch: Primärdaten FITS -Lights (mono/RGB) mit und ohne Donuts – ideal aus verschiedenen Setups (Pixelmaß, Seeing, F/Ratio).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Primärdaten: FITS -Lights (mono/RGB) mit und ohne Donuts – ideal aus verschiedenen Setups (Pixelmaß, Seeing, F/Ratio).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Primärdaten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2945",
+    "question": "Was ist Ground?",
+    "type": "single",
+    "options": [
+      "Truth -Strategien: o Synthetic-Injection: „Saubere“ Bilder + synthetisch generierte Donuts (Ringe mit realistischen Radien, Kontrasten, Unregelmäßigkeiten) ⇒ perfekter Ground -Truth für PSNR/SSIM/ ΔPhot.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ground: Truth -Strategien: o Synthetic-Injection: „Saubere“ Bilder + synthetisch generierte Donuts (Ringe mit realistischen Radien, Kontrasten, Unregelmäßigkeiten) ⇒ perfekter Ground -Truth für PSNR/SSIM/ ΔPhot.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Ground"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2946",
+    "question": "Richtig oder Falsch: Ground Truth -Strategien: o Synthetic-Injection: „Saubere“ Bilder + synthetisch generierte Donuts (Ringe mit realistischen Radien, Kontrasten, Unregelmäßigkeiten) ⇒ perfekter Ground -Truth für PSNR/SSIM/ ΔPhot.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ground: Truth -Strategien: o Synthetic-Injection: „Saubere“ Bilder + synthetisch generierte Donuts (Ringe mit realistischen Radien, Kontrasten, Unregelmäßigkeiten) ⇒ perfekter Ground -Truth für PSNR/SSIM/ ΔPhot.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Ground"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2947",
+    "question": "Was ist Pseudo?",
+    "type": "single",
+    "options": [
+      "GT: Klassischer CV -Baseline (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Pseudo: GT: Klassischer CV -Baseline (z.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Pseudo"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2948",
+    "question": "Richtig oder Falsch: Pseudo GT: Klassischer CV -Baseline (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Pseudo: GT: Klassischer CV -Baseline (z.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Pseudo"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2949",
+    "question": "Was ist Annotation?",
+    "type": "single",
+    "options": [
+      "Binäre Masken (Donut/kein Donut), optional Klassentrennung (Ring, Ring -Kern).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Annotation: Binäre Masken (Donut/kein Donut), optional Klassentrennung (Ring, Ring -Kern).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Annotation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2950",
+    "question": "Richtig oder Falsch: Annotation Binäre Masken (Donut/kein Donut), optional Klassentrennung (Ring, Ring -Kern).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Annotation: Binäre Masken (Donut/kein Donut), optional Klassentrennung (Ring, Ring -Kern).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Annotation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2951",
+    "question": "Was ist Splits?",
+    "type": "single",
+    "options": [
+      "Stratiﬁziert nach Kamera/Pixelmaß/Seeing (Train/Val/Test z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Splits: Stratiﬁziert nach Kamera/Pixelmaß/Seeing (Train/Val/Test z.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Splits"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2952",
+    "question": "Richtig oder Falsch: Splits Stratiﬁziert nach Kamera/Pixelmaß/Seeing (Train/Val/Test z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Splits: Stratiﬁziert nach Kamera/Pixelmaß/Seeing (Train/Val/Test z.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Splits"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2953",
+    "question": "Was ist Hough?",
+    "type": "single",
+    "options": [
+      "Detektion + OpenCV -Inpainting (Telea/Navier -Stokes) als Referenz.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hough: Detektion + OpenCV -Inpainting (Telea/Navier -Stokes) als Referenz.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Hough"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2954",
+    "question": "Richtig oder Falsch: Hough Detektion + OpenCV -Inpainting (Telea/Navier -Stokes) als Referenz.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hough: Detektion + OpenCV -Inpainting (Telea/Navier -Stokes) als Referenz.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Hough"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2955",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "eine robuste, photometrie-schonende KI-Lösung .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: eine robuste, photometrie-schonende KI-Lösung .",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2956",
+    "question": "Richtig oder Falsch: Ziel eine robuste, photometrie-schonende KI-Lösung .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: eine robuste, photometrie-schonende KI-Lösung .",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2957",
+    "question": "Was ist Fokus?",
+    "type": "single",
+    "options": [
+      "rein bildbasiertes Postprocessing.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Fokus: rein bildbasiertes Postprocessing.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Fokus"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2958",
+    "question": "Richtig oder Falsch: Fokus rein bildbasiertes Postprocessing.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Fokus: rein bildbasiertes Postprocessing.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 4,
+    "tags": [
+      "Fokus"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2959",
+    "question": "Was ist Donut?",
+    "type": "single",
+    "options": [
+      "Masken (BCE+Dice -Loss, Focal - Loss).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Donut: Masken (BCE+Dice -Loss, Focal - Loss).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Donut"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2960",
+    "question": "Richtig oder Falsch: Donut Masken (BCE+Dice -Loss, Focal - Loss).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Donut: Masken (BCE+Dice -Loss, Focal - Loss).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Donut"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2961",
+    "question": "Was ist Inpainting?",
+    "type": "single",
+    "options": [
+      "Schritt: klassisch (Telea) oder lernbasiert (Partial Convolutions / Gated Convolutions).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Inpainting: Schritt: klassisch (Telea) oder lernbasiert (Partial Convolutions / Gated Convolutions).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Inpainting"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2962",
+    "question": "Richtig oder Falsch: Inpainting Schritt: klassisch (Telea) oder lernbasiert (Partial Convolutions / Gated Convolutions).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Inpainting: Schritt: klassisch (Telea) oder lernbasiert (Partial Convolutions / Gated Convolutions).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Inpainting"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2963",
+    "question": "Was ist Stretch?",
+    "type": "single",
+    "options": [
+      "Goal): • Conditional GAN (pix2pix -ähnlich) oder leichtgewichtiges Diffusions -Inpainting mit Maske.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Stretch: Goal): • Conditional GAN (pix2pix -ähnlich) oder leichtgewichtiges Diffusions -Inpainting mit Maske.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Stretch"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2964",
+    "question": "Richtig oder Falsch: Stretch Goal): • Conditional GAN (pix2pix -ähnlich) oder leichtgewichtiges Diffusions -Inpainting mit Maske.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Stretch: Goal): • Conditional GAN (pix2pix -ähnlich) oder leichtgewichtiges Diffusions -Inpainting mit Maske.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Stretch"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2965",
+    "question": "Was ist Self?",
+    "type": "single",
+    "options": [
+      "Varianten (wenn GT knapp) – kombiniert mit Donut -Masken.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Self: Varianten (wenn GT knapp) – kombiniert mit Donut -Masken.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2966",
+    "question": "Richtig oder Falsch: Self Varianten (wenn GT knapp) – kombiniert mit Donut -Masken.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Self: Varianten (wenn GT knapp) – kombiniert mit Donut -Masken.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Self"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2967",
+    "question": "Was ist Segmentation?",
+    "type": "single",
+    "options": [
+      "BCE + Dice (oder Tversky/Focal), class -balance beachten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Segmentation: BCE + Dice (oder Tversky/Focal), class -balance beachten.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Segmentation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2968",
+    "question": "Richtig oder Falsch: Segmentation BCE + Dice (oder Tversky/Focal), class -balance beachten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Segmentation: BCE + Dice (oder Tversky/Focal), class -balance beachten.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Segmentation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2969",
+    "question": "Was ist Restoration?",
+    "type": "single",
+    "options": [
+      "L1/L2 + SSIM, Photometrie -Loss (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Restoration: L1/L2 + SSIM, Photometrie -Loss (z.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Restoration"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2970",
+    "question": "Richtig oder Falsch: Restoration L1/L2 + SSIM, Photometrie -Loss (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Restoration: L1/L2 + SSIM, Photometrie -Loss (z.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Restoration"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2971",
+    "question": "Was ist Donut?",
+    "type": "single",
+    "options": [
+      "Maske), Star -PSF -Loss (FWHM -Stabilität).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Donut: Maske), Star -PSF -Loss (FWHM -Stabilität).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Donut"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2972",
+    "question": "Richtig oder Falsch: Donut Maske), Star -PSF -Loss (FWHM -Stabilität).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Donut: Maske), Star -PSF -Loss (FWHM -Stabilität).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Donut"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2973",
+    "question": "Was ist Mask?",
+    "type": "single",
+    "options": [
+      "Aware Training: In Loss nur Bereiche innerhalb/um die Donuts stärker gewichten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mask: Aware Training: In Loss nur Bereiche innerhalb/um die Donuts stärker gewichten.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Mask"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2974",
+    "question": "Richtig oder Falsch: Mask Aware Training: In Loss nur Bereiche innerhalb/um die Donuts stärker gewichten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Mask: Aware Training: In Loss nur Bereiche innerhalb/um die Donuts stärker gewichten.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Mask"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2975",
+    "question": "Was ist Photometrische Abweichung?",
+    "type": "single",
+    "options": [
+      "ΔMag auf Referenzsternen (Aperture Photometry) – Median/95 -Perzentil; Ziel < 0,03– 0,05 mag.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Photometrische Abweichung: ΔMag auf Referenzsternen (Aperture Photometry) – Median/95 -Perzentil; Ziel < 0,03– 0,05 mag.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Photometrische Abweichung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2976",
+    "question": "Richtig oder Falsch: Photometrische Abweichung ΔMag auf Referenzsternen (Aperture Photometry) – Median/95 -Perzentil; Ziel < 0,03– 0,05 mag.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Photometrische Abweichung: ΔMag auf Referenzsternen (Aperture Photometry) – Median/95 -Perzentil; Ziel < 0,03– 0,05 mag.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Photometrische Abweichung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2977",
+    "question": "Was ist Hintergrund?",
+    "type": "single",
+    "options": [
+      "Uniformität : σ-BG und Gradienten-Maß (vor/nach).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hintergrund: Uniformität : σ-BG und Gradienten-Maß (vor/nach).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Hintergrund"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2978",
+    "question": "Richtig oder Falsch: Hintergrund Uniformität : σ-BG und Gradienten-Maß (vor/nach).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hintergrund: Uniformität : σ-BG und Gradienten-Maß (vor/nach).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Hintergrund"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2979",
+    "question": "Was ist False?",
+    "type": "single",
+    "options": [
+      "Positive -Rate : Anteil „wegretuschierter“ echter Objekte.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "False: Positive -Rate : Anteil „wegretuschierter“ echter Objekte.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "False"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2980",
+    "question": "Richtig oder Falsch: False Positive -Rate : Anteil „wegretuschierter“ echter Objekte.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. False: Positive -Rate : Anteil „wegretuschierter“ echter Objekte.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "False"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2981",
+    "question": "Was ist Synthetic- Donut?",
+    "type": "single",
+    "options": [
+      "Generator (Parameter: Radius 3 –30 px, elliptisch, unregelmäßige Kanten, varying contrast, Feldverzerrungen).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Synthetic- Donut: Generator (Parameter: Radius 3 –30 px, elliptisch, unregelmäßige Kanten, varying contrast, Feldverzerrungen).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Synthetic- Donut"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2982",
+    "question": "Richtig oder Falsch: Synthetic- Donut Generator (Parameter: Radius 3 –30 px, elliptisch, unregelmäßige Kanten, varying contrast, Feldverzerrungen).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Synthetic- Donut: Generator (Parameter: Radius 3 –30 px, elliptisch, unregelmäßige Kanten, varying contrast, Feldverzerrungen).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 5,
+    "tags": [
+      "Synthetic- Donut"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2983",
+    "question": "Was ist Training?",
+    "type": "single",
+    "options": [
+      "Code (PyTorch/JAX/TensorFlow) mit Konﬁg (YAML), Logging (TensorBoard/W&B).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Training: Code (PyTorch/JAX/TensorFlow) mit Konﬁg (YAML), Logging (TensorBoard/W&B).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Training"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2984",
+    "question": "Richtig oder Falsch: Training Code (PyTorch/JAX/TensorFlow) mit Konﬁg (YAML), Logging (TensorBoard/W&B).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Training: Code (PyTorch/JAX/TensorFlow) mit Konﬁg (YAML), Logging (TensorBoard/W&B).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Training"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2985",
+    "question": "Was ist Baseline?",
+    "type": "single",
+    "options": [
+      "Vergleich (bereitgestellte CV -Pipeline).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Baseline: Vergleich (bereitgestellte CV -Pipeline).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Baseline"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2986",
+    "question": "Richtig oder Falsch: Baseline Vergleich (bereitgestellte CV -Pipeline).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Baseline: Vergleich (bereitgestellte CV -Pipeline).",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Baseline"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2987",
+    "question": "Was ist Notebook?",
+    "type": "single",
+    "options": [
+      "Demo: donut_clean_ﬁts --input <ﬁle/dir> --method <model/baseline> --save -mask.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Notebook: Demo: donut_clean_ﬁts --input <ﬁle/dir> --method <model/baseline> --save -mask.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Notebook"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2988",
+    "question": "Richtig oder Falsch: Notebook Demo: donut_clean_ﬁts --input <ﬁle/dir> --method <model/baseline> --save -mask.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Notebook: Demo: donut_clean_ﬁts --input <ﬁle/dir> --method <model/baseline> --save -mask.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Notebook"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2989",
+    "question": "Was ist Synth?",
+    "type": "single",
+    "options": [
+      "Generator & Labeling, erstes U-Net, erste Resultate.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Synth: Generator & Labeling, erstes U-Net, erste Resultate.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Synth"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2990",
+    "question": "Richtig oder Falsch: Synth Generator & Labeling, erstes U-Net, erste Resultate.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Synth: Generator & Labeling, erstes U-Net, erste Resultate.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Synth"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2991",
+    "question": "Was ist Hard?",
+    "type": "single",
+    "options": [
+      "Cases, Fehleranalyse, Bericht/Video, Packaging.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hard: Cases, Fehleranalyse, Bericht/Video, Packaging.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Hard"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2992",
+    "question": "Richtig oder Falsch: Hard Cases, Fehleranalyse, Bericht/Video, Packaging.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hard: Cases, Fehleranalyse, Bericht/Video, Packaging.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Hard"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2993",
+    "question": "Was ist Datenformat?",
+    "type": "single",
+    "options": [
+      "FITS mono/RGB (ﬂoat32 bevorzugt), Header erhalten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Datenformat: FITS mono/RGB (ﬂoat32 bevorzugt), Header erhalten.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Datenformat"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2994",
+    "question": "Richtig oder Falsch: Datenformat FITS mono/RGB (ﬂoat32 bevorzugt), Header erhalten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Datenformat: FITS mono/RGB (ﬂoat32 bevorzugt), Header erhalten.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Datenformat"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2995",
+    "question": "Was ist Libs?",
+    "type": "single",
+    "options": [
+      "astropy, numpy, opencv, photutils (Aperture -Photometrie), PyTorch, lightning/keras, wandb/tensorboard.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Libs: astropy, numpy, opencv, photutils (Aperture -Photometrie), PyTorch, lightning/keras, wandb/tensorboard.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Libs"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2996",
+    "question": "Richtig oder Falsch: Libs astropy, numpy, opencv, photutils (Aperture -Photometrie), PyTorch, lightning/keras, wandb/tensorboard.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Libs: astropy, numpy, opencv, photutils (Aperture -Photometrie), PyTorch, lightning/keras, wandb/tensorboard.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Libs"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2997",
+    "question": "Was ist Reproduzierbarkeit?",
+    "type": "single",
+    "options": [
+      "Seeds, Versionierung (git), requirements.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reproduzierbarkeit: Seeds, Versionierung (git), requirements.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Reproduzierbarkeit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2998",
+    "question": "Richtig oder Falsch: Reproduzierbarkeit Seeds, Versionierung (git), requirements.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Reproduzierbarkeit: Seeds, Versionierung (git), requirements.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Reproduzierbarkeit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2999",
+    "question": "Was ist Ground?",
+    "type": "single",
+    "options": [
+      "Truth: Synth -Injection + Photometrie-Metriken.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ground: Truth: Synth -Injection + Photometrie-Metriken.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Ground"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_3000",
+    "question": "Richtig oder Falsch: Ground Truth: Synth -Injection + Photometrie-Metriken.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ground: Truth: Synth -Injection + Photometrie-Metriken.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Ground"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_3001",
+    "question": "Was ist Over?",
+    "type": "single",
+    "options": [
+      "smoothing / Objektverlust: Star -Mask -Schutz, Mask -Aware -Loss, manuelle Vis -Checks.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Over: smoothing / Objektverlust: Star -Mask -Schutz, Mask -Aware -Loss, manuelle Vis -Checks.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Over"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_3002",
+    "question": "Richtig oder Falsch: Over smoothing / Objektverlust: Star -Mask -Schutz, Mask -Aware -Loss, manuelle Vis -Checks.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Over: smoothing / Objektverlust: Star -Mask -Schutz, Mask -Aware -Loss, manuelle Vis -Checks.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 6,
+    "tags": [
+      "Over"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_3003",
+    "question": "Was ist Loss?",
+    "type": "single",
+    "options": [
+      "Design) – 20 P • Daten/GT -Strategie & Synth -Generator – 15 P • Photometrie-Nachweis & Analysen – 15 P • Code- Qualität, Repro, Doku & Demo – 15 P Startpaket • Baseline- Skripte (DoG/Hough + Inpainting, FITS -I/O) – als Vergleich und zum Label -Bootstrapping.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Loss: Design) – 20 P • Daten/GT -Strategie & Synth -Generator – 15 P • Photometrie-Nachweis & Analysen – 15 P • Code- Qualität, Repro, Doku & Demo – 15 P Startpaket • Baseline- Skripte (DoG/Hough + Inpainting, FITS -I/O) – als Vergleich und zum Label -Bootstrapping.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 7,
+    "tags": [
+      "Loss"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_3004",
+    "question": "Richtig oder Falsch: Loss Design) – 20 P • Daten/GT -Strategie & Synth -Generator – 15 P • Photometrie-Nachweis & Analysen – 15 P • Code- Qualität, Repro, Doku & Demo – 15 P Startpaket • Baseline- Skripte (DoG/Hough + Inpainting, FITS -I/O) – als Vergleich und zum Label -Bootstrapping.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Loss: Design) – 20 P • Daten/GT -Strategie & Synth -Generator – 15 P • Photometrie-Nachweis & Analysen – 15 P • Code- Qualität, Repro, Doku & Demo – 15 P Startpaket • Baseline- Skripte (DoG/Hough + Inpainting, FITS -I/O) – als Vergleich und zum Label -Bootstrapping.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 7,
+    "tags": [
+      "Loss"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_3005",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "Frames mit starkem/mäßigem Donut -Befall.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: Frames mit starkem/mäßigem Donut -Befall.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 7,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_3006",
+    "question": "Richtig oder Falsch: Beispiel Frames mit starkem/mäßigem Donut -Befall.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: Frames mit starkem/mäßigem Donut -Befall.",
+    "source_file": "Projekt_Donut.pdf",
+    "source_page": 7,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  }
+]

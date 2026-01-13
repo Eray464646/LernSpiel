@@ -1,0 +1,2057 @@
+[
+  {
+    "id": "q_2367",
+    "question": "Welche Aussage über Verbindet ist korrekt?",
+    "type": "single",
+    "options": [
+      "Verbindet Robustheit und Lernfähigkeit neuronaler Netze mit Transparenz, Logik und Abstraktion symbolischer Systeme geeignet für Bereiche, wo Erklärbarkeit + Lernfähigkeit nötig sind, z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verbindet Robustheit und Lernfähigkeit neuronaler Netze mit Transparenz, Logik und Abstraktion symbolischer Systeme geeignet für Bereiche, wo Erklärbarkeit + Lernfähigkeit nötig sind, z",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 5,
+    "tags": [
+      "Verbindet",
+      "Robustheit",
+      "Lernfähigkeit"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2368",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Szenario: Ein intelligentes System soll erkennen, ob in einem Bild eine Person zu sehen ist, die einen Helm trägt, und entscheiden, ob der Zutritt zu einer Baustelle erlaubt ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Szenario: Ein intelligentes System soll erkennen, ob in einem Bild eine Person zu sehen ist, die einen Helm trägt, und entscheiden, ob der Zutritt zu einer Baustelle erlaubt ist",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Ein"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2369",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Neuro- Symbolische Kombination Schritt 1: Neural → Symbolic Die erkannten Objekte werden als Fakten in die Wissensbasis übergeben: Schritt 2: Symbolic Reasoning Das System leitet ab: helmet_detected = false → required_equipment_missing → access_not_allowed Schritt 3: Output Ausgabe: „Zutritt nicht erlaubt – Helm fehlt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Neuro- Symbolische Kombination Schritt 1: Neural → Symbolic Die erkannten Objekte werden als Fakten in die Wissensbasis übergeben: Schritt 2: Symbolic Reasoning Das System leitet ab: helmet_detected = false → required_equipment_missing → access_not_allowed Schritt 3: Output Ausgabe: „Zutritt nicht erlaubt – Helm fehlt",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 8,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Symbolische"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2370",
+    "question": "Welche Aussage über Neuronale ist korrekt?",
+    "type": "single",
+    "options": [
+      "Neuronale KI Symbolische KI Neuro- Symbolic KI erkennt Muster (Helm, Person) kennt Regeln verbindet beides unscharf, probabilistisch exakt, erklärbar robust + erklärbar Black Box transparent erklärbare KI",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuronale KI Symbolische KI Neuro- Symbolic KI erkennt Muster (Helm, Person) kennt Regeln verbindet beides unscharf, probabilistisch exakt, erklärbar robust + erklärbar Black Box transparent erklärbare KI",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 8,
+    "tags": [
+      "Neuronale",
+      "Symbolische",
+      "Neuro"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2371",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Das LLM ist ein Agent, der symbolische Tools aufruft LLM liest eine Aufgabe: „Plane Schaltzeiten für Maschinen unter Sicherheitsregeln",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Das LLM ist ein Agent, der symbolische Tools aufruft LLM liest eine Aufgabe: „Plane Schaltzeiten für Maschinen unter Sicherheitsregeln",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 9,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Agent"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2372",
+    "question": "Welche Aussage über Das ist korrekt?",
+    "type": "single",
+    "options": [
+      "Das ist im Prinzip das, was viele „ Agentic AI“-Frameworks machen: LLM = Policy, Controller, natürlicher Sprachlayer , Symbolik = Zuverlässiger Rechner / Prüfer",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Das ist im Prinzip das, was viele „ Agentic AI“-Frameworks machen: LLM = Policy, Controller, natürlicher Sprachlayer , Symbolik = Zuverlässiger Rechner / Prüfer",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 9,
+    "tags": [
+      "Das",
+      "Prinzip",
+      "Agentic"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2373",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Nutzerfrage → LLM analysiert, welche Entitäten/Relationen relevant sind",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Nutzerfrage → LLM analysiert, welche Entitäten/Relationen relevant sind",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 10,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Nutzerfrage"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2374",
+    "question": "Welche Aussage über Wissensgraph ist korrekt?",
+    "type": "single",
+    "options": [
+      "Wissensgraph wird abgefragt (SPARQL, Cypher , …)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wissensgraph wird abgefragt (SPARQL, Cypher , …)",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 10,
+    "tags": [
+      "Wissensgraph",
+      "Cypher"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2375",
+    "question": "Welche Aussage über Ergebnisse ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ergebnisse werden nach logischen Regeln gefiltert (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ergebnisse werden nach logischen Regeln gefiltert (z",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 10,
+    "tags": [
+      "Ergebnisse",
+      "Regeln"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2376",
+    "question": "Welche Aussage über Die ist korrekt?",
+    "type": "single",
+    "options": [
+      "Die Retourenquote ist auf 14 % gestiegen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Die Retourenquote ist auf 14 % gestiegen",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Die",
+      "Retourenquote"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2377",
+    "question": "Welche Aussage über Extraktion ist korrekt?",
+    "type": "single",
+    "options": [
+      "“ LLM → Extraktion von Fakten Das LLM wandelt den Text in strukturierte Werte um Symbolische Regeln (KPI -Logik) Business -Logik -Regeln, sind stabil, transparent und auditiert",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "“ LLM → Extraktion von Fakten Das LLM wandelt den Text in strukturierte Werte um Symbolische Regeln (KPI -Logik) Business -Logik -Regeln, sind stabil, transparent und auditiert",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Extraktion",
+      "Fakten",
+      "Das"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2378",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Verbesserte Robustheit und Zuverlässigkeit Regeln können Fehler in der Mustererkennung abfangenAutonomes Fahren: Das neuronale Netz erkennt einen Fußgänger, die symbolische Logik prüft, ob die Aktion sicher und legal ist",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Verbesserte Robustheit und Zuverlässigkeit Regeln können Fehler in der Mustererkennung abfangenAutonomes Fahren: Das neuronale Netz erkennt einen Fußgänger, die symbolische Logik prüft, ob die Aktion sicher und legal ist",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 12,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Verbesserte"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2379",
+    "question": "Welche Aussage über Erklärbarkeit ist korrekt?",
+    "type": "single",
+    "options": [
+      "Erklärbarkeit (XAI) Die symbolische Schicht ermöglicht es, den Weg zur Entscheidung nachzuvollziehen und in menschenlesbaren Regeln darzustellen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erklärbarkeit (XAI) Die symbolische Schicht ermöglicht es, den Weg zur Entscheidung nachzuvollziehen und in menschenlesbaren Regeln darzustellen",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 12,
+    "tags": [
+      "Erklärbarkeit",
+      "Die",
+      "Schicht"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2380",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS 2025/26Verarbeitung natürlicher Sprache (NLP): Verbesserung von Large Language Models (LLMs) , um Halluzinationen durch die Prüfung logischer oder faktischer Konsistenz mit Wissensgraphen zu reduzieren",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS 2025/26Verarbeitung natürlicher Sprache (NLP): Verbesserung von Large Language Models (LLMs) , um Halluzinationen durch die Prüfung logischer oder faktischer Konsistenz mit Wissensgraphen zu reduzieren",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 13,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Sprache"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2381",
+    "question": "Welche Aussage über Skalierbarkeit ist korrekt?",
+    "type": "single",
+    "options": [
+      "Skalierbarkeit: Die Erstellung und Pflege großer, formalisierter Wissensbasen ist aufwändig",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Skalierbarkeit: Die Erstellung und Pflege großer, formalisierter Wissensbasen ist aufwändig",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Skalierbarkeit",
+      "Die",
+      "Erstellung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2382",
+    "question": "Welche Aussage über Ausblick ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ausblickeuro- Symbolische KI wird als die \"dritte Welle der KI\" angesehen, die uns der \"echten\" allgemeinen künstlichen Intelligenz (AGI) näher bringt",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ausblickeuro- Symbolische KI wird als die \"dritte Welle der KI\" angesehen, die uns der \"echten\" allgemeinen künstlichen Intelligenz (AGI) näher bringt",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Ausblick",
+      "Symbolische",
+      "Welle"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2383",
+    "question": "Welche Aussage über Es ist korrekt?",
+    "type": "single",
+    "options": [
+      "Es wird erwartet, dass hybride Systeme die Zukunft dominieren, insbesondere in sicherheitskritischen und erklärungsbedürftigen Bereichen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Es wird erwartet, dass hybride Systeme die Zukunft dominieren, insbesondere in sicherheitskritischen und erklärungsbedürftigen Bereichen",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Es",
+      "Systeme",
+      "Zukunft"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2384",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS Neuro- Symbolische KI hat das Potenzial, die Lücken zwischen der statistischen Stärke des Deep Learning und den logischen Fähigkeiten der klassischen KI zu schließen, um erklärbare, robuste und reasoning -fähige Systeme zu schaffen",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS Neuro- Symbolische KI hat das Potenzial, die Lücken zwischen der statistischen Stärke des Deep Learning und den logischen Fähigkeiten der klassischen KI zu schließen, um erklärbare, robuste und reasoning -fähige Systeme zu schaffen",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 15,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Neuro"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2385",
+    "question": "Welche Aussage über Auslastung ist korrekt?",
+    "type": "single",
+    "options": [
+      "Auslastung, Stornorate, Kosten) diese gegen KPI -Regeln prüfen Handlungsempfehlungen erzeugen Bearbeiten Sie: Welche Kennzahlen sollten aus Hotelberichten extrahiert werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Auslastung, Stornorate, Kosten) diese gegen KPI -Regeln prüfen Handlungsempfehlungen erzeugen Bearbeiten Sie: Welche Kennzahlen sollten aus Hotelberichten extrahiert werden",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 16,
+    "tags": [
+      "Auslastung",
+      "Stornorate",
+      "Kosten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2386",
+    "question": "Welche Aussage über Ziel ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ziel ist ein System, das: Kennzahlen aus Texten extrahiert (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel ist ein System, das: Kennzahlen aus Texten extrahiert (z",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Ziel",
+      "System",
+      "Kennzahlen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2387",
+    "question": "Welche Aussage über Mitgliederzahlen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Mitgliederzahlen, SEPA, Tarife) diese gegen Regelwerke prüftautomatisch Empfehlungen erzeugt Bearbeiten Sie: Welche Kennzahlen sollten aus Berichten extrahiert werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Mitgliederzahlen, SEPA, Tarife) diese gegen Regelwerke prüftautomatisch Empfehlungen erzeugt Bearbeiten Sie: Welche Kennzahlen sollten aus Berichten extrahiert werden",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Mitgliederzahlen",
+      "Tarife",
+      "Regelwerke"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2388",
+    "question": "Welche Aussage über Warum ist korrekt?",
+    "type": "single",
+    "options": [
+      "Warum ist eine symbolische Ebene im Vereinskontext wichtig",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Warum ist eine symbolische Ebene im Vereinskontext wichtig",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Warum",
+      "Ebene",
+      "Vereinskontext"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2389",
+    "question": "Welche Aussage über Entwerfen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Entwerfen Sie ein System aus drei Komponenten: Neuronale Komponente zur Extraktion aus Texten Symbolisches Regelwerk (Beiträge, Compliance, Verwaltung) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für einen Sportverein (Automatisierung, Konsistenz, Transparenz)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entwerfen Sie ein System aus drei Komponenten: Neuronale Komponente zur Extraktion aus Texten Symbolisches Regelwerk (Beiträge, Compliance, Verwaltung) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für einen Sportverein (Automatisierung, Konsistenz, Transparenz)",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Entwerfen",
+      "Sie",
+      "System"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2390",
+    "question": "Welche Aussage über Klemens ist korrekt?",
+    "type": "single",
+    "options": [
+      "Klemens Waldhör WS  18Ein Unternehmen analysiert wöchentlich Verkaufsstatistiken",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Klemens Waldhör WS  18Ein Unternehmen analysiert wöchentlich Verkaufsstatistiken",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 18,
+    "tags": [
+      "Klemens",
+      "Waldhör",
+      "Unternehmen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2391",
+    "question": "Welche Aussage über Nun ist korrekt?",
+    "type": "single",
+    "options": [
+      "Nun soll ein neuro -symbolisches System entwickelt werden: Extraktion von Kennzahlen aus Textberichten Prüfung gegen KPI -Regeln Generierung von Handlungsempfehlungen Beantworten Sie: Welche Kennzahlen können extrahiert werden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nun soll ein neuro -symbolisches System entwickelt werden: Extraktion von Kennzahlen aus Textberichten Prüfung gegen KPI -Regeln Generierung von Handlungsempfehlungen Beantworten Sie: Welche Kennzahlen können extrahiert werden",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 18,
+    "tags": [
+      "Nun",
+      "System",
+      "Extraktion"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2392",
+    "question": "Welche Aussage über Entwerfen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Entwerfen Sie ein System bestehend aus: Neuronaler Komponente zur Informationsextraktion Symbolischem Regelwerk Pipeline: Input → LLM → Fakten → Regeln → Empfehlung Beantworten Sie: Vorteile von Neuro- Symbolischer KI Herausforderungen der Integration Einsatz in BI -DashboardsVerkaufsstatistikenNeurosymbolische KI",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entwerfen Sie ein System bestehend aus: Neuronaler Komponente zur Informationsextraktion Symbolischem Regelwerk Pipeline: Input → LLM → Fakten → Regeln → Empfehlung Beantworten Sie: Vorteile von Neuro- Symbolischer KI Herausforderungen der Integration Einsatz in BI -DashboardsVerkaufsstatistikenNeurosymbolische KI",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 18,
+    "tags": [
+      "Entwerfen",
+      "Sie",
+      "System"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_2393",
+    "question": "Was ist Neuro?",
+    "type": "single",
+    "options": [
+      "symbolic artificial intelligence .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuro: symbolic artificial intelligence .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 4,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2394",
+    "question": "Richtig oder Falsch: Neuro symbolic artificial intelligence .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuro: symbolic artificial intelligence .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 4,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2395",
+    "question": "Was ist Neuro?",
+    "type": "single",
+    "options": [
+      "Symbolic AI: An Introduction (Nov 18, 2025T08:00:00+08:00).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuro: Symbolic AI: An Introduction (Nov 18, 2025T08:00:00+08:00).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 4,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2396",
+    "question": "Richtig oder Falsch: Neuro Symbolic AI: An Introduction (Nov 18, 2025T08:00:00+08:00).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuro: Symbolic AI: An Introduction (Nov 18, 2025T08:00:00+08:00).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 4,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2397",
+    "question": "Was ist Definition Neuro?",
+    "type": "single",
+    "options": [
+      "Symbolische KI Ein hybrider Ansatz, der die lernfähigen neuronalen Architekturen mit strukturiertem, regelbasiertem (symbolischem) Wissen kombiniert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Definition Neuro: Symbolische KI Ein hybrider Ansatz, der die lernfähigen neuronalen Architekturen mit strukturiertem, regelbasiertem (symbolischem) Wissen kombiniert.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 5,
+    "tags": [
+      "Definition Neuro"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2398",
+    "question": "Richtig oder Falsch: Definition Neuro Symbolische KI Ein hybrider Ansatz, der die lernfähigen neuronalen Architekturen mit strukturiertem, regelbasiertem (symbolischem) Wissen kombiniert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Definition Neuro: Symbolische KI Ein hybrider Ansatz, der die lernfähigen neuronalen Architekturen mit strukturiertem, regelbasiertem (symbolischem) Wissen kombiniert.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 5,
+    "tags": [
+      "Definition Neuro"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2399",
+    "question": "Was ist Bild?",
+    "type": "single",
+    "options": [
+      ", Sprach- oder Mustererkennung Schwäche Black Box (Mangelnde Erklärbarkeit/Transparenz) Mangel an logischem Reasoning und Abstraktion Halluzinationen bei Sprachmodellen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bild: , Sprach- oder Mustererkennung Schwäche Black Box (Mangelnde Erklärbarkeit/Transparenz) Mangel an logischem Reasoning und Abstraktion Halluzinationen bei Sprachmodellen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 5,
+    "tags": [
+      "Bild"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2400",
+    "question": "Richtig oder Falsch: Bild , Sprach- oder Mustererkennung Schwäche Black Box (Mangelnde Erklärbarkeit/Transparenz) Mangel an logischem Reasoning und Abstraktion Halluzinationen bei Sprachmodellen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bild: , Sprach- oder Mustererkennung Schwäche Black Box (Mangelnde Erklärbarkeit/Transparenz) Mangel an logischem Reasoning und Abstraktion Halluzinationen bei Sprachmodellen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 5,
+    "tags": [
+      "Bild"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2401",
+    "question": "Was ist Motivation?",
+    "type": "single",
+    "options": [
+      "Neuro- Symbolische KI: Der nächste Evolutionsschritt?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Motivation: Neuro- Symbolische KI: Der nächste Evolutionsschritt?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 5,
+    "tags": [
+      "Motivation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2402",
+    "question": "Richtig oder Falsch: Motivation Neuro- Symbolische KI: Der nächste Evolutionsschritt?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Motivation: Neuro- Symbolische KI: Der nächste Evolutionsschritt?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 5,
+    "tags": [
+      "Motivation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2403",
+    "question": "Was ist Neuro?",
+    "type": "single",
+    "options": [
+      "Symbolische KI: Neuronale Komponente: Verarbeitet unstrukturierte Daten (Bilder, Text, Sprache) und extrahiert niedrigstufige Muster (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuro: Symbolische KI: Neuronale Komponente: Verarbeitet unstrukturierte Daten (Bilder, Text, Sprache) und extrahiert niedrigstufige Muster (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2404",
+    "question": "Richtig oder Falsch: Neuro Symbolische KI: Neuronale Komponente: Verarbeitet unstrukturierte Daten (Bilder, Text, Sprache) und extrahiert niedrigstufige Muster (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuro: Symbolische KI: Neuronale Komponente: Verarbeitet unstrukturierte Daten (Bilder, Text, Sprache) und extrahiert niedrigstufige Muster (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2405",
+    "question": "Was ist Symbolische Komponente?",
+    "type": "single",
+    "options": [
+      "Repräsentiert Wissen (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Symbolische Komponente: Repräsentiert Wissen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Symbolische Komponente"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2406",
+    "question": "Richtig oder Falsch: Symbolische Komponente Repräsentiert Wissen (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Symbolische Komponente: Repräsentiert Wissen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Symbolische Komponente"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2407",
+    "question": "Was ist Regel?",
+    "type": "single",
+    "options": [
+      "gesteuertes Lernen: Das neuronale Netz lernt, Regeln zu generieren oder zu befolgen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Regel: gesteuertes Lernen: Das neuronale Netz lernt, Regeln zu generieren oder zu befolgen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Regel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2408",
+    "question": "Richtig oder Falsch: Regel gesteuertes Lernen: Das neuronale Netz lernt, Regeln zu generieren oder zu befolgen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Regel: gesteuertes Lernen: Das neuronale Netz lernt, Regeln zu generieren oder zu befolgen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Regel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2409",
+    "question": "Was ist Wissen?",
+    "type": "single",
+    "options": [
+      "informiertes Lernen: Symbolisches Wissen (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wissen: informiertes Lernen: Symbolisches Wissen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Wissen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2410",
+    "question": "Richtig oder Falsch: Wissen informiertes Lernen: Symbolisches Wissen (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wissen: informiertes Lernen: Symbolisches Wissen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "Wissen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2411",
+    "question": "Was ist End-to?",
+    "type": "single",
+    "options": [
+      "End-Integration: Neuronale und symbolische Teile arbeiten in einer einzigen Architektur zusammen (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "End-to: End-Integration: Neuronale und symbolische Teile arbeiten in einer einzigen Architektur zusammen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "End-to"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2412",
+    "question": "Richtig oder Falsch: End-to End-Integration: Neuronale und symbolische Teile arbeiten in einer einzigen Architektur zusammen (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. End-to: End-Integration: Neuronale und symbolische Teile arbeiten in einer einzigen Architektur zusammen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 6,
+    "tags": [
+      "End-to"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2413",
+    "question": "Was ist Szenario?",
+    "type": "single",
+    "options": [
+      "Ein intelligentes System soll erkennen, ob in einem Bild eine Person zu sehen ist, die einen Helm trägt, und entscheiden, ob der Zutritt zu einer Baustelle erlaubt ist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Szenario: Ein intelligentes System soll erkennen, ob in einem Bild eine Person zu sehen ist, die einen Helm trägt, und entscheiden, ob der Zutritt zu einer Baustelle erlaubt ist.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Szenario"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2414",
+    "question": "Richtig oder Falsch: Szenario Ein intelligentes System soll erkennen, ob in einem Bild eine Person zu sehen ist, die einen Helm trägt, und entscheiden, ob der Zutritt zu einer Baustelle erlaubt ist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Szenario: Ein intelligentes System soll erkennen, ob in einem Bild eine Person zu sehen ist, die einen Helm trägt, und entscheiden, ob der Zutritt zu einer Baustelle erlaubt ist.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Szenario"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2415",
+    "question": "Was ist Objekte?",
+    "type": "single",
+    "options": [
+      "Person Helm Warnweste (vielleicht) Das Netz „sieht“, aber es versteht noch keine Regeln .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Objekte: Person Helm Warnweste (vielleicht) Das Netz „sieht“, aber es versteht noch keine Regeln .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Objekte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2416",
+    "question": "Richtig oder Falsch: Objekte Person Helm Warnweste (vielleicht) Das Netz „sieht“, aber es versteht noch keine Regeln .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Objekte: Person Helm Warnweste (vielleicht) Das Netz „sieht“, aber es versteht noch keine Regeln .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Objekte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2417",
+    "question": "Was ist Expertenregeln?",
+    "type": "single",
+    "options": [
+      "Das System entscheidet nach formaler Logik , welche Sicherheitsvorschriften gelten.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Expertenregeln: Das System entscheidet nach formaler Logik , welche Sicherheitsvorschriften gelten.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Expertenregeln"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2418",
+    "question": "Richtig oder Falsch: Expertenregeln Das System entscheidet nach formaler Logik , welche Sicherheitsvorschriften gelten.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Expertenregeln: Das System entscheidet nach formaler Logik , welche Sicherheitsvorschriften gelten.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Expertenregeln"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2419",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "Objekterkennung und Zutritt – Teil 1Neurosymbolische KI { \"person_detected\": true, \"helmet_detected\": false , \"vest_detected\": true } IF person_detected = true AND helmet_detected = false THEN access_allowed = false .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: Objekterkennung und Zutritt – Teil 1Neurosymbolische KI { \"person_detected\": true, \"helmet_detected\": false , \"vest_detected\": true } IF person_detected = true AND helmet_detected = false THEN access_allowed = false .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2420",
+    "question": "Richtig oder Falsch: Beispiel Objekterkennung und Zutritt – Teil 1Neurosymbolische KI { \"person_detected\": true, \"helmet_detected\": false , \"vest_detected\": true } IF person_detected = true AND helmet_detected = false THEN access_allowed = false .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: Objekterkennung und Zutritt – Teil 1Neurosymbolische KI { \"person_detected\": true, \"helmet_detected\": false , \"vest_detected\": true } IF person_detected = true AND helmet_detected = false THEN access_allowed = false .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 7,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2421",
+    "question": "Was ist Neuro?",
+    "type": "single",
+    "options": [
+      "Symbolische Kombination Schritt 1: Neural → Symbolic Die erkannten Objekte werden als Fakten in die Wissensbasis übergeben: Schritt 2: Symbolic Reasoning Das System leitet ab: helmet_detected = false → required_equipment_missing → access_not_allowed Schritt 3: Output Ausgabe: „Zutritt nicht erlaubt – Helm fehlt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuro: Symbolische Kombination Schritt 1: Neural → Symbolic Die erkannten Objekte werden als Fakten in die Wissensbasis übergeben: Schritt 2: Symbolic Reasoning Das System leitet ab: helmet_detected = false → required_equipment_missing → access_not_allowed Schritt 3: Output Ausgabe: „Zutritt nicht erlaubt – Helm fehlt.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 8,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2422",
+    "question": "Richtig oder Falsch: Neuro Symbolische Kombination Schritt 1: Neural → Symbolic Die erkannten Objekte werden als Fakten in die Wissensbasis übergeben: Schritt 2: Symbolic Reasoning Das System leitet ab: helmet_detected = false → required_equipment_missing → access_not_allowed Schritt 3: Output Ausgabe: „Zutritt nicht erlaubt – Helm fehlt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuro: Symbolische Kombination Schritt 1: Neural → Symbolic Die erkannten Objekte werden als Fakten in die Wissensbasis übergeben: Schritt 2: Symbolic Reasoning Das System leitet ab: helmet_detected = false → required_equipment_missing → access_not_allowed Schritt 3: Output Ausgabe: „Zutritt nicht erlaubt – Helm fehlt.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 8,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2423",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "Objekterkennung und Zutritt - Teil 2Neurosymbolische KI FACT person_detected .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: Objekterkennung und Zutritt - Teil 2Neurosymbolische KI FACT person_detected .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 8,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2424",
+    "question": "Richtig oder Falsch: Beispiel Objekterkennung und Zutritt - Teil 2Neurosymbolische KI FACT person_detected .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: Objekterkennung und Zutritt - Teil 2Neurosymbolische KI FACT person_detected .",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 8,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2425",
+    "question": "Was ist Aufgabe?",
+    "type": "single",
+    "options": [
+      "„Plane Schaltzeiten für Maschinen unter Sicherheitsregeln.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Aufgabe: „Plane Schaltzeiten für Maschinen unter Sicherheitsregeln.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 9,
+    "tags": [
+      "Aufgabe"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2426",
+    "question": "Richtig oder Falsch: Aufgabe „Plane Schaltzeiten für Maschinen unter Sicherheitsregeln.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Aufgabe: „Plane Schaltzeiten für Maschinen unter Sicherheitsregeln.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 9,
+    "tags": [
+      "Aufgabe"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2427",
+    "question": "Was ist Symbolik?",
+    "type": "single",
+    "options": [
+      "Zuverlässiger Rechner / Prüfer.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Symbolik: Zuverlässiger Rechner / Prüfer.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 9,
+    "tags": [
+      "Symbolik"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2428",
+    "question": "Richtig oder Falsch: Symbolik Zuverlässiger Rechner / Prüfer.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Symbolik: Zuverlässiger Rechner / Prüfer.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 9,
+    "tags": [
+      "Symbolik"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2429",
+    "question": "Was ist Wichtig?",
+    "type": "single",
+    "options": [
+      "LLM darf keine Fakten halluzinieren, sondern nur über KG- Tatsachen + Regeln sprechen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wichtig: LLM darf keine Fakten halluzinieren, sondern nur über KG- Tatsachen + Regeln sprechen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 10,
+    "tags": [
+      "Wichtig"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2430",
+    "question": "Richtig oder Falsch: Wichtig LLM darf keine Fakten halluzinieren, sondern nur über KG- Tatsachen + Regeln sprechen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wichtig: LLM darf keine Fakten halluzinieren, sondern nur über KG- Tatsachen + Regeln sprechen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 10,
+    "tags": [
+      "Wichtig"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2431",
+    "question": "Was ist Zusammenfassung?",
+    "type": "single",
+    "options": [
+      "„Umsatz Q3 im Segment ‚Premium Bikes‘ liegt bei 420 T€ ( -31 % ggü.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Zusammenfassung: „Umsatz Q3 im Segment ‚Premium Bikes‘ liegt bei 420 T€ ( -31 % ggü.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Zusammenfassung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2432",
+    "question": "Richtig oder Falsch: Zusammenfassung „Umsatz Q3 im Segment ‚Premium Bikes‘ liegt bei 420 T€ ( -31 % ggü.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Zusammenfassung: „Umsatz Q3 im Segment ‚Premium Bikes‘ liegt bei 420 T€ ( -31 % ggü.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Zusammenfassung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2433",
+    "question": "Was ist Business?",
+    "type": "single",
+    "options": [
+      "Logik -Regeln, sind stabil, transparent und auditiert.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Business: Logik -Regeln, sind stabil, transparent und auditiert.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Business"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2434",
+    "question": "Richtig oder Falsch: Business Logik -Regeln, sind stabil, transparent und auditiert.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Business: Logik -Regeln, sind stabil, transparent und auditiert.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Business"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2435",
+    "question": "Was ist Neuro?",
+    "type": "single",
+    "options": [
+      "Symbolic Workflow) Das LLM extrahiert → Symbolsystem entscheidet → LLM erzeugt eine lesbare Zusammenfassung.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuro: Symbolic Workflow) Das LLM extrahiert → Symbolsystem entscheidet → LLM erzeugt eine lesbare Zusammenfassung.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2436",
+    "question": "Richtig oder Falsch: Neuro Symbolic Workflow) Das LLM extrahiert → Symbolsystem entscheidet → LLM erzeugt eine lesbare Zusammenfassung.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuro: Symbolic Workflow) Das LLM extrahiert → Symbolsystem entscheidet → LLM erzeugt eine lesbare Zusammenfassung.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2437",
+    "question": "Was ist Beispiel?",
+    "type": "single",
+    "options": [
+      "Analyse von Verkaufsdaten + Regelprüfung (Business Analytics)Neurosymbolische KI { \"segment \": \"Premium Bikes\", \"umsatz \": 420000, \"umsatz_delta_yoy \": -0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Beispiel: Analyse von Verkaufsdaten + Regelprüfung (Business Analytics)Neurosymbolische KI { \"segment \": \"Premium Bikes\", \"umsatz \": 420000, \"umsatz_delta_yoy \": -0.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2438",
+    "question": "Richtig oder Falsch: Beispiel Analyse von Verkaufsdaten + Regelprüfung (Business Analytics)Neurosymbolische KI { \"segment \": \"Premium Bikes\", \"umsatz \": 420000, \"umsatz_delta_yoy \": -0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Beispiel: Analyse von Verkaufsdaten + Regelprüfung (Business Analytics)Neurosymbolische KI { \"segment \": \"Premium Bikes\", \"umsatz \": 420000, \"umsatz_delta_yoy \": -0.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Beispiel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2439",
+    "question": "Was ist Empfehlung?",
+    "type": "single",
+    "options": [
+      "Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Empfehlung: Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Empfehlung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2440",
+    "question": "Richtig oder Falsch: Empfehlung Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Empfehlung: Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Empfehlung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2441",
+    "question": "Was ist Umsatzrückgang?",
+    "type": "single",
+    "options": [
+      "mit -31 % kritisch ( Regel 2 verletzt ) Marge liegt mit 2,8 % deutlich unter Unternehmensvorgabe ( Regel 1 verletzt ) Retourenquote (14 %) überschreitet den Grenzwert (Regel 3) Empfehlung: Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Umsatzrückgang: mit -31 % kritisch ( Regel 2 verletzt ) Marge liegt mit 2,8 % deutlich unter Unternehmensvorgabe ( Regel 1 verletzt ) Retourenquote (14 %) überschreitet den Grenzwert (Regel 3) Empfehlung: Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Umsatzrückgang"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2442",
+    "question": "Richtig oder Falsch: Umsatzrückgang mit -31 % kritisch ( Regel 2 verletzt ) Marge liegt mit 2,8 % deutlich unter Unternehmensvorgabe ( Regel 1 verletzt ) Retourenquote (14 %) überschreitet den Grenzwert (Regel 3) Empfehlung: Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Umsatzrückgang: mit -31 % kritisch ( Regel 2 verletzt ) Marge liegt mit 2,8 % deutlich unter Unternehmensvorgabe ( Regel 1 verletzt ) Retourenquote (14 %) überschreitet den Grenzwert (Regel 3) Empfehlung: Ursachenanalyse im Servicebereich; Preispolitik prüfen; Lieferantenfehler oder Qualitätsprobleme möglich.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 11,
+    "tags": [
+      "Umsatzrückgang"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2443",
+    "question": "Was ist Autonomes Fahren?",
+    "type": "single",
+    "options": [
+      "Das neuronale Netz erkennt einen Fußgänger, die symbolische Logik prüft, ob die Aktion sicher und legal ist.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Autonomes Fahren: Das neuronale Netz erkennt einen Fußgänger, die symbolische Logik prüft, ob die Aktion sicher und legal ist.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 12,
+    "tags": [
+      "Autonomes Fahren"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2444",
+    "question": "Richtig oder Falsch: Autonomes Fahren Das neuronale Netz erkennt einen Fußgänger, die symbolische Logik prüft, ob die Aktion sicher und legal ist.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Autonomes Fahren: Das neuronale Netz erkennt einen Fußgänger, die symbolische Logik prüft, ob die Aktion sicher und legal ist.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 12,
+    "tags": [
+      "Autonomes Fahren"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2445",
+    "question": "Was ist Reasoning?",
+    "type": "single",
+    "options": [
+      "Fähigkeit Das System kann logische Schlüsse ziehen, Beziehungen verstehen und kausale Zusammenhänge erkennen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Reasoning: Fähigkeit Das System kann logische Schlüsse ziehen, Beziehungen verstehen und kausale Zusammenhänge erkennen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 12,
+    "tags": [
+      "Reasoning"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2446",
+    "question": "Richtig oder Falsch: Reasoning Fähigkeit Das System kann logische Schlüsse ziehen, Beziehungen verstehen und kausale Zusammenhänge erkennen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Reasoning: Fähigkeit Das System kann logische Schlüsse ziehen, Beziehungen verstehen und kausale Zusammenhänge erkennen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 12,
+    "tags": [
+      "Reasoning"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2447",
+    "question": "Was ist Robotik?",
+    "type": "single",
+    "options": [
+      "Die neuronale Schicht erkennt die Umgebung (Ampeln, Fußgänger).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Robotik: Die neuronale Schicht erkennt die Umgebung (Ampeln, Fußgänger).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 13,
+    "tags": [
+      "Robotik"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2448",
+    "question": "Richtig oder Falsch: Robotik Die neuronale Schicht erkennt die Umgebung (Ampeln, Fußgänger).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Robotik: Die neuronale Schicht erkennt die Umgebung (Ampeln, Fußgänger).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 13,
+    "tags": [
+      "Robotik"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2449",
+    "question": "Was ist Entscheidungsunterstützung?",
+    "type": "single",
+    "options": [
+      "Neuronale Netze analysieren medizinische Bilder (MRT, Röntgen).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Entscheidungsunterstützung: Neuronale Netze analysieren medizinische Bilder (MRT, Röntgen).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 13,
+    "tags": [
+      "Entscheidungsunterstützung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2450",
+    "question": "Richtig oder Falsch: Entscheidungsunterstützung Neuronale Netze analysieren medizinische Bilder (MRT, Röntgen).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Entscheidungsunterstützung: Neuronale Netze analysieren medizinische Bilder (MRT, Röntgen).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 13,
+    "tags": [
+      "Entscheidungsunterstützung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2451",
+    "question": "Was ist Prozessautomatisierung?",
+    "type": "single",
+    "options": [
+      "Kombination von Mustererkennung (Maschinelles Sehen) mit formalen Prozessmodellen (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Prozessautomatisierung: Kombination von Mustererkennung (Maschinelles Sehen) mit formalen Prozessmodellen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 13,
+    "tags": [
+      "Prozessautomatisierung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2452",
+    "question": "Richtig oder Falsch: Prozessautomatisierung Kombination von Mustererkennung (Maschinelles Sehen) mit formalen Prozessmodellen (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Prozessautomatisierung: Kombination von Mustererkennung (Maschinelles Sehen) mit formalen Prozessmodellen (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 13,
+    "tags": [
+      "Prozessautomatisierung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2453",
+    "question": "Was ist Integration?",
+    "type": "single",
+    "options": [
+      "Wie lassen sich die kontinuierlichen Outputs neuronaler Netze am besten in diskrete, symbolische Repräsentationen überführen?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Integration: Wie lassen sich die kontinuierlichen Outputs neuronaler Netze am besten in diskrete, symbolische Repräsentationen überführen?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Integration"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2454",
+    "question": "Richtig oder Falsch: Integration Wie lassen sich die kontinuierlichen Outputs neuronaler Netze am besten in diskrete, symbolische Repräsentationen überführen?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Integration: Wie lassen sich die kontinuierlichen Outputs neuronaler Netze am besten in diskrete, symbolische Repräsentationen überführen?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Integration"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2455",
+    "question": "Was ist Skalierbarkeit?",
+    "type": "single",
+    "options": [
+      "Die Erstellung und Pflege großer, formalisierter Wissensbasen ist aufwändig.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Skalierbarkeit: Die Erstellung und Pflege großer, formalisierter Wissensbasen ist aufwändig.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Skalierbarkeit"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2456",
+    "question": "Richtig oder Falsch: Skalierbarkeit Die Erstellung und Pflege großer, formalisierter Wissensbasen ist aufwändig.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Skalierbarkeit: Die Erstellung und Pflege großer, formalisierter Wissensbasen ist aufwändig.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Skalierbarkeit"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2457",
+    "question": "Was ist Lernen?",
+    "type": "single",
+    "options": [
+      "Wie können sowohl die neuronalen als auch die symbolischen Komponenten gemeinsam und dynamisch lernen?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Lernen: Wie können sowohl die neuronalen als auch die symbolischen Komponenten gemeinsam und dynamisch lernen?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Lernen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2458",
+    "question": "Richtig oder Falsch: Lernen Wie können sowohl die neuronalen als auch die symbolischen Komponenten gemeinsam und dynamisch lernen?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Lernen: Wie können sowohl die neuronalen als auch die symbolischen Komponenten gemeinsam und dynamisch lernen?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 14,
+    "tags": [
+      "Lernen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2459",
+    "question": "Was ist Neuro?",
+    "type": "single",
+    "options": [
+      "Symbolische KI hat das Potenzial, die Lücken zwischen der statistischen Stärke des Deep Learning und den logischen Fähigkeiten der klassischen KI zu schließen, um erklärbare, robuste und reasoning -fähige Systeme zu schaffen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Neuro: Symbolische KI hat das Potenzial, die Lücken zwischen der statistischen Stärke des Deep Learning und den logischen Fähigkeiten der klassischen KI zu schließen, um erklärbare, robuste und reasoning -fähige Systeme zu schaffen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 15,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2460",
+    "question": "Richtig oder Falsch: Neuro Symbolische KI hat das Potenzial, die Lücken zwischen der statistischen Stärke des Deep Learning und den logischen Fähigkeiten der klassischen KI zu schließen, um erklärbare, robuste und reasoning -fähige Systeme zu schaffen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Neuro: Symbolische KI hat das Potenzial, die Lücken zwischen der statistischen Stärke des Deep Learning und den logischen Fähigkeiten der klassischen KI zu schließen, um erklärbare, robuste und reasoning -fähige Systeme zu schaffen.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 15,
+    "tags": [
+      "Neuro"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2461",
+    "question": "Was ist Bearbeiten Sie?",
+    "type": "single",
+    "options": [
+      "Welche Kennzahlen sollten aus Hotelberichten extrahiert werden?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bearbeiten Sie: Welche Kennzahlen sollten aus Hotelberichten extrahiert werden?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 16,
+    "tags": [
+      "Bearbeiten Sie"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2462",
+    "question": "Richtig oder Falsch: Bearbeiten Sie Welche Kennzahlen sollten aus Hotelberichten extrahiert werden?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bearbeiten Sie: Welche Kennzahlen sollten aus Hotelberichten extrahiert werden?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 16,
+    "tags": [
+      "Bearbeiten Sie"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2463",
+    "question": "Was ist Komponenten?",
+    "type": "single",
+    "options": [
+      "Neuronale Komponente zur Extraktion (LLM) Symbolisches Regelwerk (Hotel -KPIs, Compliance) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für das Hotel (Automatisierung, Revenue Management).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Komponenten: Neuronale Komponente zur Extraktion (LLM) Symbolisches Regelwerk (Hotel -KPIs, Compliance) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für das Hotel (Automatisierung, Revenue Management).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 16,
+    "tags": [
+      "Komponenten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2464",
+    "question": "Richtig oder Falsch: Komponenten Neuronale Komponente zur Extraktion (LLM) Symbolisches Regelwerk (Hotel -KPIs, Compliance) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für das Hotel (Automatisierung, Revenue Management).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Komponenten: Neuronale Komponente zur Extraktion (LLM) Symbolisches Regelwerk (Hotel -KPIs, Compliance) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für das Hotel (Automatisierung, Revenue Management).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 16,
+    "tags": [
+      "Komponenten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2465",
+    "question": "Was ist Einsatzfelder?",
+    "type": "single",
+    "options": [
+      "Auslastung, Storno- Management, Housekeeping, SPA, Restaurant.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Einsatzfelder: Auslastung, Storno- Management, Housekeeping, SPA, Restaurant.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 16,
+    "tags": [
+      "Einsatzfelder"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2466",
+    "question": "Richtig oder Falsch: Einsatzfelder Auslastung, Storno- Management, Housekeeping, SPA, Restaurant.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Einsatzfelder: Auslastung, Storno- Management, Housekeeping, SPA, Restaurant.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 16,
+    "tags": [
+      "Einsatzfelder"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2467",
+    "question": "Was ist Bearbeiten Sie?",
+    "type": "single",
+    "options": [
+      "Welche Kennzahlen sollten aus Berichten extrahiert werden?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Bearbeiten Sie: Welche Kennzahlen sollten aus Berichten extrahiert werden?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Bearbeiten Sie"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2468",
+    "question": "Richtig oder Falsch: Bearbeiten Sie Welche Kennzahlen sollten aus Berichten extrahiert werden?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Bearbeiten Sie: Welche Kennzahlen sollten aus Berichten extrahiert werden?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Bearbeiten Sie"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2469",
+    "question": "Was ist Komponenten?",
+    "type": "single",
+    "options": [
+      "Neuronale Komponente zur Extraktion aus Texten Symbolisches Regelwerk (Beiträge, Compliance, Verwaltung) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für einen Sportverein (Automatisierung, Konsistenz, Transparenz).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Komponenten: Neuronale Komponente zur Extraktion aus Texten Symbolisches Regelwerk (Beiträge, Compliance, Verwaltung) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für einen Sportverein (Automatisierung, Konsistenz, Transparenz).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Komponenten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2470",
+    "question": "Richtig oder Falsch: Komponenten Neuronale Komponente zur Extraktion aus Texten Symbolisches Regelwerk (Beiträge, Compliance, Verwaltung) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für einen Sportverein (Automatisierung, Konsistenz, Transparenz).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Komponenten: Neuronale Komponente zur Extraktion aus Texten Symbolisches Regelwerk (Beiträge, Compliance, Verwaltung) Pipeline: Bericht → LLM → Fakten → Regeln → Empfehlung Diskutieren Sie: Vorteile für einen Sportverein (Automatisierung, Konsistenz, Transparenz).",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Komponenten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2471",
+    "question": "Was ist Ziel?",
+    "type": "single",
+    "options": [
+      "ein System, das: Kennzahlen aus Texten extrahiert (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ziel: ein System, das: Kennzahlen aus Texten extrahiert (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2472",
+    "question": "Richtig oder Falsch: Ziel ein System, das: Kennzahlen aus Texten extrahiert (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Ziel: ein System, das: Kennzahlen aus Texten extrahiert (z.",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Ziel"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2473",
+    "question": "Was ist Warum?",
+    "type": "single",
+    "options": [
+      "eine symbolische Ebene im Vereinskontext wichtig?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Warum: eine symbolische Ebene im Vereinskontext wichtig?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Warum"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2474",
+    "question": "Richtig oder Falsch: Warum eine symbolische Ebene im Vereinskontext wichtig?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Warum: eine symbolische Ebene im Vereinskontext wichtig?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 17,
+    "tags": [
+      "Warum"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_2475",
+    "question": "Was ist Handlungsempfehlungen Beantworten Sie?",
+    "type": "single",
+    "options": [
+      "Welche Kennzahlen können extrahiert werden?",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Handlungsempfehlungen Beantworten Sie: Welche Kennzahlen können extrahiert werden?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 18,
+    "tags": [
+      "Handlungsempfehlungen Beantworten Sie"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_2476",
+    "question": "Richtig oder Falsch: Handlungsempfehlungen Beantworten Sie Welche Kennzahlen können extrahiert werden?",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Handlungsempfehlungen Beantworten Sie: Welche Kennzahlen können extrahiert werden?",
+    "source_file": "12_Neurosymbolische KI- Das Beste aus allen Welten.pdf",
+    "source_page": 18,
+    "tags": [
+      "Handlungsempfehlungen Beantworten Sie"
+    ],
+    "difficulty": 1
+  }
+]

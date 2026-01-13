@@ -1,0 +1,1599 @@
+[
+  {
+    "id": "q_240",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "4 Big Data & Data Science WS 2025/26Data Mining Data Science Process – Beispiel ADL Erkennung Motivation: Exsikkose (Flüssigkeitsmangel) ist insbesondere bei älteren Menschen stark verbreitet Eine der Hauptursachen ist die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "4 Big Data & Data Science WS 2025/26Data Mining Data Science Process – Beispiel ADL Erkennung Motivation: Exsikkose (Flüssigkeitsmangel) ist insbesondere bei älteren Menschen stark verbreitet Eine der Hauptursachen ist die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 4,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_241",
+    "question": "Welche Aussage über Bewegungserkennung ist korrekt?",
+    "type": "single",
+    "options": [
+      ") durch Bewegungserkennung Hinweis an Anwender bei zu geringer FlüssigkeitsaufnahmeIst es möglich Trinkbewegungen mit Hilfe von Smartwatch Inertialsensoren von anderen Bewegungen des täglichen Lebens (ADLs) zu unterscheiden",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": ") durch Bewegungserkennung Hinweis an Anwender bei zu geringer FlüssigkeitsaufnahmeIst es möglich Trinkbewegungen mit Hilfe von Smartwatch Inertialsensoren von anderen Bewegungen des täglichen Lebens (ADLs) zu unterscheiden",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 4,
+    "tags": [
+      "Bewegungserkennung",
+      "Hinweis",
+      "Anwender"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_242",
+    "question": "Welche Aussage über Flussdichte ist korrekt?",
+    "type": "single",
+    "options": [
+      "Flussdichte Magnetometer Abtastrate: 15 Hz Datensatz 1200 Bewegungen 300 Trinkbewegungen 900 sonstige Bewegungen Aufgezeichnet mit 28 Testpersonen Eine Bewegung wird repräsentiert durch 10 Sekunden Intervall 1800 Messwert -Tripel 1 CSV Datei",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Flussdichte Magnetometer Abtastrate: 15 Hz Datensatz 1200 Bewegungen 300 Trinkbewegungen 900 sonstige Bewegungen Aufgezeichnet mit 28 Testpersonen Eine Bewegung wird repräsentiert durch 10 Sekunden Intervall 1800 Messwert -Tripel 1 CSV Datei",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 5,
+    "tags": [
+      "Flussdichte",
+      "Magnetometer",
+      "Abtastrate"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_243",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "7 Big Data & Data Science WS 2025/26Data Mining Data Science Process – Beispiel ADL Erkennung Ausgangssignal Zeit ZeitMedian- und Tiefpassfilter (nur Frequenzen >5Hz sind relevant für Bewegungsklassifikation) Extraktion relevanter zeit - und frequenzbezogener Merkmale Merkmalsdatensätze (XTIME, XFREQ, XALL)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "7 Big Data & Data Science WS 2025/26Data Mining Data Science Process – Beispiel ADL Erkennung Ausgangssignal Zeit ZeitMedian- und Tiefpassfilter (nur Frequenzen >5Hz sind relevant für Bewegungsklassifikation) Extraktion relevanter zeit - und frequenzbezogener Merkmale Merkmalsdatensätze (XTIME, XFREQ, XALL)",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 7,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_244",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "8 Big Data & Data Science WS 2025/26Data Mining Data Science Process – Beispiel ADL Erkennung Modelle: • Logistische Regression • Entscheidungsbaumklassifikation • Random Forest • Neuronale NetzeMerkmals - datensätze (XTIME, XFREQ, XALL) Ausgangs - datenTrainings - daten TestdatenModell trainierenModell validierenErgebnisse66% 34%",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "8 Big Data & Data Science WS 2025/26Data Mining Data Science Process – Beispiel ADL Erkennung Modelle: • Logistische Regression • Entscheidungsbaumklassifikation • Random Forest • Neuronale NetzeMerkmals - datensätze (XTIME, XFREQ, XALL) Ausgangs - datenTrainings - daten TestdatenModell trainierenModell validierenErgebnisse66% 34%",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 8,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_245",
+    "question": "Welche Aussage über Verstehen ist korrekt?",
+    "type": "single",
+    "options": [
+      "Verstehen der Aufgabe Ist-Zustand, Soll -Zustand Risiken, Kosten, Nutzen 2",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Verstehen der Aufgabe Ist-Zustand, Soll -Zustand Risiken, Kosten, Nutzen 2",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 11,
+    "tags": [
+      "Verstehen",
+      "Aufgabe",
+      "Ist"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_246",
+    "question": "Welche Aussage über Data ist korrekt?",
+    "type": "single",
+    "options": [
+      "Data Mining Plattformen End-to-End Cloud- Plattformen AWS SageMaker Studio/Notebooks, Training, Deployment, Governance Google Vertex AI Training/ Serving , Vektor - /Feature-Dienste, Agent Builder Azure Machine Learning MLOps , Registry, Responsible-AI -Guides Databricks (Lakehouse) Spark/Delta/ MLflow nativ, Unified Data+AI Snowflake (Cortex/AISQL) LLM nahe an Daten, sichere Ausführung im WarehouseKollaborative DS -Studios (Low/No -Code + Code) Dataiku Visuelle Flows + Code, Governance Altair RapidMiner Visuelle Workflows, AutoML/ GenAI KNIME Open-Source, viele Konnektoren, Deployment H2O Driverless AI AutoML, Feature-Engineering, Tuning/Stacking",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Mining Plattformen End-to-End Cloud- Plattformen AWS SageMaker Studio/Notebooks, Training, Deployment, Governance Google Vertex AI Training/ Serving , Vektor - /Feature-Dienste, Agent Builder Azure Machine Learning MLOps , Registry, Responsible-AI -Guides Databricks (Lakehouse) Spark/Delta/ MLflow nativ, Unified Data+AI Snowflake (Cortex/AISQL) LLM nahe an Daten, sichere Ausführung im WarehouseKollaborative DS -Studios (Low/No -Code + Code) Dataiku Visuelle Flows + Code, Governance Altair RapidMiner Visuelle Workflows, AutoML/ GenAI KNIME Open-Source, viele Konnektoren, Deployment H2O Driverless AI AutoML, Feature-Engineering, Tuning/Stacking",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 16,
+    "tags": [
+      "Data",
+      "Mining",
+      "Plattformen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_247",
+    "question": "Welche Aussage über Data ist korrekt?",
+    "type": "single",
+    "options": [
+      "Data Mining Plattformen Open -Source -Bausteine (Eigenbetrieb/On- Prem) MLflow Tracking, Model Registry, Serving Kubeflow K8s-native Orchestrierung, Pipelines/Trainer Feast Feature Store (offline/online) Apache Airflow DAG -basierte Orchestrierung für Data/ML4) Daten -/Analyse -Basis Lakehouse/Warehouse Databricks (Delta Lake), Snowflake Native AI/LLM -Funktionen oder enge ML-Integration",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Mining Plattformen Open -Source -Bausteine (Eigenbetrieb/On- Prem) MLflow Tracking, Model Registry, Serving Kubeflow K8s-native Orchestrierung, Pipelines/Trainer Feast Feature Store (offline/online) Apache Airflow DAG -basierte Orchestrierung für Data/ML4) Daten -/Analyse -Basis Lakehouse/Warehouse Databricks (Delta Lake), Snowflake Native AI/LLM -Funktionen oder enge ML-Integration",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 17,
+    "tags": [
+      "Data",
+      "Mining",
+      "Plattformen"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_248",
+    "question": "Welche Aussage über Mining ist korrekt?",
+    "type": "single",
+    "options": [
+      "5Data Mining Data Science Platforms 18Big Data & Data Science WS 2025/26Gängige Werkzeuge Ein kurzer Überblick über drei häufig verwendete Data Science Plattformen KNIME •Drag & Drop Bedienung •Open Source (GNU License) •Sehr großer Funktionsumfang •Stark bei Datenvorverarbeitung, Business Intelligence, Analyse von FinanzdatenRAPIDMINER •Drag & Drop Bedienung •Best „Look and Feel“ •Kostenlose Version vorhanden •Sehr großer Funktionsumfang •Kostenlos erweiterbar über Marketplace / Skripte •Kostenpflichtige Version mit Hadoop/Spark Integration (ab 2500$/Jahr)IBM SPSS •Drag & Drop Bedienung •Marktführer •Stark verbreitet im Bereich Forschung (insbesondere außerhalb der Informatik) •Speziell geeignet für angewandte Statistik •Kosten (pro User/Jahr):- Basisversion (ca",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "5Data Mining Data Science Platforms 18Big Data & Data Science WS 2025/26Gängige Werkzeuge Ein kurzer Überblick über drei häufig verwendete Data Science Plattformen KNIME •Drag & Drop Bedienung •Open Source (GNU License) •Sehr großer Funktionsumfang •Stark bei Datenvorverarbeitung, Business Intelligence, Analyse von FinanzdatenRAPIDMINER •Drag & Drop Bedienung •Best „Look and Feel“ •Kostenlose Version vorhanden •Sehr großer Funktionsumfang •Kostenlos erweiterbar über Marketplace / Skripte •Kostenpflichtige Version mit Hadoop/Spark Integration (ab 2500$/Jahr)IBM SPSS •Drag & Drop Bedienung •Marktführer •Stark verbreitet im Bereich Forschung (insbesondere außerhalb der Informatik) •Speziell geeignet für angewandte Statistik •Kosten (pro User/Jahr):- Basisversion (ca",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 18,
+    "tags": [
+      "Mining",
+      "Data",
+      "Science"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_249",
+    "question": "Welche Aussage über Flexible ist korrekt?",
+    "type": "single",
+    "options": [
+      "Flexible and scalable, itempowers organizations tomodernize their existing systems while embracing next-generation technologies like generative AI(genAI )andAIagents",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Flexible and scalable, itempowers organizations tomodernize their existing systems while embracing next-generation technologies like generative AI(genAI )andAIagents",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 20,
+    "tags": [
+      "Flexible"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_250",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "25 Big Data & Data Science WS 2025/26Data Exploration Teilbereiche MerkmalsselektionData ExplorationVisualisierung univariater und multivariater Daten Methoden der Deskriptiven Statistik (Univariat/Multivariat) Ausreißererkennung Umgang mit fehlerhaften Daten und „ Missing Values“ Reduktion der Dimensionalität",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "25 Big Data & Data Science WS 2025/26Data Exploration Teilbereiche MerkmalsselektionData ExplorationVisualisierung univariater und multivariater Daten Methoden der Deskriptiven Statistik (Univariat/Multivariat) Ausreißererkennung Umgang mit fehlerhaften Daten und „ Missing Values“ Reduktion der Dimensionalität",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 25,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_251",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "28 Big Data & Data Science WS Merkmale eines Datensatzes unterscheiden sich hinsichtlich ihrer Skalierung Art und Skalierung der Merkmale entscheidet über die Möglichkeiten zur weiteren Verarbeitung und AnalyseData Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Statistische Grundlagen - Maßskalen Art Skala Beschreibung Beispiel Zulässige Operationen QualitativNominal Keine RangordnungNamen (Müller, Meier, Schulze,…)=,≠ OrdinalRangordnung, Abstände nicht interpretierbarSchulnoten (sehr gut, gut, befriedigend,…)=,≠,<,> QuantitativMetrisch diskretRangordnung,Abstände interpretierbar,Abzählbar (endlich oder unendlich),Ganze Zahlen ℤAlter in Jahren=,≠,<,>,+,−,",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "28 Big Data & Data Science WS Merkmale eines Datensatzes unterscheiden sich hinsichtlich ihrer Skalierung Art und Skalierung der Merkmale entscheidet über die Möglichkeiten zur weiteren Verarbeitung und AnalyseData Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Statistische Grundlagen - Maßskalen Art Skala Beschreibung Beispiel Zulässige Operationen QualitativNominal Keine RangordnungNamen (Müller, Meier, Schulze,…)=,≠ OrdinalRangordnung, Abstände nicht interpretierbarSchulnoten (sehr gut, gut, befriedigend,…)=,≠,<,> QuantitativMetrisch diskretRangordnung,Abstände interpretierbar,Abzählbar (endlich oder unendlich),Ganze Zahlen ℤAlter in Jahren=,≠,<,>,+,−,",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 27,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_252",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "29 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Statistische Grundlagen - Maßskalen (https://wiki",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "29 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Statistische Grundlagen - Maßskalen (https://wiki",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 28,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_253",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "30 Big Data & Data Science WS Lage und Streuungsparameter bieten eine numerische Repräsentation der Häufigkeitsverteilung einzelner Variablen Lageparameter : Modus, Median, Arithmetisches Mittel Liefern Informationen über die zentrale Tendenz einer Verteilung Sind nur sinnvoll, wenn tatsächlich eine zentrale Tendenz der Daten vorliegt (Messbar durch Streuungsparameter) Streuungsparameter : Spannweite, Stichprobenvarianz, Standardabweichung Beschreiben die Homogenität einer Verteilung Je homogener die Verteilung ist, desto geringer fällt die Streuung der Messwerte um die Lagerparameter ausData Exploration – Visualisierung / Analyse (Univariat) Wiederholung – Lage und Streuungsparameter Histogramm der Altersverteilung",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "30 Big Data & Data Science WS Lage und Streuungsparameter bieten eine numerische Repräsentation der Häufigkeitsverteilung einzelner Variablen Lageparameter : Modus, Median, Arithmetisches Mittel Liefern Informationen über die zentrale Tendenz einer Verteilung Sind nur sinnvoll, wenn tatsächlich eine zentrale Tendenz der Daten vorliegt (Messbar durch Streuungsparameter) Streuungsparameter : Spannweite, Stichprobenvarianz, Standardabweichung Beschreiben die Homogenität einer Verteilung Je homogener die Verteilung ist, desto geringer fällt die Streuung der Messwerte um die Lagerparameter ausData Exploration – Visualisierung / Analyse (Univariat) Wiederholung – Lage und Streuungsparameter Histogramm der Altersverteilung",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 29,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_254",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "35 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Visualisierung Nominal - und Ordinalskalierter Daten Direkte Visualisierung qualitativer Daten nicht möglich Aber: Absolute und relative Häufigkeiten der Daten sind visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "35 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Visualisierung Nominal - und Ordinalskalierter Daten Direkte Visualisierung qualitativer Daten nicht möglich Aber: Absolute und relative Häufigkeiten der Daten sind visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 34,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_255",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "36 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Visualisierung metrisch -skalierter Daten Histogramm Visualisierung der Häufigkeitsverteilung metrischer Merkmale Erfordert Klassierung der Daten („ Binning “) und Bestimmung der absoluten Klassenhäufigkeiten Box-Whisker -Plot Visualisierung der Häufigkeitsverteilung einschließlich wichtiger Lage- und Streuungsparameter Gibt Aufschluss über Verteilung und Schiefe der Daten Ermöglicht die Visualisierung von Ausreißern 𝐼𝐼𝐼𝐼𝑅𝑅=𝐼𝐼𝑢𝑢𝑢𝑢𝑢𝑢𝑄𝑄𝑄𝑄𝑙𝑙0",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "36 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Visualisierung metrisch -skalierter Daten Histogramm Visualisierung der Häufigkeitsverteilung metrischer Merkmale Erfordert Klassierung der Daten („ Binning “) und Bestimmung der absoluten Klassenhäufigkeiten Box-Whisker -Plot Visualisierung der Häufigkeitsverteilung einschließlich wichtiger Lage- und Streuungsparameter Gibt Aufschluss über Verteilung und Schiefe der Daten Ermöglicht die Visualisierung von Ausreißern 𝐼𝐼𝐼𝐼𝑅𝑅=𝐼𝐼𝑢𝑢𝑢𝑢𝑢𝑢𝑄𝑄𝑄𝑄𝑙𝑙0",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 35,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_256",
+    "question": "Welche Aussage über Viele ist korrekt?",
+    "type": "single",
+    "options": [
+      "Viele statistische Verfahren erfordern eine annähernde Normalverteilung stetiger Variablen Normalverteilung: •symmetrisch ( ) •Verteilung der Daten um den Mittelwert: •68% der Daten innerhalb der einfachen Standardabweichung ( 1𝜎𝜎) •95% der Daten innerhalb der doppelten Standardabweichung ( 2𝜎𝜎) •97,5% der Daten innerhalb der dreifachen Standardabweichung ( 3𝜎𝜎) •Daten außerhalb von 3𝜎𝜎 werden als Ausreißer betrachtet Überprüfung auf Normalverteilung durch statistische Tests (𝜒𝜒2-Test, Kolmogorov -Smirnov -Anpassungstest)Alter≤ 5 (5, 10] (10, 15] (15, 20] (20, 25] (25, 30] (30, 35] (35, 40] (40, 45] (45, 50] (50, 55] (55, 60] (60, 65] > 65Absolute Häufigkeit 010203040506070 37 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Normalverteilung 𝑓𝑓𝑥𝑥=1 𝜎𝜎2𝜋𝜋 ⋅𝑢𝑢−1 2𝑚𝑚−𝜇𝜇 𝜎𝜎2",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Viele statistische Verfahren erfordern eine annähernde Normalverteilung stetiger Variablen Normalverteilung: •symmetrisch ( ) •Verteilung der Daten um den Mittelwert: •68% der Daten innerhalb der einfachen Standardabweichung ( 1𝜎𝜎) •95% der Daten innerhalb der doppelten Standardabweichung ( 2𝜎𝜎) •97,5% der Daten innerhalb der dreifachen Standardabweichung ( 3𝜎𝜎) •Daten außerhalb von 3𝜎𝜎 werden als Ausreißer betrachtet Überprüfung auf Normalverteilung durch statistische Tests (𝜒𝜒2-Test, Kolmogorov -Smirnov -Anpassungstest)Alter≤ 5 (5, 10] (10, 15] (15, 20] (20, 25] (25, 30] (30, 35] (35, 40] (40, 45] (45, 50] (50, 55] (55, 60] (60, 65] > 65Absolute Häufigkeit 010203040506070 37 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Univariat) Wiederholung - Normalverteilung 𝑓𝑓𝑥𝑥=1 𝜎𝜎2𝜋𝜋 ⋅𝑢𝑢−1 2𝑚𝑚−𝜇𝜇 𝜎𝜎2",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 36,
+    "tags": [
+      "Viele",
+      "Verfahren",
+      "Normalverteilung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_257",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "39 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Multivariat) Wiederholung - Analyse bi -variater stetiger Merkmale Stichprobenkovarianz •Maß für die Richtung des linearen Zusammenhangs zweier metrischer Merkmale 𝐼𝐼𝑚𝑚𝑥𝑥=1 𝑛𝑛−1� 𝑖𝑖=1𝑛𝑛 (𝑥𝑥𝑖𝑖−̅𝑥𝑥)(𝑦𝑦𝑖𝑖−�𝑦𝑦) 𝐼𝐼𝑚𝑚𝑥𝑥=0 : kein linearer Zusammenhang 𝐼𝐼𝑚𝑚𝑥𝑥>0 : positiver Zusammenhang 𝐼𝐼𝑚𝑚𝑥𝑥<0 : negativer ZusammenhangPearson -Korrelation •Maß für Richtung und Stärke des linearen Zusammenhangs zweier metrischer Merkmale 𝑆𝑆𝑚𝑚𝑥𝑥=𝐼𝐼𝑚𝑚𝑥𝑥 𝜎𝜎𝑚𝑚𝜎𝜎𝑥𝑥 −1≤ 𝑆𝑆𝑚𝑚𝑥𝑥≤ 1 𝑆𝑆𝑚𝑚𝑥𝑥=0 : unkorreliert 𝑆𝑆𝑚𝑚𝑥𝑥>0 : perfekt positive Korrelation 𝑆𝑆𝑚𝑚𝑥𝑥<0 : perfekt negative Korrelation Rangkorrelationskoeffizient nach Spearman •Maß für den monotonen Zusammenhang zweier ordinalskalierten Merkmale •Werte 𝑥𝑥 und 𝑦𝑦 werden Ränge 𝑢𝑢 𝑚𝑚, 𝑢𝑢𝑥𝑥 ersetzt 𝑢𝑢𝑄𝑄=𝐼𝐼𝐶𝐶𝑥𝑥𝐶𝐶𝑦𝑦 𝜎𝜎𝐶𝐶𝑥𝑥𝜎𝜎𝐶𝐶𝑦𝑦−1≤𝑢𝑢𝑄𝑄≤ 1 𝑢𝑢𝑄𝑄=0 : unkorreliert 𝑢𝑢𝑄𝑄>0 : perfekt positive Korrelation rs<0 : perfekt negative Korrelation",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "39 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Multivariat) Wiederholung - Analyse bi -variater stetiger Merkmale Stichprobenkovarianz •Maß für die Richtung des linearen Zusammenhangs zweier metrischer Merkmale 𝐼𝐼𝑚𝑚𝑥𝑥=1 𝑛𝑛−1� 𝑖𝑖=1𝑛𝑛 (𝑥𝑥𝑖𝑖−̅𝑥𝑥)(𝑦𝑦𝑖𝑖−�𝑦𝑦) 𝐼𝐼𝑚𝑚𝑥𝑥=0 : kein linearer Zusammenhang 𝐼𝐼𝑚𝑚𝑥𝑥>0 : positiver Zusammenhang 𝐼𝐼𝑚𝑚𝑥𝑥<0 : negativer ZusammenhangPearson -Korrelation •Maß für Richtung und Stärke des linearen Zusammenhangs zweier metrischer Merkmale 𝑆𝑆𝑚𝑚𝑥𝑥=𝐼𝐼𝑚𝑚𝑥𝑥 𝜎𝜎𝑚𝑚𝜎𝜎𝑥𝑥 −1≤ 𝑆𝑆𝑚𝑚𝑥𝑥≤ 1 𝑆𝑆𝑚𝑚𝑥𝑥=0 : unkorreliert 𝑆𝑆𝑚𝑚𝑥𝑥>0 : perfekt positive Korrelation 𝑆𝑆𝑚𝑚𝑥𝑥<0 : perfekt negative Korrelation Rangkorrelationskoeffizient nach Spearman •Maß für den monotonen Zusammenhang zweier ordinalskalierten Merkmale •Werte 𝑥𝑥 und 𝑦𝑦 werden Ränge 𝑢𝑢 𝑚𝑚, 𝑢𝑢𝑥𝑥 ersetzt 𝑢𝑢𝑄𝑄=𝐼𝐼𝐶𝐶𝑥𝑥𝐶𝐶𝑦𝑦 𝜎𝜎𝐶𝐶𝑥𝑥𝜎𝜎𝐶𝐶𝑦𝑦−1≤𝑢𝑢𝑄𝑄≤ 1 𝑢𝑢𝑄𝑄=0 : unkorreliert 𝑢𝑢𝑄𝑄>0 : perfekt positive Korrelation rs<0 : perfekt negative Korrelation",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 38,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_258",
+    "question": "Welche Aussage über Frage ist korrekt?",
+    "type": "single",
+    "options": [
+      "Frage: Macht die Verwendung statistischer Merkmale (Lage -, Streuungsparameter, Korrelation, usw",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Frage: Macht die Verwendung statistischer Merkmale (Lage -, Streuungsparameter, Korrelation, usw",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 39,
+    "tags": [
+      "Frage",
+      "Macht",
+      "Verwendung"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_259",
+    "question": "Welche Aussage über Dataset ist korrekt?",
+    "type": "single",
+    "options": [
+      "816 Dataset A Dataset B Dataset C Dataset DIdentische statistische Eigenschaften für alle vier Datensätze Problem: Ermittelte Werte sind für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "816 Dataset A Dataset B Dataset C Dataset DIdentische statistische Eigenschaften für alle vier Datensätze Problem: Ermittelte Werte sind für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D)",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 40,
+    "tags": [
+      "Dataset",
+      "Dataset",
+      "Dataset"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_260",
+    "question": "Welche Aussage über Big ist korrekt?",
+    "type": "single",
+    "options": [
+      "43 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Multivariat) Chernoff Faces: Visualisierung hochdimensionaler Daten Visualisierung von Variablen durch Merkmalsausprägungen in Gesichtern (Position, Größe, Abstand) Menschliche Fähigkeit zur Gesichtserkennung ermöglicht einfache Interpretation der Daten Jede Variable steuert ein Gesichtsmerkmal (z",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "43 Big Data & Data Science WS 2025/26Data Exploration – Visualisierung / Analyse (Multivariat) Chernoff Faces: Visualisierung hochdimensionaler Daten Visualisierung von Variablen durch Merkmalsausprägungen in Gesichtern (Position, Größe, Abstand) Menschliche Fähigkeit zur Gesichtserkennung ermöglicht einfache Interpretation der Daten Jede Variable steuert ein Gesichtsmerkmal (z",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 42,
+    "tags": [
+      "Big",
+      "Data",
+      "Data"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_261",
+    "question": "Welche Aussage über Höchste ist korrekt?",
+    "type": "single",
+    "options": [
+      "): Höchste Gesamt- Raten: District of Columbia, New Mexico, Alaska, Louisiana, South Carolina Niedrigste Gesamt- Raten: Maine, New Hampshire, Idaho, Massachusetts, New Jersey Höchste Gewalt- Rate: D",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "): Höchste Gesamt- Raten: District of Columbia, New Mexico, Alaska, Louisiana, South Carolina Niedrigste Gesamt- Raten: Maine, New Hampshire, Idaho, Massachusetts, New Jersey Höchste Gewalt- Rate: D",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 46,
+    "tags": [
+      "Höchste",
+      "Gesamt",
+      "Raten"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_262",
+    "question": "Welche Aussage über Ähnliche ist korrekt?",
+    "type": "single",
+    "options": [
+      "Ähnliche Objekte liegen nahe beieinander (Distanzmetrik: Euclidean oder Cosine)",
+      "Diese Information ist nicht in den Quellen enthalten",
+      "Das Gegenteil ist der Fall",
+      "Keine Aussage möglich"
+    ],
+    "correct_answer": 0,
+    "explanation": "Ähnliche Objekte liegen nahe beieinander (Distanzmetrik: Euclidean oder Cosine)",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Ähnliche",
+      "Objekte",
+      "Distanzmetrik"
+    ],
+    "difficulty": 3
+  },
+  {
+    "id": "q_263",
+    "question": "Was ist Erkennung Motivation?",
+    "type": "single",
+    "options": [
+      "Exsikkose (Flüssigkeitsmangel) ist insbesondere bei älteren Menschen stark verbreitet Eine der Hauptursachen ist die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erkennung Motivation: Exsikkose (Flüssigkeitsmangel) ist insbesondere bei älteren Menschen stark verbreitet Eine der Hauptursachen ist die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 4,
+    "tags": [
+      "Erkennung Motivation"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_264",
+    "question": "Richtig oder Falsch: Erkennung Motivation Exsikkose (Flüssigkeitsmangel) ist insbesondere bei älteren Menschen stark verbreitet Eine der Hauptursachen ist die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Erkennung Motivation: Exsikkose (Flüssigkeitsmangel) ist insbesondere bei älteren Menschen stark verbreitet Eine der Hauptursachen ist die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 4,
+    "tags": [
+      "Erkennung Motivation"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_265",
+    "question": "Was ist Hauptursachen?",
+    "type": "single",
+    "options": [
+      "die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Hauptursachen: die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 4,
+    "tags": [
+      "Hauptursachen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_266",
+    "question": "Richtig oder Falsch: Hauptursachen die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Hauptursachen: die Dehydration bedingt durch Adipsie (vermindertes Durstgefühl) Die Stationäre Behandlung von Exsikkose Patienten verursacht massive Kosten Dehydrationsprävention und Therapie von Adipsie können helfen die Kosten zu senken Idee: Smartwatch als passive Ambient Assisted Living (AAL) Plattform im Alltag Detektion von Anomalien in der Flüssigkeitsaufnahme (Häufigkeit, Frequenz, usw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 4,
+    "tags": [
+      "Hauptursachen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_267",
+    "question": "Was ist Abtastrate?",
+    "type": "single",
+    "options": [
+      "100 Hz BeschleunigungAccelerometerAbtastrate: 65 Hz Magnet.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Abtastrate: 100 Hz BeschleunigungAccelerometerAbtastrate: 65 Hz Magnet.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 5,
+    "tags": [
+      "Abtastrate"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_268",
+    "question": "Richtig oder Falsch: Abtastrate 100 Hz BeschleunigungAccelerometerAbtastrate: 65 Hz Magnet.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Abtastrate: 100 Hz BeschleunigungAccelerometerAbtastrate: 65 Hz Magnet.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 5,
+    "tags": [
+      "Abtastrate"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_269",
+    "question": "Was ist Erkennung?",
+    "type": "single",
+    "options": [
+      "5;-1;1420537162191; WEAR; SmartWatch 3 -5;-2;1420537162191; TEXT; Trinken 0;1;1420537162281; WA;0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Erkennung: 5;-1;1420537162191; WEAR; SmartWatch 3 -5;-2;1420537162191; TEXT; Trinken 0;1;1420537162281; WA;0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 6,
+    "tags": [
+      "Erkennung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_270",
+    "question": "Richtig oder Falsch: Erkennung 5;-1;1420537162191; WEAR; SmartWatch 3 -5;-2;1420537162191; TEXT; Trinken 0;1;1420537162281; WA;0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Erkennung: 5;-1;1420537162191; WEAR; SmartWatch 3 -5;-2;1420537162191; TEXT; Trinken 0;1;1420537162281; WA;0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 6,
+    "tags": [
+      "Erkennung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_271",
+    "question": "Was ist Data Mining Data Mining Process Model?",
+    "type": "single",
+    "options": [
+      "CRISP -DM 11 Big Data & Data Science WS 2025/26CRoss -Industry Standard Process for Data Mining 1.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Mining Data Mining Process Model: CRISP -DM 11 Big Data & Data Science WS 2025/26CRoss -Industry Standard Process for Data Mining 1.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 11,
+    "tags": [
+      "Data Mining Data Mining Process Model"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_272",
+    "question": "Richtig oder Falsch: Data Mining Data Mining Process Model CRISP -DM 11 Big Data & Data Science WS 2025/26CRoss -Industry Standard Process for Data Mining 1.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Mining Data Mining Process Model: CRISP -DM 11 Big Data & Data Science WS 2025/26CRoss -Industry Standard Process for Data Mining 1.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 11,
+    "tags": [
+      "Data Mining Data Mining Process Model"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_273",
+    "question": "Was ist Data Mining?",
+    "type": "single",
+    "options": [
+      "Suche nach Mustern Auswahl des Verfahrens Parametrisierung Erzeugen und Testen von Modellen 5.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Data Mining: Suche nach Mustern Auswahl des Verfahrens Parametrisierung Erzeugen und Testen von Modellen 5.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 12,
+    "tags": [
+      "Data Mining"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_274",
+    "question": "Richtig oder Falsch: Data Mining Suche nach Mustern Auswahl des Verfahrens Parametrisierung Erzeugen und Testen von Modellen 5.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Data Mining: Suche nach Mustern Auswahl des Verfahrens Parametrisierung Erzeugen und Testen von Modellen 5.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 12,
+    "tags": [
+      "Data Mining"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_275",
+    "question": "Was ist Wiederholung?",
+    "type": "single",
+    "options": [
+      "Statistische Grundlagen - Maßskalen Art Skala Beschreibung Beispiel Zulässige Operationen QualitativNominal Keine RangordnungNamen (Müller, Meier, Schulze,…)=,≠ OrdinalRangordnung, Abstände nicht interpretierbarSchulnoten (sehr gut, gut, befriedigend,…)=,≠,<,> QuantitativMetrisch diskretRangordnung,Abstände interpretierbar,Abzählbar (endlich oder unendlich),Ganze Zahlen ℤAlter in Jahren=,≠,<,>,+,−, .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wiederholung: Statistische Grundlagen - Maßskalen Art Skala Beschreibung Beispiel Zulässige Operationen QualitativNominal Keine RangordnungNamen (Müller, Meier, Schulze,…)=,≠ OrdinalRangordnung, Abstände nicht interpretierbarSchulnoten (sehr gut, gut, befriedigend,…)=,≠,<,> QuantitativMetrisch diskretRangordnung,Abstände interpretierbar,Abzählbar (endlich oder unendlich),Ganze Zahlen ℤAlter in Jahren=,≠,<,>,+,−, .",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 27,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_276",
+    "question": "Richtig oder Falsch: Wiederholung Statistische Grundlagen - Maßskalen Art Skala Beschreibung Beispiel Zulässige Operationen QualitativNominal Keine RangordnungNamen (Müller, Meier, Schulze,…)=,≠ OrdinalRangordnung, Abstände nicht interpretierbarSchulnoten (sehr gut, gut, befriedigend,…)=,≠,<,> QuantitativMetrisch diskretRangordnung,Abstände interpretierbar,Abzählbar (endlich oder unendlich),Ganze Zahlen ℤAlter in Jahren=,≠,<,>,+,−, .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wiederholung: Statistische Grundlagen - Maßskalen Art Skala Beschreibung Beispiel Zulässige Operationen QualitativNominal Keine RangordnungNamen (Müller, Meier, Schulze,…)=,≠ OrdinalRangordnung, Abstände nicht interpretierbarSchulnoten (sehr gut, gut, befriedigend,…)=,≠,<,> QuantitativMetrisch diskretRangordnung,Abstände interpretierbar,Abzählbar (endlich oder unendlich),Ganze Zahlen ℤAlter in Jahren=,≠,<,>,+,−, .",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 27,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_277",
+    "question": "Was ist Nicht?",
+    "type": "single",
+    "options": [
+      "Abzählbar, Reelle Zahlen ℝKörpergröße=,≠,<,>,+,−, .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Nicht: Abzählbar, Reelle Zahlen ℝKörpergröße=,≠,<,>,+,−, .",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 27,
+    "tags": [
+      "Nicht"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_278",
+    "question": "Richtig oder Falsch: Nicht Abzählbar, Reelle Zahlen ℝKörpergröße=,≠,<,>,+,−, .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Nicht: Abzählbar, Reelle Zahlen ℝKörpergröße=,≠,<,>,+,−, .",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 27,
+    "tags": [
+      "Nicht"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_279",
+    "question": "Was ist Wiederholung?",
+    "type": "single",
+    "options": [
+      "Statistische Grundlagen - Maßskalen (https://wiki.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wiederholung: Statistische Grundlagen - Maßskalen (https://wiki.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 28,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_280",
+    "question": "Richtig oder Falsch: Wiederholung Statistische Grundlagen - Maßskalen (https://wiki.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wiederholung: Statistische Grundlagen - Maßskalen (https://wiki.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 28,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_281",
+    "question": "Was ist Wiederholung?",
+    "type": "single",
+    "options": [
+      "Lageparameter (Runkler,TA 2010)Modus •Häufigste Merkmalsausprägung •Anwendbar auf nominal, ordinal und metrisch skalierte DatenMedian •Mittlerer Datenpunkt des Datensatzes (bzw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wiederholung: Lageparameter (Runkler,TA 2010)Modus •Häufigste Merkmalsausprägung •Anwendbar auf nominal, ordinal und metrisch skalierte DatenMedian •Mittlerer Datenpunkt des Datensatzes (bzw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 30,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_282",
+    "question": "Richtig oder Falsch: Wiederholung Lageparameter (Runkler,TA 2010)Modus •Häufigste Merkmalsausprägung •Anwendbar auf nominal, ordinal und metrisch skalierte DatenMedian •Mittlerer Datenpunkt des Datensatzes (bzw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wiederholung: Lageparameter (Runkler,TA 2010)Modus •Häufigste Merkmalsausprägung •Anwendbar auf nominal, ordinal und metrisch skalierte DatenMedian •Mittlerer Datenpunkt des Datensatzes (bzw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 30,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_283",
+    "question": "Was ist Wiederholung?",
+    "type": "single",
+    "options": [
+      "Visualisierung Nominal - und Ordinalskalierter Daten Direkte Visualisierung qualitativer Daten nicht möglich Aber: Absolute und relative Häufigkeiten der Daten sind visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wiederholung: Visualisierung Nominal - und Ordinalskalierter Daten Direkte Visualisierung qualitativer Daten nicht möglich Aber: Absolute und relative Häufigkeiten der Daten sind visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 34,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_284",
+    "question": "Richtig oder Falsch: Wiederholung Visualisierung Nominal - und Ordinalskalierter Daten Direkte Visualisierung qualitativer Daten nicht möglich Aber: Absolute und relative Häufigkeiten der Daten sind visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wiederholung: Visualisierung Nominal - und Ordinalskalierter Daten Direkte Visualisierung qualitativer Daten nicht möglich Aber: Absolute und relative Häufigkeiten der Daten sind visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 34,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_285",
+    "question": "Was ist Daten?",
+    "type": "single",
+    "options": [
+      "visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Daten: visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 34,
+    "tags": [
+      "Daten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_286",
+    "question": "Richtig oder Falsch: Daten visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Daten: visualisierbar Beispiel: Titanic – „Port of embarkation “ Absolute Häufigkeiten 𝒏𝒏𝒊𝒊 𝑛𝑛𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛=914 𝑛𝑛𝐶𝐶𝑆𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝐶𝑆𝑆𝑆𝑆𝐶𝐶𝐶𝐶=270 𝑛𝑛𝑄𝑄𝑆𝑆𝐶𝐶𝐶𝐶𝑛𝑛𝑄𝑄𝑆𝑆𝑆𝑆𝑄𝑄𝑛𝑛=123 Relative Häufigkeiten 𝒇𝒇𝒊𝒊 𝒇𝒇𝒊𝒊=𝒏𝒏𝒊𝒊 ∑𝒊𝒊𝒏𝒏𝒊𝒊 𝑓𝑓𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑆𝑚𝑚𝑚𝑚𝑆𝑆𝑆𝑆𝑆𝑆𝑛𝑛 =0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 34,
+    "tags": [
+      "Daten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_287",
+    "question": "Was ist Wiederholung?",
+    "type": "single",
+    "options": [
+      "Visualisierung metrisch -skalierter Daten Histogramm Visualisierung der Häufigkeitsverteilung metrischer Merkmale Erfordert Klassierung der Daten („ Binning “) und Bestimmung der absoluten Klassenhäufigkeiten Box-Whisker -Plot Visualisierung der Häufigkeitsverteilung einschließlich wichtiger Lage- und Streuungsparameter Gibt Aufschluss über Verteilung und Schiefe der Daten Ermöglicht die Visualisierung von Ausreißern 𝐼𝐼𝐼𝐼𝑅𝑅=𝐼𝐼𝑢𝑢𝑢𝑢𝑢𝑢𝑄𝑄𝑄𝑄𝑙𝑙0.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Wiederholung: Visualisierung metrisch -skalierter Daten Histogramm Visualisierung der Häufigkeitsverteilung metrischer Merkmale Erfordert Klassierung der Daten („ Binning “) und Bestimmung der absoluten Klassenhäufigkeiten Box-Whisker -Plot Visualisierung der Häufigkeitsverteilung einschließlich wichtiger Lage- und Streuungsparameter Gibt Aufschluss über Verteilung und Schiefe der Daten Ermöglicht die Visualisierung von Ausreißern 𝐼𝐼𝐼𝐼𝑅𝑅=𝐼𝐼𝑢𝑢𝑢𝑢𝑢𝑢𝑄𝑄𝑄𝑄𝑙𝑙0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 35,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_288",
+    "question": "Richtig oder Falsch: Wiederholung Visualisierung metrisch -skalierter Daten Histogramm Visualisierung der Häufigkeitsverteilung metrischer Merkmale Erfordert Klassierung der Daten („ Binning “) und Bestimmung der absoluten Klassenhäufigkeiten Box-Whisker -Plot Visualisierung der Häufigkeitsverteilung einschließlich wichtiger Lage- und Streuungsparameter Gibt Aufschluss über Verteilung und Schiefe der Daten Ermöglicht die Visualisierung von Ausreißern 𝐼𝐼𝐼𝐼𝑅𝑅=𝐼𝐼𝑢𝑢𝑢𝑢𝑢𝑢𝑄𝑄𝑄𝑄𝑙𝑙0.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Wiederholung: Visualisierung metrisch -skalierter Daten Histogramm Visualisierung der Häufigkeitsverteilung metrischer Merkmale Erfordert Klassierung der Daten („ Binning “) und Bestimmung der absoluten Klassenhäufigkeiten Box-Whisker -Plot Visualisierung der Häufigkeitsverteilung einschließlich wichtiger Lage- und Streuungsparameter Gibt Aufschluss über Verteilung und Schiefe der Daten Ermöglicht die Visualisierung von Ausreißern 𝐼𝐼𝐼𝐼𝑅𝑅=𝐼𝐼𝑢𝑢𝑢𝑢𝑢𝑢𝑄𝑄𝑄𝑄𝑙𝑙0.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 35,
+    "tags": [
+      "Wiederholung"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_289",
+    "question": "Was ist Frage?",
+    "type": "single",
+    "options": [
+      "Macht die Verwendung statistischer Merkmale (Lage -, Streuungsparameter, Korrelation, usw.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Frage: Macht die Verwendung statistischer Merkmale (Lage -, Streuungsparameter, Korrelation, usw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 39,
+    "tags": [
+      "Frage"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_290",
+    "question": "Richtig oder Falsch: Frage Macht die Verwendung statistischer Merkmale (Lage -, Streuungsparameter, Korrelation, usw.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Frage: Macht die Verwendung statistischer Merkmale (Lage -, Streuungsparameter, Korrelation, usw.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 39,
+    "tags": [
+      "Frage"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_291",
+    "question": "Was ist Problem?",
+    "type": "single",
+    "options": [
+      "Ermittelte Werte sind für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Problem: Ermittelte Werte sind für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 40,
+    "tags": [
+      "Problem"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_292",
+    "question": "Richtig oder Falsch: Problem Ermittelte Werte sind für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Problem: Ermittelte Werte sind für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 40,
+    "tags": [
+      "Problem"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_293",
+    "question": "Was ist Werte?",
+    "type": "single",
+    "options": [
+      "für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Werte: für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 40,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_294",
+    "question": "Richtig oder Falsch: Werte für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Werte: für drei Datensätze nicht repräsentativ, da entweder keine lineare Korrelation vorliegt (B, D) oder Ausreißer die Metriken beeinflussen (C, D).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 40,
+    "tags": [
+      "Werte"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_295",
+    "question": "Was ist Chernoff Faces?",
+    "type": "single",
+    "options": [
+      "Visualisierung hochdimensionaler Daten Visualisierung von Variablen durch Merkmalsausprägungen in Gesichtern (Position, Größe, Abstand) Menschliche Fähigkeit zur Gesichtserkennung ermöglicht einfache Interpretation der Daten Jede Variable steuert ein Gesichtsmerkmal (z.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Chernoff Faces: Visualisierung hochdimensionaler Daten Visualisierung von Variablen durch Merkmalsausprägungen in Gesichtern (Position, Größe, Abstand) Menschliche Fähigkeit zur Gesichtserkennung ermöglicht einfache Interpretation der Daten Jede Variable steuert ein Gesichtsmerkmal (z.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 42,
+    "tags": [
+      "Chernoff Faces"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_296",
+    "question": "Richtig oder Falsch: Chernoff Faces Visualisierung hochdimensionaler Daten Visualisierung von Variablen durch Merkmalsausprägungen in Gesichtern (Position, Größe, Abstand) Menschliche Fähigkeit zur Gesichtserkennung ermöglicht einfache Interpretation der Daten Jede Variable steuert ein Gesichtsmerkmal (z.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Chernoff Faces: Visualisierung hochdimensionaler Daten Visualisierung von Variablen durch Merkmalsausprägungen in Gesichtern (Position, Größe, Abstand) Menschliche Fähigkeit zur Gesichtserkennung ermöglicht einfache Interpretation der Daten Jede Variable steuert ein Gesichtsmerkmal (z.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 42,
+    "tags": [
+      "Chernoff Faces"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_297",
+    "question": "Was ist Chernoff Faces?",
+    "type": "single",
+    "options": [
+      "Visualisierung hochdimensionaler Daten Beispiel Kriminalität USA Stimmung/Performance → Mundkrümmung (↓ schlecht … ↑ gut) Risiko/Varianz → Augenöffnung (klein … groß) Größe/Skalierung → Gesichtsbreite Symmetrie/Balance → Augenbrauenwinkel Kategorie → Haar -/Randfarbe (sparsam einsetzen)Vorteile / Nachteile  Extrem intuitive Gestaltwahrnehmung, viele Variablen pro Objekt.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Chernoff Faces: Visualisierung hochdimensionaler Daten Beispiel Kriminalität USA Stimmung/Performance → Mundkrümmung (↓ schlecht … ↑ gut) Risiko/Varianz → Augenöffnung (klein … groß) Größe/Skalierung → Gesichtsbreite Symmetrie/Balance → Augenbrauenwinkel Kategorie → Haar -/Randfarbe (sparsam einsetzen)Vorteile / Nachteile  Extrem intuitive Gestaltwahrnehmung, viele Variablen pro Objekt.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 43,
+    "tags": [
+      "Chernoff Faces"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_298",
+    "question": "Richtig oder Falsch: Chernoff Faces Visualisierung hochdimensionaler Daten Beispiel Kriminalität USA Stimmung/Performance → Mundkrümmung (↓ schlecht … ↑ gut) Risiko/Varianz → Augenöffnung (klein … groß) Größe/Skalierung → Gesichtsbreite Symmetrie/Balance → Augenbrauenwinkel Kategorie → Haar -/Randfarbe (sparsam einsetzen)Vorteile / Nachteile  Extrem intuitive Gestaltwahrnehmung, viele Variablen pro Objekt.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Chernoff Faces: Visualisierung hochdimensionaler Daten Beispiel Kriminalität USA Stimmung/Performance → Mundkrümmung (↓ schlecht … ↑ gut) Risiko/Varianz → Augenöffnung (klein … groß) Größe/Skalierung → Gesichtsbreite Symmetrie/Balance → Augenbrauenwinkel Kategorie → Haar -/Randfarbe (sparsam einsetzen)Vorteile / Nachteile  Extrem intuitive Gestaltwahrnehmung, viele Variablen pro Objekt.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 43,
+    "tags": [
+      "Chernoff Faces"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_299",
+    "question": "Was ist Chernoff Faces?",
+    "type": "single",
+    "options": [
+      "Visualisierung hochdimensionaler Daten http://flowingdata.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Chernoff Faces: Visualisierung hochdimensionaler Daten http://flowingdata.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 44,
+    "tags": [
+      "Chernoff Faces"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_300",
+    "question": "Richtig oder Falsch: Chernoff Faces Visualisierung hochdimensionaler Daten http://flowingdata.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Chernoff Faces: Visualisierung hochdimensionaler Daten http://flowingdata.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 44,
+    "tags": [
+      "Chernoff Faces"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_301",
+    "question": "Was ist Gesamt?",
+    "type": "single",
+    "options": [
+      "Rate, per 100 000 Einw .",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Gesamt: Rate, per 100 000 Einw .",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 46,
+    "tags": [
+      "Gesamt"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_302",
+    "question": "Richtig oder Falsch: Gesamt Rate, per 100 000 Einw .",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Gesamt: Rate, per 100 000 Einw .",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 46,
+    "tags": [
+      "Gesamt"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_303",
+    "question": "Was ist Höchste Gesamt- Raten?",
+    "type": "single",
+    "options": [
+      "District of Columbia, New Mexico, Alaska, Louisiana, South Carolina Niedrigste Gesamt- Raten: Maine, New Hampshire, Idaho, Massachusetts, New Jersey Höchste Gewalt- Rate: D.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Höchste Gesamt- Raten: District of Columbia, New Mexico, Alaska, Louisiana, South Carolina Niedrigste Gesamt- Raten: Maine, New Hampshire, Idaho, Massachusetts, New Jersey Höchste Gewalt- Rate: D.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 46,
+    "tags": [
+      "Höchste Gesamt- Raten"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_304",
+    "question": "Richtig oder Falsch: Höchste Gesamt- Raten District of Columbia, New Mexico, Alaska, Louisiana, South Carolina Niedrigste Gesamt- Raten: Maine, New Hampshire, Idaho, Massachusetts, New Jersey Höchste Gewalt- Rate: D.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Höchste Gesamt- Raten: District of Columbia, New Mexico, Alaska, Louisiana, South Carolina Niedrigste Gesamt- Raten: Maine, New Hampshire, Idaho, Massachusetts, New Jersey Höchste Gewalt- Rate: D.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 46,
+    "tags": [
+      "Höchste Gesamt- Raten"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_305",
+    "question": "Was ist Cluster?",
+    "type": "single",
+    "options": [
+      "/Embedding -Visualisierung mit Glyphen https://www.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Cluster: /Embedding -Visualisierung mit Glyphen https://www.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 48,
+    "tags": [
+      "Cluster"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_306",
+    "question": "Richtig oder Falsch: Cluster /Embedding -Visualisierung mit Glyphen https://www.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Cluster: /Embedding -Visualisierung mit Glyphen https://www.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 48,
+    "tags": [
+      "Cluster"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_307",
+    "question": "Was ist Cluster?",
+    "type": "single",
+    "options": [
+      "Analyse, bei dem semantische Glyphen (Bäume) mehrere Features gleichzeitig zeigen.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Cluster: Analyse, bei dem semantische Glyphen (Bäume) mehrere Features gleichzeitig zeigen.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 48,
+    "tags": [
+      "Cluster"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_308",
+    "question": "Richtig oder Falsch: Cluster Analyse, bei dem semantische Glyphen (Bäume) mehrere Features gleichzeitig zeigen.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Cluster: Analyse, bei dem semantische Glyphen (Bäume) mehrere Features gleichzeitig zeigen.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 48,
+    "tags": [
+      "Cluster"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_309",
+    "question": "Was ist Cluster?",
+    "type": "single",
+    "options": [
+      "/Embedding -Visualisierung mit Glyphen Die Punkte (hier: Baum -Glyphen) repräsentieren Datensätze.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Cluster: /Embedding -Visualisierung mit Glyphen Die Punkte (hier: Baum -Glyphen) repräsentieren Datensätze.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Cluster"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_310",
+    "question": "Richtig oder Falsch: Cluster /Embedding -Visualisierung mit Glyphen Die Punkte (hier: Baum -Glyphen) repräsentieren Datensätze.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Cluster: /Embedding -Visualisierung mit Glyphen Die Punkte (hier: Baum -Glyphen) repräsentieren Datensätze.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Cluster"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_311",
+    "question": "Was ist Dimensionalitäts?",
+    "type": "single",
+    "options": [
+      "Reduktionsverfahren wie t -SNE oder PCA (siehe links).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Dimensionalitäts: Reduktionsverfahren wie t -SNE oder PCA (siehe links).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Dimensionalitäts"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_312",
+    "question": "Richtig oder Falsch: Dimensionalitäts Reduktionsverfahren wie t -SNE oder PCA (siehe links).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Dimensionalitäts: Reduktionsverfahren wie t -SNE oder PCA (siehe links).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Dimensionalitäts"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_313",
+    "question": "Was ist Distanzmetrik?",
+    "type": "single",
+    "options": [
+      "Euclidean oder Cosine).",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Distanzmetrik: Euclidean oder Cosine).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Distanzmetrik"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_314",
+    "question": "Richtig oder Falsch: Distanzmetrik Euclidean oder Cosine).",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Distanzmetrik: Euclidean oder Cosine).",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Distanzmetrik"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_315",
+    "question": "Was ist Vorteile?",
+    "type": "single",
+    "options": [
+      "intuitives Cluster -Gefühl, viele Variablen pro Objek Nachteile: Okklusion/Überladung, schwer quantifizierbar ohne Interaktion.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Vorteile: intuitives Cluster -Gefühl, viele Variablen pro Objek Nachteile: Okklusion/Überladung, schwer quantifizierbar ohne Interaktion.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Vorteile"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_316",
+    "question": "Richtig oder Falsch: Vorteile intuitives Cluster -Gefühl, viele Variablen pro Objek Nachteile: Okklusion/Überladung, schwer quantifizierbar ohne Interaktion.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Vorteile: intuitives Cluster -Gefühl, viele Variablen pro Objek Nachteile: Okklusion/Überladung, schwer quantifizierbar ohne Interaktion.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 49,
+    "tags": [
+      "Vorteile"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_317",
+    "question": "Was ist Krone?",
+    "type": "single",
+    "options": [
+      "total crime rate Farb-/Helligkeitston: violent crime rate (höher ⇒ dunkler) Texturmuster (Ringdichte): property crime rate (mehr ⇒ dichter gestreift) Label: Bundesstaats -Abkürzung Daten: state_crime.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Krone: total crime rate Farb-/Helligkeitston: violent crime rate (höher ⇒ dunkler) Texturmuster (Ringdichte): property crime rate (mehr ⇒ dichter gestreift) Label: Bundesstaats -Abkürzung Daten: state_crime.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 50,
+    "tags": [
+      "Krone"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_318",
+    "question": "Richtig oder Falsch: Krone total crime rate Farb-/Helligkeitston: violent crime rate (höher ⇒ dunkler) Texturmuster (Ringdichte): property crime rate (mehr ⇒ dichter gestreift) Label: Bundesstaats -Abkürzung Daten: state_crime.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Krone: total crime rate Farb-/Helligkeitston: violent crime rate (höher ⇒ dunkler) Texturmuster (Ringdichte): property crime rate (mehr ⇒ dichter gestreift) Label: Bundesstaats -Abkürzung Daten: state_crime.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 50,
+    "tags": [
+      "Krone"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_319",
+    "question": "Was ist Maßskalen?",
+    "type": "single",
+    "options": [
+      "Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Maßskalen: Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 53,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_320",
+    "question": "Richtig oder Falsch: Maßskalen Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Maßskalen: Titanic Dataset Variable Art Skala Passenger Class NameSexAgeNo.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 53,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_321",
+    "question": "Was ist Maßskalen?",
+    "type": "single",
+    "options": [
+      "Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Maßskalen: Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 54,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_322",
+    "question": "Richtig oder Falsch: Maßskalen Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Maßskalen: Titanic Dataset - Lösung Variable Art Skala Passenger Class Qualitativ Ordinal Name Qualitativ Nominal Sex Qualitativ Nominal Age Quantitativ Metrisch diskret No.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 54,
+    "tags": [
+      "Maßskalen"
+    ],
+    "difficulty": 1
+  },
+  {
+    "id": "q_323",
+    "question": "Was ist Streuungsparameter?",
+    "type": "single",
+    "options": [
+      "Titanic Dataset Variable Modus Median Arithmetisches Mittel Passenger Class AgeNo.",
+      "Eine andere Definition",
+      "Keine der Antworten ist korrekt",
+      "Nicht in den Quellen definiert"
+    ],
+    "correct_answer": 0,
+    "explanation": "Streuungsparameter: Titanic Dataset Variable Modus Median Arithmetisches Mittel Passenger Class AgeNo.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 57,
+    "tags": [
+      "Streuungsparameter"
+    ],
+    "difficulty": 2
+  },
+  {
+    "id": "q_324",
+    "question": "Richtig oder Falsch: Streuungsparameter Titanic Dataset Variable Modus Median Arithmetisches Mittel Passenger Class AgeNo.",
+    "type": "tf",
+    "options": [
+      "Richtig",
+      "Falsch"
+    ],
+    "correct_answer": 0,
+    "explanation": "Richtig. Streuungsparameter: Titanic Dataset Variable Modus Median Arithmetisches Mittel Passenger Class AgeNo.",
+    "source_file": "04-bigdata_data_science-data-exploration.pdf",
+    "source_page": 57,
+    "tags": [
+      "Streuungsparameter"
+    ],
+    "difficulty": 1
+  }
+]
